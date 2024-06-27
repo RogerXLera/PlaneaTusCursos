@@ -1,0 +1,38 @@
+Read instances: 0.71 s
+Generate matrices: 4.40 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Schizophrenia (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.09
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Schizophrenia:
+		 Prescribe treatments or therapies
+	 Fundamentals for Implementing a Hypertension Program:
+		 Communicate health and wellness information to the public
+		 Diagnose medical conditions
+		 Prescribe medications
+Skills for Job Podiatrists
+Treat chronic diseases or disorders
+Operate on patients
+Diagnose medical conditions
+Analyse test results to inform diagnosis or treatment
+Prescribe assistive medical devices or related treatments
+Prescribe medications
+Prescribe treatments or therapies
+Communicate health and wellness information to the public
+Refer patients to other health care practitioners or health resources
+Treat patients using alternative medical procedures
+Adjust prostheses or other assistive devices
+Fabricate medical devices
+Manage health care operations
+Maintain medical facility records
+Order medical supplies or equipment

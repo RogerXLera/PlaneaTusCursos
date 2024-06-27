@@ -1,0 +1,35 @@
+Read instances: 0.78 s
+Generate matrices: 2.99 s
+The optimal value is 0.37625
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Perspectives in Digital Transformation: Agribusine (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 62.500
+Skills per Unit
+	 Initial Activity:
+	 Perspectives in Digital Transformation: Agribusiness:
+		 Operate farming or agricultural equipment
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Perform manual service or maintenance tasks
+	 Infection Prevention in Nursing Homes:
+		 Clean equipment or facilities
+	 Everyday Chinese Medicine 2:
+		 Evaluate quality of materials or products
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Communicate with others to coordinate activities
+Skills for Job Shearers and Wool Classers
+Assess characteristics of wool, fleece, hair or hide
+Employ appropriate wool or fleece handling techniques
+Evaluate quality of materials or products
+Trim, shear or remove wool, fleece or hair from animals
+Operate farming or agricultural equipment
+Communicate with others to coordinate activities
+Clean equipment or facilities
+Perform manual service or maintenance tasks

@@ -1,0 +1,51 @@
+Read instances: 0.71 s
+Generate matrices: 2.36 s
+The optimal value is 0.8300000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Make Any Image into a Vector Graphic with Inkscape (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating an AWS EC2 Autoscaling Group using Load B (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.09
+Job affinity: 16.667
+Skills per Unit
+	 Initial Activity:
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 Make Any Image into a Vector Graphic with Inkscape:
+		 Mix ingredients to create specific finishes
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Monitor equipment operation to ensure no flaws
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+	 Creating an AWS EC2 Autoscaling Group using Load Balancer:
+		 Monitor equipment operation to ensure no flaws
+Skills for Job Vehicle Painters
+Apply protective or decorative finishes
+Select production input materials
+Smooth metal surfaces or edges
+Mix ingredients to create specific finishes
+Select production equipment according to product specifications
+Trim excess material from work pieces
+Adjust temperature controls of ovens or other heating equipment
+Dispose of rubbish or waste materials
+Remove accessories, tools or other parts from equipment
+Clean production equipment
+Operate cranes, hoists or other moving or lifting equipment
+Assemble temporary equipment or structures
+Adjust equipment controls to regulate flow of production
+Load materials into production equipment
+Test chemical or physical characteristics of materials or products
+Shape surfaces or edges of wood work pieces
+Polish materials, work pieces or finished products
+Operate painting or coating equipment
+Monitor equipment operation to ensure no flaws
+Clean work areas
+Disassemble equipment for maintenance or repair
+Fill cracks, imperfections or holes in products or work pieces
+Attach decorative or functional accessories to products
+Draw guide lines or markings on materials or work pieces using patterns or other references

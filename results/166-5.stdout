@@ -1,0 +1,39 @@
+Read instances: 0.70 s
+Generate matrices: 7.95 s
+The optimal value is 0.455
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Talend Data Integration Certification Preparation  (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to CRM with HubSpot (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.18
+Job affinity: 54.545
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Coordinate logistics or other business operations
+	 Introduction to CRM with HubSpot:
+		 Execute sales or other financial transactions
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure goods or services
+	 Talend Data Integration Certification Preparation training:
+		 Calculate data to inform organisational operations
+		 Maintain data in information systems or databases
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+Skills for Job Auctioneers, and Stock and Station Agents
+Execute sales or other financial transactions
+Procure goods or services
+Calculate data to inform organisational operations
+Negotiate contracts with clients or service providers
+Coordinate logistics or other business operations
+Supervise employees
+Communicate with government agencies
+Maintain data in information systems or databases
+Determine the value of goods or services
+Advise others on business or operational matters
+Evaluate condition of properties

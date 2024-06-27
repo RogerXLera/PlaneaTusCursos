@@ -1,0 +1,87 @@
+Read instances: 0.82 s
+Generate matrices: 7.90 s
+The optimal value is 0.4126470588235294
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Sleep Deprivation: Habits, Solutions, and Strategi (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Economics of Health Care Delivery (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Pioneers of Medicine and Medical Breakthroughs in  (9.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.16
+Job affinity: 58.824
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 The Economics of Health Care Delivery:
+		 Design public or employee health programs
+		 Direct health care delivery programs
+		 Maintain medical facility records
+		 Manage health care operations
+	 Everyday Chinese Medicine 2:
+		 Diagnose medical conditions
+		 Treat acute illnesses, infections or injuries
+	 Fundamentals for Implementing a Hypertension Program:
+		 Communicate health and wellness information to the public
+		 Diagnose medical conditions
+		 Inform medical professionals regarding patient conditions and care
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Advise communities or institutions regarding health or safety issues
+		 Assist health care practitioners during examinations or treatments
+		 Communicate health and wellness information to the public
+	 Pioneers of Medicine and Medical Breakthroughs in Taiwan:
+		 Assist health care practitioners during surgery
+		 Immunise patients
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 Sleep Deprivation: Habits, Solutions, and Strategies Teach-Out:
+		 Assess patient work, living or social environments
+		 Communicate health and wellness information to the public
+		 Evaluate patient outcomes to determine effectiveness of treatments
+	 Lesson | Organize Your Pitch:
+		 Prepare patients for medical procedures
+Skills for Job Registered Nurses
+Record patient medical histories
+Maintain medical facility records
+Monitor patient conditions during treatments, procedures or activities
+Supervise patient care staff
+Inform medical professionals regarding patient conditions and care
+Collaborate with health care professionals to plan or provide treatment
+Evaluate patient outcomes to determine effectiveness of treatments
+Manage health care operations
+Assist health care practitioners during surgery
+Design public or employee health programs
+Administer non-intravenous medications
+Test biological specimens to gather information about patient conditions
+Treat acute illnesses, infections or injuries
+Immunise patients
+Administer anaesthetics or sedatives to control pain
+Assess patient work, living or social environments
+Assist health care practitioners during examinations or treatments
+Prepare patients for medical procedures
+Maintain inventory of medical supplies or equipment
+Prepare medical supplies or equipment for use
+Analyse test results to inform diagnosis or treatment
+Order medical diagnostic or clinical tests
+Communicate health and wellness information to the public
+Advise communities or institutions regarding health or safety issues
+Prescribe assistive medical devices or related treatments
+Prescribe medications
+Train caregivers or other non-medical staff
+Refer patients to other health care practitioners or health resources
+Treat medical emergencies
+Diagnose medical conditions
+Examine patients to assess general physical condition
+Advise others on health care issues
+Direct health care delivery programs
+Conduct research to increase knowledge about medical issues

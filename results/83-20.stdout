@@ -1,0 +1,43 @@
+Read instances: 0.71 s
+Generate matrices: 2.92 s
+The optimal value is 0.6455882352941177
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals of Fluid Power (19.0) 	 Start Period: 1 	 End Period: 1
+Activity: Inferential Statistical Analysis with Python (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.21
+Job affinity: 35.294
+Skills per Unit
+	 Initial Activity:
+	 Inferential Statistical Analysis with Python:
+		 Document test results
+	 Fundamentals of Fluid Power:
+		 Clean or repair equipment, parts or tools
+		 Inspect electrical or electronic systems for defects
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Confer with customers or users to assess problems
+		 Install audio or communications equipment
+Skills for Job Automotive Electricians
+Install audio or communications equipment
+Drill holes in parts, equipment or materials
+Estimate costs for labour or materials
+Lay cables to connect equipment
+Repair electronic equipment
+Confer with customers or users to assess problems
+Document test results
+Connect electrical components or equipment
+Solder parts or connections between parts
+Test electrical equipment or systems to ensure proper functioning
+Inspect electrical or electronic systems for defects
+Fabricate parts or components
+Clean or repair equipment, parts or tools
+Repair electrical components
+Install vehicle parts or accessories
+Install insulation in equipment or structures
+Remove parts or components from vehicles

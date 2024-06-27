@@ -1,0 +1,58 @@
+Read instances: 0.70 s
+Generate matrices: 2.67 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamental Human Physiology in Sports Medicine (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Beer Quality: Freshness (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Implementing Blob Storage in Azure (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.23
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Stanford Introduction to Food and Health:
+		 Inspect food products
+		 Operate food processing equipment
+	 Fundamental Human Physiology in Sports Medicine:
+		 Operate pumping systems or equipment
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+		 Monitor instruments to ensure proper production conditions
+	 Implementing Blob Storage in Azure:
+		 Package products for storage or shipment
+	 Beer Quality: Freshness:
+		 Determine food or drink production methods
+		 Evaluate quality of food, drinks or ingredients
+		 Perform alcohol production activities
+Skills for Job Food and Drink Factory Workers
+Operate food processing equipment
+Determine food or drink production methods
+Inspect food products
+Clean production equipment
+Mix ingredients
+Evaluate quality of food, drinks or ingredients
+Weigh products or materials
+Record operational or production data
+Store supplies or goods in kitchens or storage areas
+Dispose of rubbish or waste materials
+Move products, materials or equipment between work areas
+Load materials into production equipment
+Measure ingredients or substances to be used
+Notify others of equipment repair or maintenance needs
+Watch equipment in operation to detect malfunctions
+Perform alcohol production activities
+Package products for storage or shipment
+Clean work areas
+Sterilise cooking or processing equipment
+Operate mixing equipment
+Shape dough
+Direct operational or production activities
+Inspect production equipment
+Operate pumping systems or equipment
+Select production input materials
+Adjust temperature controls of ovens or other heating equipment
+Monitor instruments to ensure proper production conditions

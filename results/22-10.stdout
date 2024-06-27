@@ -1,0 +1,60 @@
+Read instances: 0.68 s
+Generate matrices: 7.09 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals of Technology Sales (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Resources Analytics (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Systems Engineering (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.66
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Human Resources Analytics:
+		 Authorise financial actions
+	 Fundamentals of Technology Sales:
+		 Market goods, services or events
+	 Create a Financial Statement using Microsoft Excel:
+		 Develop financial or business plans
+	 How to create a Jira SCRUM project:
+		 Organise special events
+	 Get Started with Microsoft Forms:
+		 Conduct eligibility or selection interviews
+		 Conduct surveys in organisations
+	 Introduction to Duet AI in Google Workspace:
+		 Confer with staff to coordinate business operations
+	 Systems Engineering:
+		 Inspect facilities or equipment to ensure specifications are met
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Create marketing materials
+	 Lesson | Telephone Language:
+		 Correspond with customers to answer questions or resolve complaints
+Skills for Job Conference and Event Organisers
+Organise special events
+Correspond with customers to answer questions or resolve complaints
+Confer with staff to coordinate business operations
+Oversee business processes
+Monitor organisational compliance with regulations
+Conduct eligibility or selection interviews
+Prepare financial documents
+Inspect facilities or equipment to ensure specifications are met
+Negotiate contracts with clients or service providers
+Develop financial or business plans
+Verify accuracy of records
+Authorise financial actions
+Conduct surveys in organisations
+Supervise employees
+Train staff to improve their skills
+Create marketing materials
+Market goods, services or events
+Update professional knowledge
+Confer with others about financial matters
+Obtain documentation to authorise activities

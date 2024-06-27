@@ -1,0 +1,35 @@
+Read instances: 0.69 s
+Generate matrices: 2.79 s
+The optimal value is 0.5825
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Firearm Purchaser Licensing Teach-Out: The Backgro (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Russian Invasion of Ukraine Teach-Out (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Privacy & Standardisation Capstone (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 41.667
+Skills per Unit
+	 Initial Activity:
+	 Privacy & Standardisation Capstone:
+		 Evaluate information related to legal matters in public or personal records
+		 Identify implications for cases from legal precedents or other legal information
+		 Prepare legal documents
+	 Russian Invasion of Ukraine Teach-Out:
+		 Arbitrate disputes between parties to resolve legal conflicts
+	 Firearm Purchaser Licensing Teach-Out: The Background Check Policy Not Enough People Are Talking About:
+		 Draft legislation or regulations
+Skills for Job Solicitors
+Identify implications for cases from legal precedents or other legal information
+Provide legal advice to clients
+Supervise activities of other legal staff
+Prepare legal documents
+Represent the interests of clients in legal proceedings or court
+Interview claimants to gather information related to legal proceedings
+Research relevant legal materials to aid decision making
+Evaluate information related to legal matters in public or personal records
+Arbitrate disputes between parties to resolve legal conflicts
+Prepare documentation of legal proceedings
+Draft legislation or regulations
+Meet with individuals involved in legal processes to provide information and clarify issues

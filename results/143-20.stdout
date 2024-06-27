@@ -1,0 +1,62 @@
+Read instances: 0.72 s
+Generate matrices: 6.07 s
+The optimal value is 0.14642857142857144
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI for Leaders (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Baseball into the Millennium (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Giving Feedback (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Use Commands and Create a Remote Git Repository (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Engaging and Assessing Students with Plickers (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.69
+Job affinity: 85.714
+Skills per Unit
+	 Initial Activity:
+	 Generative AI for Leaders:
+		 Coordinate logistics for productions or events
+		 Manage operations of artistic or entertainment departments or organisations
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Use Commands and Create a Remote Git Repository:
+		 Maintain records, documents or other files
+	 Avoiding AI Harm:
+		 Maintain knowledge of laws or regulations
+	 Transformer Models and BERT Model:
+		 Promote products, activities, or organisations
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Negotiate for services
+	 Encoder-Decoder Architecture:
+		 Promote products, activities, or organisations
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Maintain records, documents or other files
+	 Engaging and Assessing Students with Plickers:
+		 Provide educational information to the public
+	 Baseball into the Millennium:
+		 Coach others
+		 Coordinate athletic or sporting events or activities
+		 Evaluate skills of athletes or performers
+	 Giving Feedback:
+		 Train others on performance techniques
+Skills for Job Sports Coaches, Instructors and Officials
+Train others on performance techniques
+Coordinate athletic or sporting events or activities
+Coach others
+Evaluate skills of athletes or performers
+Select staff, team members or performers
+Maintain knowledge of laws or regulations
+Provide educational information to the public
+Manage operations of artistic or entertainment departments or organisations
+Maintain records, documents or other files
+Select materials or props
+Maintain inventories of materials, equipment or products
+Promote products, activities, or organisations
+Coordinate logistics for productions or events
+Negotiate for services

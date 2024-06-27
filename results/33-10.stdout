@@ -1,0 +1,69 @@
+Read instances: 0.84 s
+Generate matrices: 42.89 s
+The optimal value is 0.2878571428571428
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Predicting Salaries with Decision Trees (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Brand Management: Strategies for a Strong Brand (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneNote (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Engagement to your Instagram Business Pro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Copywriting with ChatGPT: Produce Compelling Copy  (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Develop a free website with WordPress (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.42
+Job affinity: 71.429
+Skills per Unit
+	 Initial Activity:
+	 Success with Integrity: Business Ethics Foundation:
+		 Advise others on business or operational matters
+		 Develop sustainable organisational policies or practices
+	 Brand Management: Strategies for a Strong Brand:
+		 Analyse market research data
+		 Develop marketing plans or strategies
+		 Develop marketing plans or strategies for environmental initiatives
+	 Getting Started with Microsoft OneNote:
+		 Confer with peers to accomplish work
+	 Increase Engagement to your Instagram Business Profile:
+		 Coordinate special events or programs
+		 Develop marketing plans or strategies
+		 Develop social media materials
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 Copywriting with ChatGPT: Produce Compelling Copy That Sells:
+		 Develop marketing plans or strategies
+		 Direct sales, marketing or customer service activities
+	 Predicting Salaries with Decision Trees:
+		 Analyse data to inform operational decisions or activities
+		 Compile operational data
+	 Get Started with Microsoft Forms:
+		 Conduct opinion surveys or needs assessments
+		 Design websites or applications
+	 Develop a free website with WordPress:
+		 Deliver, publish, broadcast or distribute final audio or visual media product
+		 Design websites or applications
+Skills for Job Advertising and Marketing Professionals
+Develop marketing plans or strategies
+Confer with peers to accomplish work
+Direct sales, marketing or customer service activities
+Supervise employees
+Evaluate program effectiveness
+Compile operational data
+Determine pricing or monetary policies
+Analyse market research data
+Deliver, publish, broadcast or distribute final audio or visual media product
+Analyse data to inform operational decisions or activities
+Estimate cost or material requirements
+Advise others on business or operational matters
+Develop social media materials
+Monitor external affairs or events affecting business operations
+Develop marketing plans or strategies for environmental initiatives
+Conduct opinion surveys or needs assessments
+Coordinate special events or programs
+Design websites or applications
+Negotiate contracts for transportation, distribution or logistics services
+Develop sustainable organisational policies or practices
+Recommend organisational process or policy changes

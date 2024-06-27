@@ -1,0 +1,64 @@
+Read instances: 0.72 s
+Generate matrices: 8.53 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Encouraging Student Growth with Teach Your Monster (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Implementing Parent Feedback with Google Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.34
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Train staff members
+	 Duet AI in Gmail:
+		 Organise informational materials
+	 Increase Reading Comprehension with Actively Learn:
+		 Advise educators on curricula, instructional methods or policies
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Modify teaching methods or materials to accommodate student needs
+	 Growing Great Writers with Writable:
+		 Advise educators on curricula, instructional methods or policies
+		 Collaborate with other agencies and institutions to coordinate educational matters
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate effectiveness of educational programs
+	 Encouraging Student Growth with Teach Your Monster to Read:
+		 Advise educators on curricula, instructional methods or policies
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional materials
+	 Implementing Parent Feedback with Google Forms:
+		 Advise educators on curricula, instructional methods or policies
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate effectiveness of educational programs
+		 Order instructional or library materials or equipment
+Skills for Job Education Advisers and Reviewers
+Advise students on academic or career matters
+Evaluate performance of educational staff
+Enforce rules or policies governing student behaviour
+Develop instructional materials
+Advise educators on curricula, instructional methods or policies
+Train staff members
+Maintain student records
+Collaborate with other agencies and institutions to coordinate educational matters
+Serve on institutional or departmental committees
+Modify teaching methods or materials to accommodate student needs
+Evaluate effectiveness of educational programs
+Promote educational institutions or programs
+Research topics in area of expertise
+Order instructional or library materials or equipment
+Organise informational materials
+Direct activities of staff
+Inspect materials or equipment to determine need for repair or replacement
+Write grant proposals
+Create technology-based learning materials
+Assess educational needs of students

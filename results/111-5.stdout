@@ -1,0 +1,37 @@
+Read instances: 0.75 s
+Generate matrices: 3.19 s
+The optimal value is 0.7310000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals of waves and vibrations (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Edit your photos for Social Media with Easil (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 26.667
+Skills per Unit
+	 Initial Activity:
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Enter commands, instructions, or specifications into equipment
+		 Program equipment to perform production tasks
+	 Fundamentals of waves and vibrations:
+		 Mix substances to create chemical solutions
+	 Edit your photos for Social Media with Easil:
+		 Operate digital imaging equipment
+Skills for Job Graphic Pre-press Trades Workers
+Operate photographic developing or print production equipment
+Inspected printed materials or other images to verify quality
+Enter commands, instructions, or specifications into equipment
+Drill holes in parts, equipment or materials
+Select production equipment according to product specifications
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Maintain production or processing equipment
+Program equipment to perform production tasks
+Operate digital imaging equipment
+Monitor equipment operation to ensure no flaws
+Mount materials or work pieces onto production equipment
+Mix ingredients to create specific finishes
+Mix substances to create chemical solutions
+Clean production equipment
+Repair production equipment or tools

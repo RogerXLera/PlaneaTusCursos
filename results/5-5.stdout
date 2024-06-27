@@ -1,0 +1,61 @@
+Read instances: 0.81 s
+Generate matrices: 21.11 s
+The optimal value is 0.5594
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Predicting Salaries with Decision Trees (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.46
+Job affinity: 44.000
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+		 Recruit staff
+	 Predicting Salaries with Decision Trees:
+		 Analyse data to inform operational decisions or activities
+		 Compile operational data
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Analyse data to inform staffing decisions
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+	 Assimilating into Your New Job:
+		 Communicate organisational policies and procedures
+		 Conduct employee training programs
+		 Hire staff
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Human Resource Managers
+Manage human resources activities
+Liaise between departments or other groups to improve function or communication
+Communicate organisational policies and procedures
+Supervise employees
+Administer compensation or benefits programs
+Hire staff
+Negotiate labour disputes
+Compile operational data
+Maintain staff records
+Recommend organisational process or policy changes
+Advise others on legal or regulatory compliance matters
+Interview employees, customers or others to collect information
+Maintain knowledge of current developments in area of expertise
+Recruit staff
+Analyse data to inform staffing decisions
+Represent the organisation in external relations
+Estimate labour requirements
+Coordinate special events or programs
+Conduct employee training programs
+Investigate industrial or transportation accidents
+Prepare reports related to compliance matters
+Prepare operational budgets
+Advise others on career or personal development
+Negotiate sales or lease agreements for goods or services
+Analyse data to inform operational decisions or activities

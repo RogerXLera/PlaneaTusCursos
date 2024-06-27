@@ -1,0 +1,43 @@
+Read instances: 0.72 s
+Generate matrices: 2.69 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mechanics of Materials II: Thin-Walled Pressure Ve (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Networking (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Medical Applications of Particle Accelerators (NPA (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Azure: Create a Virtual Machine and Deploy a Web S (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Medical Applications of Particle Accelerators (NPAP MOOC):
+		 Operate detonation equipment
+	 Introduction to Networking:
+		 Determine appropriate locations for operations or installations
+	 Azure: Create a Virtual Machine and Deploy a Web Server:
+		 Install fencing or other barriers
+	 Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion:
+		 Install metal structural components
+		 Position structural components
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate with clients about products, procedures and policies
+Skills for Job Fencers
+Install fencing or other barriers
+Install wooden structural components
+Position structural components
+Install metal structural components
+Dig holes or trenches
+Communicate with clients about products, procedures and policies
+Determine appropriate locations for operations or installations
+Cut wood components
+Verify alignment of structures or equipment
+Mix substances or compounds needed for work activities
+Pour materials into, or on, designated areas
+Mark reference points on construction materials
+Measure work site dimensions
+Weld metal components
+Operate detonation equipment

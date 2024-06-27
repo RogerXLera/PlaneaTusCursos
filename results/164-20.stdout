@@ -1,0 +1,53 @@
+Read instances: 0.76 s
+Generate matrices: 7.80 s
+The optimal value is 0.3585714285714286
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Reputation Crisis? Facebook meets Cambridge Analyt (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Challenging Forensic Science: How Science Should S (16.0) 	 Start Period: 1 	 End Period: 2
+Activity: Analyzing Video with OpenCV and NumPy (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Private Equity and Venture Capital (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI - Español (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.01
+Job affinity: 64.286
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Gather financial records
+	 Private Equity and Venture Capital:
+		 Appraise property values
+	 Analyzing Video with OpenCV and NumPy:
+		 Calculate data to inform organisational operations
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Investigate legal issues
+	 Introduction to Generative AI - Español:
+		 Advise others on legal or regulatory compliance matters
+		 Investigate legal issues
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Estimate costs of goods or services
+	 Challenging Forensic Science: How Science Should Speak to Court:
+		 Collect evidence for legal proceedings
+		 Interview witnesses, suspects or claimants
+	 Reputation Crisis? Facebook meets Cambridge Analytica:
+		 Prepare legal or investigatory documentation
+Skills for Job Insurance Investigators, Loss Adjusters and Risk Surveyors
+Interview witnesses, suspects or claimants
+Calculate data to inform organisational operations
+Prepare legal or investigatory documentation
+Estimate costs of goods or services
+Assess or underwrite insurance claims
+Appraise property values
+Investigate legal issues
+Advise others on legal or regulatory compliance matters
+Negotiate agreements to resolve disputes
+Report information to managers or other staff
+Collect evidence for legal proceedings
+Verify accuracy of records
+Gather financial records
+Verify application data to determine program eligibility

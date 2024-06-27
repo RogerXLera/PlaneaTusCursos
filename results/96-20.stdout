@@ -1,0 +1,60 @@
+Read instances: 0.72 s
+Generate matrices: 5.38 s
+The optimal value is 0.5235714285714286
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Systems Engineering (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Predict Employee Turnover with scikit-learn (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Generative Design for Part Consolidation (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.81
+Job affinity: 47.619
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Microsoft Office 365:
+		 Document operational activities
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Inspect systems to determine if they are operating properly
+		 Test electrical circuits or components for proper functioning
+	 Predict Employee Turnover with scikit-learn:
+		 Adjust equipment for optimal performance
+		 Interpret blueprints, specifications or diagrams
+	 Attention Mechanism:
+		 Interpret blueprints, specifications or diagrams
+	 Systems Engineering:
+		 Confer with customers or users to assess problems
+	 Generative Design for Part Consolidation:
+		 Assemble mechanical components or machine parts
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Airconditioning and Refrigeration Mechanics
+Install energy-efficient heating, ventilation or air conditioning (HVAC) equipment
+Install heating, ventilation or air conditioning (HVAC) equipment
+Test electrical circuits or components for proper functioning
+Service heating, ventilation or air-conditioning (HVAC) systems or components
+Confer with customers or users to assess problems
+Document operational activities
+Repair worn, damaged, or defective mechanical parts
+Advise others on issues related to repairs, installation or equipment design
+Adjust equipment for optimal performance
+Inspect systems to determine if they are operating properly
+Repair pipes to stop leaking
+Interpret blueprints, specifications or diagrams
+Connect electrical components or equipment
+Replace worn, damaged or defective mechanical parts
+Drill holes in parts, equipment or materials
+Install insulation in equipment or structures
+Assemble mechanical components or machine parts
+Fabricate parts or components
+Cut materials according to specifications or needs
+Measure distances or dimensions
+Position equipment using hand tools, power tools or heavy equipment

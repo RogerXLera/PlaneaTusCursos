@@ -1,0 +1,72 @@
+Read instances: 0.70 s
+Generate matrices: 10.09 s
+The optimal value is 0.2655263157894737
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Engagement to your Instagram Business Pro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leading and Developing Top Talent (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Jira (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Using Video in Social Media Posts with Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.38
+Job affinity: 73.684
+Skills per Unit
+	 Initial Activity:
+	 Get started with Jira:
+		 Manage outreach activities
+	 Increase Engagement to your Instagram Business Profile:
+		 Coordinate special events or programs
+		 Develop marketing plans or strategies
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop marketing plans or strategies
+		 Implement organisational process or policy changes
+	 Using Video in Social Media Posts with Canva:
+		 Manage outreach activities
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+	 Leading and Developing Top Talent:
+		 Conduct employee training programs
+		 Develop marketing plans or strategies
+		 Supervise employees
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Perform manual service or maintenance tasks
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Manage guest services
+	 Get Started with Microsoft Forms:
+		 Conduct opinion surveys or needs assessments
+	 Introduction to Responsible AI:
+		 Analyse data to inform staffing decisions
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Present information to the public
+Skills for Job Amusement, Fitness and Sports Centre Managers
+Supervise employees
+Evaluate program effectiveness
+Conduct opinion surveys or needs assessments
+Manage guest services
+Teach classes in area of specialisation
+Perform manual service or maintenance tasks
+Develop marketing plans or strategies
+Manage outreach activities
+Maintain staff records
+Schedule activities or facility use
+Prepare operational budgets
+Coordinate special events or programs
+Present information to the public
+Implement organisational process or policy changes
+Conduct employee training programs
+Recommend organisational process or policy changes
+Hire staff
+Train employees on environmental awareness, conservation or safety topics
+Analyse data to inform staffing decisions

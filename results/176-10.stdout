@@ -1,0 +1,45 @@
+Read instances: 0.69 s
+Generate matrices: 9.51 s
+The optimal value is 0.27499999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Customer Service with Python: Build a Chatbot usin (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.54
+Job affinity: 72.727
+Skills per Unit
+	 Initial Activity:
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Customer Service with Python: Build a Chatbot using ChatGPT:
+		 Discuss goods or services information with customers or patrons
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Promote goods, services, or programs
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Compile data or documentation
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Assist individuals with accessibility needs
+Skills for Job Ticket Salespersons
+Make travel, accommodation or entertainment arrangements for others
+Explain regulations, policies or procedures
+Provide notifications to customers or patrons
+Discuss goods or services information with customers or patrons
+Track goods or materials
+Assist individuals with accessibility needs
+Maintain inventory records
+Collect deposits, payments or fees
+Compile data or documentation
+Promote goods, services, or programs
+Calculate costs of goods or services

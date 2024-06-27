@@ -1,0 +1,49 @@
+Read instances: 0.70 s
+Generate matrices: 3.76 s
+The optimal value is 0.7121428571428571
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Exam Prep: AWS Certified Cloud Practitioner Founda (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analytical Mechanics for Spacecraft Dynamics (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Learn UI Design Fundamentals (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Digital Fashion Industry (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.50
+Job affinity: 28.571
+Skills per Unit
+	 Initial Activity:
+	 Digital Fashion Industry:
+		 Adjust fabrics or other materials during garment production or processing
+		 Assemble garments or textile products
+	 Learn UI Design Fundamentals:
+		 Design templates or patterns
+	 Exam Prep: AWS Certified Cloud Practitioner Foundations:
+		 Estimate costs of goods, services or materials
+	 Introduction to Duet AI in Google Workspace:
+		 Exchange information with colleagues
+	 Analytical Mechanics for Spacecraft Dynamics:
+		 Align parts or work pieces for assembly
+Skills for Job Upholsterers
+Repair furniture or upholstery
+Assemble garments or textile products
+Read work orders or other instructions to determine product specifications or materials requirements
+Record operational or production data
+Attach decorative or functional accessories to products
+Design templates or patterns
+Adjust fabrics or other materials during garment production or processing
+Draw guide lines or markings on materials or work pieces using patterns or other references
+Sew products
+Prepare fabrics or materials for processing or production
+Align parts or work pieces for assembly
+Mount materials or work pieces onto production equipment
+Clean carpet, rugs, upholstery or drapery
+Measure materials to mark reference points, cutting lines or other indicators
+Cut fabrics, textiles, leather or hide
+Exchange information with colleagues
+Operate sewing equipment
+Repair textiles or apparel
+Confer with customers or designers to determine order specifications
+Estimate costs of goods, services or materials
+Shape surfaces or edges of wood work pieces

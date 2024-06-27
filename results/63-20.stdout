@@ -1,0 +1,70 @@
+Read instances: 0.73 s
+Generate matrices: 7.57 s
+The optimal value is 0.27499999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Migration and health (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: U.S. Health Law Fundamentals (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Schizophrenia (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.82
+Job affinity: 72.727
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Schizophrenia:
+		 Prescribe treatments or therapies
+	 Everyday Chinese Medicine 2:
+		 Diagnose medical conditions
+		 Treat acute illnesses, infections or injuries
+		 Treat chronic diseases or disorders
+	 Fundamentals for Implementing a Hypertension Program:
+		 Diagnose medical conditions
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Advise communities or institutions regarding health or safety issues
+		 Collect medical information from patients, family members or other medical professionals
+		 Explain medical procedures or test results to patients or family members
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 Migration and health:
+		 Advise others on health care issues
+		 Direct health care delivery programs
+		 Prepare official health documents or records
+	 U.S. Health Law Fundamentals:
+		 Design public or employee health programs
+		 Operate on patients
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Collect medical information from patients, family members or other medical professionals
+		 Conduct research to increase knowledge about medical issues
+		 Explain medical procedures or test results to patients or family members
+Skills for Job Specialist Physicians
+Treat chronic diseases or disorders
+Diagnose medical conditions
+Analyse test results to inform diagnosis or treatment
+Explain medical procedures or test results to patients or family members
+Monitor patient progress or responses to treatments
+Supervise patient care staff
+Advise others on health care issues
+Collect medical information from patients, family members or other medical professionals
+Record patient medical histories
+Treat acute illnesses, infections or injuries
+Refer patients to other health care practitioners or health resources
+Advise communities or institutions regarding health or safety issues
+Provide health and wellness advice to patients, program participants or caregivers
+Immunise patients
+Prescribe medications
+Prescribe treatments or therapies
+Administer non-intravenous medications
+Prepare official health documents or records
+Operate on patients
+Conduct research to increase knowledge about medical issues
+Design public or employee health programs
+Direct health care delivery programs

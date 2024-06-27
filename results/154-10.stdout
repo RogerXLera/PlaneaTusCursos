@@ -1,0 +1,50 @@
+Read instances: 0.77 s
+Generate matrices: 20.84 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Graphic Design: Make Interior's Project Mood Board (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build your first Search Engine using AWS Kendra (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.73
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Graphic Design: Make Interior's Project Mood Boards in Gimp:
+		 Type documents
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Read materials to determine needed actions
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Compile data or documentation
+	 Build your first Search Engine using AWS Kendra:
+		 Develop data analysis or data management procedures
+		 Search files, databases or reference materials to obtain information
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 File documents or records
+	 Lesson | Understand and Be Understood on the Phone:
+		 Enter information into databases or software programs
+Skills for Job Filing and Registry Clerks
+Compile data or documentation
+Provide information to co-workers
+Operate office equipment
+Read materials to determine needed actions
+Verify accuracy of financial or transactional data
+Enter information into databases or software programs
+Maintain inventory records
+File documents or records
+Store items
+Develop data analysis or data management procedures
+Track goods or materials
+Attach identification information to products, items or containers
+Search files, databases or reference materials to obtain information
+Type documents
+Sort mail
+Store records or related materials

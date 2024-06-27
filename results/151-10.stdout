@@ -1,0 +1,68 @@
+Read instances: 0.70 s
+Generate matrices: 7.46 s
+The optimal value is 0.2878571428571428
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Graphic Design: Make Interior's Project Mood Board (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.39
+Job affinity: 71.429
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Calculate financial data
+		 Maintain financial or account records
+	 Getting started with Fiverr for Freelancers:
+		 Execute sales or other financial transactions
+	 Getting Started with Microsoft Word:
+		 Enter information into databases or software programs
+		 Issue documentation or identification to customers or employees
+	 Create Employee Management System with When I Work:
+		 Prepare staff schedules
+	 Graphic Design: Make Interior's Project Mood Boards in Gimp:
+		 Type documents
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Getting Started with Microsoft OneDrive:
+		 File documents or records
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Prepare business correspondence
+		 Send information, materials or documentation
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+		 Answer telephones to direct calls or provide information
+Skills for Job Bank Workers
+Verify accuracy of financial or transactional data
+Execute sales or other financial transactions
+Prepare cash for deposit or disbursement
+Collect deposits, payments or fees
+Enter information into databases or software programs
+Calculate financial data
+Order materials, supplies, or equipment
+File documents or records
+Type documents
+Sell goods or services
+Answer customer questions about goods or services
+Answer telephones to direct calls or provide information
+Maintain financial or account records
+Respond to customer problems or complaints
+Obtain personal or financial information about customers or applicants
+Prepare staff schedules
+Issue documentation or identification to customers or employees
+Send information, materials or documentation
+Prepare business correspondence
+Calculate costs of goods or services
+Explain regulations, policies or procedures

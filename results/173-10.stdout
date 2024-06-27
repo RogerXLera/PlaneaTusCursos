@@ -1,0 +1,43 @@
+Read instances: 0.72 s
+Generate matrices: 12.14 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals of Technology Sales (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Security and Privacy for Big Data - Part 1 (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Create an Online Course (7.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.66
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Fundamentals of Technology Sales:
+		 Coordinate sales campaigns
+		 Demonstrate products to consumers
+	 Security and Privacy for Big Data - Part 1:
+		 Develop procedures for data management
+	 How to Create an Online Course:
+		 Identify potential customers
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Explain technical product or service information to customers
+Skills for Job Street Vendors and Related Salespersons
+Answer customer questions about goods or services
+Sell goods or services
+Distribute promotional literature or samples to customers
+Identify potential customers
+Take product orders
+Explain technical product or service information to customers
+Demonstrate products to consumers
+Stock products or parts
+Process sales or other transactions
+Develop procedures for data management
+Procure stocks of merchandise or supplies
+Contact current or potential customers to promote goods or services
+Coordinate sales campaigns
+Set up merchandise displays

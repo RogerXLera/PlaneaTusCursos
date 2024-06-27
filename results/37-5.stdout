@@ -1,0 +1,37 @@
+Read instances: 0.76 s
+Generate matrices: 2.96 s
+The optimal value is 0.809375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Communicating During Global Emergencies (8.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.03
+Job affinity: 18.750
+Skills per Unit
+	 Initial Activity:
+	 Communicating During Global Emergencies:
+		 Notify others of emergencies, problems or hazards
+	 Duet AI in Gmail:
+		 Communicate work orders or plans to co-workers
+	 Introduction to Generative AI Studio - Français:
+		 Operate communications equipment or systems
+Skills for Job Air Transport Professionals
+Communicate with others to coordinate vehicle movement
+Coordinate flight control or management activities
+Monitor equipment gauges or displays
+Choose optimal transportation routes or speeds
+Provide transportation information to passengers or customers
+Record operational details of travel
+Monitor work environment to ensure safety or adherence to specifications
+Operate communications equipment or systems
+Communicate work orders or plans to co-workers
+Test performance of aircraft equipment
+Resolve issues affecting transportation operations
+Direct material handling or moving activities
+Plan flight operations
+Respond to transportation emergencies
+Report vehicle or equipment malfunctions
+Notify others of emergencies, problems or hazards

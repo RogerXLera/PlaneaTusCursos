@@ -1,0 +1,59 @@
+Read instances: 0.71 s
+Generate matrices: 8.06 s
+The optimal value is 0.4505
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: SketchUp: how to start modelling simple 3D objects (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Create Video for Online Courses (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: ChatGPT for Beginners: SciFi Writing with Dall-e (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Application of Data Analysis in Business with R Pr (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.94
+Job affinity: 55.000
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: SciFi Writing with Dall-e:
+		 Create computer-generated graphics or animation
+		 Supervise technical operations of production to ensure creative direction is realised
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Maintain records, documents or other files
+	 SketchUp: how to start modelling simple 3D objects:
+		 Construct distinctive physical objects for artistic, functional or commercial purposes
+		 Determine how best to represent a concept visually
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Application of Data Analysis in Business with R Programming:
+		 Convert data among multiple digital or analogue formats
+	 How to Create Video for Online Courses:
+		 Determine technical requirements of productions or projects
+		 Operate still or video cameras or related equipment
+	 Build a Professional Resume using Canva:
+		 Write informational material
+	 Lesson | Telephone Language:
+		 Confer with clients to determine needs
+Skills for Job Photographers
+Set up still or video cameras or related equipment
+Determine technical requirements of productions or projects
+Operate still or video cameras or related equipment
+Create computer-generated graphics or animation
+Convert data among multiple digital or analogue formats
+Apply finishes to artwork, crafts, or displays
+Determine how best to represent a concept visually
+Supervise technical operations of production to ensure creative direction is realised
+Review art or design materials
+Confer with clients to determine needs
+Maintain inventories of materials, equipment or products
+Maintain records, documents or other files
+Select materials or props
+Write informational material
+Coordinate activities of production staff
+Maintain recording or broadcasting equipment
+Construct distinctive physical objects for artistic, functional or commercial purposes
+Research new technologies
+Obtain copyrights or other legal permissions
+Arrange artwork, products or props

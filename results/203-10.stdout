@@ -1,0 +1,32 @@
+Read instances: 0.78 s
+Generate matrices: 2.59 s
+The optimal value is 0.725
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Employment Law: The Gig Economy (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Large Language Models (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: 3D CAD Application (8.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 27.273
+Skills per Unit
+	 Initial Activity:
+	 Employment Law: The Gig Economy:
+		 Clean work sites
+	 Introduction to Large Language Models:
+		 Communicate with clients about products, procedures and policies
+	 3D CAD Application:
+		 Create construction or installation diagrams
+Skills for Job Paving and Surfacing Labourers
+Compact or smooth materials to create level bases
+Cut tile, stone or other masonry materials
+Align masonry materials
+Clean work sites
+Spread sand, dirt or other loose materials onto surfaces
+Move construction or mining materials
+Install masonry materials
+Communicate with clients about products, procedures and policies
+Mark reference points on construction materials
+Create construction or installation diagrams
+Finish concrete surfaces

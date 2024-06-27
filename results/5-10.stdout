@@ -1,0 +1,74 @@
+Read instances: 0.84 s
+Generate matrices: 22.79 s
+The optimal value is 0.401
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Power BI Desktop (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: JavaScript Interview Challenges (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: How to make invitations using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.86
+Job affinity: 60.000
+Skills per Unit
+	 Initial Activity:
+	 Getting Started with Power BI Desktop:
+		 Analyse data to inform operational decisions or activities
+		 Prepare reports related to compliance matters
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+		 Recruit staff
+	 Hiring and Onboarding Employees with ClickUp:
+		 Hire staff
+		 Manage human resources activities
+	 How to Get Into Web Development:
+		 Advise others on career or personal development
+	 JavaScript Interview Challenges:
+		 Compile operational data
+	 How to make invitations using Canva:
+		 Coordinate special events or programs
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Analyse data to inform staffing decisions
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+	 Assimilating into Your New Job:
+		 Communicate organisational policies and procedures
+		 Conduct employee training programs
+		 Hire staff
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Human Resource Managers
+Manage human resources activities
+Liaise between departments or other groups to improve function or communication
+Communicate organisational policies and procedures
+Supervise employees
+Administer compensation or benefits programs
+Hire staff
+Negotiate labour disputes
+Compile operational data
+Maintain staff records
+Recommend organisational process or policy changes
+Advise others on legal or regulatory compliance matters
+Interview employees, customers or others to collect information
+Maintain knowledge of current developments in area of expertise
+Recruit staff
+Analyse data to inform staffing decisions
+Represent the organisation in external relations
+Estimate labour requirements
+Coordinate special events or programs
+Conduct employee training programs
+Investigate industrial or transportation accidents
+Prepare reports related to compliance matters
+Prepare operational budgets
+Advise others on career or personal development
+Negotiate sales or lease agreements for goods or services
+Analyse data to inform operational decisions or activities

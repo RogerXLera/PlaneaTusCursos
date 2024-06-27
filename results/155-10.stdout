@@ -1,0 +1,46 @@
+Read instances: 0.69 s
+Generate matrices: 2.35 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Giving Helpful Feedback (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mechanics of Materials II: Thin-Walled Pressure Ve (9.0) 	 Start Period: 1 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Giving Helpful Feedback:
+		 Train staff
+	 Duet AI in Gmail:
+		 Prepare outgoing mail
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Operate vehicles or material-moving equipment
+	 Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion:
+		 Load materials or equipment
+	 Build a Professional Resume using Canva:
+		 Operate computers or computerised equipment
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Distribute incoming mail
+Skills for Job Mail Sorters
+Route mail to correct destinations
+Maintain office equipment in proper operating condition
+Operate computers or computerised equipment
+Attach identification information to products, items or containers
+Unload materials, cargo or equipment
+Operate vehicles or material-moving equipment
+Sort mail
+Verify shipping documentation
+Package objects for shipping
+Receive shipments
+Distribute incoming mail
+Weigh parcels to determine shipping costs
+Prepare outgoing mail
+Load materials or equipment
+Obtain personal or financial information about customers or applicants
+Train staff

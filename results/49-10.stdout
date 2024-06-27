@@ -1,0 +1,109 @@
+Read instances: 0.73 s
+Generate matrices: 12.03 s
+The optimal value is 0.3957894736842105
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating a Student Profile in Google Docs (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Engaging Presentations with Easelly (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Use Microsoft PowerPoint to Create a Visual Schedu (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.06
+Job affinity: 60.526
+Skills per Unit
+	 Initial Activity:
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Create Engaging Presentations with Easelly:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Order instructional or library materials or equipment
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Evaluate student work
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Display student work
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Develop strategies or programs for students with accessibility needs
+		 Discuss student progress with parents or guardians
+	 Use Microsoft PowerPoint to Create a Visual Schedule:
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+	 Creating a Student Profile in Google Docs:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Design psychological or educational treatment procedures or programs
+		 Develop educational programs
+		 Develop instructional objectives
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Evaluate performance of educational staff
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Lesson | Telephone Language:
+		 Attend training sessions or events to develop or maintain professional knowledge
+Skills for Job Special Education Teachers
+Teach life skills
+Develop strategies or programs for students with accessibility needs
+Establish rules or policies governing student behaviour
+Plan educational activities
+Develop instructional objectives
+Modify teaching methods or materials to accommodate student needs
+Create technology-based learning materials
+Assist students with special educational needs
+Apply multiple teaching methods
+Direct activities of staff
+Set up classroom materials or equipment
+Collaborate with other teaching professionals to develop educational programs
+Advise students on academic or career matters
+Monitor student performance
+Evaluate student work
+Maintain student records
+Prepare reports detailing student activities or performance
+Discuss student progress with parents or guardians
+Supervise school or student activities
+Monitor student behaviour, social development or health
+Teach vocational courses
+Evaluate performance of educational staff
+Supervise student research or internship work
+Administer tests to assess educational needs or progress
+Discuss problems or issues with supervisors
+Teach others to use technology or equipment
+Document lesson plans
+Prepare tests
+Display student work
+Plan experiential learning activities
+Serve on institutional or departmental committees
+Develop educational programs
+Design psychological or educational treatment procedures or programs
+Attend training sessions or events to develop or maintain professional knowledge
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Tutor students who need extra assistance

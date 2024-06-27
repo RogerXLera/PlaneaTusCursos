@@ -1,0 +1,59 @@
+Read instances: 0.69 s
+Generate matrices: 7.01 s
+The optimal value is 0.07571428571428572
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Writing Winning Resumes and Cover Letters (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Trustworthy Generative AI (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Where, Why, and How of Lambda Functions in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.89
+Job affinity: 92.857
+Skills per Unit
+	 Initial Activity:
+	 Get started with Jira:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Writing Winning Resumes and Cover Letters:
+		 Obtain personal or financial information about customers or applicants
+	 Trustworthy Generative AI:
+		 Verify accuracy of financial or transactional data
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Where, Why, and How of Lambda Functions in Python:
+		 Analyse operational or research data
+		 Prepare research or technical reports
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Code data or other information
+		 Compile data or documentation
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect deposits, payments or fees
+	 Get started with Upwork:
+		 Negotiate financial arrangements
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+		 Check data for recording errors
+Skills for Job Survey Interviewers
+Interview employees, customers or others to collect information
+Explain regulations, policies or procedures
+Check data for recording errors
+Answer telephones to direct calls or provide information
+Collect deposits, payments or fees
+Obtain personal or financial information about customers or applicants
+Compile data or documentation
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Code data or other information
+Prepare research or technical reports
+Negotiate financial arrangements
+Verify accuracy of financial or transactional data
+Supervise clerical or administrative staff
+Analyse operational or research data

@@ -1,0 +1,34 @@
+Read instances: 0.73 s
+Generate matrices: 2.69 s
+The optimal value is 0.445
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Business English: Meetings (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Copyright for Educators & Librarians (13.0) 	 Start Period: 1 	 End Period: 2
+Activity: Active Listening: Enhancing Communication Skills (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Privacy & Standardisation Capstone (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 55.556
+Skills per Unit
+	 Initial Activity:
+	 Active Listening: Enhancing Communication Skills:
+		 Arbitrate disputes between parties to resolve legal conflicts
+	 Copyright for Educators & Librarians:
+		 Research relevant legal materials to aid decision making
+	 Privacy & Standardisation Capstone:
+		 Evaluate information related to legal matters in public or personal records
+		 Prepare legal documents
+	 Business English: Meetings:
+		 Meet with individuals involved in legal processes to provide information and clarify issues
+Skills for Job Conveyancers and Legal Executives
+Prepare legal documents
+Maintain the order of legal documents
+Research relevant legal materials to aid decision making
+Coordinate legal schedules or activities
+Evaluate information related to legal matters in public or personal records
+Confer with court staff to clarify information
+Meet with individuals involved in legal processes to provide information and clarify issues
+Represent the interests of clients in legal proceedings or court
+Arbitrate disputes between parties to resolve legal conflicts

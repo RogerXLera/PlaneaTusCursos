@@ -1,0 +1,57 @@
+Read instances: 0.75 s
+Generate matrices: 8.62 s
+The optimal value is 0.5495
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How To Create An Interactive Resume On Tableau (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with AWS Elastic Container Registr (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lymphoedema: Monitoring & Intervention After Breas (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.82
+Job affinity: 45.000
+Skills per Unit
+	 Initial Activity:
+	 Account Management & Sales Force Design:
+		 Sell goods or services
+	 Lymphoedema: Monitoring & Intervention After Breast Cancer:
+		 Assess skin or hair conditions
+	 Transformer Models and BERT Model:
+		 Promote goods, services, or programs
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Discuss service options or needs with clients
+		 Maintain client information or service records
+	 Getting started with AWS Elastic Container Registry (ECR):
+		 Perform administrative or clerical tasks
+	 Get started with Upwork:
+		 Maintain professional knowledge or certifications
+	 Launch your first online meeting with ZOOM:
+		 Maintain financial or account records
+	 How To Create An Interactive Resume On Tableau:
+		 Perform human resources activities
+Skills for Job Hairdressers
+Trim clients' hair
+Style clients' hair
+Clean tools or equipment
+Clean work areas or facilities
+Discuss service options or needs with clients
+Maintain financial or account records
+Assess skin or hair conditions
+Apply cleansing or conditioning agents to client hair, scalp or skin
+Groom wigs or hairpieces
+Provide cosmetic advice for clients
+Maintain client information or service records
+Maintain professional knowledge or certifications
+Perform human resources activities
+Perform administrative or clerical tasks
+Supervise service workers
+Treat nails by shaping, decorating or augmenting
+Promote goods, services, or programs
+Sell goods or services
+Apply solutions to hair
+Order materials, supplies, or equipment

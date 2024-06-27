@@ -1,0 +1,33 @@
+Read instances: 0.69 s
+Generate matrices: 5.39 s
+The optimal value is 0.17
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Systems with the ChatGPT API (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Image Generation - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Academic Information Seeking (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.29
+Job affinity: 83.333
+Skills per Unit
+	 Initial Activity:
+	 Building Production-Ready Apps with Large Language Models:
+		 Design structures or facilities
+	 Building Systems with the ChatGPT API:
+		 Confer with technical staff to prepare designs or operational plans
+	 Introduction to Image Generation - Français:
+		 Create graphical representations of structures, landscapes or aquatic systems
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Evaluate characteristics of equipment or systems
+	 Academic Information Seeking:
+		 Review technical documents to plan work
+Skills for Job Boat Builders and Shipwrights
+Design structures or facilities
+Create graphical representations of structures, landscapes or aquatic systems
+Direct construction activities
+Evaluate characteristics of equipment or systems
+Review technical documents to plan work
+Confer with technical staff to prepare designs or operational plans

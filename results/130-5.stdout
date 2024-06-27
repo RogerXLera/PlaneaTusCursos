@@ -1,0 +1,27 @@
+Read instances: 0.76 s
+Generate matrices: 2.07 s
+The optimal value is 0.775
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The New Nordic Diet - from Gastronomy to Health (7.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.02
+Job affinity: 22.222
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Process customer bills or payments
+	 The New Nordic Diet - from Gastronomy to Health:
+		 Cook foods
+Skills for Job Bar Attendants and Baristas
+Prepare hot or cold drinks
+Serve food or drinks
+Process customer bills or payments
+Stock serving stations or dining areas with food or supplies
+Take customer orders
+Clean tableware
+Clean food service areas
+Cook foods
+Order materials, supplies, or equipment

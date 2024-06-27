@@ -1,0 +1,60 @@
+Read instances: 0.71 s
+Generate matrices: 7.21 s
+The optimal value is 0.302
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Global Health Policy (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: COVID-19: What You Need to Know (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Community Awareness Course: Sexuality and Disabili (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Become a Peer Sponsor: Intro to Military Transitio (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: High Level Biocontainment for Healthcare Facilitie (11.0) 	 Start Period: 2 	 End Period: 2
+Activity: TECH MeD: Transdisciplinary Education for Critical (8.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.74
+Job affinity: 70.000
+Skills per Unit
+	 Initial Activity:
+	 Global Health Policy:
+		 Analyse patient data to determine patient needs or treatment goals
+		 Design public or employee health programs
+		 Direct health care delivery programs
+	 Everyday Chinese Medicine 2:
+		 Develop treatment plans that use non-medical therapies
+	 COVID-19: What You Need to Know:
+		 Advise communities or institutions regarding health or safety issues
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 High Level Biocontainment for Healthcare Facilities:
+		 Clean medical equipment or facilities
+		 Prepare medical supplies or equipment for use
+	 TECH MeD: Transdisciplinary Education for Critical Hacks of Medical Devices:
+		 Design medical devices or appliances
+		 Fabricate medical devices
+	 Community Awareness Course: Sexuality and Disability:
+		 Evaluate patient functioning, capabilities or health
+	 Become a Peer Sponsor: Intro to Military Transition Support:
+		 Encourage patients or clients to develop life skills
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Occupational Therapists
+Develop treatment plans that use non-medical therapies
+Record patient medical histories
+Design public or employee health programs
+Provide health and wellness advice to patients, program participants or caregivers
+Train caregivers or other non-medical staff
+Clean medical equipment or facilities
+Prepare medical supplies or equipment for use
+Direct health care delivery programs
+Analyse patient data to determine patient needs or treatment goals
+Evaluate patient functioning, capabilities or health
+Collaborate with health care professionals to plan or provide treatment
+Monitor patient progress or responses to treatments
+Prepare reports summarising patient diagnostic or care activities
+Design medical devices or appliances
+Fabricate medical devices
+Supervise patient care staff
+Train medical providers
+Advise communities or institutions regarding health or safety issues
+Encourage patients or clients to develop life skills
+Conduct research to increase knowledge about medical issues

@@ -1,0 +1,74 @@
+Read instances: 0.82 s
+Generate matrices: 18.74 s
+The optimal value is 0.44499999999999995
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: Monitoring, Logging and Governance (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Black Agricultural Solutions to Food Apartheid: A  (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Leading and Developing Top Talent (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 2.35
+Job affinity: 55.556
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+	 Leading and Developing Top Talent:
+		 Conduct employee training programs
+		 Supervise employees
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Monitor facilities or operational systems
+		 Perform manual service or maintenance tasks
+	 AWS: Monitoring, Logging and Governance:
+		 Analyse data to inform operational decisions or activities
+		 Implement organisational process or policy changes
+		 Maintain operational records
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure materials, equipment or other resources
+	 Everyday Chinese Medicine 2:
+		 Evaluate quality of materials or products
+	 Black Agricultural Solutions to Food Apartheid: A Teach-Out:
+		 Perform manual agricultural, aquacultural or horticultural tasks
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Monitor resources
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Direct facility maintenance or repair activities
+Skills for Job Livestock Farmers
+Manage agricultural or forestry operations
+Inspect condition, or functioning, of facilities or equipment
+Monitor organisational compliance with regulations
+Procure materials, equipment or other resources
+Monitor resources
+Assess characteristics of wool, fleece, hair or hide
+Comply with industry animal welfare requirements
+Evaluate quality of materials or products
+Safely use rifles, revolvers and other firearms
+Implement organisational process or policy changes
+Monitor facilities or operational systems
+Perform manual service or maintenance tasks
+Analyse data to inform operational decisions or activities
+Conduct employee training programs
+Maintain staff records
+Maintain operational records
+Safely load and unload animals for transport
+Direct facility maintenance or repair activities
+Negotiate contracts for transportation, distribution or logistics services
+Negotiate sales or lease agreements for goods or services
+Train employees on environmental awareness, conservation or safety topics
+Supervise employees
+Hire staff
+Perform manual agricultural, aquacultural or horticultural tasks
+Manage construction activities
+Prepare financial documents, reports or budgets
+Prepare operational budgets

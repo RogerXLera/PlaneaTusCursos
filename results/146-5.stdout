@@ -1,0 +1,59 @@
+Read instances: 0.72 s
+Generate matrices: 11.39 s
+The optimal value is 0.54125
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS CodePipeline Beginner's Guide (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.39
+Job affinity: 45.833
+Skills per Unit
+	 Initial Activity:
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop organisational policies or programs
+		 Prepare research or technical reports
+	 AWS CodePipeline Beginner's Guide:
+		 Compile data or documentation
+		 Coordinate operational activities
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+		 File documents or records
+	 Lesson | Express Yourself: Pronunciation:
+		 Read materials to determine needed actions
+		 Transcribe spoken or written information
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Distribute incoming mail
+		 Prepare business correspondence
+	 Lesson | Telephone Language:
+		 Answer telephones to direct calls or provide information
+Skills for Job Personal Assistants
+Answer telephones to direct calls or provide information
+Order materials, supplies, or equipment
+Prepare business correspondence
+Greet customers, patrons or visitors
+Read materials to determine needed actions
+File documents or records
+Make travel, accommodation or entertainment arrangements for others
+Manage clerical or administrative activities
+Distribute incoming mail
+Sort mail
+Prepare research or technical reports
+Explain regulations, policies or procedures
+Coordinate operational activities
+Maintain medical records
+Prepare documentation for contracts, transactions or regulatory compliance
+Schedule operational activities
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Execute sales or other financial transactions
+Develop organisational policies or programs
+Compile data or documentation
+Record information from meetings or other formal proceedings
+Supervise clerical or administrative staff
+Train staff
+Transcribe spoken or written information

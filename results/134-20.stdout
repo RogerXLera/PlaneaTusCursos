@@ -1,0 +1,50 @@
+Read instances: 0.73 s
+Generate matrices: 3.33 s
+The optimal value is 0.5260526315789474
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Cooking for Busy Healthy People (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a no-code responsive website with Webflow (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Developing AI Policy (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Making Architecture (13.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.28
+Job affinity: 47.368
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Communicate with customers to resolve complaints or ensure satisfaction
+		 Process customer bills or payments
+	 Create a no-code responsive website with Webflow:
+		 Present specials information or menus to customers
+	 Developing AI Policy:
+		 Enforce rules or regulations
+	 Cooking for Busy Healthy People:
+		 Clean food preparation areas, facilities or equipment
+		 Cook foods
+		 Prepare foods for processing, cooking and serving
+	 Making Architecture:
+		 Arrange tables or dining areas
+		 Assist customers with seating arrangements
+Skills for Job Waiters
+Present specials information or menus to customers
+Process customer bills or payments
+Take customer orders
+Arrange tables or dining areas
+Stock serving stations or dining areas with food or supplies
+Serve food or drinks
+Prepare hot or cold drinks
+Communicate with customers to resolve complaints or ensure satisfaction
+Collect dirty dishes or other tableware
+Clean food service areas
+Assist customers with seating arrangements
+Enforce rules or regulations
+Garnish food
+Clean food preparation areas, facilities or equipment
+Communicate order details to kitchen staff
+Cook foods
+Schedule dining reservations
+Prepare foods for processing, cooking and serving
+Provide customers with general information or assistance

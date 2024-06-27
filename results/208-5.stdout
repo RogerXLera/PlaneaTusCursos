@@ -1,0 +1,42 @@
+Read instances: 0.93 s
+Generate matrices: 3.42 s
+The optimal value is 0.8535714285714285
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Create AWS EC2 Virtual Machine Using AWS console (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.14
+Job affinity: 14.286
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Create AWS EC2 Virtual Machine Using AWS console:
+		 Monitor equipment operation to ensure no flaws
+	 Ferrous Technology I:
+		 Clean materials to prepare them for production
+Skills for Job Packers
+Package products for storage or shipment
+Remove products or work pieces from production equipment
+Mark products, work pieces or equipment with identifying information
+Monitor equipment operation to ensure no flaws
+Watch equipment in operation to detect malfunctions
+Feed materials or products into or through equipment
+Clean materials to prepare them for production
+Sort materials or products for processing, storing, shipping or grading
+Adjust temperature controls of ovens or other heating equipment
+Stack finished items for further processing or shipment
+Sew products
+Notify others of equipment repair or maintenance needs
+Clear equipment jams
+Maintain inventories of materials, equipment or products
+Weigh products or materials
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Record operational or production data
+Count finished products or work pieces
+Clean production equipment
+Lubricate production equipment
+Repair production equipment or tools

@@ -1,0 +1,49 @@
+Read instances: 0.73 s
+Generate matrices: 2.59 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Anatomy: Cardiovascular, Respiratory and Urinary S (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Food and Our Environment (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Business Analysis Using Spreadshee (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Systems Engineering (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.14
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Business Analysis Using Spreadsheets: Basics:
+		 Assess cleaning requirements
+	 Anatomy: Cardiovascular, Respiratory and Urinary Systems:
+		 Clean toilet and bathroom areas
+	 Introduction to Food and Our Environment:
+		 Dispose of rubbish or waste materials
+	 Infection Prevention in Nursing Homes:
+		 Clean food preparation areas, facilities or equipment
+	 Mastering Digital Twins:
+		 Maintain equipment or systems to ensure proper functioning
+	 Systems Engineering:
+		 Maintain equipment or systems to ensure proper functioning
+	 Golf Course Management: Best Practices:
+		 Clean facilities or sites
+Skills for Job Housekeepers
+Strip and make beds and change bed linen
+Clean carpet, rugs, upholstery or drapery
+Clean furniture or fixtures
+Clean walls or flooring
+Clean facilities or sites
+Sort, wash, dry or iron fabric, linen and clothes
+Clean toilet and bathroom areas
+Stock supplies, merchandise, food or drink
+Dispose of rubbish or waste materials
+Clean food preparation areas, facilities or equipment
+Operate cleaning or polishing equipment for floors and other surfaces
+Assess cleaning requirements
+Safely handle chemicals for work applications
+Move furniture
+Maintain equipment or systems to ensure proper functioning
+Select equipment, materials or supplies for cleaning or maintenance activities

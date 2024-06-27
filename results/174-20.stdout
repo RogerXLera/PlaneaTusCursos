@@ -1,0 +1,48 @@
+Read instances: 0.72 s
+Generate matrices: 3.05 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Becoming an SAP Professional (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: FinTech: Foundations, Payments, and Regulations (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.38
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Maintain records of sales or other business transactions
+	 FinTech: Foundations, Payments, and Regulations:
+		 Issue money, credit or vouchers
+	 Becoming an SAP Professional:
+		 Supervise sales or support staff
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Monitor sales activities
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+		 Answer telephones to direct calls or provide information
+	 Lesson | Organize Your Pitch:
+		 Explain technical product or service information to customers
+Skills for Job Checkout Operators and Office Cashiers
+Issue money, credit or vouchers
+Process sales or other transactions
+Calculate costs of goods or services
+Maintain records of sales or other business transactions
+Reconcile records of sales or other financial transactions
+Clean work areas
+Provide customers with general information or assistance
+Monitor sales activities
+Greet customers, patrons or visitors
+Answer customer questions about goods or services
+Explain technical product or service information to customers
+Sell goods or services
+Answer telephones to direct calls or provide information
+Stock products or parts
+Supervise sales or support staff
+Train sales staff

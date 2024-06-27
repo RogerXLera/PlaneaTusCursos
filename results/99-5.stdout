@@ -1,0 +1,42 @@
+Read instances: 0.82 s
+Generate matrices: 2.68 s
+The optimal value is 0.7344736842105263
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.04
+Job affinity: 26.316
+Skills per Unit
+	 Initial Activity:
+	 Stanford Introduction to Food and Health:
+		 Manage preparation of special meals or diets
+		 Operate food processing equipment
+	 Everyday Chinese Medicine 2:
+		 Evaluate quality of food, drinks or ingredients
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+		 Monitor equipment operation to ensure proper functioning
+Skills for Job Bakers and Pastrycooks
+Operate food processing equipment
+Adjust temperature controls of ovens or other heating equipment
+Evaluate quality of food, drinks or ingredients
+Prepare breads or doughs
+Produce pastries and other baked goods
+Apply glazes or icing
+Load materials into production equipment
+Weigh or measure ingredients
+Inspect facilities, equipment or supplies to ensure conformance to standards
+Shape dough
+Mix ingredients
+Direct operational or production activities
+Record operational or production data
+Load items into ovens or furnaces
+Manage preparation of special meals or diets
+Order materials, supplies, or equipment
+Clean food preparation areas, facilities or equipment
+Monitor equipment operation to ensure proper functioning
+Maintain production or processing equipment

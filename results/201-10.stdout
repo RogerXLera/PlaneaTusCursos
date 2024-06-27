@@ -1,0 +1,52 @@
+Read instances: 0.72 s
+Generate matrices: 2.46 s
+The optimal value is 0.8116666666666668
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: SketchUp: how to start modelling simple 3D objects (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Mechanics of Materials II: Thin-Walled Pressure Ve (9.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 18.519
+Skills per Unit
+	 Initial Activity:
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Inspect completed work to ensure proper installation
+	 SketchUp: how to start modelling simple 3D objects:
+		 Build construction forms or moulds
+	 Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion:
+		 Install metal structural components
+		 Position structural components
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Concreters
+Finish concrete surfaces
+Smooth surfaces with abrasive materials or tools
+Monitor construction operations
+Position construction forms or moulds
+Apply decorative masonry finishes
+Inspect completed work to ensure proper installation
+Direct construction or mining staff
+Spread concrete or other aggregate mixtures
+Mix substances or compounds needed for work activities
+Apply sealants or other protective coatings
+Clean surfaces before commencing work
+Install masonry materials
+Signal equipment operators to indicate proper equipment positioning
+Pour materials into, or on, designated areas
+Operate leveling equipment
+Compact or smooth materials to create level bases
+Cut metal components
+Apply material to fill gaps in surfaces
+Prepare surfaces for finishing
+Fabricate parts or components
+Build construction forms or moulds
+Install roofing materials
+Install building fixtures
+Install metal structural components
+Drill holes in construction materials
+Break up rock, asphalt or concrete
+Position structural components

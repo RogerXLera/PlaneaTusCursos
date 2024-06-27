@@ -1,0 +1,49 @@
+Read instances: 0.74 s
+Generate matrices: 3.20 s
+The optimal value is 0.3096153846153846
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: AR in marketing using Meta Spark (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Russian Invasion of Ukraine Teach-Out (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Tic-Tac-Toe game in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Charts and Dashboards Using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.23
+Job affinity: 69.231
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Maintain financial or account records
+	 Account Management & Sales Force Design:
+		 Sell goods or services
+	 Create Charts and Dashboards Using Microsoft Excel:
+		 Prepare operational reports or records
+	 AR in marketing using Meta Spark:
+		 Conduct amusement or gaming activities
+		 Operate gaming equipment
+	 Create a Tic-Tac-Toe game in Python:
+		 Compute gaming wins and losses
+		 Conduct amusement or gaming activities
+		 Conduct gaming transactions
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Inspect equipment to ensure proper functioning
+	 Russian Invasion of Ukraine Teach-Out:
+		 Mediate disputes
+Skills for Job Betting Clerks
+Conduct amusement or gaming activities
+Conduct gaming transactions
+Operate gaming equipment
+Compute gaming wins and losses
+Maintain financial or account records
+Sell goods or services
+Usher patrons to seats or exits
+Deliver items
+Inspect equipment to ensure proper functioning
+Respond to customer inquiries
+Prepare operational reports or records
+Mediate disputes
+Supervise service workers

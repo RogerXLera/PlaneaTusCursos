@@ -1,0 +1,44 @@
+Read instances: 0.69 s
+Generate matrices: 2.51 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Communicating During Global Emergencies (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+		 Operate vehicles or material-moving equipment
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Communicating During Global Emergencies:
+		 Notify others of emergencies, problems or hazards
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+		 Operate vehicles or material-moving equipment
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Inspect motor vehicles
+Skills for Job Recycling and Rubbish Collectors
+Dispose of rubbish or waste materials
+Operate cranes, hoists or other moving or lifting equipment
+Climb ladders or vehicles to perform duties
+Operate packing or other material-processing equipment
+Operate vehicles or material-moving equipment
+Inspect motor vehicles
+Load shipments, belongings or materials
+Follow safety procedures for loading and unloading vehicles
+Explain regulations, policies or procedures
+Maintain vehicles in good working condition
+Schedule operational activities
+Notify others of emergencies, problems or hazards
+Report vehicle or equipment malfunctions
+Clean vehicles or vehicle components
+Sort materials or objects for processing or transport

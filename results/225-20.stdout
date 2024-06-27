@@ -1,0 +1,42 @@
+Read instances: 0.71 s
+Generate matrices: 2.29 s
+The optimal value is 0.7038235294117646
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Process Safety and Risk Analysis (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Analytical Mechanics for Spacecraft Dynamics (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 29.412
+Skills per Unit
+	 Initial Activity:
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Test electrical circuits or components for proper functioning
+	 Introduction to Process Safety and Risk Analysis:
+		 Inspect gas systems or components to identify hazards
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Analytical Mechanics for Spacecraft Dynamics:
+		 Adjust vehicle components according to specifications
+Skills for Job Motor Vehicle Parts and Accessories Fitters
+Estimate costs for labour or materials
+Service green vehicles
+Adjust vehicle components according to specifications
+Inspect vehicles to determine overall condition
+Record information about parts, materials or repair procedures
+Align equipment or machinery
+Test electrical circuits or components for proper functioning
+Troubleshoot equipment or systems operation problems
+Replace or repair non-engine automotive or vehicle components
+Replace worn, damaged or defective mechanical parts
+Inspect gas systems or components to identify hazards
+Repair defective engines or engine components
+Install heating, ventilation or air conditioning (HVAC) equipment
+Repair worn, damaged, or defective mechanical parts
+Rebuild parts or components
+Test mechanical systems to ensure proper functioning
+Install vehicle parts or accessories

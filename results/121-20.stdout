@@ -1,0 +1,52 @@
+Read instances: 0.69 s
+Generate matrices: 3.83 s
+The optimal value is 0.17
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Everyday Chinese Medicine (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Whole genome sequencing of bacterial genomes - too (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Measuring and Maximizing Impact of COVID-19 Contac (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Kids with Cancer Still Need School: The Providers  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Transgender Medicine for General Medical Providers (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals of Speechwriting (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.32
+Job affinity: 83.333
+Skills per Unit
+	 Initial Activity:
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 Everyday Chinese Medicine:
+		 Examine patients to assess general physical condition
+		 Explain medical procedures or test results to patients or family members
+	 Whole genome sequencing of bacterial genomes - tools and applications:
+		 Monitor health or behaviour of people
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+	 Measuring and Maximizing Impact of COVID-19 Contact Tracing:
+		 Provide basic health care services
+	 Family Spirit Nurture:
+		 Feed patients
+	 Kids with Cancer Still Need School: The Providers Role:
+		 Confer with clients to discuss treatment plans or progress
+	 Transgender Medicine for General Medical Providers:
+		 Assist practitioners to perform medical procedures
+	 Fundamentals of Speechwriting:
+		 Assess individual or community needs for educational or social services
+Skills for Job Enrolled and Mothercraft Nurses
+Record patient medical histories
+Feed patients
+Explain medical procedures or test results to patients or family members
+Examine patients to assess general physical condition
+Perform administrative or clerical tasks
+Administer health care or medical treatments
+Provide basic health care services
+Assist practitioners to perform medical procedures
+Assess individual or community needs for educational or social services
+Confer with clients to discuss treatment plans or progress
+Monitor health or behaviour of people
+Maintain medical or professional knowledge

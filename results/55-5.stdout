@@ -1,0 +1,43 @@
+Read instances: 0.72 s
+Generate matrices: 4.28 s
+The optimal value is 0.6823684210526315
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Responsible Medication Prescribing for Older Adult (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 31.579
+Skills per Unit
+	 Initial Activity:
+	 Everyday Chinese Medicine 2:
+		 Diagnose medical conditions
+		 Treat acute illnesses, infections or injuries
+	 Responsible Medication Prescribing for Older Adults:
+		 Administer non-intravenous medications
+		 Collaborate with health care professionals to plan or provide treatment
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Collect medical information from patients, family members or other medical professionals
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Complementary Health Therapists
+Collect medical information from patients, family members or other medical professionals
+Record patient medical histories
+Provide health and wellness advice to patients, program participants or caregivers
+Examine patients to assess general physical condition
+Treat patients using alternative medical procedures
+Administer non-intravenous medications
+Diagnose medical conditions
+Analyse test results to inform diagnosis or treatment
+Gather medical information from patient histories
+Refer patients to other health care practitioners or health resources
+Immunise patients
+Treat patients using physical techniques
+Collect biological specimens from patients
+Collaborate with health care professionals to plan or provide treatment
+Maintain medical or professional knowledge
+Order medical diagnostic or clinical tests
+Operate on patients
+Treat acute illnesses, infections or injuries
+Prepare official health documents or records

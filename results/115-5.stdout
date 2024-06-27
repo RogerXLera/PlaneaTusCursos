@@ -1,0 +1,28 @@
+Read instances: 0.76 s
+Generate matrices: 6.33 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leveraging AI for Enhanced Content Creation (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Leveraging AI for Enhanced Content Creation:
+		 Confer with technical staff to prepare designs or operational plans
+		 Create graphical representations of structures, landscapes or aquatic systems
+	 Building Production-Ready Apps with Large Language Models:
+		 Design structures or facilities
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Evaluate characteristics of equipment or systems
+Skills for Job Boat Builders and Shipwrights
+Design structures or facilities
+Create graphical representations of structures, landscapes or aquatic systems
+Direct construction activities
+Evaluate characteristics of equipment or systems
+Review technical documents to plan work
+Confer with technical staff to prepare designs or operational plans

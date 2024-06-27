@@ -1,0 +1,84 @@
+Read instances: 0.74 s
+Generate matrices: 44.51 s
+The optimal value is 0.2715384615384615
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Copywriting with ChatGPT: Produce Compelling Copy  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneNote (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Design Thinking and Global Startup (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: How to make invitations using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: FinTech Law and Policy (11.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get Started With Tableau (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 4.50
+Job affinity: 73.077
+Skills per Unit
+	 Initial Activity:
+	 FinTech Law and Policy:
+		 Direct financial operations
+		 Draft legislation or regulations
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Get Started With Tableau:
+		 Analyse data to assess operational or project effectiveness
+		 Analyse data to inform operational decisions or activities
+	 Getting Started with Microsoft OneNote:
+		 Confer with peers to accomplish work
+	 Design Thinking and Global Startup:
+		 Develop organisational policies or programs
+		 Implement organisational process or policy changes
+		 Liaise between departments or other groups to improve function or communication
+	 Hiring and Onboarding Employees with ClickUp:
+		 Manage human resources activities
+	 How to make invitations using Canva:
+		 Coordinate special events or programs
+	 Copywriting with ChatGPT: Produce Compelling Copy That Sells:
+		 Direct sales, marketing or customer service activities
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Direct administrative or support services
+		 Promote goods, services, or programs
+	 Building a Generative AI-Ready Organization:
+		 Advise others on legal or regulatory compliance matters
+		 Develop organisational policies or programs
+		 Direct organisational operations, projects or services
+	 Mastering Digital Twins:
+		 Coordinate with external parties to exchange information
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Present information to the public
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate organisational policies and procedures
+Skills for Job Chief Executives and Managing Directors
+Direct financial operations
+Direct organisational operations, projects or services
+Direct sales, marketing or customer service activities
+Confer with peers to accomplish work
+Analyse data to assess operational or project effectiveness
+Manage human resources activities
+Analyse data to inform operational decisions or activities
+Communicate organisational policies and procedures
+Manage construction activities
+Prepare staff schedules or work assignments
+Resolve employee or contractor problems
+Develop organisational policies or programs
+Implement organisational process or policy changes
+Negotiate contracts for transportation, distribution or logistics services
+Direct administrative or support services
+Draft legislation or regulations
+Present information to the public
+Prepare operational budgets
+Advise others on legal or regulatory compliance matters
+Represent the organisation in external relations
+Liaise between departments or other groups to improve function or communication
+Coordinate special events or programs
+Prepare financial documents, reports or budgets
+Prepare operational progress or status reports
+Coordinate with external parties to exchange information
+Promote goods, services, or programs

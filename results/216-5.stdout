@@ -1,0 +1,36 @@
+Read instances: 0.72 s
+Generate matrices: 2.29 s
+The optimal value is 0.7310000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.03
+Job affinity: 26.667
+Skills per Unit
+	 Initial Activity:
+	 Challenges of Agribusiness Management:
+		 Harvest agricultural products
+		 Package agricultural products for shipment or further processing
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Evaluate quality or condition of plants or crops
+		 Harvest agricultural products
+Skills for Job Horticultural Nursery Assistants
+Plant crops, trees or other plants
+Cultivate and maintain lawns, plants and gardens
+Irrigate lawns, trees or plants
+Prepare land for agricultural use
+Transport animals, crops, or equipment
+Remove debris from work sites
+Clean equipment or facilities
+Apply chemical solutions to plants for protection or to enhance growth
+Sell agricultural products
+Install equipment to protect or support trees
+Operate grounds maintenance equipment
+Package agricultural products for shipment or further processing
+Harvest agricultural products
+Evaluate quality or condition of plants or crops
+Maintain operational records

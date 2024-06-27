@@ -1,0 +1,47 @@
+Read instances: 0.75 s
+Generate matrices: 3.20 s
+The optimal value is 0.7121428571428571
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: From Excel to Power BI (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Electric Power Systems (12.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.14
+Job affinity: 28.571
+Skills per Unit
+	 Initial Activity:
+	 From Excel to Power BI:
+		 Prepare operational reports
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+	 Electric Power Systems:
+		 Inspect electrical or electronic systems for defects
+		 Install electrical components, equipment or systems
+		 Maintain electronic equipment
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Electricians
+Test electrical equipment or systems to ensure proper functioning
+Repair electrical equipment
+Install electrical components, equipment or systems
+Repair electrical circuits or wiring
+Connect electrical components or equipment
+Maintain electronic equipment
+Create construction or installation diagrams
+Plan layout of construction, installation or repairs
+Review blueprints or specifications to determine work requirements
+Inspect electrical or electronic systems for defects
+Thread wire or cable through ducts or conduits
+Fabricate parts or components
+Select tools, equipment, or technologies for use in operations or projects
+Cut materials according to specifications or needs
+Measure materials or objects for installation or assembly
+Communicate with co-workers to coordinate installations or repairs
+Dig holes or trenches
+Update knowledge or skills
+Prepare operational reports
+Order materials, supplies, or equipment
+Estimate construction project costs

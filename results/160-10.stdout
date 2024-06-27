@@ -1,0 +1,58 @@
+Read instances: 0.78 s
+Generate matrices: 4.78 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Security Awareness Training (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build your first Search Engine using AWS Kendra (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fine-tuning Convolutional Networks to Classify Dog (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.30
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Prepare staff schedules
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Build your first Search Engine using AWS Kendra:
+		 Search files, databases or reference materials to obtain information
+	 Fine-tuning Convolutional Networks to Classify Dog Breeds:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Security Awareness Training:
+		 Maintain security
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect deposits, payments or fees
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+	 Lesson | Telephone Language:
+		 Answer telephones to direct calls or provide information
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+Skills for Job Court and Legal Clerks
+Explain regulations, policies or procedures
+Prepare legal documents
+Record information about legal matters
+Record information from meetings or other formal proceedings
+Examine documents to verify adherence to requirements
+Collect deposits, payments or fees
+Answer telephones to direct calls or provide information
+Maintain office equipment in proper operating condition
+Supervise clerical or administrative staff
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Maintain security
+Interview employees, customers or others to collect information
+Search files, databases or reference materials to obtain information
+Attach identification information to products, items or containers
+Stock supplies, merchandise, food or drink
+Prepare staff schedules

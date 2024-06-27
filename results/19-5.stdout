@@ -1,0 +1,58 @@
+Read instances: 0.70 s
+Generate matrices: 16.68 s
+The optimal value is 0.36973684210526314
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Developing AI Policy (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.31
+Job affinity: 63.158
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Evaluate employee performance
+		 Hire staff
+		 Maintain staff records
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Manage guest services
+		 Promote goods, services, or programs
+	 Developing AI Policy:
+		 Communicate organisational policies and procedures
+		 Develop organisational policies or programs
+	 Introduction to Responsible AI:
+		 Monitor activities of individuals to ensure safety or compliance with rules
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+		 Promote goods, services, or programs
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+		 Monitor resources
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Licensed Club Managers
+Monitor activities of individuals to ensure safety or compliance with rules
+Monitor resources
+Monitor flow of cash or other resources
+Communicate organisational policies and procedures
+Maintain knowledge of current developments in area of expertise
+Determine pricing or monetary policies
+Manage guest services
+Collect payments for goods or services
+Resolve customer complaints or problems
+Promote goods, services, or programs
+Compile operational data
+Develop organisational policies or programs
+Conduct financial or regulatory audits
+Maintain staff records
+Prepare staff schedules or work assignments
+Evaluate employee performance
+Conduct employee training programs
+Interview employees, customers or others to collect information
+Hire staff

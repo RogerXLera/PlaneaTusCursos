@@ -1,0 +1,44 @@
+Read instances: 0.74 s
+Generate matrices: 2.89 s
+The optimal value is 0.7344736842105263
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 26.316
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Communicate with customers to resolve complaints or ensure satisfaction
+		 Process customer bills or payments
+	 Stanford Introduction to Food and Health:
+		 Cook foods
+	 Infection Prevention in Nursing Homes:
+		 Clean food preparation areas, facilities or equipment
+	 Family Spirit Nurture:
+		 Assist with food or drink preparation
+Skills for Job Cafe Workers
+Serve food or drinks
+Communicate order details to kitchen staff
+Cook foods
+Process customer bills or payments
+Move equipment, supplies or food to required locations
+Arrange food for serving
+Communicate with customers to resolve complaints or ensure satisfaction
+Collect dirty dishes or other tableware
+Package food or supplies
+Clean tableware
+Arrange tables or dining areas
+Order materials, supplies, or equipment
+Prepare hot or cold drinks
+Train food preparation or food service staff
+Clean food preparation areas, facilities or equipment
+Clean food service areas
+Assist with food or drink preparation
+Take customer orders
+Operate cash registers

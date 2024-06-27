@@ -1,0 +1,52 @@
+Read instances: 0.72 s
+Generate matrices: 3.93 s
+The optimal value is 0.693695652173913
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.15
+Job affinity: 30.435
+Skills per Unit
+	 Initial Activity:
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Enter commands, instructions, or specifications into equipment
+		 Program equipment to perform production tasks
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+		 Monitor equipment operation to ensure proper functioning
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+	 Getting Started with Microsoft OneDrive:
+		 Download data
+Skills for Job Printers
+Download data
+Load materials into production equipment
+Inspected printed materials or other images to verify quality
+Direct operational or production activities
+Evaluate quality of materials or products
+Adjust equipment controls to regulate flow of production
+Clean production equipment
+Feed materials or products into or through equipment
+Install mechanical components in production equipment
+Monitor equipment operation to ensure proper functioning
+Program equipment to perform production tasks
+Record operational or production data
+Mount materials or work pieces onto production equipment
+Enter commands, instructions, or specifications into equipment
+Collect samples of materials or products for testing
+Operate photographic developing or print production equipment
+Read work orders or other instructions to determine product specifications or materials requirements
+Review blueprints or other instructions to determine operational methods or sequences
+Mix ingredients to create specific finishes
+Operate cutting equipment
+Lubricate production equipment
+Maintain inventories of materials, equipment or products
+Order materials, supplies, or equipment

@@ -1,0 +1,71 @@
+Read instances: 0.75 s
+Generate matrices: 7.29 s
+The optimal value is 0.5309375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals of Speechwriting (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.22
+Job affinity: 46.875
+Skills per Unit
+	 Initial Activity:
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Develop instructional objectives
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Order instructional or library materials or equipment
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Display student work
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Increase Student Buy in with Google Slides:
+		 Develop instructional objectives
+		 Evaluate performance of educational staff
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Fundamentals of Speechwriting:
+		 Attend training sessions or events to develop or maintain professional knowledge
+		 Read to students
+Skills for Job Early Childhood (Pre-primary School) Teachers
+Provide for basic needs of children
+Teach life skills
+Plan educational activities
+Set up classroom materials or equipment
+Establish rules or policies governing student behaviour
+Develop instructional objectives
+Assist students with special educational needs
+Enforce rules or policies governing student behaviour
+Apply multiple teaching methods
+Read to students
+Modify teaching methods or materials to accommodate student needs
+Develop strategies or programs for students with accessibility needs
+Supervise school or student activities
+Monitor student behaviour, social development or health
+Display student work
+Collaborate with other teaching professionals to develop educational programs
+Maintain student records
+Monitor student performance
+Evaluate student work
+Arrange childcare or educational settings to ensure physical safety of children
+Discuss problems or issues with supervisors
+Discuss student progress with parents or guardians
+Plan experiential learning activities
+Evaluate performance of educational staff
+Supervise student research or internship work
+Prepare reports detailing student activities or performance
+Administer tests to assess educational needs or progress
+Serve on institutional or departmental committees
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Attend training sessions or events to develop or maintain professional knowledge

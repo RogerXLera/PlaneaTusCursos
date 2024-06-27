@@ -1,0 +1,51 @@
+Read instances: 0.75 s
+Generate matrices: 10.03 s
+The optimal value is 0.5291176470588236
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating a Multi Page App using HTML & CSS (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to AI in the Data Center (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.61
+Job affinity: 47.059
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Maintain financial or account records
+	 Create Employee Management System with When I Work:
+		 Perform human resources activities
+	 Creating a Multi Page App using HTML & CSS:
+		 Arrange items for use or display
+	 Introduction to AI in the Data Center:
+		 Arrange facility schedules
+	 Transformer Models and BERT Model:
+		 Promote goods, services, or programs
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Discuss service options or needs with clients
+		 Gather information in order to provide services to clients
+	 Improving Classroom Management with Class Dojo:
+		 Provide counsel, comfort or encouragement to individuals or families
+Skills for Job Funeral Workers
+Direct funeral or mortuary activities
+Discuss service options or needs with clients
+Provide counsel, comfort or encouragement to individuals or families
+Gather information in order to provide services to clients
+Clean work areas or facilities
+Embalm corpses
+Arrange facility schedules
+Usher patrons to seats or exits
+Maintain financial or account records
+Order materials, supplies, or equipment
+Provide escort or transportation
+Arrange items for use or display
+Train service staff
+Perform human resources activities
+Supervise service workers
+Handle caskets and coffins
+Promote goods, services, or programs

@@ -1,0 +1,52 @@
+Read instances: 0.77 s
+Generate matrices: 8.62 s
+The optimal value is 0.37625
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Community Awareness Course: Sexuality and Disabili (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploy Machine Learning Model into AWS Cloud Serve (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Public Health Perspectives on Sustainable Diets (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk: Build & Deploy a Node.js RE (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.56
+Job affinity: 62.500
+Skills per Unit
+	 Initial Activity:
+	 Public Health Perspectives on Sustainable Diets:
+		 Prepare food
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+	 Community Awareness Course: Sexuality and Disability:
+		 Assist individuals with accessibility needs
+		 Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+	 AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API:
+		 Maintain client information or service records
+	 Deploy Machine Learning Model into AWS Cloud Servers:
+		 Develop plans for programs or services
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive vehicles to transport patrons
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Deliver inclusive and accessible programs, policies or services
+		 Provide counsel, comfort or encouragement to individuals or families
+Skills for Job Aged and Disabled Carers
+Administer health care or medical treatments
+Prepare food
+Teach health or hygiene practices
+Assist individuals with accessibility needs
+Support individuals with diverse needs to understand, access and utilise information or services
+Provide counsel, comfort or encouragement to individuals or families
+Transport patients to and from medical facilities
+Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+Monitor health or behaviour of people
+Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+Drive vehicles to transport patrons
+Perform housekeeping duties
+Deliver inclusive and accessible programs, policies or services
+Develop plans for programs or services
+Document client health or progress
+Maintain client information or service records

@@ -1,0 +1,41 @@
+Read instances: 0.75 s
+Generate matrices: 2.73 s
+The optimal value is 0.41750000000000004
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a Tic-Tac-Toe game in Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Charts and Dashboards Using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Virtual Networks in Azure (10.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.13
+Job affinity: 58.333
+Skills per Unit
+	 Initial Activity:
+	 Create Charts and Dashboards Using Microsoft Excel:
+		 Prepare operational reports or records
+	 Create a Tic-Tac-Toe game in Python:
+		 Compute gaming wins and losses
+		 Conduct amusement or gaming activities
+		 Conduct gaming transactions
+	 Virtual Networks in Azure:
+		 Monitor operational quality or safety
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Inspect equipment to ensure proper functioning
+	 Launch your first online meeting with ZOOM:
+		 Maintain financial or account records
+Skills for Job Gaming Workers
+Conduct amusement or gaming activities
+Conduct gaming transactions
+Operate gaming equipment
+Compute gaming wins and losses
+Inspect equipment to ensure proper functioning
+Usher patrons to seats or exits
+Respond to customer inquiries
+Maintain financial or account records
+Prepare operational reports or records
+Monitor operational quality or safety
+Supervise service workers
+Train service staff

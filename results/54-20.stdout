@@ -1,0 +1,53 @@
+Read instances: 0.73 s
+Generate matrices: 4.59 s
+The optimal value is 0.3585714285714286
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Your Health: The Role of Physical Therapy (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamental Human Physiology in Sports Medicine (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Teaching LGBTQ+ Health (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: HPV-Associated Oral and Throat Cancer: What You Ne (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Disease Clusters (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Become a Peer Sponsor: Intro to Military Transitio (4.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.43
+Job affinity: 64.286
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Managing Your Health: The Role of Physical Therapy and Exercise:
+		 Examine patients to assess general physical condition
+	 Fundamental Human Physiology in Sports Medicine:
+		 Apply bandages, dressings or splints
+		 Diagnose medical conditions
+	 Teaching LGBTQ+ Health:
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 HPV-Associated Oral and Throat Cancer: What You Need to Know:
+		 Advise patients of health conditions or treatments
+		 Gather medical information from patient histories
+	 Disease Clusters:
+		 Analyse test results to inform diagnosis or treatment
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Collaborate with health care professionals to plan or provide treatment
+		 Collect medical information from patients, family members or other medical professionals
+	 Become a Peer Sponsor: Intro to Military Transition Support:
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Chiropractors and Osteopaths
+Examine patients to assess general physical condition
+Record patient medical histories
+Treat patients using physical techniques
+Advise patients of health conditions or treatments
+Provide health and wellness advice to patients, program participants or caregivers
+Analyse test results to inform diagnosis or treatment
+Collect medical information from patients, family members or other medical professionals
+Gather medical information from patient histories
+Diagnose medical conditions
+Schedule patient procedures or appointments
+Collaborate with health care professionals to plan or provide treatment
+Refer patients to other health care practitioners or health resources
+Apply bandages, dressings or splints
+Recommend types of assistive devices

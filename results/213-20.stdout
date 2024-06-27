@@ -1,0 +1,40 @@
+Read instances: 0.70 s
+Generate matrices: 2.32 s
+The optimal value is 0.49999999999999994
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Capstone: Following the AWS Well Architected Frame (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: Monitoring and Logging (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Strategic Foresight Capabilities (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Building Strategic Foresight Capabilities:
+		 Confer with managers to make operational decisions
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Harvest agricultural products
+	 Capstone: Following the AWS Well Architected Framework:
+		 Direct activities of agricultural, forestry or fishery employees
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Maintain forestry, hunting or agricultural equipment
+	 AWS: Monitoring and Logging:
+		 Maintain operational records
+Skills for Job Crop Farm Workers
+Confer with managers to make operational decisions
+Harvest agricultural products
+Operate farming or agricultural equipment
+Direct activities of agricultural, forestry or fishery employees
+Operate irrigation systems
+Sort forestry or agricultural materials
+Maintain operational records
+Load agricultural or forestry products for shipment
+Apply chemical solutions to plants for protection or to enhance growth
+Maintain forestry, hunting or agricultural equipment
+Trim trees or other vegetation
+Plant crops, trees or other plants

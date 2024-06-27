@@ -1,0 +1,47 @@
+Read instances: 0.75 s
+Generate matrices: 4.32 s
+The optimal value is 0.6485
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Exam Prep: AWS Certified Cloud Practitioner Founda (9.0) 	 Start Period: 2 	 End Period: 2
+Activity: Systems Engineering (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.24
+Job affinity: 35.000
+Skills per Unit
+	 Initial Activity:
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Advise customers on the use of goods or services
+	 Exam Prep: AWS Certified Cloud Practitioner Foundations:
+		 Estimate maintenance service requirements or costs
+	 Systems Engineering:
+		 Maintain equipment or systems to ensure proper functioning
+	 Golf Course Management: Best Practices:
+		 Coordinate construction project activities
+		 Cultivate and maintain lawns, plants and gardens
+		 Develop detailed project plans
+		 Inspect landscaping to determine treatment needs
+Skills for Job Landscape Gardeners and Irrigation Technicians
+Operate grounds maintenance equipment
+Operate irrigation systems
+Cultivate and maintain lawns, plants and gardens
+Maintain operational records
+Remove debris from work sites
+Irrigate lawns, trees or plants
+Dig holes or trenches
+Supervise maintenance workers
+Develop detailed project plans
+Maintain equipment or systems to ensure proper functioning
+Survey land or properties
+Inspect landscaping to determine treatment needs
+Review blueprints or specifications to determine work requirements
+Estimate maintenance service requirements or costs
+Coordinate construction project activities
+Transport animals, crops, or equipment
+Provide information about landscaping services or costs
+Advise customers on the use of goods or services
+Draw detailed or technical illustrations
+Drive vehicles to, or at, work sites

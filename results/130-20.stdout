@@ -1,0 +1,30 @@
+Read instances: 0.74 s
+Generate matrices: 2.08 s
+The optimal value is 0.6624999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Sourcing Analytics (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.03
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Process customer bills or payments
+	 Sourcing Analytics:
+		 Order materials, supplies, or equipment
+	 Stanford Introduction to Food and Health:
+		 Cook foods
+Skills for Job Bar Attendants and Baristas
+Prepare hot or cold drinks
+Serve food or drinks
+Process customer bills or payments
+Stock serving stations or dining areas with food or supplies
+Take customer orders
+Clean tableware
+Clean food service areas
+Cook foods
+Order materials, supplies, or equipment

@@ -1,0 +1,61 @@
+Read instances: 0.86 s
+Generate matrices: 8.32 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Improving Content Mastery with Quizlet (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Small Talk & Conversational Vocabulary (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Using Microsoft PowerPoint to Create a Choice Boar (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.32
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Administer tests to assess educational needs or progress
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Evaluate student work
+	 Improving Content Mastery with Quizlet:
+		 Administer tests to assess educational needs or progress
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Plan educational activities
+		 Schedule instructional activities
+		 Select educational materials or equipment
+	 Using Microsoft PowerPoint to Create a Choice Board:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Select educational materials or equipment
+		 Teach online courses
+	 Lesson | Small Talk & Conversational Vocabulary:
+		 Attend training sessions or events to develop or maintain professional knowledge
+Skills for Job Vocational Education Teachers / Polytechnic Teachers
+Monitor student performance
+Teach vocational courses
+Teach online courses
+Assess educational needs of students
+Evaluate student work
+Apply multiple teaching methods
+Tutor students who need extra assistance
+Maintain inventories of materials, equipment or products
+Administer tests to assess educational needs or progress
+Maintain student records
+Prepare reports detailing student activities or performance
+Supervise laboratory work
+Supervise student research or internship work
+Plan educational activities
+Advise students on academic or career matters
+Select educational materials or equipment
+Create technology-based learning materials
+Develop instructional objectives
+Schedule instructional activities
+Perform student enrolment or registration activities
+Serve on institutional or departmental committees
+Attend training sessions or events to develop or maintain professional knowledge

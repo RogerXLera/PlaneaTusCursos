@@ -1,0 +1,55 @@
+Read instances: 0.75 s
+Generate matrices: 3.02 s
+The optimal value is 0.725
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: ChatGPT for Beginners: Save time with Microsoft Ex (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering bitumen for better roads and innovative  (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Ferrous Technology I (4.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.12
+Job affinity: 27.273
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: Save time with Microsoft Excel:
+		 Program equipment to perform production tasks
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Conduct test runs of production equipment
+	 Introduction to Duet AI in Google Workspace:
+		 Exchange information with colleagues
+	 Duet AI in Gmail:
+		 Exchange information with colleagues
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+	 Mastering bitumen for better roads and innovative applications:
+		 Lubricate production equipment
+	 Ferrous Technology I:
+		 Clean materials to prepare them for production
+Skills for Job Textile and Footwear Production Machine Operators
+Operate textile or leather cutting or production equipment
+Inspect textile, hide or leather products
+Inspect production equipment
+Repair textiles or apparel
+Feed materials or products into or through equipment
+Adjust equipment controls to regulate flow of production
+Cut fabrics, textiles, leather or hide
+Record operational or production data
+Exchange information with colleagues
+Notify others of equipment repair or maintenance needs
+Watch equipment in operation to detect malfunctions
+Program equipment to perform production tasks
+Study blueprints or other instructions to determine equipment setup requirements
+Replace worn equipment components
+Repair production equipment or tools
+Clean production equipment
+Lubricate production equipment
+Conduct test runs of production equipment
+Set equipment controls to meet cutting specifications
+Install mechanical components in production equipment
+Mount attachments or tools onto production equipment
+Clean materials to prepare them for production

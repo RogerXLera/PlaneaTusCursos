@@ -1,0 +1,49 @@
+Read instances: 0.74 s
+Generate matrices: 2.84 s
+The optimal value is 0.46699999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mechanics of Materials II: Thin-Walled Pressure Ve (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Medical Applications of Particle Accelerators (NPA (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Large Language Models (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Networking (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Azure: Create a Virtual Machine and Deploy a Web S (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Cybersecurity Policy Foundations (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.16
+Job affinity: 53.333
+Skills per Unit
+	 Initial Activity:
+	 Cybersecurity Policy Foundations:
+		 Dig holes or trenches
+	 Medical Applications of Particle Accelerators (NPAP MOOC):
+		 Operate detonation equipment
+	 Introduction to Large Language Models:
+		 Communicate with clients about products, procedures and policies
+	 Introduction to Networking:
+		 Determine appropriate locations for operations or installations
+	 Azure: Create a Virtual Machine and Deploy a Web Server:
+		 Install fencing or other barriers
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Pour materials into, or on, designated areas
+	 Mechanics of Materials II: Thin-Walled Pressure Vessels and Torsion:
+		 Install metal structural components
+		 Position structural components
+Skills for Job Fencers
+Install fencing or other barriers
+Install wooden structural components
+Position structural components
+Install metal structural components
+Dig holes or trenches
+Communicate with clients about products, procedures and policies
+Determine appropriate locations for operations or installations
+Cut wood components
+Verify alignment of structures or equipment
+Mix substances or compounds needed for work activities
+Pour materials into, or on, designated areas
+Mark reference points on construction materials
+Measure work site dimensions
+Weld metal components
+Operate detonation equipment

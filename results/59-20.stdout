@@ -1,0 +1,46 @@
+Read instances: 0.70 s
+Generate matrices: 4.09 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Ethical Issues in Computing Applications (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Curanderismo: Traditional Healing of the Body (14.0) 	 Start Period: 1 	 End Period: 2
+Activity: Leading Change in Health Informatics (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.69
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Ethical Issues in Computing Applications:
+		 Fabricate medical devices
+		 Prescribe assistive medical devices or related treatments
+	 Leading Change in Health Informatics:
+		 Communicate health and wellness information to the public
+		 Maintain medical facility records
+		 Manage health care operations
+	 Fundamentals for Implementing a Hypertension Program:
+		 Communicate health and wellness information to the public
+		 Diagnose medical conditions
+		 Prescribe medications
+	 Curanderismo: Traditional Healing of the Body:
+		 Prescribe treatments or therapies
+		 Treat chronic diseases or disorders
+		 Treat patients using alternative medical procedures
+Skills for Job Podiatrists
+Treat chronic diseases or disorders
+Operate on patients
+Diagnose medical conditions
+Analyse test results to inform diagnosis or treatment
+Prescribe assistive medical devices or related treatments
+Prescribe medications
+Prescribe treatments or therapies
+Communicate health and wellness information to the public
+Refer patients to other health care practitioners or health resources
+Treat patients using alternative medical procedures
+Adjust prostheses or other assistive devices
+Fabricate medical devices
+Manage health care operations
+Maintain medical facility records
+Order medical supplies or equipment

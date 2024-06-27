@@ -1,0 +1,57 @@
+Read instances: 0.71 s
+Generate matrices: 17.15 s
+The optimal value is 0.095
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Management of International Development: Towards A (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Graduate Admission Prediction with Pyspark ML (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Big data and Language 1 (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Accounting: Principles of Financial Accounting (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fraud Detection on Financial Transactions with Mac (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.78
+Job affinity: 90.909
+Skills per Unit
+	 Initial Activity:
+	 Accounting: Principles of Financial Accounting:
+		 Examine financial records
+	 Management of International Development: Towards Agenda 2030:
+		 Communicate with government agencies
+	 Create your e-commerce store with Shopify:
+		 Collect payments for goods or services
+	 Graduate Admission Prediction with Pyspark ML:
+		 Inform individuals or organisations of status or findings
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Apply and maintain information security controls as required by policies or risk assessments
+	 Fraud Detection on Financial Transactions with Machine Learning on Google Cloud:
+		 Analyse data to identify trends or relationships among variables
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+	 Get started with Upwork:
+		 Collect payments for goods or services
+	 Assimilating into Your New Job:
+		 Administer staff recruitment or hiring activities
+	 Lesson | Get Ready for the Interview:
+		 Conduct eligibility or selection interviews
+	 Big data and Language 1:
+		 Prepare research reports
+Skills for Job Inspectors and Regulatory Officers
+Administer staff recruitment or hiring activities
+Review license or permit applications
+Inform individuals or organisations of status or findings
+Advise others on legal or regulatory compliance matters
+Prepare research reports
+Collect payments for goods or services
+Conduct eligibility or selection interviews
+Examine financial records
+Analyse data to identify trends or relationships among variables
+Communicate with government agencies
+Apply and maintain information security controls as required by policies or risk assessments

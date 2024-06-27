@@ -1,0 +1,25 @@
+Read instances: 0.73 s
+Generate matrices: 2.45 s
+The optimal value is 0.775
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.02
+Job affinity: 22.222
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+		 Operate vehicles or material-moving equipment
+Skills for Job Forklift Drivers
+Operate cranes, hoists or other moving or lifting equipment
+Operate vehicles or material-moving equipment
+Load shipments, belongings or materials
+Operate packing or other material-processing equipment
+Communicate with others to coordinate material handling or movement
+Move and store materials, equipment or products
+Position material handling equipment
+Secure cargo
+Calculate weight of loads

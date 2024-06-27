@@ -1,0 +1,31 @@
+Read instances: 0.71 s
+Generate matrices: 2.51 s
+The optimal value is 0.6954999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Business Analysis Using Spreadshee (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Systems Engineering (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.11
+Job affinity: 30.000
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Business Analysis Using Spreadsheets: Basics:
+		 Assess cleaning requirements
+	 Systems Engineering:
+		 Maintain equipment or systems to ensure proper functioning
+	 Golf Course Management: Best Practices:
+		 Clean facilities or sites
+Skills for Job Other Cleaners
+Clean facilities or sites
+Dispose of rubbish or waste materials
+Assess cleaning requirements
+Select equipment, materials or supplies for cleaning or maintenance activities
+Safely handle chemicals for work applications
+Inventory materials or equipment
+Monitor building premises to ensure occupant or visitor safety
+Drive vehicles to, or at, work sites
+Confer with others to coordinate maintenance or cleaning activities
+Maintain equipment or systems to ensure proper functioning

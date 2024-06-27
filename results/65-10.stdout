@@ -1,0 +1,45 @@
+Read instances: 0.71 s
+Generate matrices: 5.35 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: COVID-19 Training for Healthcare Workers (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Transgender Medicine for General Medical Providers (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.33
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 COVID-19 Training for Healthcare Workers:
+		 Diagnose medical conditions
+		 Manage health care operations
+		 Perform emergency medical procedures which are complex, intensive or critical
+	 Fundamentals for Implementing a Hypertension Program:
+		 Diagnose medical conditions
+		 Prescribe medications
+	 Transgender Medicine for General Medical Providers:
+		 Analyse patient data to determine patient needs or treatment goals
+		 Assist health care practitioners during surgery
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Conduct research to increase knowledge about medical issues
+Skills for Job Surgeons
+Analyse patient data to determine patient needs or treatment goals
+Operate on patients
+Supervise patient care staff
+Examine patients to assess general physical condition
+Follow protocols or regulations for health care activities
+Perform emergency medical procedures which are complex, intensive or critical
+Prescribe medications
+Record patient medical histories
+Prescribe treatments or therapies
+Refer patients to other health care practitioners or health resources
+Diagnose medical conditions
+Advise others on health care issues
+Assist health care practitioners during surgery
+Conduct research to increase knowledge about medical issues
+Manage health care operations
+Schedule patient procedures or appointments

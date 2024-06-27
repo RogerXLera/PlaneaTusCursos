@@ -1,0 +1,53 @@
+Read instances: 0.71 s
+Generate matrices: 5.40 s
+The optimal value is 0.6178571428571428
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Large Language Models (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.29
+Job affinity: 38.095
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Microsoft Office 365:
+		 Document operational activities
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Inspect systems to determine if they are operating properly
+		 Test electrical circuits or components for proper functioning
+	 Introduction to Large Language Models:
+		 Adjust equipment for optimal performance
+	 Attention Mechanism:
+		 Interpret blueprints, specifications or diagrams
+	 Duet AI in Gmail:
+		 Confer with customers or users to assess problems
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+Skills for Job Airconditioning and Refrigeration Mechanics
+Install energy-efficient heating, ventilation or air conditioning (HVAC) equipment
+Install heating, ventilation or air conditioning (HVAC) equipment
+Test electrical circuits or components for proper functioning
+Service heating, ventilation or air-conditioning (HVAC) systems or components
+Confer with customers or users to assess problems
+Document operational activities
+Repair worn, damaged, or defective mechanical parts
+Advise others on issues related to repairs, installation or equipment design
+Adjust equipment for optimal performance
+Inspect systems to determine if they are operating properly
+Repair pipes to stop leaking
+Interpret blueprints, specifications or diagrams
+Connect electrical components or equipment
+Replace worn, damaged or defective mechanical parts
+Drill holes in parts, equipment or materials
+Install insulation in equipment or structures
+Assemble mechanical components or machine parts
+Fabricate parts or components
+Cut materials according to specifications or needs
+Measure distances or dimensions
+Position equipment using hand tools, power tools or heavy equipment

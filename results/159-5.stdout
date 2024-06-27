@@ -1,0 +1,25 @@
+Read instances: 0.69 s
+Generate matrices: 2.35 s
+The optimal value is 0.775
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Privacy & Standardisation Capstone (10.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.02
+Job affinity: 22.222
+Skills per Unit
+	 Initial Activity:
+	 Privacy & Standardisation Capstone:
+		 Evaluate information related to legal matters in public or personal records
+		 Prepare legal documents
+Skills for Job Conveyancers and Legal Executives
+Prepare legal documents
+Maintain the order of legal documents
+Research relevant legal materials to aid decision making
+Coordinate legal schedules or activities
+Evaluate information related to legal matters in public or personal records
+Confer with court staff to clarify information
+Meet with individuals involved in legal processes to provide information and clarify issues
+Represent the interests of clients in legal proceedings or court
+Arbitrate disputes between parties to resolve legal conflicts

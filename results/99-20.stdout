@@ -1,0 +1,48 @@
+Read instances: 0.73 s
+Generate matrices: 2.54 s
+The optimal value is 0.5781578947368421
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Transformation of the Global Food System (11.0) 	 Start Period: 1 	 End Period: 1
+Activity: Cooking for Busy Healthy People (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Core Java (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.18
+Job affinity: 42.105
+Skills per Unit
+	 Initial Activity:
+	 Core Java:
+		 Inspect facilities, equipment or supplies to ensure conformance to standards
+	 Cooking for Busy Healthy People:
+		 Clean food preparation areas, facilities or equipment
+		 Evaluate quality of food, drinks or ingredients
+		 Manage preparation of special meals or diets
+		 Operate food processing equipment
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+		 Monitor equipment operation to ensure proper functioning
+	 Transformation of the Global Food System:
+		 Manage preparation of special meals or diets
+		 Produce pastries and other baked goods
+Skills for Job Bakers and Pastrycooks
+Operate food processing equipment
+Adjust temperature controls of ovens or other heating equipment
+Evaluate quality of food, drinks or ingredients
+Prepare breads or doughs
+Produce pastries and other baked goods
+Apply glazes or icing
+Load materials into production equipment
+Weigh or measure ingredients
+Inspect facilities, equipment or supplies to ensure conformance to standards
+Shape dough
+Mix ingredients
+Direct operational or production activities
+Record operational or production data
+Load items into ovens or furnaces
+Manage preparation of special meals or diets
+Order materials, supplies, or equipment
+Clean food preparation areas, facilities or equipment
+Monitor equipment operation to ensure proper functioning
+Maintain production or processing equipment

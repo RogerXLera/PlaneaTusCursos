@@ -1,0 +1,28 @@
+Read instances: 0.72 s
+Generate matrices: 2.37 s
+The optimal value is 0.8275
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.02
+Job affinity: 16.667
+Skills per Unit
+	 Initial Activity:
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+Skills for Job Shelf Fillers
+Discuss goods or services information with customers or patrons
+Stock supplies, merchandise, food or drink
+Package objects for shipping
+Deliver items
+Order materials, supplies, or equipment
+Collect deposits, payments or fees
+Calculate costs of goods or services
+Monitor inventories
+Inspect shipments to ensure correct order fulfilment
+Attach identification information to products, items or containers
+Distribute materials to employees or customers
+Receive shipments

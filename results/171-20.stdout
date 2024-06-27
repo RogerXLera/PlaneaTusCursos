@@ -1,0 +1,57 @@
+Read instances: 0.69 s
+Generate matrices: 6.69 s
+The optimal value is 0.4739473684210526
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Necessary Condition Analysis (NCA) (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fashion Retail Transformation (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.75
+Job affinity: 52.632
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Develop marketing plans or strategies
+		 Maintain records of sales or other business transactions
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Account Management & Sales Force Design:
+		 Coordinate sales campaigns
+		 Develop marketing plans or strategies
+		 Sell goods or services
+	 Fashion Retail Transformation:
+		 Answer customer questions about goods or services
+		 Develop marketing plans or strategies
+		 Procure stocks of merchandise or supplies
+	 Introduction to Duet AI in Google Workspace:
+		 Establish operational policies
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor sales activities
+	 Necessary Condition Analysis (NCA):
+		 Examine condition of property or products
+Skills for Job Retail Supervisors
+Supervise sales or support staff
+Establish operational policies
+Examine condition of property or products
+Assign duties or work schedules to employees
+Monitor sales activities
+Train sales staff
+Answer customer questions about goods or services
+Greet customers, patrons or visitors
+Monitor work areas to provide security
+Maintain records of sales or other business transactions
+Monitor inventories
+Set up merchandise displays
+Develop marketing plans or strategies
+Monitor market conditions or trends
+Clean work areas
+Sell goods or services
+Procure stocks of merchandise or supplies
+Prepare financial documents, reports or budgets
+Coordinate sales campaigns

@@ -1,0 +1,50 @@
+Read instances: 0.71 s
+Generate matrices: 5.21 s
+The optimal value is 0.438125
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Schizophrenia (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building and analyzing linear regression model in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.29
+Job affinity: 56.250
+Skills per Unit
+	 Initial Activity:
+	 Building and analyzing linear regression model in R:
+		 Analyse test results to inform diagnosis or treatment
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Schizophrenia:
+		 Prescribe treatments or therapies
+	 Fundamentals for Implementing a Hypertension Program:
+		 Prescribe medications
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Care for women during pregnancy and childbirth
+		 Collaborate with health care professionals to plan or provide treatment
+		 Collect medical information from patients, family members or other medical professionals
+		 Conduct research to increase knowledge about medical issues
+		 Explain medical procedures or test results to patients or family members
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job General Practitioners and Resident Medical Officers
+Explain medical procedures or test results to patients or family members
+Monitor patient progress or responses to treatments
+Refer patients to other health care practitioners or health resources
+Collect medical information from patients, family members or other medical professionals
+Record patient medical histories
+Prescribe medications
+Supervise patient care staff
+Order medical diagnostic or clinical tests
+Analyse test results to inform diagnosis or treatment
+Collaborate with health care professionals to plan or provide treatment
+Provide health and wellness advice to patients, program participants or caregivers
+Prescribe treatments or therapies
+Prepare official health documents or records
+Conduct research to increase knowledge about medical issues
+Care for women during pregnancy and childbirth
+Operate on patients

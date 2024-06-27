@@ -1,0 +1,66 @@
+Read instances: 0.70 s
+Generate matrices: 23.47 s
+The optimal value is 0.5353571428571429
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your first custom VPC and its components in (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Networking (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.52
+Job affinity: 46.429
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Microsoft Office 365:
+		 Document network-related activities or tasks
+		 Document operational activities
+	 Planning a Generative AI Project:
+		 Analyse project data to determine specifications or requirements
+		 Evaluate project designs to determine adequacy or feasibility
+	 Introduction to Networking:
+		 Design integrated computer systems
+		 Develop models of information or communications systems
+	 Getting Started with Ubuntu Linux:
+		 Coordinate software or hardware installation
+		 Implement security measures for computer or information systems
+		 Install computer software
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Analyse security of systems, network or data
+		 Design integrated computer systems
+		 Test computer hardware performance
+	 Create your first custom VPC and its components in AWS:
+		 Monitor the performance of computer networks
+		 Provide technical support for computer network issues
+Skills for Job Telecommunications Engineering Professionals
+Implement security measures for computer or information systems
+Conduct research to gain information about products or processes
+Maintain computer hardware
+Collaborate with others to determine design specifications or details
+Document operational activities
+Maintain the inventory of equipment
+Coordinate project activities with other staff or departments
+Update knowledge about emerging industry or technology trends
+Analyse project data to determine specifications or requirements
+Monitor the performance of computer networks
+Analyse security of systems, network or data
+Install computer hardware
+Estimate time or monetary resources needed to complete projects
+Teach others to use computer equipment or hardware
+Document network-related activities or tasks
+Develop models of information or communications systems
+Document operational procedures
+Design integrated computer systems
+Provide technical support for computer network issues
+Troubleshoot issues with computer applications or systems
+Coordinate software or hardware installation
+Install computer software
+Create electronic data backup to prevent loss of information
+Identify information technology project resource requirements
+Evaluate project designs to determine adequacy or feasibility
+Test computer hardware performance
+Document technical specifications or requirements
+Maintain contingency plans for disaster recovery

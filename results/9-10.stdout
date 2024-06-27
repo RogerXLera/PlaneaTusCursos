@@ -1,0 +1,79 @@
+Read instances: 0.82 s
+Generate matrices: 66.67 s
+The optimal value is 0.3716666666666667
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Project Tracker with Airtable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Business Implications of AI: Full course (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.98
+Job affinity: 62.963
+Skills per Unit
+	 Initial Activity:
+	 Business Implications of AI: Full course:
+		 Coordinate project activities with other staff or departments
+		 Develop detailed project plans
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+		 Implement organisational process or policy changes
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Success with Integrity: Business Ethics Foundation:
+		 Develop sustainable organisational policies or practices
+	 Hiring and Onboarding Employees with ClickUp:
+		 Develop operating strategies, plans or procedures
+		 Manage human resources activities
+	 Introduction to Generative AI Studio:
+		 Create models of engineering designs or methods
+		 Develop software applications
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Create models of engineering designs or methods
+		 Procure materials, equipment or other resources
+		 Promote goods, services, or programs
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Communicate organisational information to customers or other stakeholders
+		 Develop operating strategies, plans or procedures
+		 Develop organisational goals or objectives
+		 Develop organisational policies or programs
+	 Create a Project Tracker with Airtable:
+		 Confer with peers to accomplish work
+		 Develop detailed project plans
+		 Manage operations, research or logistics projects
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Direct facility maintenance or repair activities
+Skills for Job Engineering Managers
+Manage construction activities
+Confer with peers to accomplish work
+Approve expenditures
+Negotiate project specifications
+Manage operations, research or logistics projects
+Develop detailed project plans
+Prepare financial documents, reports or budgets
+Communicate organisational information to customers or other stakeholders
+Coordinate project activities with other staff or departments
+Evaluate environmental impact of operational or development activities
+Direct facility maintenance or repair activities
+Procure materials, equipment or other resources
+Identify environmental concerns
+Develop organisational goals or objectives
+Create models of engineering designs or methods
+Implement organisational process or policy changes
+Develop software applications
+Develop operating strategies, plans or procedures
+Prepare operational budgets
+Manage human resources activities
+Develop organisational policies or programs
+Analyse market research data
+Estimate demand for goods or services
+Develop sustainable organisational policies or practices
+Communicate with government agencies
+Present information to the public
+Promote goods, services, or programs

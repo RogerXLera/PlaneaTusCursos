@@ -1,0 +1,64 @@
+Read instances: 0.72 s
+Generate matrices: 21.32 s
+The optimal value is 0.5916666666666667
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Image Captioning Models (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.50
+Job affinity: 40.741
+Skills per Unit
+	 Initial Activity:
+	 Getting Started with Microsoft Word:
+		 Maintain regulatory or compliance documentation
+	 Create Employee Management System with When I Work:
+		 Determine resource needs
+		 Evaluate employee performance
+		 Recruit staff
+	 Create Image Captioning Models:
+		 Analyse data to inform operational decisions or activities
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Manage guest services
+		 Procure materials, equipment or other resources
+	 Building a Generative AI-Ready Organization:
+		 Develop organisational policies or programs
+	 Introduction to Responsible AI:
+		 Monitor activities of individuals to ensure safety or compliance with rules
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+		 Manage organisational or project budgets
+Skills for Job Cafe and Restaurant Managers
+Provide basic information to guests, visitors, or clients
+Manage guest services
+Monitor organisational procedures to ensure proper functioning
+Perform manual service or maintenance tasks
+Monitor activities of individuals to ensure safety or compliance with rules
+Evaluate quality of materials or products
+Develop organisational policies or programs
+Maintain operational records
+Collect payments for goods or services
+Analyse data to inform operational decisions or activities
+Maintain regulatory or compliance documentation
+Monitor organisational compliance with regulations
+Resolve customer complaints or problems
+Manage organisational or project budgets
+Prepare staff schedules or work assignments
+Direct facility maintenance or repair activities
+Manage inventories of products or organisational resources
+Estimate cost or material requirements
+Procure materials, equipment or other resources
+Schedule product or material transportation
+Recommend organisational process or policy changes
+Determine resource needs
+Recruit staff
+Schedule activities or facility use
+Negotiate sales or lease agreements for goods or services
+Evaluate employee performance
+Manage human resources activities

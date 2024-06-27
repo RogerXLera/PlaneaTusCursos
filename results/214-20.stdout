@@ -1,0 +1,55 @@
+Read instances: 0.72 s
+Generate matrices: 2.76 s
+The optimal value is 0.4739473684210526
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Antibiotic Stewardship (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Perspectives in Digital Transformation: Agribusine (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: The Truth About Cats and Dogs (16.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.14
+Job affinity: 52.632
+Skills per Unit
+	 Initial Activity:
+	 Challenges of Agribusiness Management:
+		 Package agricultural products for shipment or further processing
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Perspectives in Digital Transformation: Agribusiness:
+		 Operate farming or agricultural equipment
+	 Antibiotic Stewardship:
+		 Clean equipment or facilities
+	 The Truth About Cats and Dogs:
+		 Assess characteristics of wool, fleece, hair or hide
+		 Care for animals
+		 Comply with industry animal welfare requirements
+		 Examine animals to detect illness, injury or other problems
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Perform animal breeding procedures
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Maintain forestry, hunting or agricultural equipment
+Skills for Job Livestock Farm Workers
+Care for animals
+Operate farming or agricultural equipment
+Maintain operational records
+Examine animals to detect illness, injury or other problems
+Perform animal breeding procedures
+Maintain forestry, hunting or agricultural equipment
+Transport animals, crops, or equipment
+Safely load and unload animals for transport
+Prepare materials or solutions for animal or plant use
+Assess characteristics of wool, fleece, hair or hide
+Clean equipment or facilities
+Mark agricultural or forestry products for identification
+Grade or classify agricultural produce
+Comply with industry animal welfare requirements
+Employ appropriate wool or fleece handling techniques
+Maintain inventories of materials, equipment or products
+Treat animal injuries or illnesses
+Package agricultural products for shipment or further processing
+Remove skin or other body parts from animals

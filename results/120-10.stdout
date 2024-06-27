@@ -1,0 +1,40 @@
+Read instances: 0.69 s
+Generate matrices: 3.94 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: A New Communication Framework for Healthcare (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: HPV-Associated Oral and Throat Cancer: What You Ne (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.21
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 A New Communication Framework for Healthcare:
+		 Collaborate with health care professionals to plan or provide treatment
+		 Encourage patients or clients to develop life skills
+		 Inform medical professionals regarding patient conditions and care
+	 Everyday Chinese Medicine 2:
+		 Develop medical treatment plans
+		 Develop treatment plans that use non-medical therapies
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Collect medical information from patients, family members or other medical professionals
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 HPV-Associated Oral and Throat Cancer: What You Need to Know:
+		 Gather medical information from patient histories
+Skills for Job Diversional Therapists
+Develop treatment plans that use non-medical therapies
+Train patients, family members or caregivers in techniques for managing disabilities or illnesses
+Encourage patients or clients to develop life skills
+Provide health and wellness advice to patients, program participants or caregivers
+Record patient medical histories
+Monitor patient progress or responses to treatments
+Collaborate with health care professionals to plan or provide treatment
+Collect medical information from patients, family members or other medical professionals
+Gather medical information from patient histories
+Inform medical professionals regarding patient conditions and care
+Prepare reports summarising patient diagnostic or care activities
+Develop medical treatment plans

@@ -1,0 +1,32 @@
+Read instances: 0.69 s
+Generate matrices: 2.69 s
+The optimal value is 0.5449999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Gender Equality (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to International Criminal Law (12.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.12
+Job affinity: 45.455
+Skills per Unit
+	 Initial Activity:
+	 Introduction to International Criminal Law:
+		 Arbitrate disputes between parties to resolve legal conflicts
+		 Direct courtroom activities or procedures
+		 Make decisions in legal cases
+	 Gender Equality:
+		 Conduct hearings to investigate legal issues
+		 Identify implications for cases from legal precedents or other legal information
+Skills for Job Judicial and Other Legal Professionals
+Direct courtroom activities or procedures
+Arbitrate disputes between parties to resolve legal conflicts
+Make decisions in legal cases
+Research relevant legal materials to aid decision making
+Identify implications for cases from legal precedents or other legal information
+Supervise activities of other legal staff
+Conduct hearings to investigate legal issues
+Prepare written decisions for legal proceedings
+Rule on admissibility of legal proceedings
+Authorise payments to settle legal disputes
+Administer oaths to court participants

@@ -1,0 +1,44 @@
+Read instances: 0.71 s
+Generate matrices: 2.35 s
+The optimal value is 0.7344736842105263
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Aurora Service Introduction (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.07
+Job affinity: 26.316
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+	 Infection Prevention in Nursing Homes:
+		 Clean facilities or work areas
+	 Duet AI in Gmail:
+		 Receive information or instructions for performing work assignments
+	 Amazon Aurora Service Introduction:
+		 Monitor cargo area conditions
+		 Move and store materials, equipment or products
+Skills for Job Freight and Furniture Handlers
+Operate cranes, hoists or other moving or lifting equipment
+Move and store materials, equipment or products
+Load shipments, belongings or materials
+Transport goods, materials or liquids
+Sort materials or objects for processing or transport
+Shovel materials
+Record operational or production data
+Mark materials or objects for identification
+Secure cargo
+Monitor cargo area conditions
+Operate packing or other material-processing equipment
+Clean facilities or work areas
+Receive information or instructions for performing work assignments
+Review work orders or schedules to determine operations or procedures
+Position material handling equipment
+Package materials or products
+Set up material handling gear or equipment
+Maintain material moving equipment in good working condition
+Connect cables or electrical lines

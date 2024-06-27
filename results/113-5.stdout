@@ -1,0 +1,42 @@
+Read instances: 0.70 s
+Generate matrices: 3.56 s
+The optimal value is 0.8535714285714285
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Learn UI Design Fundamentals (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.07
+Job affinity: 14.286
+Skills per Unit
+	 Initial Activity:
+	 Learn UI Design Fundamentals:
+		 Design templates or patterns
+	 Introduction to Duet AI in Google Workspace:
+		 Exchange information with colleagues
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Read work orders or other instructions to determine product specifications or materials requirements
+Skills for Job Upholsterers
+Repair furniture or upholstery
+Assemble garments or textile products
+Read work orders or other instructions to determine product specifications or materials requirements
+Record operational or production data
+Attach decorative or functional accessories to products
+Design templates or patterns
+Adjust fabrics or other materials during garment production or processing
+Draw guide lines or markings on materials or work pieces using patterns or other references
+Sew products
+Prepare fabrics or materials for processing or production
+Align parts or work pieces for assembly
+Mount materials or work pieces onto production equipment
+Clean carpet, rugs, upholstery or drapery
+Measure materials to mark reference points, cutting lines or other indicators
+Cut fabrics, textiles, leather or hide
+Exchange information with colleagues
+Operate sewing equipment
+Repair textiles or apparel
+Confer with customers or designers to determine order specifications
+Estimate costs of goods, services or materials
+Shape surfaces or edges of wood work pieces

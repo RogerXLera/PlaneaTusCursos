@@ -1,0 +1,56 @@
+Read instances: 0.70 s
+Generate matrices: 2.21 s
+The optimal value is 0.5495
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a no-code responsive website with Webflow (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The New Nordic Diet - from Gastronomy to Health (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Cooking for Busy Healthy People (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 45.000
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Process customer bills or payments
+	 How to Get Into Robotics:
+		 Move equipment, supplies or food to required locations
+	 Create a no-code responsive website with Webflow:
+		 Present specials information or menus to customers
+	 Cooking for Busy Healthy People:
+		 Clean food preparation areas, facilities or equipment
+		 Cook foods
+		 Prepare foods for processing, cooking and serving
+	 The New Nordic Diet - from Gastronomy to Health:
+		 Cook foods
+		 Cut foods
+	 Family Spirit Nurture:
+		 Assist with food or drink preparation
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Assess equipment functioning
+Skills for Job Food Trades Assistants
+Store supplies or goods in kitchens or storage areas
+Cook foods
+Arrange food for serving
+Weigh or measure ingredients
+Cut foods
+Dispose of rubbish or waste materials
+Stock serving stations or dining areas with food or supplies
+Prepare foods for processing, cooking and serving
+Package food or supplies
+Assess equipment functioning
+Serve food or drinks
+Move equipment, supplies or food to required locations
+Clean food preparation areas, facilities or equipment
+Assist with food or drink preparation
+Record operational or production data
+Present specials information or menus to customers
+Operate cash registers
+Process customer bills or payments
+Mix ingredients
+Clean food service areas

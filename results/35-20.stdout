@@ -1,0 +1,69 @@
+Read instances: 0.71 s
+Generate matrices: 12.95 s
+The optimal value is 0.005
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Giving Helpful Feedback (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Prompt Engineering Generative AI for Marketing & A (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Engaging and Assessing Students with Plickers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Training and Learning Online (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Develop a free website with WordPress (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Logistics Excellence (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.26
+Job affinity: 100.000
+Skills per Unit
+	 Initial Activity:
+	 Giving Helpful Feedback:
+		 Coach others
+	 Prompt Engineering Generative AI for Marketing & Advertising:
+		 Conduct market research
+		 Develop promotional strategies or plans
+	 Get started with Jira:
+		 Collaborate with others in marketing activities
+	 Logistics Excellence:
+		 Coordinate logistics for productions or events
+	 Develop a free website with WordPress:
+		 Deliver, publish, broadcast or distribute final audio or visual media product
+		 Manage content of broadcasts or presentations
+		 Write advertising or promotional material
+	 Transformer Models and BERT Model:
+		 Promote products, activities, or organisations
+	 Duet AI in Gmail:
+		 Edit written materials
+	 Duet AI in Gmail:
+		 Edit written materials
+	 Engaging and Assessing Students with Plickers:
+		 Provide educational information to the public
+	 Build a Professional Resume using Canva:
+		 Inform viewers, listeners or audiences
+		 Write informational material
+	 Training and Learning Online:
+		 Provide educational information to the public
+	 Lesson | Express Yourself: Pronunciation:
+		 Inform viewers, listeners or audiences
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+Skills for Job Public Relations Professionals
+Write advertising or promotional material
+Develop promotional strategies or plans
+Provide educational information to the public
+Manage content of broadcasts or presentations
+Collaborate with others in marketing activities
+Write informational material
+Coach others
+Edit written materials
+Deliver, publish, broadcast or distribute final audio or visual media product
+Coordinate logistics for productions or events
+Operate still or video cameras or related equipment
+Promote products, activities, or organisations
+Inform viewers, listeners or audiences
+Conduct market research

@@ -1,0 +1,42 @@
+Read instances: 0.75 s
+Generate matrices: 18.84 s
+The optimal value is 0.365
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Graduate Admission Prediction with Pyspark ML (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Interpretable Machine Learning Applications: Part  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.43
+Job affinity: 63.636
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Collect payments for goods or services
+	 Graduate Admission Prediction with Pyspark ML:
+		 Inform individuals or organisations of status or findings
+	 Interpretable Machine Learning Applications: Part 1:
+		 Analyse data to identify trends or relationships among variables
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Apply and maintain information security controls as required by policies or risk assessments
+	 Assimilating into Your New Job:
+		 Administer staff recruitment or hiring activities
+	 Lesson | Get Ready for the Interview:
+		 Conduct eligibility or selection interviews
+Skills for Job Inspectors and Regulatory Officers
+Administer staff recruitment or hiring activities
+Review license or permit applications
+Inform individuals or organisations of status or findings
+Advise others on legal or regulatory compliance matters
+Prepare research reports
+Collect payments for goods or services
+Conduct eligibility or selection interviews
+Examine financial records
+Analyse data to identify trends or relationships among variables
+Communicate with government agencies
+Apply and maintain information security controls as required by policies or risk assessments

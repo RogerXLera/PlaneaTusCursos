@@ -1,0 +1,61 @@
+Read instances: 0.69 s
+Generate matrices: 11.90 s
+The optimal value is 0.54125
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI - Português Brasilei (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: ChatGPT for Beginners: SciFi Writing with Dall-e (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a Twitter Clone Front-End with ReactJS (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.48
+Job affinity: 45.833
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: SciFi Writing with Dall-e:
+		 Collaborate with others to determine technical details of productions
+		 Collaborate with others to prepare or perform artistic productions
+		 Create computer-generated graphics or animation
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+	 Build a Twitter Clone Front-End with ReactJS:
+		 Build models, patterns or templates
+		 Monitor current trends
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Build models, patterns or templates
+		 Maintain records, documents or other files
+	 Introduction to Generative AI - Português Brasileiro:
+		 Conduct research to inform art, designs or other work
+		 Create computer-generated graphics or animation
+		 Provide creative leadership to ensure production has desired effect, mood or style
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+	 Lesson | Organize Your Pitch:
+		 Send information, materials or documentation
+Skills for Job Visual Arts and Crafts Professionals
+Draw detailed or technical illustrations
+Construct distinctive physical objects for artistic, functional or commercial purposes
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Present work to clients for approval
+Provide creative leadership to ensure production has desired effect, mood or style
+Coordinate logistics for productions or events
+Build models, patterns or templates
+Collaborate with others to determine technical details of productions
+Apply finishes to artwork, crafts, or displays
+Research new technologies
+Estimate costs for projects or productions
+Perform marketing activities
+Operate still or video cameras or related equipment
+Teach classes in area of specialisation
+Collaborate with others to prepare or perform artistic productions
+Conduct research to inform art, designs or other work
+Monitor current trends
+Determine technical requirements of productions or projects
+Maintain records, documents or other files
+Prepare materials for preservation, storage or display
+Create computer-generated graphics or animation
+Arrange artwork, products or props
+Send information, materials or documentation
+Entertain public with performances

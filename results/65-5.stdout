@@ -1,0 +1,43 @@
+Read instances: 0.76 s
+Generate matrices: 6.12 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: COVID-19: What You Need to Know (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Analyse patient data to determine patient needs or treatment goals
+	 COVID-19: What You Need to Know:
+		 Conduct research to increase knowledge about medical issues
+		 Follow protocols or regulations for health care activities
+	 Fundamentals for Implementing a Hypertension Program:
+		 Diagnose medical conditions
+		 Prescribe medications
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Conduct research to increase knowledge about medical issues
+Skills for Job Surgeons
+Analyse patient data to determine patient needs or treatment goals
+Operate on patients
+Supervise patient care staff
+Examine patients to assess general physical condition
+Follow protocols or regulations for health care activities
+Perform emergency medical procedures which are complex, intensive or critical
+Prescribe medications
+Record patient medical histories
+Prescribe treatments or therapies
+Refer patients to other health care practitioners or health resources
+Diagnose medical conditions
+Advise others on health care issues
+Assist health care practitioners during surgery
+Conduct research to increase knowledge about medical issues
+Manage health care operations
+Schedule patient procedures or appointments

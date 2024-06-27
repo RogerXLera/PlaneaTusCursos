@@ -1,0 +1,65 @@
+Read instances: 0.73 s
+Generate matrices: 14.77 s
+The optimal value is 0.314375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Pioneers of Medicine and Medical Breakthroughs in  (9.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Developing AI Policy (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Using Google Forms for Student Success (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Engaging Presentations with Mentimeter (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.26
+Job affinity: 68.750
+Skills per Unit
+	 Initial Activity:
+	 Account Management & Sales Force Design:
+		 Sell goods or services
+	 Introduction to Generative AI Studio:
+		 Evaluate capabilities or training needs
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain supply or equipment inventories
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Developing AI Policy:
+		 Enforce rules or regulations
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Evaluate capabilities or training needs
+	 Pioneers of Medicine and Medical Breakthroughs in Taiwan:
+		 Administer first aid
+		 Promote goods, services, or programs
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Maintain client information or service records
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Distribute resources to patrons or employees
+	 Using Google Forms for Student Success:
+		 Develop educational or training programs
+	 Creating Engaging Presentations with Mentimeter:
+		 Develop educational or training programs
+	 Lesson | Get Ready for the Interview:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Fitness Instructors
+Teach exercise or fitness techniques
+Develop educational or training programs
+Evaluate capabilities or training needs
+Demonstrate activity techniques or equipment use
+Organise recreational activities or events
+Teach health or hygiene practices
+Perform basic equipment maintenance
+Enforce rules or regulations
+Explain regulations, policies or procedures
+Distribute resources to patrons or employees
+Maintain supply or equipment inventories
+Administer first aid
+Provide cosmetic advice for clients
+Maintain client information or service records
+Promote goods, services, or programs
+Sell goods or services

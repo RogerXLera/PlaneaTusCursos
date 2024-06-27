@@ -1,0 +1,38 @@
+Read instances: 0.70 s
+Generate matrices: 2.52 s
+The optimal value is 0.5449999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Developing AR/VR/MR/XR Apps with WebXR, Unity & Un (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to building Web Pages using HTML5 and (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Employment Law: The Gig Economy (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.16
+Job affinity: 45.455
+Skills per Unit
+	 Initial Activity:
+	 Employment Law: The Gig Economy:
+		 Clean work sites
+	 Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal:
+		 Mark reference points on construction materials
+	 Introduction to building Web Pages using HTML5 and CSS3:
+		 Align masonry materials
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate with clients about products, procedures and policies
+Skills for Job Paving and Surfacing Labourers
+Compact or smooth materials to create level bases
+Cut tile, stone or other masonry materials
+Align masonry materials
+Clean work sites
+Spread sand, dirt or other loose materials onto surfaces
+Move construction or mining materials
+Install masonry materials
+Communicate with clients about products, procedures and policies
+Mark reference points on construction materials
+Create construction or installation diagrams
+Finish concrete surfaces

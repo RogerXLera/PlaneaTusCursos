@@ -1,0 +1,58 @@
+Read instances: 1.00 s
+Generate matrices: 41.25 s
+The optimal value is 0.5645652173913043
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Data Cleaning in Excel: Techniques to Clean Messy  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.77
+Job affinity: 43.478
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Develop procedures to evaluate organisational activities
+	 Get started with Jira:
+		 Confer with peers to accomplish work
+		 Develop organisational methods or procedures
+		 Manage operations, research or logistics projects
+	 Data Cleaning in Excel: Techniques to Clean Messy Data:
+		 Analyse data to assess operational or project effectiveness
+		 Analyse data to inform operational decisions or activities
+	 Building a Generative AI-Ready Organization:
+		 Develop operating strategies, plans or procedures
+		 Document organisational or operational procedures
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational goals or objectives
+	 Mastering Digital Twins:
+		 Coordinate with external parties to exchange information
+Skills for Job Supply, Distribution and Procurement Managers
+Manage inventories of products or organisational resources
+Manage operations, research or logistics projects
+Document organisational or operational procedures
+Estimate cost or material requirements
+Implement transportation changes to reduce environmental impact
+Develop operating strategies, plans or procedures
+Implement organisational process or policy changes
+Estimate labour requirements
+Confer with peers to accomplish work
+Analyse data to inform operational decisions or activities
+Negotiate contracts for transportation, distribution or logistics services
+Monitor external affairs or events affecting business operations
+Develop sustainable organisational policies or practices
+Monitor performance of organisational members or partners
+Analyse data to assess operational or project effectiveness
+Coordinate with external parties to exchange information
+Develop procedures to evaluate organisational activities
+Identify opportunities for green initiatives
+Develop organisational goals or objectives
+Develop organisational methods or procedures
+Evaluate quality of materials or products
+Evaluate environmental impact of operational or development activities
+Evaluate potential of products, technologies or resources

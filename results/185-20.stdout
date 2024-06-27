@@ -1,0 +1,43 @@
+Read instances: 0.72 s
+Generate matrices: 2.60 s
+The optimal value is 0.685625
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Classification of COVID19 using Chest X-ray Images (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Scrum Master Certification: Scrum Methodologies (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mechanics of Materials IV: Deflections, Buckling,  (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.40
+Job affinity: 31.250
+Skills per Unit
+	 Initial Activity:
+	 Scrum Master Certification: Scrum Methodologies:
+		 Review work orders or schedules to determine operations or procedures
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+	 Classification of COVID19 using Chest X-ray Images in Keras:
+		 Clean machinery or equipment
+	 Understanding and Managing the Stresses of Police Work:
+		 Apply fatigue management strategies
+	 Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories:
+		 Calculate weight of loads
+Skills for Job Crane, Hoist and Lift Operators
+Operate cranes, hoists or other moving or lifting equipment
+Load shipments, belongings or materials
+Weigh materials to ensure compliance with specifications
+Review work orders or schedules to determine operations or procedures
+Direct material handling or moving activities
+Verify information or specifications
+Inspect material-moving equipment to detect problems
+Maintain material moving equipment in good working condition
+Apply fatigue management strategies
+Calculate weight of loads
+Install parts, assemblies or attachments in transportation or material-handling equipment
+Secure cargo
+Signal others to coordinate vehicle movement
+Record operational or production data
+Clean machinery or equipment
+Operate winching equipment

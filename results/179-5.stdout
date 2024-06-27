@@ -1,0 +1,50 @@
+Read instances: 0.73 s
+Generate matrices: 2.50 s
+The optimal value is 0.8426923076923077
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.04
+Job affinity: 15.385
+Skills per Unit
+	 Initial Activity:
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Conduct test runs of production equipment
+	 Mastering Digital Twins:
+		 Monitor equipment operation to ensure proper functioning
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+Skills for Job Industrial Spraypainters
+Operate painting or coating equipment
+Mount attachments or tools onto production equipment
+Record operational or production data
+Move products, materials or equipment between work areas
+Inspect finishes of work pieces or finished products
+Monitor equipment operation to ensure proper functioning
+Measure ingredients or substances to be used
+Load materials into production equipment
+Attach decorative or functional accessories to products
+Position raw materials on processing or production equipment
+Adjust equipment controls to regulate flow of production
+Conduct test runs of production equipment
+Feed materials or products into or through equipment
+Mix ingredients to create specific finishes
+Select production input materials
+Remove products or work pieces from production equipment
+Connect supply lines to production equipment or tools
+Clean production equipment
+Clean work areas
+Weigh products or materials
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Operate mixing equipment
+Operate pumping systems or equipment
+Adjust temperature controls of ovens or other heating equipment
+Test chemical or physical characteristics of materials or products
+Apply protective or decorative finishes

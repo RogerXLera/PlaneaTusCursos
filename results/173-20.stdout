@@ -1,0 +1,47 @@
+Read instances: 0.70 s
+Generate matrices: 11.64 s
+The optimal value is 0.3585714285714286
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Graphic design: pop your Linkedin with 3D effect u (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Security and Privacy for Big Data - Part 1 (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Create an Online Course (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fashion Retail Transformation (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.01
+Job affinity: 64.286
+Skills per Unit
+	 Initial Activity:
+	 Account Management & Sales Force Design:
+		 Coordinate sales campaigns
+		 Sell goods or services
+	 Fashion Retail Transformation:
+		 Answer customer questions about goods or services
+		 Procure stocks of merchandise or supplies
+	 Graphic design: pop your Linkedin with 3D effect using Canva:
+		 Demonstrate products to consumers
+	 Security and Privacy for Big Data - Part 1:
+		 Develop procedures for data management
+	 How to Create an Online Course:
+		 Identify potential customers
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Explain technical product or service information to customers
+Skills for Job Street Vendors and Related Salespersons
+Answer customer questions about goods or services
+Sell goods or services
+Distribute promotional literature or samples to customers
+Identify potential customers
+Take product orders
+Explain technical product or service information to customers
+Demonstrate products to consumers
+Stock products or parts
+Process sales or other transactions
+Develop procedures for data management
+Procure stocks of merchandise or supplies
+Contact current or potential customers to promote goods or services
+Coordinate sales campaigns
+Set up merchandise displays

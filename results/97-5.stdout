@@ -1,0 +1,48 @@
+Read instances: 0.75 s
+Generate matrices: 3.89 s
+The optimal value is 0.8300000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Build a mobile app with Google Sheets on Glide and (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Full Stack Twitter clone with Next.js (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Fine-tuning Convolutional Networks to Classify Dog (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.06
+Job affinity: 16.667
+Skills per Unit
+	 Initial Activity:
+	 Build a Full Stack Twitter clone with Next.js:
+		 Assemble electrical components, subsystems or systems
+	 Build a mobile app with Google Sheets on Glide and no coding:
+		 Test electrical circuits or components for proper functioning
+	 Fine-tuning Convolutional Networks to Classify Dog Breeds:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+Skills for Job Electrical Distribution Trades Workers
+Monitor work areas or procedures to ensure compliance with safety procedures
+Drive vehicles to, or at, work sites
+Use equipment to climb structures
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Travel to work sites
+Install insulation in equipment or structures
+Connect electrical components or equipment
+Adjust flow of electricity to tools or production equipment
+Create construction or installation diagrams
+Inspect electrical or electronic systems for defects
+Cut materials according to specifications or needs
+Test electrical circuits or components for proper functioning
+Assemble mechanical components or machine parts
+Control power supply connections
+Run wiring to connect equipment
+Assemble electrical components, subsystems or systems
+Repair electrical circuits or wiring
+Solder parts or connections between parts
+Lay cables to connect equipment
+Dig holes or trenches
+Install metering equipment
+Operate cranes, hoists or other moving or lifting equipment
+Test electrical equipment or systems to ensure proper functioning
+Align equipment or machinery

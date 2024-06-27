@@ -1,0 +1,42 @@
+Read instances: 0.71 s
+Generate matrices: 2.41 s
+The optimal value is 0.775
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Making the Case for Robotic Process Automation (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.06
+Job affinity: 22.222
+Skills per Unit
+	 Initial Activity:
+	 Understanding and Managing the Stresses of Police Work:
+		 Apply fatigue management strategies
+	 Duet AI in Gmail:
+		 Receive information or instructions for performing work assignments
+	 Making the Case for Robotic Process Automation:
+		 Follow safety procedures for vehicle operation
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Inspect motor vehicles
+Skills for Job Delivery Drivers
+Follow safety procedures for vehicle operation
+Load shipments, belongings or materials
+Manoeuvre vehicles into position for loading and unloading
+Follow safety procedures for loading and unloading vehicles
+Record details of deliveries or shipments
+Transport goods, materials or liquids
+Operate vehicles or material-moving equipment
+Verify information or specifications
+Apply fatigue management strategies
+Collect fares or payment from customers
+Receive information or instructions for performing work assignments
+Read maps to determine routes
+Report vehicle or equipment malfunctions
+Notify others of emergencies, problems or hazards
+Sell goods or services
+Record sales or transactions data
+Maintain vehicles in good working condition
+Inspect motor vehicles

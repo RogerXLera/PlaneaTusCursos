@@ -1,0 +1,53 @@
+Read instances: 0.71 s
+Generate matrices: 7.85 s
+The optimal value is 0.314375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Build a no-code customer support Telegram chatbot  (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Groundwork for Success in Sales Development (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Interpretable machine learning applications: Part  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Cloudfront: Serve content from multiple S3 buc (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Professional Selling: Step 2 - Prepare Like a High (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.38
+Job affinity: 68.750
+Skills per Unit
+	 Initial Activity:
+	 Groundwork for Success in Sales Development:
+		 Develop professional relationships or networks
+		 Prepare sales or other contracts
+	 Professional Selling: Step 2 - Prepare Like a High-Performer:
+		 Develop marketing plans or strategies
+		 Gather customer or product information to determine customer needs
+		 Identify potential customers
+		 Maintain records of sales or other business transactions
+	 Interpretable machine learning applications: Part 3:
+		 Explain financial information to customers
+	 AWS Cloudfront: Serve content from multiple S3 buckets:
+		 Customise financial goods or services to meet customer needs
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+	 Build a no-code customer support Telegram chatbot with Azure:
+		 Study product information to acquire professional knowledge
+	 Lesson | Express Yourself: Pronunciation:
+		 Attend events to develop professional knowledge
+Skills for Job Insurance Agents
+Customise financial goods or services to meet customer needs
+Explain financial information to customers
+Sell goods or services
+Gather customer or product information to determine customer needs
+Prepare sales or other contracts
+Develop marketing plans or strategies
+Take product orders
+Maintain records of sales or other business transactions
+Calculate costs of goods or services
+Process sales or other transactions
+Examine condition of property or products
+Identify potential customers
+Develop professional relationships or networks
+Review accuracy of sales or other transactions
+Attend events to develop professional knowledge
+Study product information to acquire professional knowledge

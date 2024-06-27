@@ -1,0 +1,58 @@
+Read instances: 0.74 s
+Generate matrices: 2.71 s
+The optimal value is 0.7560344827586207
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Protecting the World: Introducing Corrosion Scienc (11.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Agile Planning for Software Products (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.17
+Job affinity: 24.138
+Skills per Unit
+	 Initial Activity:
+	 Agile Planning for Software Products:
+		 Estimate construction project labour requirements
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Estimate materials requirements for projects
+		 Select construction materials
+	 Golf Course Management: Best Practices:
+		 Determine construction project layouts
+	 Protecting the World: Introducing Corrosion Science and Engineering:
+		 Apply sealants or other protective coatings
+		 Inspect work sites to determine condition or necessary repairs
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate with clients about products, procedures and policies
+Skills for Job Wall and Floor Tilers
+Apply adhesives to construction materials
+Align masonry materials
+Cut tile, stone or other masonry materials
+Apply mortar
+Install masonry materials
+Determine construction project layouts
+Mix substances or compounds needed for work activities
+Spread concrete or other aggregate mixtures
+Cut carpet, vinyl or other flexible materials
+Remove excess materials from finished construction projects
+Assemble temporary equipment or structures
+Mark reference points on construction materials
+Measure work site dimensions
+Install building fixtures
+Inspect work sites to determine condition or necessary repairs
+Remove worn, damaged or outdated materials from work areas
+Estimate materials requirements for projects
+Review blueprints or specifications to determine work requirements
+Estimate construction project costs
+Estimate construction project labour requirements
+Apply sealants or other protective coatings
+Communicate with clients about products, procedures and policies
+Drill holes in construction materials
+Order construction or mining materials or equipment
+Select construction materials
+Clean surfaces before commencing work
+Measure materials or objects for installation or assembly
+Cut metal components
+Smooth surfaces with abrasive materials or tools

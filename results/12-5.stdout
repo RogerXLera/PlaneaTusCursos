@@ -1,0 +1,65 @@
+Read instances: 0.83 s
+Generate matrices: 32.07 s
+The optimal value is 0.538076923076923
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.90
+Job affinity: 46.154
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Create Employee Management System with When I Work:
+		 Determine resource needs
+		 Develop operating strategies, plans or procedures
+		 Develop safety standards, policies or procedures
+		 Evaluate employee performance
+		 Recruit staff
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop educational goals, standards, policies or procedures
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Manage organisational or project budgets
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Develop promotional materials
+Skills for Job Child Care Centre Managers
+Teach classes in area of specialisation
+Advise others on career or personal development
+Supervise employees
+Direct organisational operations, projects or services
+Monitor performance of organisational members or partners
+Develop promotional materials
+Develop organisational policies or programs
+Develop educational goals, standards, policies or procedures
+Maintain regulatory or compliance documentation
+Maintain operational records
+Estimate labour requirements
+Determine resource needs
+Approve expenditures
+Manage organisational or project budgets
+Develop operating strategies, plans or procedures
+Develop safety standards, policies or procedures
+Evaluate employee performance
+Conduct employee training programs
+Recruit staff
+Advise others on business or operational matters
+Evaluate program effectiveness
+Determine operational compliance with regulations or standards
+Prepare financial documents, reports or budgets
+Prepare proposals or grant applications to obtain project funding
+Communicate with government agencies
+Present information to the public

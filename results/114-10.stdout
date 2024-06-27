@@ -1,0 +1,44 @@
+Read instances: 0.74 s
+Generate matrices: 2.91 s
+The optimal value is 0.6649999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Finite Element Analysis Convergence and Mesh Indep (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Sourcing Analytics (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.15
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Program equipment to perform production tasks
+	 Sourcing Analytics:
+		 Estimate costs of goods, services or materials
+		 Estimate material requirements for production
+	 Finite Element Analysis Convergence and Mesh Independence:
+		 Compare physical characteristics of materials or products to specifications or standards
+		 Review blueprints or other instructions to determine operational methods or sequences
+Skills for Job Cabinetmakers
+Assemble wood products
+Trim excess material from work pieces
+Measure materials to mark reference points, cutting lines or other indicators
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Operate woodworking equipment
+Attach decorative or functional accessories to products
+Drill holes in parts, equipment or materials
+Compare physical characteristics of materials or products to specifications or standards
+Shape surfaces or edges of wood work pieces
+Program equipment to perform production tasks
+Read work orders or other instructions to determine product specifications or materials requirements
+Review blueprints or other instructions to determine operational methods or sequences
+Apply protective or decorative finishes
+Repair furniture or upholstery
+Cut industrial materials in preparation for fabrication or processing
+Estimate costs of goods, services or materials
+Estimate material requirements for production
+Confer with customers or designers to determine order specifications

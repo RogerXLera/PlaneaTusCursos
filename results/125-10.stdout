@@ -1,0 +1,83 @@
+Read instances: 0.69 s
+Generate matrices: 9.99 s
+The optimal value is 0.39392857142857146
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Kids with Cancer Still Need School: The Providers  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building Students Math Skills with iKnowit (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.71
+Job affinity: 60.714
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Kids with Cancer Still Need School: The Providers Role:
+		 Discuss student progress with parents or guardians
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Maintain computer equipment or software
+	 Building Students Math Skills with iKnowit:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Develop instructional materials
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate student work
+	 Growing Great Writers with Writable:
+		 Assist other educational professionals with projects or research
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Display student work
+		 Document lesson plans
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Display student work
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Enforce rules or policies governing student behaviour
+	 Lesson | Express Yourself: Pronunciation:
+		 Teach daily living skills or behaviours
+Skills for Job Education Aides
+Assist students with special educational needs
+Supervise school or student activities
+Distribute instructional or library materials
+Tutor students who need extra assistance
+Maintain student records
+Maintain inventories of materials, equipment or products
+Enforce rules or policies governing student behaviour
+Plan educational activities
+Apply multiple teaching methods
+Monitor student performance
+Collaborate with other teaching professionals to develop educational programs
+Create technology-based learning materials
+Teach daily living skills or behaviours
+Teach life skills
+Maintain computer equipment or software
+Develop instructional materials
+Display student work
+Operate audio-visual equipment
+Teach others to use technology or equipment
+Teach physical education
+Clean facilities or work areas
+Maintain clean work areas
+Evaluate student work
+Document lesson plans
+Assist other educational professionals with projects or research
+Discuss student progress with parents or guardians
+Set up classroom materials or equipment
+Serve on institutional or departmental committees

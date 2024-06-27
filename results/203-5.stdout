@@ -1,0 +1,32 @@
+Read instances: 0.70 s
+Generate matrices: 2.55 s
+The optimal value is 0.8125
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Graphic Design: Make Interior's Project Mood Board (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.03
+Job affinity: 18.182
+Skills per Unit
+	 Initial Activity:
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Communicate with clients about products, procedures and policies
+	 Graphic Design: Make Interior's Project Mood Boards in Gimp:
+		 Create construction or installation diagrams
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+Skills for Job Paving and Surfacing Labourers
+Compact or smooth materials to create level bases
+Cut tile, stone or other masonry materials
+Align masonry materials
+Clean work sites
+Spread sand, dirt or other loose materials onto surfaces
+Move construction or mining materials
+Install masonry materials
+Communicate with clients about products, procedures and policies
+Mark reference points on construction materials
+Create construction or installation diagrams
+Finish concrete surfaces

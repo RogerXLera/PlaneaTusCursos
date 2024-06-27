@@ -1,0 +1,39 @@
+Read instances: 0.75 s
+Generate matrices: 4.86 s
+The optimal value is 0.005
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Become a Peer Sponsor: Intro to Military Transitio (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Science of Exercise (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Baseball into the Millennium (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Creating a Quiz Game using Vanilla JavaScript (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Developing an Agile Team (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.40
+Job affinity: 100.000
+Skills per Unit
+	 Initial Activity:
+	 Developing an Agile Team:
+		 Evaluate skills of athletes or performers
+	 Creating a Quiz Game using Vanilla JavaScript:
+		 Promote products, activities, or organisations
+	 Science of Exercise:
+		 Participate in athletic events
+	 Attention Mechanism:
+		 Promote products, activities, or organisations
+	 Become a Peer Sponsor: Intro to Military Transition Support:
+		 Practice athletic or artistic skills
+	 Baseball into the Millennium:
+		 Coach others
+		 Evaluate skills of athletes or performers
+	 Lesson | Express Yourself: Pronunciation:
+		 Practice athletic or artistic skills
+Skills for Job Sportspersons
+Practice athletic or artistic skills
+Participate in athletic events
+Evaluate skills of athletes or performers
+Coach others
+Promote products, activities, or organisations

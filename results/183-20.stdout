@@ -1,0 +1,53 @@
+Read instances: 0.82 s
+Generate matrices: 2.66 s
+The optimal value is 0.7665384615384616
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Digital Fashion Reality (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Finite Element Analysis Convergence and Mesh Indep (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: 3-Axis Machining with Autodesk Fusion 360 (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Creating Toolpaths for a CNC Lathe (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.07
+Job affinity: 23.077
+Skills per Unit
+	 Initial Activity:
+	 Digital Fashion Reality:
+		 Inspect garments, fabrics or textile products for defects, damage or stains
+		 Mark products, work pieces or equipment with identifying information
+	 Finite Element Analysis Convergence and Mesh Independence:
+		 Compare physical characteristics of materials or products to specifications or standards
+	 3-Axis Machining with Autodesk Fusion 360:
+		 Manoeuvre work pieces in equipment during production
+		 Remove accessories, tools or other parts from equipment
+	 Creating Toolpaths for a CNC Lathe:
+		 Manoeuvre work pieces in equipment during production
+		 Mount attachments or tools onto production equipment
+Skills for Job Sewing Machinists
+Operate sewing equipment
+Mount materials or work pieces onto production equipment
+Attach decorative or functional accessories to products
+Manoeuvre work pieces in equipment during production
+Repair textiles or apparel
+Trim excess material from work pieces
+Watch equipment in operation to detect malfunctions
+Cut fabrics, textiles, leather or hide
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Compare physical characteristics of materials or products to specifications or standards
+Draw guide lines or markings on materials or work pieces using patterns or other references
+Adjust fabrics or other materials during garment production or processing
+Select production input materials
+Align parts or work pieces for assembly
+Record operational or production data
+Remove accessories, tools or other parts from equipment
+Remove products or work pieces from production equipment
+Feed materials or products into or through equipment
+Load materials into production equipment
+Position patterns on equipment, materials or work pieces
+Mark products, work pieces or equipment with identifying information
+Inspect garments, fabrics or textile products for defects, damage or stains
+Mount attachments or tools onto production equipment
+Clean production equipment
+Maintain production or processing equipment
+Replace worn equipment components

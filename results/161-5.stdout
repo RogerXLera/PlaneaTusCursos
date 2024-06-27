@@ -1,0 +1,39 @@
+Read instances: 0.71 s
+Generate matrices: 2.41 s
+The optimal value is 0.5825
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create User Directory and Files with Linux Command (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 41.667
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Collect deposits, payments or fees
+	 Create User Directory and Files with Linux Commands:
+		 File documents or records
+	 Get started with Upwork:
+		 Negotiate financial arrangements
+	 Launch your first online meeting with ZOOM:
+		 Maintain financial or account records
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Debt Collectors
+Negotiate financial arrangements
+Discuss account status or activity with customers or patrons
+Maintain financial or account records
+Monitor financial information
+Respond to customer problems or complaints
+Provide notifications to customers or patrons
+Collect deposits, payments or fees
+Interview employees, customers or others to collect information
+Obtain personal or financial information about customers or applicants
+Provide information to co-workers
+Sort mail
+File documents or records

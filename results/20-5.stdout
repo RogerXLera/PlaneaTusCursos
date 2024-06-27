@@ -1,0 +1,51 @@
+Read instances: 0.72 s
+Generate matrices: 6.75 s
+The optimal value is 0.6302631578947367
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building a Business Presence With Facebook Marketi (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.16
+Job affinity: 36.842
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Develop marketing plans or strategies
+		 Maintain records of sales or other business transactions
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Building a Business Presence With Facebook Marketing:
+		 Coordinate sales campaigns
+		 Develop marketing plans or strategies
+	 Introduction to Duet AI in Google Workspace:
+		 Establish operational policies
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor sales activities
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+Skills for Job Retail Managers
+Establish operational policies
+Examine condition of property or products
+Supervise sales or support staff
+Assign duties or work schedules to employees
+Monitor sales activities
+Train sales staff
+Answer customer questions about goods or services
+Greet customers, patrons or visitors
+Monitor work areas to provide security
+Maintain records of sales or other business transactions
+Monitor inventories
+Set up merchandise displays
+Develop marketing plans or strategies
+Monitor market conditions or trends
+Clean work areas
+Sell goods or services
+Procure stocks of merchandise or supplies
+Prepare financial documents, reports or budgets
+Coordinate sales campaigns

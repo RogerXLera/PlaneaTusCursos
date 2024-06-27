@@ -1,0 +1,63 @@
+Read instances: 0.70 s
+Generate matrices: 6.21 s
+The optimal value is 0.095
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Resources Analytics (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Employee Performance (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Engagement to your Instagram Business Pro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Facebook Network Analysis using Python and Network (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Project Tracker with Airtable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Foundations of Teaching for Learning Capstone: The (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Using Google Forms for Student Success (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Excel for Beginners: Sorting, Filtering, Data-Vali (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.82
+Job affinity: 90.909
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Develop procedures to evaluate organisational activities
+	 Human Resources Analytics:
+		 Evaluate employee performance
+		 Manage human resources activities
+	 Managing Employee Performance:
+		 Conduct employee training programs
+	 Increase Engagement to your Instagram Business Profile:
+		 Coordinate special events or programs
+	 Excel for Beginners: Sorting, Filtering, Data-Validation:
+		 Confer with peers to accomplish work
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 How to Get Into Web Development:
+		 Determine operational compliance with regulations or standards
+	 Facebook Network Analysis using Python and Networkx:
+		 Confer with peers to accomplish work
+	 Get Started with Microsoft Forms:
+		 Conduct opinion surveys or needs assessments
+	 Create a Project Tracker with Airtable:
+		 Confer with peers to accomplish work
+	 Foundations of Teaching for Learning Capstone: The Reflective Practitioner:
+		 Evaluate training programs, instructors or materials
+	 Using Google Forms for Student Success:
+		 Confer with peers to accomplish work
+	 Enhancing Communication with Remind:
+		 Confer with peers to accomplish work
+Skills for Job Training and Development Professionals
+Conduct opinion surveys or needs assessments
+Conduct employee training programs
+Evaluate training programs, instructors or materials
+Evaluate program effectiveness
+Evaluate employee performance
+Coordinate special events or programs
+Manage human resources activities
+Determine operational compliance with regulations or standards
+Confer with peers to accomplish work
+Develop procedures to evaluate organisational activities
+Prepare operational budgets

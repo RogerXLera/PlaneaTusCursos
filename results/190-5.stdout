@@ -1,0 +1,44 @@
+Read instances: 0.72 s
+Generate matrices: 3.19 s
+The optimal value is 0.7344736842105263
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Art of Storytelling (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Sleep Deprivation: Habits, Solutions, and Strategi (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 26.316
+Skills per Unit
+	 Initial Activity:
+	 The Art of Storytelling:
+		 Assist others
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive passenger vehicles
+		 Inspect motor vehicles
+	 Sleep Deprivation: Habits, Solutions, and Strategies Teach-Out:
+		 Apply fatigue management strategies
+Skills for Job Bus and Coach Drivers
+Drive passenger vehicles
+Provide transportation information to passengers or customers
+Collect fares or payment from customers
+Assist customers to ensure comfort or safety
+Apply fatigue management strategies
+Follow safety procedures for vehicle operation
+Notify others of emergencies, problems or hazards
+Provide customers with general information or assistance
+Clean vehicles or vehicle components
+Read maps to determine routes
+Follow safety procedures for loading and unloading vehicles
+Load shipments, belongings or materials
+Assist others
+Assist passengers during vehicle boarding
+Record operational or production data
+Record sales or transactions data
+Measure the level or depth of liquids
+Inspect motor vehicles
+Maintain vehicles in good working condition

@@ -1,0 +1,68 @@
+Read instances: 0.81 s
+Generate matrices: 44.33 s
+The optimal value is 0.3923913043478261
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Interpretable machine learning applications: Part  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.41
+Job affinity: 60.870
+Skills per Unit
+	 Initial Activity:
+	 Challenges of Agribusiness Management:
+		 Identify opportunities for green initiatives
+		 Negotiate contracts for transportation, distribution or logistics services
+	 Success with Integrity: Business Ethics Foundation:
+		 Develop sustainable organisational policies or practices
+	 Get started with Jira:
+		 Confer with peers to accomplish work
+		 Develop organisational methods or procedures
+		 Manage operations, research or logistics projects
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop organisational methods or procedures
+		 Implement organisational process or policy changes
+	 Interpretable machine learning applications: Part 3:
+		 Analyse data to assess operational or project effectiveness
+		 Analyse data to inform operational decisions or activities
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational goals or objectives
+	 Everyday Chinese Medicine 2:
+		 Evaluate quality of materials or products
+	 Mastering Digital Twins:
+		 Coordinate with external parties to exchange information
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document organisational or operational procedures
+Skills for Job Supply, Distribution and Procurement Managers
+Manage inventories of products or organisational resources
+Manage operations, research or logistics projects
+Document organisational or operational procedures
+Estimate cost or material requirements
+Implement transportation changes to reduce environmental impact
+Develop operating strategies, plans or procedures
+Implement organisational process or policy changes
+Estimate labour requirements
+Confer with peers to accomplish work
+Analyse data to inform operational decisions or activities
+Negotiate contracts for transportation, distribution or logistics services
+Monitor external affairs or events affecting business operations
+Develop sustainable organisational policies or practices
+Monitor performance of organisational members or partners
+Analyse data to assess operational or project effectiveness
+Coordinate with external parties to exchange information
+Develop procedures to evaluate organisational activities
+Identify opportunities for green initiatives
+Develop organisational goals or objectives
+Develop organisational methods or procedures
+Evaluate quality of materials or products
+Evaluate environmental impact of operational or development activities
+Evaluate potential of products, technologies or resources

@@ -1,0 +1,43 @@
+Read instances: 0.74 s
+Generate matrices: 2.35 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Landscapes in Unity Part 1 - Terrain (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get Started with Inkscape (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Protecting the World: Introducing Corrosion Scienc (11.0) 	 Start Period: 1 	 End Period: 2
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.07
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Get Started with Inkscape:
+		 Apply decorative or textured finishes or coverings
+		 Apply paint
+	 Create Landscapes in Unity Part 1 - Terrain:
+		 Apply decorative or textured finishes or coverings
+		 Apply material to fill gaps in surfaces
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Estimate materials requirements for projects
+	 Protecting the World: Introducing Corrosion Science and Engineering:
+		 Apply sealants or other protective coatings
+		 Prepare surfaces for finishing
+Skills for Job Painting Trades Workers
+Protect structures or surfaces near work areas to avoid damage
+Smooth surfaces with abrasive materials or tools
+Prepare surfaces for finishing
+Apply material to fill gaps in surfaces
+Clean surfaces before commencing work
+Apply paint
+Review blueprints or specifications to determine work requirements
+Mix substances or compounds needed for work activities
+Assemble temporary equipment or structures
+Apply decorative or textured finishes or coverings
+Apply sealants or other protective coatings
+Estimate construction project costs
+Estimate materials requirements for projects
+Order construction or mining materials or equipment
+Select construction equipment
+Cut carpet, vinyl or other flexible materials

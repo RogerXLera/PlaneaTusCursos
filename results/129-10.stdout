@@ -1,0 +1,65 @@
+Read instances: 0.71 s
+Generate matrices: 5.15 s
+The optimal value is 0.45875000000000005
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mental Health and Resilience for Healthcare Worker (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Health After Cancer: Cancer Survivorship for Prima (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Innovative Teaching with ChatGPT (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Become a Peer Sponsor: Intro to Military Transitio (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: ADP Accountant Connect Certification (4.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.33
+Job affinity: 54.167
+Skills per Unit
+	 Initial Activity:
+	 ADP Accountant Connect Certification:
+		 Collect information about clients
+	 Mental Health and Resilience for Healthcare Workers:
+		 Arrange physical or mental health services for clients
+		 Evaluate potential problems in home or work environments of clients
+		 Evaluate the effectiveness of counselling or educational programs
+	 Health After Cancer: Cancer Survivorship for Primary Care:
+		 Advise clients or community groups on health issues
+		 Collaborate with other professionals to assess client needs or plan treatments
+		 Confer with clients to discuss treatment plans or progress
+		 Confer with family members to discuss client treatment plans or progress
+	 Innovative Teaching with ChatGPT:
+		 Collaborate with other professionals to develop education or assistance programs
+	 Become a Peer Sponsor: Intro to Military Transition Support:
+		 Advise clients or community groups on health issues
+		 Help clients get needed services or resources
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Advocate for individual or community needs
+		 Counsel clients regarding interpersonal issues
+		 Evaluate potential problems in home or work environments of clients
+	 Lesson | Get Ready for the Interview:
+		 Interview clients to gather information about their backgrounds, needs or progress
+Skills for Job Special Care Workers
+Supervise workers providing client or patient services
+Interview clients to gather information about their backgrounds, needs or progress
+Advocate for individual or community needs
+Arrange physical or mental health services for clients
+Maintain client records
+Write reports or evaluations
+Collect information about clients
+Counsel clients regarding interpersonal issues
+Help clients get needed services or resources
+Counsel clients regarding educational or vocational issues
+Counsel clients or patients with substance abuse issues
+Evaluate characteristics of individuals to determine needs or eligibility
+Confer with clients to discuss treatment plans or progress
+Evaluate the effectiveness of counselling or educational programs
+Evaluate potential problems in home or work environments of clients
+Recommend legal actions
+Advise clients or community groups on health issues
+Collaborate with other professionals to assess client needs or plan treatments
+Confer with family members to discuss client treatment plans or progress
+Research social issues
+Refer clients to community or social service programs
+Refer individuals to educational or work programs
+Counsel clients or patients regarding personal issues
+Collaborate with other professionals to develop education or assistance programs

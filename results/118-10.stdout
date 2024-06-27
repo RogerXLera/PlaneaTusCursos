@@ -1,0 +1,39 @@
+Read instances: 0.72 s
+Generate matrices: 2.86 s
+The optimal value is 0.302
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Make Money with Your Music Copyrights (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 70.000
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+	 Introduction to Duet AI in Google Workspace:
+		 Collaborate with others to determine technical details of productions
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Compare physical characteristics of materials or products to specifications or standards
+		 Evaluate quality of materials or products
+		 Read work orders or other instructions to determine product specifications or materials requirements
+	 How to Make Money with Your Music Copyrights:
+		 Assemble products or production equipment
+Skills for Job Other Miscellaneous Technicians and Trades Workers
+Collaborate with others to determine technical details of productions
+Maintain knowledge of current developments in area of expertise
+Assemble products or production equipment
+Evaluate quality of materials or products
+Maintain work equipment or machinery
+Compare physical characteristics of materials or products to specifications or standards
+Clean or repair equipment, parts or tools
+Maintain operational records
+Read work orders or other instructions to determine product specifications or materials requirements
+Maintain inventories of materials, equipment or products

@@ -1,0 +1,25 @@
+Read instances: 0.74 s
+Generate matrices: 2.14 s
+The optimal value is 0.8935
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.02
+Job affinity: 10.000
+Skills per Unit
+	 Initial Activity:
+	 Infection Prevention in Nursing Homes:
+		 Clean equipment or facilities
+Skills for Job Handypersons
+Assist skilled construction or mining staff
+Clean equipment or facilities
+Smooth surfaces with abrasive materials or tools
+Protect structures or surfaces near work areas to avoid damage
+Clean surfaces before commencing work
+Apply material to fill gaps in surfaces
+Assemble temporary equipment or structures
+Move construction or mining materials
+Mix substances or compounds needed for work activities
+Pour materials into, or on, designated areas

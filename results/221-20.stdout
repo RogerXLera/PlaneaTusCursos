@@ -1,0 +1,50 @@
+Read instances: 0.70 s
+Generate matrices: 2.48 s
+The optimal value is 0.6302631578947367
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deep Learning for Object Detection (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering bitumen for better roads and innovative  (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Aurora Service Introduction (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: I/O-efficient algorithms (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.18
+Job affinity: 36.842
+Skills per Unit
+	 Initial Activity:
+	 I/O-efficient algorithms:
+		 Sort materials or objects for processing or transport
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Receive information or instructions for performing work assignments
+	 Deep Learning for Object Detection:
+		 Mark materials or objects for identification
+	 Infection Prevention in Nursing Homes:
+		 Clean facilities or work areas
+	 Amazon Aurora Service Introduction:
+		 Monitor cargo area conditions
+		 Move and store materials, equipment or products
+	 Mastering bitumen for better roads and innovative applications:
+		 Operate packing or other material-processing equipment
+Skills for Job Freight and Furniture Handlers
+Operate cranes, hoists or other moving or lifting equipment
+Move and store materials, equipment or products
+Load shipments, belongings or materials
+Transport goods, materials or liquids
+Sort materials or objects for processing or transport
+Shovel materials
+Record operational or production data
+Mark materials or objects for identification
+Secure cargo
+Monitor cargo area conditions
+Operate packing or other material-processing equipment
+Clean facilities or work areas
+Receive information or instructions for performing work assignments
+Review work orders or schedules to determine operations or procedures
+Position material handling equipment
+Package materials or products
+Set up material handling gear or equipment
+Maintain material moving equipment in good working condition
+Connect cables or electrical lines

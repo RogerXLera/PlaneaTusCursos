@@ -1,0 +1,99 @@
+Read instances: 0.70 s
+Generate matrices: 9.99 s
+The optimal value is 0.2525
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Student Debt Crisis Teach-Out (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Create Video for Online Courses (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating an AWS EC2 Autoscaling Group using Load B (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Exploring Beethoven's Piano Sonatas Part 4 (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.86
+Job affinity: 75.000
+Skills per Unit
+	 Initial Activity:
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Infection Prevention in Nursing Homes:
+		 Clean facilities or work areas
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Creating an AWS EC2 Autoscaling Group using Load Balancer:
+		 Maintain computer equipment or software
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate student work
+	 Growing Great Writers with Writable:
+		 Assist other educational professionals with projects or research
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Display student work
+		 Document lesson plans
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Develop instructional materials
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Display student work
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Improving Classroom Management with Class Dojo:
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Enforce rules or policies governing student behaviour
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Discuss student progress with parents or guardians
+	 Student Debt Crisis Teach-Out:
+		 Maintain student records
+	 Exploring Beethoven's Piano Sonatas Part 4:
+		 Teach life skills
+	 How to Create Video for Online Courses:
+		 Operate audio-visual equipment
+	 Lesson | Express Yourself: Pronunciation:
+		 Teach daily living skills or behaviours
+Skills for Job Education Aides
+Assist students with special educational needs
+Supervise school or student activities
+Distribute instructional or library materials
+Tutor students who need extra assistance
+Maintain student records
+Maintain inventories of materials, equipment or products
+Enforce rules or policies governing student behaviour
+Plan educational activities
+Apply multiple teaching methods
+Monitor student performance
+Collaborate with other teaching professionals to develop educational programs
+Create technology-based learning materials
+Teach daily living skills or behaviours
+Teach life skills
+Maintain computer equipment or software
+Develop instructional materials
+Display student work
+Operate audio-visual equipment
+Teach others to use technology or equipment
+Teach physical education
+Clean facilities or work areas
+Maintain clean work areas
+Evaluate student work
+Document lesson plans
+Assist other educational professionals with projects or research
+Discuss student progress with parents or guardians
+Set up classroom materials or equipment
+Serve on institutional or departmental committees

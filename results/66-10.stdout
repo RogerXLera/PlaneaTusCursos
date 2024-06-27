@@ -1,0 +1,62 @@
+Read instances: 0.73 s
+Generate matrices: 6.29 s
+The optimal value is 0.365
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamental Human Physiology in Sports Medicine (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.33
+Job affinity: 63.636
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Establish nursing policies or standards
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Fundamental Human Physiology in Sports Medicine:
+		 Measure the physical or physiological attributes of patients
+		 Test patient nervous system functioning
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Inform medical professionals regarding patient conditions and care
+		 Prescribe medications
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Care for women during pregnancy and childbirth
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+		 Develop medical treatment plans
+		 Explain medical procedures or test results to patients or family members
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Midwives
+Record patient medical histories
+Care for women during pregnancy and childbirth
+Provide health and wellness advice to patients, program participants or caregivers
+Examine patients to assess general physical condition
+Explain medical procedures or test results to patients or family members
+Develop medical treatment plans
+Prescribe medications
+Administer health care or medical treatments
+Inform medical professionals regarding patient conditions and care
+Prepare reports summarising patient diagnostic or care activities
+Measure the physical or physiological attributes of patients
+Analyse test results to inform diagnosis or treatment
+Order medical diagnostic or clinical tests
+Test patient nervous system functioning
+Maintain medical or professional knowledge
+Treat medical emergencies
+Collaborate with health care professionals to plan or provide treatment
+Refer patients to other health care practitioners or health resources
+Conduct research to increase knowledge about medical issues
+Establish nursing policies or standards
+Train medical providers
+Conduct health or safety training programs

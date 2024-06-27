@@ -1,0 +1,71 @@
+Read instances: 0.72 s
+Generate matrices: 6.29 s
+The optimal value is 0.27499999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamental Human Physiology in Sports Medicine (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding Memory: Explaining the Psychology of (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Building and analyzing linear regression model in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Supporting Parents of a Newborn Baby (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.62
+Job affinity: 72.727
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Establish nursing policies or standards
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 Building and analyzing linear regression model in R:
+		 Analyse test results to inform diagnosis or treatment
+	 Understanding Memory: Explaining the Psychology of Memory through Movies:
+		 Examine patients to assess general physical condition
+	 Fundamental Human Physiology in Sports Medicine:
+		 Measure the physical or physiological attributes of patients
+		 Test patient nervous system functioning
+	 Supporting Parents of a Newborn Baby:
+		 Care for women during pregnancy and childbirth
+		 Measure the physical or physiological attributes of patients
+		 Order medical diagnostic or clinical tests
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Inform medical professionals regarding patient conditions and care
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Explain medical procedures or test results to patients or family members
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Care for women during pregnancy and childbirth
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+		 Develop medical treatment plans
+		 Explain medical procedures or test results to patients or family members
+Skills for Job Midwives
+Record patient medical histories
+Care for women during pregnancy and childbirth
+Provide health and wellness advice to patients, program participants or caregivers
+Examine patients to assess general physical condition
+Explain medical procedures or test results to patients or family members
+Develop medical treatment plans
+Prescribe medications
+Administer health care or medical treatments
+Inform medical professionals regarding patient conditions and care
+Prepare reports summarising patient diagnostic or care activities
+Measure the physical or physiological attributes of patients
+Analyse test results to inform diagnosis or treatment
+Order medical diagnostic or clinical tests
+Test patient nervous system functioning
+Maintain medical or professional knowledge
+Treat medical emergencies
+Collaborate with health care professionals to plan or provide treatment
+Refer patients to other health care practitioners or health resources
+Conduct research to increase knowledge about medical issues
+Establish nursing policies or standards
+Train medical providers
+Conduct health or safety training programs

@@ -1,0 +1,105 @@
+Read instances: 0.70 s
+Generate matrices: 9.59 s
+The optimal value is 0.305
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: ChatGPT for Beginners: SciFi Writing with Dall-e (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Cypress API test automation for absolute beginners (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Evaluating Student Understanding with Socrative (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Content Mastery with Quizlet (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.77
+Job affinity: 69.697
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: SciFi Writing with Dall-e:
+		 Write articles, books or other materials
+	 Cypress API test automation for absolute beginners:
+		 Prepare tests
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+	 Evaluating Student Understanding with Socrative:
+		 Administer tests to assess educational needs or progress
+		 Attend training sessions or events to develop or maintain professional knowledge
+		 Create technology-based learning materials
+		 Encourage students
+		 Evaluate effectiveness of educational programs
+		 Select educational materials or equipment
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Encourage students
+		 Order instructional or library materials or equipment
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Develop strategies or programs for students with accessibility needs
+		 Discuss student progress with parents or guardians
+		 Encourage students
+		 Select educational materials or equipment
+	 Improving Content Mastery with Quizlet:
+		 Administer tests to assess educational needs or progress
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Plan educational activities
+		 Schedule instructional activities
+		 Select educational materials or equipment
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Evaluate performance of educational staff
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Enforce rules or policies governing student behaviour
+Skills for Job Private Tutors and Teachers
+Monitor student performance
+Develop instructional objectives
+Plan educational activities
+Apply multiple teaching methods
+Enforce rules or policies governing student behaviour
+Assess educational needs of students
+Maintain student records
+Modify teaching methods or materials to accommodate student needs
+Teach life skills
+Encourage students
+Evaluate student work
+Develop strategies or programs for students with accessibility needs
+Set up classroom materials or equipment
+Evaluate effectiveness of educational programs
+Create technology-based learning materials
+Assign class work to students
+Teach others to use technology or equipment
+Plan experiential learning activities
+Schedule instructional activities
+Document lesson plans
+Discuss student progress with parents or guardians
+Prepare tests
+Administer tests to assess educational needs or progress
+Collaborate with other teaching professionals to develop educational programs
+Evaluate performance of educational staff
+Discuss problems or issues with supervisors
+Promote educational institutions or programs
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Select educational materials or equipment
+Write articles, books or other materials
+Serve on institutional or departmental committees
+Attend training sessions or events to develop or maintain professional knowledge

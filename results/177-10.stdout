@@ -1,0 +1,56 @@
+Read instances: 0.71 s
+Generate matrices: 12.29 s
+The optimal value is 0.269
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Twitter Clone Front-End with ReactJS (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: SketchUp: how to start modelling simple 3D objects (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to design Facebook and IG stories using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Visual Communication through zines using Scribus & (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Use Commands and Create a Remote Git Repository (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.69
+Job affinity: 73.333
+Skills per Unit
+	 Initial Activity:
+	 Get started with Jira:
+		 Collaborate with others in marketing activities
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Build a Twitter Clone Front-End with ReactJS:
+		 Build models, patterns or templates
+		 Monitor current trends
+	 Visual Communication through zines using Scribus & Issuu.com:
+		 Draw detailed or technical illustrations
+	 SketchUp: how to start modelling simple 3D objects:
+		 Construct distinctive physical objects for artistic, functional or commercial purposes
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+	 How to design Facebook and IG stories using Canva:
+		 Build models, patterns or templates
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+		 Develop promotional strategies or plans
+	 Use Commands and Create a Remote Git Repository:
+		 Discuss production content and progress with others
+		 Maintain records, documents or other files
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+Skills for Job Visual Merchandisers
+Arrange artwork, products or props
+Discuss production content and progress with others
+Develop promotional strategies or plans
+Collaborate with others in marketing activities
+Train others on work processes
+Maintain inventories of materials, equipment or products
+Draw detailed or technical illustrations
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Select materials or props
+Operate still or video cameras or related equipment
+Maintain records, documents or other files
+Construct distinctive physical objects for artistic, functional or commercial purposes
+Build models, patterns or templates
+Apply finishes to artwork, crafts, or displays
+Monitor current trends

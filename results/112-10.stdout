@@ -1,0 +1,62 @@
+Read instances: 0.73 s
+Generate matrices: 4.09 s
+The optimal value is 0.5645652173913043
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering bitumen for better roads and innovative  (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: ChatGPT Prompt Engineering for Developers (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: ChatGPT for Beginners: Save time with Microsoft Ex (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Finite Element Analysis Convergence and Mesh Indep (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.28
+Job affinity: 43.478
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: Save time with Microsoft Excel:
+		 Program equipment to perform production tasks
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 ChatGPT Prompt Engineering for Developers:
+		 Enter commands, instructions, or specifications into equipment
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+		 Monitor equipment operation to ensure proper functioning
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+	 Mastering bitumen for better roads and innovative applications:
+		 Evaluate quality of materials or products
+		 Lubricate production equipment
+	 Finite Element Analysis Convergence and Mesh Independence:
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Getting Started with Microsoft OneDrive:
+		 Download data
+Skills for Job Printers
+Download data
+Load materials into production equipment
+Inspected printed materials or other images to verify quality
+Direct operational or production activities
+Evaluate quality of materials or products
+Adjust equipment controls to regulate flow of production
+Clean production equipment
+Feed materials or products into or through equipment
+Install mechanical components in production equipment
+Monitor equipment operation to ensure proper functioning
+Program equipment to perform production tasks
+Record operational or production data
+Mount materials or work pieces onto production equipment
+Enter commands, instructions, or specifications into equipment
+Collect samples of materials or products for testing
+Operate photographic developing or print production equipment
+Read work orders or other instructions to determine product specifications or materials requirements
+Review blueprints or other instructions to determine operational methods or sequences
+Mix ingredients to create specific finishes
+Operate cutting equipment
+Lubricate production equipment
+Maintain inventories of materials, equipment or products
+Order materials, supplies, or equipment

@@ -1,0 +1,45 @@
+Read instances: 0.73 s
+Generate matrices: 7.01 s
+The optimal value is 0.46699999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with ImageJ (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 53.333
+Skills per Unit
+	 Initial Activity:
+	 Getting started with ImageJ:
+		 Operate diagnostic or therapeutic medical instruments or equipment
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Analyse patient data to determine patient needs or treatment goals
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Develop health assessment methods or programs
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 Lesson | Understand and Be Understood on the Phone:
+		 Test patient hearing
+Skills for Job Audiologists and Speech Pathologists / Therapists
+Monitor patient progress or responses to treatments
+Record patient medical histories
+Analyse patient data to determine patient needs or treatment goals
+Train patients, family members or caregivers in techniques for managing disabilities or illnesses
+Test patient hearing
+Collaborate with health care professionals to plan or provide treatment
+Advise others on health care issues
+Supervise patient care staff
+Develop health assessment methods or programs
+Administer health care or medical treatments
+Refer patients to other health care practitioners or health resources
+Operate diagnostic or therapeutic medical instruments or equipment
+Present medical research reports
+Conduct research to increase knowledge about medical issues
+Maintain medical or professional knowledge

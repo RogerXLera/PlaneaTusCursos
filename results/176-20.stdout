@@ -1,0 +1,55 @@
+Read instances: 0.69 s
+Generate matrices: 9.53 s
+The optimal value is 0.185
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: International Travel Preparation, Safety, & Wellne (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Firearm Purchaser Licensing Teach-Out: The Backgro (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: Typescript in React: Get started (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Customer Service with Python: Build a Chatbot usin (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Community Awareness Course: Sexuality and Disabili (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneNote (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.84
+Job affinity: 81.818
+Skills per Unit
+	 Initial Activity:
+	 Getting Started with Microsoft OneNote:
+		 Assist individuals with accessibility needs
+	 Typescript in React: Get started:
+		 Compile data or documentation
+		 Promote goods, services, or programs
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Customer Service with Python: Build a Chatbot using ChatGPT:
+		 Discuss goods or services information with customers or patrons
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Compile data or documentation
+	 Community Awareness Course: Sexuality and Disability:
+		 Assist individuals with accessibility needs
+	 Transformer Models and BERT Model:
+		 Promote goods, services, or programs
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Firearm Purchaser Licensing Teach-Out: The Background Check Policy Not Enough People Are Talking About:
+		 Explain regulations, policies or procedures
+	 International Travel Preparation, Safety, & Wellness:
+		 Make travel, accommodation or entertainment arrangements for others
+Skills for Job Ticket Salespersons
+Make travel, accommodation or entertainment arrangements for others
+Explain regulations, policies or procedures
+Provide notifications to customers or patrons
+Discuss goods or services information with customers or patrons
+Track goods or materials
+Assist individuals with accessibility needs
+Maintain inventory records
+Collect deposits, payments or fees
+Compile data or documentation
+Promote goods, services, or programs
+Calculate costs of goods or services

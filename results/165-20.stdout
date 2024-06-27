@@ -1,0 +1,89 @@
+Read instances: 0.73 s
+Generate matrices: 17.33 s
+The optimal value is 0.40099999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Algorithms for Searching, Sorting, and Indexing (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Off the Clock: The Many Faces of Time (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Graphic Design: Make Interior's Project Mood Board (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Stock Valuation with Comparable Companies Analysis (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Working with MySQL DB instance using AWS RDS (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.86
+Job affinity: 60.000
+Skills per Unit
+	 Initial Activity:
+	 Stock Valuation with Comparable Companies Analysis:
+		 Calculate financial data
+		 Prepare research or technical reports
+	 Create your e-commerce store with Shopify:
+		 Collect deposits, payments or fees
+	 Getting Started with Microsoft Word:
+		 Enter information into databases or software programs
+		 Issue documentation or identification to customers or employees
+	 Create Employee Management System with When I Work:
+		 Manage clerical or administrative activities
+		 Prepare staff schedules
+	 Algorithms for Searching, Sorting, and Indexing:
+		 Sort mail
+		 Sort materials or products
+	 Graphic Design: Make Interior's Project Mood Boards in Gimp:
+		 Type documents
+	 Flush Out a Feature on Coursera in Miro:
+		 Develop software applications
+		 Maintain inventory records
+	 Working with MySQL DB instance using AWS RDS:
+		 Enter information into databases or software programs
+		 Maintain security
+	 Increase Student Buy in with Google Slides:
+		 Plan educational activities
+	 Launch your first online meeting with ZOOM:
+		 Develop software applications
+		 Enter information into databases or software programs
+		 Maintain financial or account records
+	 Off the Clock: The Many Faces of Time:
+		 Plan special events
+	 Lesson | Telephone Language:
+		 Answer telephones to direct calls or provide information
+	 Lesson | Organize Your Pitch:
+		 Send information, materials or documentation
+Skills for Job Library Assistants
+Maintain inventory records
+Distribute materials to employees or customers
+Sort materials or products
+Track goods or materials
+Refer customers to appropriate staff
+Manage clerical or administrative activities
+Enter information into databases or software programs
+Maintain office equipment in proper operating condition
+Inspect items for damage or defects
+Calculate financial data
+Maintain security
+Deliver items
+Answer telephones to direct calls or provide information
+Type documents
+Sort mail
+Maintain financial or account records
+Issue documentation or identification to customers or employees
+Store records or related materials
+Plan educational activities
+Plan special events
+Supervise clerical or administrative staff
+Prepare staff schedules
+Collect deposits, payments or fees
+Send information, materials or documentation
+Attach identification information to products, items or containers
+Package objects for shipping
+Prepare research or technical reports
+Develop software applications
+Prepare documentation for contracts, transactions or regulatory compliance
+Order materials, supplies, or equipment

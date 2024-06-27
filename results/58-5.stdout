@@ -1,0 +1,58 @@
+Read instances: 0.72 s
+Generate matrices: 7.07 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: HPV-Associated Oral and Throat Cancer: What You Ne (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Excel for Beginners: Sorting, Filtering, Data-Vali (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.18
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Excel for Beginners: Sorting, Filtering, Data-Validation:
+		 Enter patient or treatment data into computers
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Communicate detailed medical information to patients or family members
+		 Communicate health and wellness information to the public
+		 Explain medical procedures or test results to patients or family members
+	 HPV-Associated Oral and Throat Cancer: What You Need to Know:
+		 Conduct research to increase knowledge about medical issues
+		 Establish treatment goals
+		 Evaluate patient outcomes to determine effectiveness of treatments
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Collaborate with health care professionals to plan or provide treatment
+		 Communicate detailed medical information to patients or family members
+		 Conduct research to increase knowledge about medical issues
+		 Develop medical treatment plans
+		 Explain medical procedures or test results to patients or family members
+Skills for Job Physiotherapists
+Record patient medical histories
+Develop medical treatment plans
+Treat patients using physiotherapy techniques
+Supervise medical support staff
+Process health care paperwork
+Analyse patient data to determine patient needs or treatment goals
+Train patients, family members or caregivers in techniques for managing disabilities or illnesses
+Explain medical procedures or test results to patients or family members
+Enter patient or treatment data into computers
+Communicate health and wellness information to the public
+Evaluate patient outcomes to determine effectiveness of treatments
+Monitor patient progress or responses to treatments
+Examine patients to assess general physical condition
+Refer patients to other health care practitioners or health resources
+Collaborate with health care professionals to plan or provide treatment
+Establish treatment goals
+Test patient heart or lung functioning
+Operate diagnostic or therapeutic medical instruments or equipment
+Conduct research to increase knowledge about medical issues
+Direct health care delivery programs
+Fabricate medical devices
+Communicate detailed medical information to patients or family members
+Train medical providers
+Adjust prostheses or other assistive devices
+Advise others on health care issues

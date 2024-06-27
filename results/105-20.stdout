@@ -1,0 +1,49 @@
+Read instances: 0.70 s
+Generate matrices: 5.02 s
+The optimal value is 0.115
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Unity for Absolute Beginners - Getting Started (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: SketchUp: how to start modelling simple 3D objects (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Use Commands and Create a Remote Git Repository (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: AR for web using JavaScript (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: ChatGPT Playground for Beginners: Intro to NLP AI (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Terraform Basics: Automate Provisioning of AWS EC2 (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Training and Learning Online (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Professional Skills for International Business (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.52
+Job affinity: 88.889
+Skills per Unit
+	 Initial Activity:
+	 Professional Skills for International Business:
+		 Train others on work processes
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Unity for Absolute Beginners - Getting Started:
+		 Construct distinctive physical objects for artistic, functional or commercial purposes
+	 AR for web using JavaScript:
+		 Arrange artwork, products or props
+	 SketchUp: how to start modelling simple 3D objects:
+		 Construct distinctive physical objects for artistic, functional or commercial purposes
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+	 Use Commands and Create a Remote Git Repository:
+		 Maintain records, documents or other files
+	 ChatGPT Playground for Beginners: Intro to NLP AI:
+		 Confer with clients to determine needs
+	 Terraform Basics: Automate Provisioning of AWS EC2 Instances:
+		 Maintain records, documents or other files
+	 Training and Learning Online:
+		 Provide educational information to the public
+Skills for Job Florists
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Select materials or props
+Maintain records, documents or other files
+Construct distinctive physical objects for artistic, functional or commercial purposes
+Confer with clients to determine needs
+Provide educational information to the public
+Maintain inventories of materials, equipment or products
+Arrange artwork, products or props
+Train others on work processes

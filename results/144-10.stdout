@@ -1,0 +1,27 @@
+Read instances: 0.78 s
+Generate matrices: 4.74 s
+The optimal value is 0.203
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Baseball into the Millennium (10.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.27
+Job affinity: 80.000
+Skills per Unit
+	 Initial Activity:
+	 Transformer Models and BERT Model:
+		 Promote products, activities, or organisations
+	 Baseball into the Millennium:
+		 Coach others
+		 Evaluate skills of athletes or performers
+	 Lesson | Express Yourself: Pronunciation:
+		 Practice athletic or artistic skills
+Skills for Job Sportspersons
+Practice athletic or artistic skills
+Participate in athletic events
+Evaluate skills of athletes or performers
+Coach others
+Promote products, activities, or organisations

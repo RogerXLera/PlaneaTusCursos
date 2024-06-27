@@ -1,0 +1,61 @@
+Read instances: 0.82 s
+Generate matrices: 12.92 s
+The optimal value is 0.36973684210526314
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Human Resources Analytics (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: Introducing Your (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Art of Storytelling (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Doing Business in Europe (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.03
+Job affinity: 63.158
+Skills per Unit
+	 Initial Activity:
+	 Human Resources Analytics:
+		 Authorise financial actions
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Analyse consumer trends
+		 Develop business or market strategies
+	 The Art of Storytelling:
+		 Create marketing materials
+	 Doing Business in Europe:
+		 Analyse market conditions or trends
+		 Develop business or market strategies
+		 Identify strategic business investment opportunities
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Obtain information about goods or services
+		 Procure goods or services
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+		 Confer with staff to coordinate business operations
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Evaluate logistics methods to reduce environmental impact
+	 Lesson | Business English Skills: Introducing Yourself in Business Settings:
+		 Confer with staff to coordinate business operations
+		 Discuss business strategies, practices or policies with managers
+Skills for Job Importers, Exporters and Wholesalers
+Procure stocks of merchandise or supplies
+Procure goods or services
+Negotiate contracts with clients or service providers
+Confer with staff to coordinate business operations
+Obtain information about goods or services
+Determine the value of goods or services
+Analyse market conditions or trends
+Analyse consumer trends
+Evaluate logistics methods to reduce environmental impact
+Discuss business strategies, practices or policies with managers
+Advise others on business or operational matters
+Disburse funds from clients' accounts to creditors
+Authorise financial actions
+Supervise employees
+Train staff to improve their skills
+Research issues related to the environment or sustainable business practices
+Create marketing materials
+Identify strategic business investment opportunities
+Develop business or market strategies

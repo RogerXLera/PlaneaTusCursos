@@ -1,0 +1,30 @@
+Read instances: 0.70 s
+Generate matrices: 2.43 s
+The optimal value is 0.8275
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your first custom VPC and its components in (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism (1.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.03
+Job affinity: 16.667
+Skills per Unit
+	 Initial Activity:
+	 Attention Mechanism:
+		 Collate or assemble product orders
+	 Create your first custom VPC and its components in AWS:
+		 Analyse shipping information to make routing decisions
+Skills for Job Transport and Despatch Clerks
+Inspect shipments to ensure correct order fulfilment
+Analyse shipping information to make routing decisions
+Record shipping information
+Package objects for shipping
+Prepare documentation for contracts, transactions or regulatory compliance
+Deliver items
+Respond to customer problems or complaints
+Collate or assemble product orders
+Calculate shipping costs
+Coordinate shipping activities with external parties
+Store items
+Order materials, supplies, or equipment

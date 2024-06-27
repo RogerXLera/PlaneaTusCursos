@@ -1,0 +1,59 @@
+Read instances: 0.73 s
+Generate matrices: 17.70 s
+The optimal value is 0.7016666666666667
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Image Captioning Models (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.52
+Job affinity: 29.630
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+	 Create Image Captioning Models:
+		 Analyse data to inform operational decisions or activities
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure materials, equipment or other resources
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor facilities or operational systems
+		 Monitor resources
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Direct facility maintenance or repair activities
+Skills for Job Livestock Farmers
+Manage agricultural or forestry operations
+Inspect condition, or functioning, of facilities or equipment
+Monitor organisational compliance with regulations
+Procure materials, equipment or other resources
+Monitor resources
+Assess characteristics of wool, fleece, hair or hide
+Comply with industry animal welfare requirements
+Evaluate quality of materials or products
+Safely use rifles, revolvers and other firearms
+Implement organisational process or policy changes
+Monitor facilities or operational systems
+Perform manual service or maintenance tasks
+Analyse data to inform operational decisions or activities
+Conduct employee training programs
+Maintain staff records
+Maintain operational records
+Safely load and unload animals for transport
+Direct facility maintenance or repair activities
+Negotiate contracts for transportation, distribution or logistics services
+Negotiate sales or lease agreements for goods or services
+Train employees on environmental awareness, conservation or safety topics
+Supervise employees
+Hire staff
+Perform manual agricultural, aquacultural or horticultural tasks
+Manage construction activities
+Prepare financial documents, reports or budgets
+Prepare operational budgets

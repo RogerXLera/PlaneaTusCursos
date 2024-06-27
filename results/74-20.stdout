@@ -1,0 +1,39 @@
+Read instances: 0.70 s
+Generate matrices: 2.73 s
+The optimal value is 0.41750000000000004
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Genomics for Law (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Legal Tech & Startups (13.0) 	 Start Period: 1 	 End Period: 2
+Activity: Active Listening: Enhancing Communication Skills (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Firearm Purchaser Licensing Teach-Out: The Backgro (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.23
+Job affinity: 58.333
+Skills per Unit
+	 Initial Activity:
+	 Active Listening: Enhancing Communication Skills:
+		 Arbitrate disputes between parties to resolve legal conflicts
+	 Legal Tech & Startups:
+		 Prepare legal documents
+		 Provide legal advice to clients
+	 Genomics for Law:
+		 Evaluate information related to legal matters in public or personal records
+		 Identify implications for cases from legal precedents or other legal information
+		 Meet with individuals involved in legal processes to provide information and clarify issues
+	 Firearm Purchaser Licensing Teach-Out: The Background Check Policy Not Enough People Are Talking About:
+		 Draft legislation or regulations
+Skills for Job Barristers
+Represent the interests of clients in legal proceedings or court
+Identify implications for cases from legal precedents or other legal information
+Provide legal advice to clients
+Supervise activities of other legal staff
+Prepare legal documents
+Interview claimants to gather information related to legal proceedings
+Research relevant legal materials to aid decision making
+Evaluate information related to legal matters in public or personal records
+Arbitrate disputes between parties to resolve legal conflicts
+Prepare documentation of legal proceedings
+Draft legislation or regulations
+Meet with individuals involved in legal processes to provide information and clarify issues

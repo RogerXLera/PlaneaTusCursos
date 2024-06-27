@@ -1,0 +1,46 @@
+Read instances: 0.71 s
+Generate matrices: 2.47 s
+The optimal value is 0.533
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Amazon Aurora Service Introduction (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Making the Case for Robotic Process Automation (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.09
+Job affinity: 46.667
+Skills per Unit
+	 Initial Activity:
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Receive information or instructions for performing work assignments
+	 Understanding and Managing the Stresses of Police Work:
+		 Apply fatigue management strategies
+	 Making the Case for Robotic Process Automation:
+		 Follow safety procedures for vehicle operation
+	 Amazon Aurora Service Introduction:
+		 Move and store materials, equipment or products
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive passenger vehicles
+		 Inspect motor vehicles
+Skills for Job Automobile Drivers
+Drive passenger vehicles
+Provide transportation information to passengers or customers
+Follow safety procedures for vehicle operation
+Schedule operational activities
+Assist passengers during vehicle boarding
+Communicate with others to coordinate vehicle movement
+Record operational details of travel
+Apply fatigue management strategies
+Clean vehicles or vehicle components
+Maintain vehicles in good working condition
+Inspect motor vehicles
+Collect fares or payment from customers
+Receive information or instructions for performing work assignments
+Report vehicle or equipment malfunctions
+Move and store materials, equipment or products

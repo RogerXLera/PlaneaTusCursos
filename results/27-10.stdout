@@ -1,0 +1,69 @@
+Read instances: 0.71 s
+Generate matrices: 9.10 s
+The optimal value is 0.5197999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals of Technology Sales (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to CRM with HubSpot (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Create your own Sudoku Solver using AI and Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Overview of Data Visualization (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Cloud Spanner - Defining Schemas and Understanding (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.66
+Job affinity: 48.000
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Gather financial records
+		 Interpret financial information for others
+	 Fundamentals of Technology Sales:
+		 Market goods, services or events
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Hiring and Onboarding Employees with ClickUp:
+		 Establish organisational guidelines or policies
+	 Introduction to CRM with HubSpot:
+		 Correspond with customers to answer questions or resolve complaints
+		 Execute sales or other financial transactions
+	 Create your own Sudoku Solver using AI and Python:
+		 Compute debt repayment schedules
+	 Overview of Data Visualization:
+		 Analyse market conditions or trends
+	 Cloud Spanner - Defining Schemas and Understanding Query Plans:
+		 Maintain data in information systems or databases
+	 Introduction to Duet AI in Google Workspace:
+		 Confer with staff to coordinate business operations
+	 Lesson | Get Ready for the Interview:
+		 Conduct eligibility or selection interviews
+Skills for Job Financial Brokers
+Supervise employees
+Gather financial records
+Compute debt repayment schedules
+Interpret financial information for others
+Assess financial status of clients
+Interview clients to gather financial information
+Market goods, services or events
+Verify accuracy of financial information
+Authorise financial actions
+Negotiate agreements to resolve disputes
+Submit financial applications
+Develop financial plans for clients
+Update professional knowledge
+Maintain data in information systems or databases
+Examine financial records
+Correspond with customers to answer questions or resolve complaints
+Analyse market conditions or trends
+Confer with staff to coordinate business operations
+Establish organisational guidelines or policies
+Prepare financial documents, reports or budgets
+Recommend investments to clients
+Train staff to improve their skills
+Conduct eligibility or selection interviews
+Communicate with government agencies
+Execute sales or other financial transactions

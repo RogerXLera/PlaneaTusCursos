@@ -1,0 +1,51 @@
+Read instances: 0.70 s
+Generate matrices: 5.44 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.20
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Calculate financial data
+		 Maintain financial or account records
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Code data or other information
+		 Compile data or documentation
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Introduction to Generative AI Studio - Français:
+		 Operate computers or computerised equipment
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 File documents or records
+Skills for Job Bookkeepers
+Verify accuracy of financial or transactional data
+Calculate financial data
+Maintain financial or account records
+Operate office equipment
+Operate computers or computerised equipment
+Code data or other information
+Reconcile records of sales or other financial transactions
+Search files, databases or reference materials to obtain information
+Answer telephones to direct calls or provide information
+File documents or records
+Collect deposits, payments or fees
+Monitor financial information
+Compile data or documentation
+Calculate costs of goods or services
+Prepare documentation for contracts, transactions or regulatory compliance
+Execute sales or other financial transactions
+Prepare cash for deposit or disbursement
+Maintain inventory records

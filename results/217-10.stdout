@@ -1,0 +1,31 @@
+Read instances: 0.69 s
+Generate matrices: 2.19 s
+The optimal value is 0.698
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How to Get Into Blockchain (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Speaking to a Technical Group (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.06
+Job affinity: 30.000
+Skills per Unit
+	 Initial Activity:
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Document work hours or activities
+	 How to Get Into Blockchain:
+		 Recommend goods or services to customers
+	 Speaking to a Technical Group:
+		 Clean facilities or sites
+Skills for Job Pest Control Technicians
+Document work hours or activities
+Inspect buildings or grounds to determine condition
+Drive vehicles to, or at, work sites
+Treat greenery or surfaces with protective substances
+Recommend goods or services to customers
+Treat facilities to eliminate pests
+Clean facilities or sites
+Estimate maintenance service requirements or costs
+Supervise maintenance workers
+Evaluate reports or designs to determine work needs

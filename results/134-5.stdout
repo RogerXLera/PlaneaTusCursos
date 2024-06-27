@@ -1,0 +1,41 @@
+Read instances: 0.72 s
+Generate matrices: 3.19 s
+The optimal value is 0.786578947368421
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a no-code responsive website with Webflow (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.06
+Job affinity: 21.053
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Communicate with customers to resolve complaints or ensure satisfaction
+		 Process customer bills or payments
+	 Create a no-code responsive website with Webflow:
+		 Present specials information or menus to customers
+	 Amazon Translate: Translate documents with batch translation:
+		 Enforce rules or regulations
+Skills for Job Waiters
+Present specials information or menus to customers
+Process customer bills or payments
+Take customer orders
+Arrange tables or dining areas
+Stock serving stations or dining areas with food or supplies
+Serve food or drinks
+Prepare hot or cold drinks
+Communicate with customers to resolve complaints or ensure satisfaction
+Collect dirty dishes or other tableware
+Clean food service areas
+Assist customers with seating arrangements
+Enforce rules or regulations
+Garnish food
+Clean food preparation areas, facilities or equipment
+Communicate order details to kitchen staff
+Cook foods
+Schedule dining reservations
+Prepare foods for processing, cooking and serving
+Provide customers with general information or assistance

@@ -1,0 +1,32 @@
+Read instances: 0.72 s
+Generate matrices: 3.25 s
+The optimal value is 0.7640384615384616
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Predict Employee Turnover with scikit-learn (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.06
+Job affinity: 23.077
+Skills per Unit
+	 Initial Activity:
+	 Predict Employee Turnover with scikit-learn:
+		 Adjust equipment for optimal performance
+		 Interpret blueprints, specifications or diagrams
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Precision Metal Trades Workers
+Adjust equipment for optimal performance
+Fabricate parts or components
+Replace worn, damaged or defective mechanical parts
+Maintain work equipment or machinery
+Estimate costs for labour or materials
+Disassemble equipment for maintenance or repair
+Lubricate equipment to allow proper functioning
+Repair worn, damaged, or defective mechanical parts
+Clean or repair equipment, parts or tools
+Inspect mechanical equipment to locate damage, defects or wear
+Calibrate equipment
+Measure distances or dimensions
+Interpret blueprints, specifications or diagrams

@@ -1,0 +1,46 @@
+Read instances: 0.74 s
+Generate matrices: 3.28 s
+The optimal value is 0.533
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Future of Payment Technologies (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 2
+Activity: Azure: deploy a Web Server using the Container Reg (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.28
+Job affinity: 46.667
+Skills per Unit
+	 Initial Activity:
+	 The Future of Payment Technologies:
+		 Operate cash registers
+	 Azure: deploy a Web Server using the Container Registry:
+		 Operate and maintain car wash facilities
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+Skills for Job Service Station Attendants
+Operate cash registers
+Answer customer questions about goods or services
+Sell goods or services
+Greet customers, patrons or visitors
+Set up merchandise displays
+Refuel vehicle
+Clean vehicles or vehicle components
+Operate and maintain car wash facilities
+Clean work areas
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Replace worn, damaged or defective mechanical parts
+Stock products or parts
+Repair worn, damaged, or defective mechanical parts
+Repair, replace, test, or rotate tires
+Replace or repair non-engine automotive or vehicle components

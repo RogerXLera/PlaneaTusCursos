@@ -1,0 +1,55 @@
+Read instances: 0.77 s
+Generate matrices: 3.76 s
+The optimal value is 0.7062499999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Water: an essential resource (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Build your first Search Engine using AWS Kendra (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Training and Learning Online (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.25
+Job affinity: 29.167
+Skills per Unit
+	 Initial Activity:
+	 Success with Integrity: Business Ethics Foundation:
+		 Investigate crimes committed within organisations
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Build your first Search Engine using AWS Kendra:
+		 Search individuals for illegal or dangerous items
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive vehicles to transport individuals or equipment
+	 Water: an essential resource:
+		 Inspect facilities for cleanliness
+	 Training and Learning Online:
+		 Attend training to learn new skills or update knowledge
+		 Prepare activity or work schedules
+Skills for Job Prison Officers
+Record information about suspects or criminals
+Maintain surveillance of individuals or establishments
+Count prison staff or people in prison
+Supervise activities of people in prison
+Inspect equipment to ensure safety or proper functioning
+Guard facilities
+Direct operations of correctional facilities
+Maintain inventories of materials, equipment or products
+Safely move and store dangerous goods
+Inspect cargo to identify potential hazards
+Prepare activity or work schedules
+Escort people in prison to courtrooms, prisons, or other facilities
+Resolve interpersonal conflicts
+Discuss performance, complaints or violations with supervisors
+Drive vehicles to transport individuals or equipment
+Locate suspicious objects or vehicles
+Search individuals for illegal or dangerous items
+Use weapons or physical force to maintain security
+Safely use rifles, revolvers and other firearms
+Investigate crimes committed within organisations
+Inspect facilities for cleanliness
+Inspect facilities to ensure compliance with fire regulations
+Inspect facilities to ensure compliance with security or safety regulations
+Attend training to learn new skills or update knowledge

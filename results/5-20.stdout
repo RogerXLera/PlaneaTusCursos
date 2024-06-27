@@ -1,0 +1,84 @@
+Read instances: 0.80 s
+Generate matrices: 21.24 s
+The optimal value is 0.24259999999999998
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Human Capital in Retail (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Influencing, Collaboration and Decision Making (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Power BI Desktop (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Predicting Salaries with Decision Trees (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Management of International Development: Towards A (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Increase Engagement to your Instagram Business Pro (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.80
+Job affinity: 76.000
+Skills per Unit
+	 Initial Activity:
+	 Getting Started with Power BI Desktop:
+		 Analyse data to inform operational decisions or activities
+		 Prepare reports related to compliance matters
+	 Managing Human Capital in Retail:
+		 Administer compensation or benefits programs
+		 Conduct employee training programs
+		 Hire staff
+		 Manage human resources activities
+		 Recruit staff
+		 Supervise employees
+	 Management of International Development: Towards Agenda 2030:
+		 Liaise between departments or other groups to improve function or communication
+	 Influencing, Collaboration and Decision Making:
+		 Analyse data to inform operational decisions or activities
+		 Negotiate labour disputes
+	 Increase Engagement to your Instagram Business Profile:
+		 Coordinate special events or programs
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+		 Recruit staff
+	 How to Get Into Web Development:
+		 Advise others on career or personal development
+	 Predicting Salaries with Decision Trees:
+		 Analyse data to inform operational decisions or activities
+		 Compile operational data
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Analyse data to inform staffing decisions
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate organisational policies and procedures
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Human Resource Managers
+Manage human resources activities
+Liaise between departments or other groups to improve function or communication
+Communicate organisational policies and procedures
+Supervise employees
+Administer compensation or benefits programs
+Hire staff
+Negotiate labour disputes
+Compile operational data
+Maintain staff records
+Recommend organisational process or policy changes
+Advise others on legal or regulatory compliance matters
+Interview employees, customers or others to collect information
+Maintain knowledge of current developments in area of expertise
+Recruit staff
+Analyse data to inform staffing decisions
+Represent the organisation in external relations
+Estimate labour requirements
+Coordinate special events or programs
+Conduct employee training programs
+Investigate industrial or transportation accidents
+Prepare reports related to compliance matters
+Prepare operational budgets
+Advise others on career or personal development
+Negotiate sales or lease agreements for goods or services
+Analyse data to inform operational decisions or activities

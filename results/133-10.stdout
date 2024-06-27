@@ -1,0 +1,86 @@
+Read instances: 0.74 s
+Generate matrices: 26.78 s
+The optimal value is 0.26166666666666666
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Application of Data Analysis in Business with R Pr (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create an online presence with a free website from (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Excel for Beginners: Sorting, Filtering, Data-Vali (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.79
+Job affinity: 74.074
+Skills per Unit
+	 Initial Activity:
+	 Create an online presence with a free website from WordPress:
+		 Provide basic information to guests, visitors, or clients
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop organisational policies or programs
+		 Implement organisational process or policy changes
+	 Excel for Beginners: Sorting, Filtering, Data-Validation:
+		 Confer with peers to accomplish work
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Direct administrative or support services
+		 Evaluate employee performance
+		 Hire staff
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Monitor facilities or operational systems
+		 Perform manual service or maintenance tasks
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Direct administrative or support services
+		 Manage guest services
+		 Procure materials, equipment or other resources
+		 Promote goods, services, or programs
+	 Application of Data Analysis in Business with R Programming:
+		 Coordinate operational activities with external stakeholders
+	 Introduction to Responsible AI:
+		 Monitor activities of individuals to ensure safety or compliance with rules
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+		 Manage organisational or project budgets
+		 Monitor facilities or operational systems
+	 Assimilating into Your New Job:
+		 Conduct employee training programs
+		 Hire staff
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document organisational or operational procedures
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Hotel Service Managers
+Provide basic information to guests, visitors, or clients
+Confer with peers to accomplish work
+Collect payments for goods or services
+Resolve customer complaints or problems
+Inspect condition, or functioning, of facilities or equipment
+Document organisational or operational procedures
+Monitor flow of cash or other resources
+Promote goods, services, or programs
+Monitor facilities or operational systems
+Prepare staff schedules or work assignments
+Coordinate operational activities with external stakeholders
+Manage guest services
+Conduct employee training programs
+Perform manual service or maintenance tasks
+Direct administrative or support services
+Evaluate employee performance
+Monitor performance of organisational members or partners
+Monitor activities of individuals to ensure safety or compliance with rules
+Manage organisational or project budgets
+Procure materials, equipment or other resources
+Maintain operational records
+Develop operating strategies, plans or procedures
+Develop organisational policies or programs
+Implement organisational process or policy changes
+Schedule product or material transportation
+Interview employees, customers or others to collect information
+Hire staff

@@ -1,0 +1,80 @@
+Read instances: 0.81 s
+Generate matrices: 12.43 s
+The optimal value is 0.46464285714285714
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Engaging and Assessing Students with Plickers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Support Interactive Learning with Genially (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Canva for teachers (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: Introducing Your (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.98
+Job affinity: 53.571
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Canva for teachers:
+		 Advise educators on curricula, instructional methods or policies
+		 Order instructional or library materials or equipment
+	 Introduction to Statistics in Python:
+		 Process library materials
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Train staff members
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Getting started with Azure IOT Hub:
+		 Develop library or archival databases
+		 Organise informational materials
+	 Improving Classroom Management with Class Dojo:
+		 Develop instructional materials
+		 Plan community programs or activities for the general public
+	 Engaging and Assessing Students with Plickers:
+		 Develop instructional materials
+		 Select educational materials or equipment
+	 Support Interactive Learning with Genially:
+		 Develop instructional materials
+		 Order instructional or library materials or equipment
+	 Build a Professional Resume using Canva:
+		 Help patrons use library or archival resources
+		 Write articles, books or other materials
+	 Lesson | Business English Skills: Introducing Yourself in Business Settings:
+		 Attend training sessions or events to develop or maintain professional knowledge
+		 Confer with others to conduct or arrange operational activities
+Skills for Job Librarians
+Help patrons use library or archival resources
+Process library materials
+Search information sources to find data
+Teach others to use technology or equipment
+Develop library or archival databases
+Direct department activities
+Maintain operational records
+Select educational materials or equipment
+Classify materials according to standard systems
+Organise informational materials
+Maintain inventories of materials, equipment or products
+Order instructional or library materials or equipment
+Plan community programs or activities for the general public
+Confer with others to conduct or arrange operational activities
+Compile specialised bibliographies or lists of materials
+Construct exhibits or parts of exhibits
+Develop policies or procedures for archives, museums or libraries
+Inspect materials or equipment to determine need for repair or replacement
+Direct activities of staff
+Train staff members
+Negotiate purchases or contracts
+Attend training sessions or events to develop or maintain professional knowledge
+Serve on institutional or departmental committees
+Promote educational institutions or programs
+Develop instructional materials
+Write articles, books or other materials
+Advise educators on curricula, instructional methods or policies
+Write grant proposals

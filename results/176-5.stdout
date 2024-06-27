@@ -1,0 +1,42 @@
+Read instances: 0.68 s
+Generate matrices: 9.30 s
+The optimal value is 0.365
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.21
+Job affinity: 63.636
+Skills per Unit
+	 Initial Activity:
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Compile data or documentation
+	 Encoder-Decoder Architecture:
+		 Promote goods, services, or programs
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Assist individuals with accessibility needs
+Skills for Job Ticket Salespersons
+Make travel, accommodation or entertainment arrangements for others
+Explain regulations, policies or procedures
+Provide notifications to customers or patrons
+Discuss goods or services information with customers or patrons
+Track goods or materials
+Assist individuals with accessibility needs
+Maintain inventory records
+Collect deposits, payments or fees
+Compile data or documentation
+Promote goods, services, or programs
+Calculate costs of goods or services

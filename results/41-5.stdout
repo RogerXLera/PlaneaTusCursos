@@ -1,0 +1,60 @@
+Read instances: 0.73 s
+Generate matrices: 11.33 s
+The optimal value is 0.6142307692307692
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: AWS Elastic Beanstalk: Build & Deploy a Node.js RE (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Math Engagement with Prodigy (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.26
+Job affinity: 38.462
+Skills per Unit
+	 Initial Activity:
+	 Building Production-Ready Apps with Large Language Models:
+		 Design structures or facilities
+	 Getting Started with Ubuntu Linux:
+		 Investigate system, equipment or product failures
+	 AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API:
+		 Direct installation activities
+		 Inspect operational processes
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Estimate operational costs
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Design alternative energy systems
+		 Design electrical equipment or systems
+		 Design energy efficient equipment or systems
+		 Design energy production or management equipment or systems
+	 Improving Math Engagement with Prodigy:
+		 Operate computer systems
+Skills for Job Electrical Engineers
+Operate computer systems
+Create electrical schematics
+Estimate technical or resource requirements for development or production projects
+Design energy efficient equipment or systems
+Confer with technical staff to prepare designs or operational plans
+Discuss designs or plans with clients
+Prepare operational reports
+Design electrical equipment or systems
+Direct industrial production activities
+Survey land or bodies of water
+Devise research or testing protocols
+Maintain electronic equipment
+Design structures or facilities
+Develop technical specifications for systems or equipment
+Investigate system, equipment or product failures
+Design energy production or management equipment or systems
+Direct equipment maintenance or repair activities
+Direct construction activities
+Direct installation activities
+Design alternative energy systems
+Inspect operational processes
+Supervise engineering or other technical staff
+Train staff on proper operational procedures
+Estimate operational costs
+Prepare project budgets
+Test products for functionality or quality

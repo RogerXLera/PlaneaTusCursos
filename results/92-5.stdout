@@ -1,0 +1,54 @@
+Read instances: 0.75 s
+Generate matrices: 2.87 s
+The optimal value is 0.8116666666666668
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Inkscape (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Setting up AWS Application Load Balancer (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Large Language Models (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 18.519
+Skills per Unit
+	 Initial Activity:
+	 Get Started with Inkscape:
+		 Apply decorative or textured finishes or coverings
+	 Introduction to Large Language Models:
+		 Communicate with clients about products, procedures and policies
+	 Setting up AWS Application Load Balancer:
+		 Dismantle equipment or temporary structures
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Drive trucks or truck-mounted equipment
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Glaziers
+Cut glass
+Install doors or windows
+Install metal structural components
+Load or unload materials used in construction or mining
+Smooth surfaces with abrasive materials or tools
+Apply material to fill gaps in surfaces
+Select construction materials
+Install building fixtures
+Measure materials or objects for installation or assembly
+Communicate with clients about products, procedures and policies
+Verify alignment of structures or equipment
+Review blueprints or specifications to determine work requirements
+Operate cranes, hoists or other moving or lifting equipment
+Drive trucks or truck-mounted equipment
+Fabricate parts or components
+Remove worn, damaged or outdated materials from work areas
+Install wooden structural components
+Protect structures or surfaces near work areas to avoid damage
+Trim excess material from installations
+Mark reference points on construction materials
+Cut metal components
+Cut wood components
+Assemble temporary equipment or structures
+Dismantle equipment or temporary structures
+Apply decorative or textured finishes or coverings
+Apply adhesives to construction materials
+Cut carpet, vinyl or other flexible materials

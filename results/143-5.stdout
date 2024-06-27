@@ -1,0 +1,39 @@
+Read instances: 0.72 s
+Generate matrices: 6.32 s
+The optimal value is 0.6414285714285715
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Generative AI for Leaders (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.36
+Job affinity: 35.714
+Skills per Unit
+	 Initial Activity:
+	 Generative AI for Leaders:
+		 Coordinate logistics for productions or events
+		 Manage operations of artistic or entertainment departments or organisations
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Negotiate for services
+	 Encoder-Decoder Architecture:
+		 Promote products, activities, or organisations
+Skills for Job Sports Coaches, Instructors and Officials
+Train others on performance techniques
+Coordinate athletic or sporting events or activities
+Coach others
+Evaluate skills of athletes or performers
+Select staff, team members or performers
+Maintain knowledge of laws or regulations
+Provide educational information to the public
+Manage operations of artistic or entertainment departments or organisations
+Maintain records, documents or other files
+Select materials or props
+Maintain inventories of materials, equipment or products
+Promote products, activities, or organisations
+Coordinate logistics for productions or events
+Negotiate for services

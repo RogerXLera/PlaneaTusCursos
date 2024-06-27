@@ -1,0 +1,39 @@
+Read instances: 0.77 s
+Generate matrices: 7.65 s
+The optimal value is 0.6414285714285715
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Active Listening: Enhancing Communication Skills (4.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.17
+Job affinity: 35.714
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Gather financial records
+	 Active Listening: Enhancing Communication Skills:
+		 Negotiate agreements to resolve disputes
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Investigate legal issues
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Estimate costs of goods or services
+Skills for Job Insurance Investigators, Loss Adjusters and Risk Surveyors
+Interview witnesses, suspects or claimants
+Calculate data to inform organisational operations
+Prepare legal or investigatory documentation
+Estimate costs of goods or services
+Assess or underwrite insurance claims
+Appraise property values
+Investigate legal issues
+Advise others on legal or regulatory compliance matters
+Negotiate agreements to resolve disputes
+Report information to managers or other staff
+Collect evidence for legal proceedings
+Verify accuracy of records
+Gather financial records
+Verify application data to determine program eligibility

@@ -1,0 +1,80 @@
+Read instances: 0.71 s
+Generate matrices: 5.99 s
+The optimal value is 0.3716666666666667
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Algorithms for Searching, Sorting, and Indexing (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Human Capital in Retail (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.69
+Job affinity: 62.963
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Execute sales or other financial transactions
+	 Managing Human Capital in Retail:
+		 Supervise clerical or administrative staff
+		 Train staff
+	 Create Employee Management System with When I Work:
+		 Prepare staff schedules
+	 Algorithms for Searching, Sorting, and Indexing:
+		 Search files, databases or reference materials to obtain information
+		 Sort mail
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Compile data or documentation
+	 Introduction to Duet AI in Google Workspace:
+		 Transcribe spoken or written information
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect deposits, payments or fees
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+		 File documents or records
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Distribute incoming mail
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+		 Check data for recording errors
+		 Proofread documents, records or other files to ensure accuracy
+	 Lesson | Organize Your Pitch:
+		 Send information, materials or documentation
+Skills for Job General Clerks
+Answer telephones to direct calls or provide information
+Operate office equipment
+Proofread documents, records or other files to ensure accuracy
+Maintain inventory records
+Provide information to co-workers
+Search files, databases or reference materials to obtain information
+Supervise clerical or administrative staff
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Respond to customer problems or complaints
+Send information, materials or documentation
+Compile data or documentation
+File documents or records
+Check data for recording errors
+Distribute incoming mail
+Sort mail
+Schedule appointments
+Prepare staff schedules
+Make travel, accommodation or entertainment arrangements for others
+Prepare documentation for contracts, transactions or regulatory compliance
+Collect deposits, payments or fees
+Execute sales or other financial transactions
+Prepare cash for deposit or disbursement
+Monitor inventories
+Train staff
+Maintain office equipment in proper operating condition
+Transcribe spoken or written information
+Record information from meetings or other formal proceedings

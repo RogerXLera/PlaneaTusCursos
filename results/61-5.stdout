@@ -1,0 +1,46 @@
+Read instances: 0.71 s
+Generate matrices: 5.12 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Fundamentals for Implementing a Hypertension Program:
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Collect medical information from patients, family members or other medical professionals
+		 Explain medical procedures or test results to patients or family members
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Care for women during pregnancy and childbirth
+		 Collaborate with health care professionals to plan or provide treatment
+		 Collect medical information from patients, family members or other medical professionals
+		 Conduct research to increase knowledge about medical issues
+		 Explain medical procedures or test results to patients or family members
+Skills for Job General Practitioners and Resident Medical Officers
+Explain medical procedures or test results to patients or family members
+Monitor patient progress or responses to treatments
+Refer patients to other health care practitioners or health resources
+Collect medical information from patients, family members or other medical professionals
+Record patient medical histories
+Prescribe medications
+Supervise patient care staff
+Order medical diagnostic or clinical tests
+Analyse test results to inform diagnosis or treatment
+Collaborate with health care professionals to plan or provide treatment
+Provide health and wellness advice to patients, program participants or caregivers
+Prescribe treatments or therapies
+Prepare official health documents or records
+Conduct research to increase knowledge about medical issues
+Care for women during pregnancy and childbirth
+Operate on patients

@@ -1,0 +1,43 @@
+Read instances: 0.76 s
+Generate matrices: 13.27 s
+The optimal value is 0.5707142857142857
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Security and Privacy for Big Data - Part 1 (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Graphic design: pop your Linkedin with 3D effect u (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building a Business Presence With Facebook Marketi (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.27
+Job affinity: 42.857
+Skills per Unit
+	 Initial Activity:
+	 Building a Business Presence With Facebook Marketing:
+		 Contact current or potential customers to promote goods or services
+		 Coordinate sales campaigns
+	 Graphic design: pop your Linkedin with 3D effect using Canva:
+		 Demonstrate products to consumers
+	 Security and Privacy for Big Data - Part 1:
+		 Develop procedures for data management
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Explain technical product or service information to customers
+Skills for Job Street Vendors and Related Salespersons
+Answer customer questions about goods or services
+Sell goods or services
+Distribute promotional literature or samples to customers
+Identify potential customers
+Take product orders
+Explain technical product or service information to customers
+Demonstrate products to consumers
+Stock products or parts
+Process sales or other transactions
+Develop procedures for data management
+Procure stocks of merchandise or supplies
+Contact current or potential customers to promote goods or services
+Coordinate sales campaigns
+Set up merchandise displays

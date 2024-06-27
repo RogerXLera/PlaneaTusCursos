@@ -1,0 +1,46 @@
+Read instances: 0.73 s
+Generate matrices: 3.17 s
+The optimal value is 0.8150000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Ferrous Technology I (4.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 18.182
+Skills per Unit
+	 Initial Activity:
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Conduct test runs of production equipment
+	 Duet AI in Gmail:
+		 Exchange information with colleagues
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+	 Ferrous Technology I:
+		 Clean materials to prepare them for production
+Skills for Job Textile and Footwear Production Machine Operators
+Operate textile or leather cutting or production equipment
+Inspect textile, hide or leather products
+Inspect production equipment
+Repair textiles or apparel
+Feed materials or products into or through equipment
+Adjust equipment controls to regulate flow of production
+Cut fabrics, textiles, leather or hide
+Record operational or production data
+Exchange information with colleagues
+Notify others of equipment repair or maintenance needs
+Watch equipment in operation to detect malfunctions
+Program equipment to perform production tasks
+Study blueprints or other instructions to determine equipment setup requirements
+Replace worn equipment components
+Repair production equipment or tools
+Clean production equipment
+Lubricate production equipment
+Conduct test runs of production equipment
+Set equipment controls to meet cutting specifications
+Install mechanical components in production equipment
+Mount attachments or tools onto production equipment
+Clean materials to prepare them for production

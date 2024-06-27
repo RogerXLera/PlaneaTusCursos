@@ -1,0 +1,50 @@
+Read instances: 0.78 s
+Generate matrices: 11.59 s
+The optimal value is 0.693695652173913
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create and Design Digital Products using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.50
+Job affinity: 30.435
+Skills per Unit
+	 Initial Activity:
+	 Create and Design Digital Products using Canva:
+		 Operate diagnostic imaging equipment
+	 Introduction to Statistics in Python:
+		 Analyse medical data
+		 Analyse test results to inform diagnosis or treatment
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Communicate health and wellness information to the public
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Conduct research to increase knowledge about medical issues
+		 Develop medical treatment plans
+Skills for Job Veterinarians
+Examine patients to assess general physical condition
+Treat animal injuries or illnesses
+Immunise patients
+Collect biological specimens from patients
+Provide health and wellness advice to patients, program participants or caregivers
+Care for animals
+Communicate health and wellness information to the public
+Conduct research to increase knowledge about medical issues
+Manage health care operations
+Operate on patients
+Treat acute illnesses, infections or injuries
+Prescribe medications
+Develop medical treatment plans
+Analyse test results to inform diagnosis or treatment
+Operate diagnostic imaging equipment
+Supervise medical support staff
+Train medical providers
+Determine protocols for medical procedures
+Maintain medical facility records
+Schedule patient procedures or appointments
+Perform clerical work in medical settings
+Analyse medical data
+Maintain medical or professional knowledge

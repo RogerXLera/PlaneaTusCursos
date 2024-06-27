@@ -1,0 +1,46 @@
+Read instances: 0.89 s
+Generate matrices: 2.82 s
+The optimal value is 0.7592857142857142
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your own Sudoku Solver using AI and Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Landing.AI for Beginners: Build Data Visualization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 23.810
+Skills per Unit
+	 Initial Activity:
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 Create your own Sudoku Solver using AI and Python:
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Landing.AI for Beginners: Build Data Visualization AI Models:
+		 Instruct workers to use equipment or perform technical procedures
+	 Duet AI in Gmail:
+		 Confer with others to resolve production problems or equipment malfunctions
+		 Exchange information with colleagues
+Skills for Job Product Assemblers
+Assemble electrical or electronic equipment
+Align parts or work pieces for assembly
+Clean work pieces or finished products
+Record operational or production data
+Read work orders or other instructions to determine product specifications or materials requirements
+Review blueprints or other instructions to determine operational methods or sequences
+Instruct workers to use equipment or perform technical procedures
+Test electrical equipment or systems to ensure proper functioning
+Distribute supplies to workers
+Mark products, work pieces or equipment with identifying information
+Assemble metal parts or products
+Repair parts or assemblies
+Drill holes in parts, equipment or materials
+Solder parts or work pieces
+Operate welding equipment
+Confer with others to resolve production problems or equipment malfunctions
+Exchange information with colleagues
+Move products, materials or equipment between work areas
+Package products for storage or shipment
+Apply protective or decorative finishes
+Operate painting or coating equipment

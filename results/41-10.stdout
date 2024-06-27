@@ -1,0 +1,78 @@
+Read instances: 0.73 s
+Generate matrices: 10.90 s
+The optimal value is 0.4238461538461539
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Data Science Challenge (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: ChatGPT with Python: Build a Chatbot With the Open (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Outsmarting intermittency (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: JavaScript Interview Challenges (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building Systems with the ChatGPT API (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk: Build & Deploy a Node.js RE (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Math Engagement with Prodigy (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Charts and Dashboards Using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.59
+Job affinity: 57.692
+Skills per Unit
+	 Initial Activity:
+	 Create Charts and Dashboards Using Microsoft Excel:
+		 Prepare operational reports
+	 JavaScript Interview Challenges:
+		 Investigate system, equipment or product failures
+	 Building Production-Ready Apps with Large Language Models:
+		 Design structures or facilities
+	 Building Systems with the ChatGPT API:
+		 Confer with technical staff to prepare designs or operational plans
+	 Data Science Challenge:
+		 Devise research or testing protocols
+	 ChatGPT with Python: Build a Chatbot With the OpenAI API:
+		 Develop technical specifications for systems or equipment
+	 AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API:
+		 Direct installation activities
+		 Inspect operational processes
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Estimate operational costs
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Design alternative energy systems
+		 Design electrical equipment or systems
+		 Design energy efficient equipment or systems
+		 Design energy production or management equipment or systems
+	 Outsmarting intermittency:
+		 Create electrical schematics
+		 Design alternative energy systems
+		 Design electrical equipment or systems
+		 Design energy production or management equipment or systems
+	 Improving Math Engagement with Prodigy:
+		 Operate computer systems
+Skills for Job Electrical Engineers
+Operate computer systems
+Create electrical schematics
+Estimate technical or resource requirements for development or production projects
+Design energy efficient equipment or systems
+Confer with technical staff to prepare designs or operational plans
+Discuss designs or plans with clients
+Prepare operational reports
+Design electrical equipment or systems
+Direct industrial production activities
+Survey land or bodies of water
+Devise research or testing protocols
+Maintain electronic equipment
+Design structures or facilities
+Develop technical specifications for systems or equipment
+Investigate system, equipment or product failures
+Design energy production or management equipment or systems
+Direct equipment maintenance or repair activities
+Direct construction activities
+Direct installation activities
+Design alternative energy systems
+Inspect operational processes
+Supervise engineering or other technical staff
+Train staff on proper operational procedures
+Estimate operational costs
+Prepare project budgets
+Test products for functionality or quality

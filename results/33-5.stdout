@@ -1,0 +1,54 @@
+Read instances: 0.70 s
+Generate matrices: 46.57 s
+The optimal value is 0.4764285714285714
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Creating a Free Business Page with Blogger (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Predicting Salaries with Decision Trees (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Training and Learning Online (4.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.13
+Job affinity: 52.381
+Skills per Unit
+	 Initial Activity:
+	 Creating a Free Business Page with Blogger:
+		 Analyse market research data
+		 Design websites or applications
+		 Develop marketing plans or strategies
+		 Develop social media materials
+		 Direct sales, marketing or customer service activities
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 Predicting Salaries with Decision Trees:
+		 Analyse data to inform operational decisions or activities
+		 Compile operational data
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Training and Learning Online:
+		 Conduct opinion surveys or needs assessments
+		 Confer with peers to accomplish work
+Skills for Job Advertising and Marketing Professionals
+Develop marketing plans or strategies
+Confer with peers to accomplish work
+Direct sales, marketing or customer service activities
+Supervise employees
+Evaluate program effectiveness
+Compile operational data
+Determine pricing or monetary policies
+Analyse market research data
+Deliver, publish, broadcast or distribute final audio or visual media product
+Analyse data to inform operational decisions or activities
+Estimate cost or material requirements
+Advise others on business or operational matters
+Develop social media materials
+Monitor external affairs or events affecting business operations
+Develop marketing plans or strategies for environmental initiatives
+Conduct opinion surveys or needs assessments
+Coordinate special events or programs
+Design websites or applications
+Negotiate contracts for transportation, distribution or logistics services
+Develop sustainable organisational policies or practices
+Recommend organisational process or policy changes

@@ -1,0 +1,36 @@
+Read instances: 0.70 s
+Generate matrices: 2.06 s
+The optimal value is 0.445
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Blockchain Opportunities Beyond Crypto Assets (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The hidden value – Lean in manufacturing and servi (15.0) 	 Start Period: 1 	 End Period: 2
+Activity: AWS: Data Protection and Security Governance (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.03
+Job affinity: 55.556
+Skills per Unit
+	 Initial Activity:
+	 The hidden value – Lean in manufacturing and services:
+		 Clean production equipment
+	 AWS: Data Protection and Security Governance:
+		 Notify others of equipment repair or maintenance needs
+	 Blockchain Opportunities Beyond Crypto Assets:
+		 Package materials or products
+	 Getting started with Azure IOT Hub:
+		 Operate industrial equipment
+	 Lesson | Telephone Language:
+		 Confer with others to resolve production problems or equipment malfunctions
+Skills for Job Timber and Wood Process Workers
+Move timber or wood products and materials between work areas
+Operate industrial equipment
+Package materials or products
+Sort materials or products for processing, storing, shipping or grading
+Record operational or production data
+Clean work areas
+Notify others of equipment repair or maintenance needs
+Confer with others to resolve production problems or equipment malfunctions
+Clean production equipment

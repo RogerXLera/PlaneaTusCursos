@@ -1,0 +1,65 @@
+Read instances: 0.72 s
+Generate matrices: 20.72 s
+The optimal value is 0.5549999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI - Português Brasilei (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your first custom VPC and its components in (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.47
+Job affinity: 44.444
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Microsoft Office 365:
+		 Document network-related activities or tasks
+		 Document operational activities
+	 How to create a Jira SCRUM project:
+		 Coordinate software or hardware installation
+		 Identify information technology project resource requirements
+	 Planning a Generative AI Project:
+		 Analyse project data to determine specifications or requirements
+		 Evaluate project designs to determine adequacy or feasibility
+	 Introduction to Generative AI - Português Brasileiro:
+		 Develop models of information or communications systems
+	 Linux on LinuxONE:
+		 Implement security measures for computer or information systems
+		 Install computer software
+	 Create your first custom VPC and its components in AWS:
+		 Monitor the performance of computer networks
+		 Provide technical support for computer network issues
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document operational procedures
+Skills for Job Telecommunications Technical Specialists
+Implement security measures for computer or information systems
+Conduct research to gain information about products or processes
+Maintain computer hardware
+Collaborate with others to determine design specifications or details
+Document operational activities
+Maintain the inventory of equipment
+Coordinate project activities with other staff or departments
+Update knowledge about emerging industry or technology trends
+Analyse project data to determine specifications or requirements
+Monitor the performance of computer networks
+Analyse security of systems, network or data
+Install computer hardware
+Estimate time or monetary resources needed to complete projects
+Teach others to use computer equipment or hardware
+Document network-related activities or tasks
+Develop models of information or communications systems
+Document operational procedures
+Provide technical support for computer network issues
+Troubleshoot issues with computer applications or systems
+Coordinate software or hardware installation
+Install computer software
+Create electronic data backup to prevent loss of information
+Identify information technology project resource requirements
+Evaluate project designs to determine adequacy or feasibility
+Test computer hardware performance
+Document technical specifications or requirements
+Maintain contingency plans for disaster recovery

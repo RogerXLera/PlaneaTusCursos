@@ -1,0 +1,38 @@
+Read instances: 0.71 s
+Generate matrices: 2.77 s
+The optimal value is 0.365
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Speaking Skills for University Success (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Russian Invasion of Ukraine Teach-Out (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Future of Payment Technologies (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: An Introduction to American Law (11.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.28
+Job affinity: 63.636
+Skills per Unit
+	 Initial Activity:
+	 The Future of Payment Technologies:
+		 Authorise payments to settle legal disputes
+	 An Introduction to American Law:
+		 Conduct hearings to investigate legal issues
+		 Direct courtroom activities or procedures
+		 Identify implications for cases from legal precedents or other legal information
+		 Make decisions in legal cases
+	 Russian Invasion of Ukraine Teach-Out:
+		 Arbitrate disputes between parties to resolve legal conflicts
+	 Speaking Skills for University Success:
+		 Administer oaths to court participants
+Skills for Job Judicial and Other Legal Professionals
+Direct courtroom activities or procedures
+Arbitrate disputes between parties to resolve legal conflicts
+Make decisions in legal cases
+Research relevant legal materials to aid decision making
+Identify implications for cases from legal precedents or other legal information
+Supervise activities of other legal staff
+Conduct hearings to investigate legal issues
+Prepare written decisions for legal proceedings
+Rule on admissibility of legal proceedings
+Authorise payments to settle legal disputes
+Administer oaths to court participants

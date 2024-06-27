@@ -1,0 +1,42 @@
+Read instances: 0.72 s
+Generate matrices: 4.90 s
+The optimal value is 0.4619230769230769
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Qlik Sense for Beginners: Analyze and Visualize Da (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Russian Invasion of Ukraine Teach-Out (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Learning for a Sustainable Future (11.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.23
+Job affinity: 53.846
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Python:
+		 Collaborate with technical specialists to resolve design or development problems
+	 Qlik Sense for Beginners: Analyze and Visualize Data:
+		 Prepare scientific or technical reports or presentations
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Learning for a Sustainable Future:
+		 Communicate with the public on environmental issues
+		 Develop environmental sustainability plans or projects
+		 Promote environmental sustainability or conservation initiatives
+	 Russian Invasion of Ukraine Teach-Out:
+		 Mediate disputes
+Skills for Job Urban and Regional Planners
+Supervise scientific or technical staff
+Review plans or proposals for environmental conservation
+Review professional literature to maintain professional knowledge
+Communicate with the public on environmental issues
+Communicate with government agencies
+Advise others on business or operational matters
+Research impacts of environmental conservation initiatives
+Prepare scientific or technical reports or presentations
+Develop environmental sustainability plans or projects
+Mediate disputes
+Promote environmental sustainability or conservation initiatives
+Collaborate with technical specialists to resolve design or development problems
+Review environmental permits, plans or reports

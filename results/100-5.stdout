@@ -1,0 +1,27 @@
+Read instances: 0.73 s
+Generate matrices: 2.33 s
+The optimal value is 0.8150000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Sourcing Analytics (10.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.02
+Job affinity: 18.182
+Skills per Unit
+	 Initial Activity:
+	 Sourcing Analytics:
+		 Estimate material requirements for production
+		 Order materials, supplies, or equipment
+Skills for Job Butchers and Smallgoods Makers
+Prepare meat products for sale or consumption
+Cut meat products
+Direct operational or production activities
+Record operational or production data
+Inspect food products
+Mark products, work pieces or equipment with identifying information
+Weigh products or materials
+Load items into ovens or furnaces
+Confer with customers or designers to determine order specifications
+Estimate material requirements for production
+Order materials, supplies, or equipment

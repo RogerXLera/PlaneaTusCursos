@@ -1,0 +1,43 @@
+Read instances: 0.70 s
+Generate matrices: 2.35 s
+The optimal value is 0.41750000000000004
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Financial Statement Analysis (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Algorithms for Searching, Sorting, and Indexing (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.14
+Job affinity: 58.333
+Skills per Unit
+	 Initial Activity:
+	 Financial Statement Analysis:
+		 Discuss account status or activity with customers or patrons
+		 Maintain financial or account records
+	 Create your e-commerce store with Shopify:
+		 Collect deposits, payments or fees
+	 Algorithms for Searching, Sorting, and Indexing:
+		 Sort mail
+	 Get started with Upwork:
+		 Negotiate financial arrangements
+	 Getting Started with Microsoft OneDrive:
+		 File documents or records
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Debt Collectors
+Negotiate financial arrangements
+Discuss account status or activity with customers or patrons
+Maintain financial or account records
+Monitor financial information
+Respond to customer problems or complaints
+Provide notifications to customers or patrons
+Collect deposits, payments or fees
+Interview employees, customers or others to collect information
+Obtain personal or financial information about customers or applicants
+Provide information to co-workers
+Sort mail
+File documents or records

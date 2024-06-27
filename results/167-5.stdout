@@ -1,0 +1,46 @@
+Read instances: 0.73 s
+Generate matrices: 7.89 s
+The optimal value is 0.561875
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Prompt Engineering Generative AI for Marketing & A (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Enjoyable Econometrics (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Cloudfront: Serve content from multiple S3 buc (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.20
+Job affinity: 43.750
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Develop marketing plans or strategies
+		 Develop professional relationships or networks
+		 Maintain records of sales or other business transactions
+	 Prompt Engineering Generative AI for Marketing & Advertising:
+		 Develop marketing plans or strategies
+		 Gather customer or product information to determine customer needs
+	 Enjoyable Econometrics:
+		 Explain financial information to customers
+	 AWS Cloudfront: Serve content from multiple S3 buckets:
+		 Customise financial goods or services to meet customer needs
+	 Lesson | Express Yourself: Pronunciation:
+		 Attend events to develop professional knowledge
+Skills for Job Insurance Agents
+Customise financial goods or services to meet customer needs
+Explain financial information to customers
+Sell goods or services
+Gather customer or product information to determine customer needs
+Prepare sales or other contracts
+Develop marketing plans or strategies
+Take product orders
+Maintain records of sales or other business transactions
+Calculate costs of goods or services
+Process sales or other transactions
+Examine condition of property or products
+Identify potential customers
+Develop professional relationships or networks
+Review accuracy of sales or other transactions
+Attend events to develop professional knowledge
+Study product information to acquire professional knowledge

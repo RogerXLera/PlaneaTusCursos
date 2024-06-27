@@ -1,0 +1,46 @@
+Read instances: 0.73 s
+Generate matrices: 7.64 s
+The optimal value is 0.4708823529411765
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building and analyzing linear regression model in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.31
+Job affinity: 52.941
+Skills per Unit
+	 Initial Activity:
+	 Building and analyzing linear regression model in R:
+		 Analyse test results to inform diagnosis or treatment
+	 Building Production-Ready Apps with Large Language Models:
+		 Analyse data to determine effectiveness of treatments or therapies
+	 Fundamentals for Implementing a Hypertension Program:
+		 Advise patients of health conditions or treatments
+		 Prescribe medications
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Collaborate with health care professionals to plan or provide treatment
+		 Collect medical information from patients, family members or other medical professionals
+		 Conduct research to increase knowledge about medical issues
+		 Develop medical treatment plans
+		 Explain medical procedures or test results to patients or family members
+Skills for Job Psychiatrists
+Advise patients of health conditions or treatments
+Collaborate with health care professionals to plan or provide treatment
+Analyse test results to inform diagnosis or treatment
+Develop medical treatment plans
+Examine patients to assess general physical condition
+Collect medical information from patients, family members or other medical professionals
+Record patient medical histories
+Explain medical procedures or test results to patients or family members
+Prescribe medications
+Prescribe treatments or therapies
+Treat patients using psychological therapies
+Analyse data to determine effectiveness of treatments or therapies
+Prepare official health documents or records
+Prepare reports summarising patient diagnostic or care activities
+Present medical research reports
+Conduct research to increase knowledge about medical issues
+Maintain medical or professional knowledge

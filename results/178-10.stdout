@@ -1,0 +1,58 @@
+Read instances: 0.71 s
+Generate matrices: 2.72 s
+The optimal value is 0.7178
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Using Video in Social Media Posts with Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 28.000
+Skills per Unit
+	 Initial Activity:
+	 Using Video in Social Media Posts with Canva:
+		 Design jewellery or decorative objects
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Conduct test runs of production equipment
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Mastering Digital Twins:
+		 Monitor equipment operation to ensure proper functioning
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Adjust equipment controls to regulate flow of production
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Read work orders or other instructions to determine product specifications or materials requirements
+Skills for Job Clay, Concrete, Glass and Stone Processing Machine Operators
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Remove products or work pieces from production equipment
+Operate grinding equipment
+Operate heating or drying equipment
+Load materials into production equipment
+Inspect finishes of work pieces or finished products
+Package products for storage or shipment
+Adjust equipment controls to regulate flow of production
+Clean production equipment
+Read work orders or other instructions to determine product specifications or materials requirements
+Clean work areas
+Operate mixing equipment
+Set equipment controls to meet cutting specifications
+Collect samples of materials or products for testing
+Monitor equipment operation to ensure proper functioning
+Shape, mould or cast clay
+Manoeuvre work pieces in equipment during production
+Position raw materials on processing or production equipment
+Design jewellery or decorative objects
+Conduct test runs of production equipment
+Apply protective or decorative finishes
+Mix ingredients to create specific finishes
+Load items into ovens or furnaces
+Maintain inventories of materials, equipment or products
+Order materials, supplies, or equipment

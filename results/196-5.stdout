@@ -1,0 +1,41 @@
+Read instances: 0.73 s
+Generate matrices: 2.74 s
+The optimal value is 0.784078947368421
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Business Analysis Using Spreadshee (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.07
+Job affinity: 21.053
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Instruct staff in work policies or procedures
+		 Plan employee work schedules
+	 Introduction to Business Analysis Using Spreadsheets: Basics:
+		 Assess cleaning requirements
+	 Mastering Digital Twins:
+		 Maintain equipment or systems to ensure proper functioning
+Skills for Job Domestic Cleaners
+Clean furniture or fixtures
+Inventory materials or equipment
+Clean walls or flooring
+Clean equipment or supplies
+Clean facilities or sites
+Clean toilet and bathroom areas
+Dispose of rubbish or waste materials
+Sort, wash, dry or iron fabric, linen and clothes
+Strip and make beds and change bed linen
+Operate cleaning or polishing equipment for floors and other surfaces
+Assess cleaning requirements
+Monitor building premises to ensure occupant or visitor safety
+Move furniture
+Remove debris from work sites
+Decorate indoor or outdoor spaces
+Maintain equipment or systems to ensure proper functioning
+Plan employee work schedules
+Instruct staff in work policies or procedures
+Select equipment, materials or supplies for cleaning or maintenance activities

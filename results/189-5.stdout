@@ -1,0 +1,40 @@
+Read instances: 0.84 s
+Generate matrices: 2.87 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.04
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Understanding and Managing the Stresses of Police Work:
+		 Apply fatigue management strategies
+	 Duet AI in Gmail:
+		 Receive information or instructions for performing work assignments
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive passenger vehicles
+		 Inspect motor vehicles
+Skills for Job Automobile Drivers
+Drive passenger vehicles
+Provide transportation information to passengers or customers
+Follow safety procedures for vehicle operation
+Schedule operational activities
+Assist passengers during vehicle boarding
+Communicate with others to coordinate vehicle movement
+Record operational details of travel
+Apply fatigue management strategies
+Clean vehicles or vehicle components
+Maintain vehicles in good working condition
+Inspect motor vehicles
+Collect fares or payment from customers
+Receive information or instructions for performing work assignments
+Report vehicle or equipment malfunctions
+Move and store materials, equipment or products

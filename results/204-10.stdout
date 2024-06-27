@@ -1,0 +1,38 @@
+Read instances: 0.74 s
+Generate matrices: 2.50 s
+The optimal value is 0.8202941176470588
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Get Started with Inkscape (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 17.647
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+	 Get Started with Inkscape:
+		 Apply paint
+	 Infection Prevention in Nursing Homes:
+		 Clean equipment or facilities
+Skills for Job Railway Track Workers
+Operate heavy-duty construction or installation equipment
+Install and repair rail tracks
+Maintain construction tools or equipment
+Maintain mechanical equipment
+Verify alignment of structures or equipment
+Clean equipment or facilities
+Locate equipment or materials in need of repair or replacement
+Operate cranes, hoists or other moving or lifting equipment
+Cut metal components
+Spread sand, dirt or other loose materials onto surfaces
+Compact or smooth materials to create level bases
+Drill holes in construction materials
+Apply sealants or other protective coatings
+Smooth surfaces with abrasive materials or tools
+Apply paint
+Weld metal components
+Cut wood components

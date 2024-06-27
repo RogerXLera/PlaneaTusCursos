@@ -1,0 +1,42 @@
+Read instances: 0.72 s
+Generate matrices: 2.51 s
+The optimal value is 0.775
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: AWS: CI/CD Pipelines and Deployment Strategies (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Classification of COVID19 using Chest X-ray Images (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Systems Engineering (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.09
+Job affinity: 22.222
+Skills per Unit
+	 Initial Activity:
+	 AWS: CI/CD Pipelines and Deployment Strategies:
+		 Remove debris from work sites
+	 Classification of COVID19 using Chest X-ray Images in Keras:
+		 Assess cleaning requirements
+	 Systems Engineering:
+		 Maintain equipment or systems to ensure proper functioning
+	 Golf Course Management: Best Practices:
+		 Clean facilities or sites
+Skills for Job Caretakers
+Clean furniture or fixtures
+Safely handle chemicals for work applications
+Clean walls or flooring
+Clean facilities or sites
+Dispose of rubbish or waste materials
+Clean equipment or supplies
+Monitor building premises to ensure occupant or visitor safety
+Assess cleaning requirements
+Drive vehicles to, or at, work sites
+Move furniture
+Select equipment, materials or supplies for cleaning or maintenance activities
+Maintain equipment or systems to ensure proper functioning
+Confer with others to coordinate maintenance or cleaning activities
+Decorate indoor or outdoor spaces
+Treat facilities to eliminate pests
+Remove debris from work sites
+Trim trees or other vegetation
+Operate grounds maintenance equipment

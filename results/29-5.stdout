@@ -1,0 +1,38 @@
+Read instances: 0.69 s
+Generate matrices: 6.18 s
+The optimal value is 0.5449999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Engagement to your Instagram Business Pro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.18
+Job affinity: 45.455
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Develop procedures to evaluate organisational activities
+	 Increase Engagement to your Instagram Business Profile:
+		 Coordinate special events or programs
+	 Create Employee Management System with When I Work:
+		 Evaluate employee performance
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 Assimilating into Your New Job:
+		 Conduct employee training programs
+Skills for Job Training and Development Professionals
+Conduct opinion surveys or needs assessments
+Conduct employee training programs
+Evaluate training programs, instructors or materials
+Evaluate program effectiveness
+Evaluate employee performance
+Coordinate special events or programs
+Manage human resources activities
+Determine operational compliance with regulations or standards
+Confer with peers to accomplish work
+Develop procedures to evaluate organisational activities
+Prepare operational budgets

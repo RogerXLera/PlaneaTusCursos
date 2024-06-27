@@ -1,0 +1,50 @@
+Read instances: 0.71 s
+Generate matrices: 8.22 s
+The optimal value is 0.6455882352941177
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Lymphoedema: Monitoring & Intervention After Breas (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.54
+Job affinity: 35.294
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain supply or equipment inventories
+	 Lymphoedema: Monitoring & Intervention After Breast Cancer:
+		 Assess skin or hair conditions
+	 Transformer Models and BERT Model:
+		 Promote goods, services, or programs
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Maintain client information or service records
+	 Attention Mechanism:
+		 Promote goods, services, or programs
+	 Get started with Upwork:
+		 Maintain professional knowledge or certifications
+	 Lesson | Get Ready for the Interview:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Beauty Therapists
+Apply cleansing or conditioning agents to client hair, scalp or skin
+Assess skin or hair conditions
+Maintain client information or service records
+Provide cosmetic advice for clients
+Schedule appointments
+Clean tools or equipment
+Clean work areas or facilities
+Utilise hair removal techniques
+Demonstrate activity techniques or equipment use
+Promote goods, services, or programs
+Set up merchandise displays
+Order materials, supplies, or equipment
+Apply solutions to hair
+Sell goods or services
+Maintain professional knowledge or certifications
+Treat nails by shaping, decorating or augmenting
+Maintain supply or equipment inventories

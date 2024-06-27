@@ -1,0 +1,62 @@
+Read instances: 0.74 s
+Generate matrices: 71.45 s
+The optimal value is 0.115
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Working with Version Control (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: ChatGPT for Beginners: Save time with Microsoft Ex (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: How Technology is Shaping Democracy and the 2020 E (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.42
+Job affinity: 88.889
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: Save time with Microsoft Excel:
+		 Develop software applications
+		 Monitor the security of digital information
+	 Planning a Generative AI Project:
+		 Apply machine learning techniques to data
+		 Evaluate data quality
+	 Getting Started with Ubuntu Linux:
+		 Develop computer or information security policies or procedures
+		 Implement security measures for computer or information systems
+		 Recommend changes to improve computer or information systems
+	 Attention Mechanism:
+		 Apply machine learning techniques to data
+		 Read documents to gather technical information
+	 Working with Version Control:
+		 Communicate project information to others
+		 Develop procedures for data management
+		 Develop software applications
+		 Document design or development procedures
+		 Manage information technology projects or system activities
+	 Human Predicament Complex Modeling:
+		 Analyse data to identify or resolve operational problems
+		 Analyse security of systems, network or data
+	 How Technology is Shaping Democracy and the 2020 Election:
+		 Collaborate with others to resolve information technology issues
+		 Conduct research to gain information about products or processes
+Skills for Job Database and Systems Administrators, and ICT Security Specialists
+Monitor the security of digital information
+Implement security measures for computer or information systems
+Analyse security of systems, network or data
+Collaborate with others to resolve information technology issues
+Manage information technology projects or system activities
+Develop computer or information security policies or procedures
+Communicate project information to others
+Document design or development procedures
+Recommend changes to improve computer or information systems
+Write computer programming code
+Read documents to gather technical information
+Analyse data to identify or resolve operational problems
+Evaluate data quality
+Develop software applications
+Update knowledge about emerging industry or technology trends
+Conduct research to gain information about products or processes
+Develop procedures for data management
+Apply machine learning techniques to data

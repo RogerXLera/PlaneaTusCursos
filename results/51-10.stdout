@@ -1,0 +1,71 @@
+Read instances: 0.72 s
+Generate matrices: 9.32 s
+The optimal value is 0.302
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Student Debt Crisis Teach-Out (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Classroom Community Using Flipgrid (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Implementing Parent Feedback with Google Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Engage and Assess Students with Quizizz (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Managing Employee Performance (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.67
+Job affinity: 70.000
+Skills per Unit
+	 Initial Activity:
+	 Managing Employee Performance:
+		 Direct activities of staff
+		 Evaluate performance of educational staff
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Train staff members
+	 Duet AI in Gmail:
+		 Organise informational materials
+	 Building Classroom Community Using Flipgrid:
+		 Advise educators on curricula, instructional methods or policies
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate effectiveness of educational programs
+		 Modify teaching methods or materials to accommodate student needs
+	 Improving Classroom Management with Class Dojo:
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Enforce rules or policies governing student behaviour
+	 Implementing Parent Feedback with Google Forms:
+		 Advise educators on curricula, instructional methods or policies
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate effectiveness of educational programs
+		 Order instructional or library materials or equipment
+	 Student Debt Crisis Teach-Out:
+		 Advise students on academic or career matters
+		 Maintain student records
+	 Engage and Assess Students with Quizizz:
+		 Advise educators on curricula, instructional methods or policies
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional materials
+Skills for Job Education Advisers and Reviewers
+Advise students on academic or career matters
+Evaluate performance of educational staff
+Enforce rules or policies governing student behaviour
+Develop instructional materials
+Advise educators on curricula, instructional methods or policies
+Train staff members
+Maintain student records
+Collaborate with other agencies and institutions to coordinate educational matters
+Serve on institutional or departmental committees
+Modify teaching methods or materials to accommodate student needs
+Evaluate effectiveness of educational programs
+Promote educational institutions or programs
+Research topics in area of expertise
+Order instructional or library materials or equipment
+Organise informational materials
+Direct activities of staff
+Inspect materials or equipment to determine need for repair or replacement
+Write grant proposals
+Create technology-based learning materials
+Assess educational needs of students

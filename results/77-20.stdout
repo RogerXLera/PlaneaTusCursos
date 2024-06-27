@@ -1,0 +1,80 @@
+Read instances: 0.69 s
+Generate matrices: 11.26 s
+The optimal value is 0.2822
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Acupressure (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Suicide Prevention (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: ADP Accountant Connect Certification (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Responsible AI in the Generative AI Era (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mental Health and Resilience for Healthcare Worker (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.29
+Job affinity: 72.000
+Skills per Unit
+	 Initial Activity:
+	 ADP Accountant Connect Certification:
+		 Collect information about clients
+	 Responsible AI in the Generative AI Era:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Deliver culturally appropriate programs, policies or services
+	 Get Started with Microsoft Forms:
+		 Collect information from people through observation, interviews or surveys
+		 Evaluate characteristics of individuals to determine needs or eligibility
+	 Mental Health and Resilience for Healthcare Workers:
+		 Administer standardised physical or psychological tests
+		 Counsel clients on mental health or personal achievement
+		 Design psychological or educational treatment procedures or programs
+		 Evaluate the effectiveness of counselling or educational programs
+	 Acupressure:
+		 Advise others on health care matters
+		 Collaborate with other professionals to assess client needs or plan treatments
+	 Transformer Models and BERT Model:
+		 Diagnose neural or psychological disorders
+	 Suicide Prevention:
+		 Advise others on educational and student wellbeing matters
+		 Counsel clients on mental health or personal achievement
+		 Counsel clients or patients regarding personal issues
+		 Design psychological or educational treatment procedures or programs
+		 Evaluate the effectiveness of counselling or educational programs
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Advocate for individual or community needs
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Advise others on social or educational issues
+		 Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+	 Lesson | Get Ready for the Interview:
+		 Interview clients to gather information about their backgrounds, needs or progress
+Skills for Job Counsellors
+Counsel clients or patients regarding personal issues
+Interview clients to gather information about their backgrounds, needs or progress
+Evaluate characteristics of individuals to determine needs or eligibility
+Support individuals with diverse needs to understand, access and utilise information or services
+Monitor clients to evaluate treatment progress
+Maintain client records
+Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+Collaborate with other professionals to assess client needs or plan treatments
+Write reports or evaluations
+Collect information about clients
+Advise others on social or educational issues
+Maintain professional social services knowledge
+Evaluate the effectiveness of counselling or educational programs
+Advocate for individual or community needs
+Counsel clients on mental health or personal achievement
+Record research or operational data
+Collect information from people through observation, interviews or surveys
+Diagnose neural or psychological disorders
+Supervise trainees
+Deliver culturally appropriate programs, policies or services
+Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+Advise others on educational and student wellbeing matters
+Advise others on health care matters
+Administer standardised physical or psychological tests
+Design psychological or educational treatment procedures or programs

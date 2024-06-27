@@ -1,0 +1,31 @@
+Read instances: 0.72 s
+Generate matrices: 2.36 s
+The optimal value is 0.7475
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Spanish Vocabulary: Careers and Social Events (12.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.05
+Job affinity: 25.000
+Skills per Unit
+	 Initial Activity:
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Spanish Vocabulary: Careers and Social Events:
+		 Discuss goods or services information with customers or patrons
+Skills for Job Shelf Fillers
+Discuss goods or services information with customers or patrons
+Stock supplies, merchandise, food or drink
+Package objects for shipping
+Deliver items
+Order materials, supplies, or equipment
+Collect deposits, payments or fees
+Calculate costs of goods or services
+Monitor inventories
+Inspect shipments to ensure correct order fulfilment
+Attach identification information to products, items or containers
+Distribute materials to employees or customers
+Receive shipments

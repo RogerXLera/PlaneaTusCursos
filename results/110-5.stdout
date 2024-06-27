@@ -1,0 +1,48 @@
+Read instances: 0.77 s
+Generate matrices: 8.00 s
+The optimal value is 0.698
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.19
+Job affinity: 30.000
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Maintain financial or account records
+	 Hiring and Onboarding Employees with ClickUp:
+		 Perform human resources activities
+	 Transformer Models and BERT Model:
+		 Promote goods, services, or programs
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Discuss service options or needs with clients
+		 Maintain client information or service records
+	 Get started with Upwork:
+		 Maintain professional knowledge or certifications
+Skills for Job Hairdressers
+Trim clients' hair
+Style clients' hair
+Clean tools or equipment
+Clean work areas or facilities
+Discuss service options or needs with clients
+Maintain financial or account records
+Assess skin or hair conditions
+Apply cleansing or conditioning agents to client hair, scalp or skin
+Groom wigs or hairpieces
+Provide cosmetic advice for clients
+Maintain client information or service records
+Maintain professional knowledge or certifications
+Perform human resources activities
+Perform administrative or clerical tasks
+Supervise service workers
+Treat nails by shaping, decorating or augmenting
+Promote goods, services, or programs
+Sell goods or services
+Apply solutions to hair
+Order materials, supplies, or equipment

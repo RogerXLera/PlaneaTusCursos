@@ -1,0 +1,117 @@
+Read instances: 0.77 s
+Generate matrices: 10.38 s
+The optimal value is 0.185
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Student Debt Crisis Teach-Out (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Responding, Revising and Assessing Student Writing (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Cypress API test automation for absolute beginners (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.05
+Job affinity: 81.818
+Skills per Unit
+	 Initial Activity:
+	 Cypress API test automation for absolute beginners:
+		 Prepare tests
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Encoder-Decoder Architecture:
+		 Attend training sessions or events to develop or maintain professional knowledge
+	 Responding, Revising and Assessing Student Writings:
+		 Administer tests to assess educational needs or progress
+		 Assign class work to students
+		 Develop instructional objectives
+		 Evaluate student work
+		 Prepare reports detailing student activities or performance
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Growing Great Writers with Writable:
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop strategies or programs for students with accessibility needs
+		 Document lesson plans
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Encourage students
+		 Order instructional or library materials or equipment
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Improving Classroom Management with Class Dojo:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Encourage students
+		 Enforce rules or policies governing student behaviour
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Develop strategies or programs for students with accessibility needs
+		 Discuss student progress with parents or guardians
+		 Encourage students
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Student Debt Crisis Teach-Out:
+		 Advise students on academic or career matters
+		 Maintain student records
+	 Lesson | Telephone Language:
+		 Attend training sessions or events to develop or maintain professional knowledge
+Skills for Job Secondary School Teachers
+Develop instructional objectives
+Establish rules or policies governing student behaviour
+Plan educational activities
+Apply multiple teaching methods
+Enforce rules or policies governing student behaviour
+Evaluate student work
+Set up classroom materials or equipment
+Modify teaching methods or materials to accommodate student needs
+Create technology-based learning materials
+Maintain student records
+Monitor student performance
+Encourage students
+Collaborate with other teaching professionals to develop educational programs
+Assist students with special educational needs
+Supervise school or student activities
+Advise students on academic or career matters
+Discuss problems or issues with supervisors
+Assign class work to students
+Teach others to use technology or equipment
+Monitor student behaviour, social development or health
+Develop strategies or programs for students with accessibility needs
+Administer tests to assess educational needs or progress
+Discuss student progress with parents or guardians
+Coordinate student extracurricular activities
+Document lesson plans
+Plan experiential learning activities
+Prepare reports detailing student activities or performance
+Serve on institutional or departmental committees
+Prepare tests
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Attend training sessions or events to develop or maintain professional knowledge

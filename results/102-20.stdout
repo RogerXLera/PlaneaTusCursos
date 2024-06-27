@@ -1,0 +1,57 @@
+Read instances: 0.72 s
+Generate matrices: 2.54 s
+The optimal value is 0.6076086956521739
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The New Nordic Diet - from Gastronomy to Health (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Beer Quality: Freshness (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Cooking for Busy Healthy People (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.12
+Job affinity: 39.130
+Skills per Unit
+	 Initial Activity:
+	 How to create a Jira SCRUM project:
+		 Plan menu options
+	 Cooking for Busy Healthy People:
+		 Clean food preparation areas, facilities or equipment
+		 Cook foods
+		 Prepare foods for processing, cooking and serving
+	 The New Nordic Diet - from Gastronomy to Health:
+		 Cook foods
+		 Cut foods
+	 Family Spirit Nurture:
+		 Assist with food or drink preparation
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Assess equipment functioning
+	 Beer Quality: Freshness:
+		 Check quality of foods or supplies
+		 Preserve food products by freezing or heat processing
+Skills for Job Cooks
+Cook foods
+Check quality of foods or supplies
+Assess equipment functioning
+Cut foods
+Prepare foods for processing, cooking and serving
+Coordinate activities of food service staff
+Clean food preparation areas, facilities or equipment
+Inspect facilities, equipment or supplies to ensure conformance to standards
+Arrange food for serving
+Serve food or drinks
+Assist with food or drink preparation
+Prepare breads or doughs
+Weigh or measure ingredients
+Mix ingredients
+Plan menu options
+Maintain food, drink or equipment inventories
+Preserve food products by pickling, curing, sugaring, or jellying
+Preserve food products by freezing or heat processing
+Melt, temper or shape chocolate
+Record operational or production data
+Estimate supplies, ingredients or staff requirements for food preparation activities
+Order materials, supplies, or equipment
+Determine prices for menu items

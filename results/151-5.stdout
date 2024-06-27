@@ -1,0 +1,56 @@
+Read instances: 0.72 s
+Generate matrices: 7.79 s
+The optimal value is 0.4764285714285714
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to CRM with HubSpot (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.20
+Job affinity: 52.381
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Calculate financial data
+		 Maintain financial or account records
+	 Create Employee Management System with When I Work:
+		 Prepare staff schedules
+	 Introduction to CRM with HubSpot:
+		 Answer customer questions about goods or services
+		 Execute sales or other financial transactions
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Prepare business correspondence
+		 Send information, materials or documentation
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+		 Enter information into databases or software programs
+Skills for Job Bank Workers
+Verify accuracy of financial or transactional data
+Execute sales or other financial transactions
+Prepare cash for deposit or disbursement
+Collect deposits, payments or fees
+Enter information into databases or software programs
+Calculate financial data
+Order materials, supplies, or equipment
+File documents or records
+Type documents
+Sell goods or services
+Answer customer questions about goods or services
+Answer telephones to direct calls or provide information
+Maintain financial or account records
+Respond to customer problems or complaints
+Obtain personal or financial information about customers or applicants
+Prepare staff schedules
+Issue documentation or identification to customers or employees
+Send information, materials or documentation
+Prepare business correspondence
+Calculate costs of goods or services
+Explain regulations, policies or procedures

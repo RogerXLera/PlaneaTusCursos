@@ -1,0 +1,85 @@
+Read instances: 0.71 s
+Generate matrices: 8.47 s
+The optimal value is 0.203
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Building Classroom Community Using Flipgrid (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Engage and Assess Students with Quizizz (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Applying to College 101 (15.0) 	 Start Period: 1 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Innovative Teaching with ChatGPT (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encouraging Student Growth with Teach Your Monster (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Managing Employee Performance (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.05
+Job affinity: 80.000
+Skills per Unit
+	 Initial Activity:
+	 Managing Employee Performance:
+		 Direct activities of staff
+		 Evaluate performance of educational staff
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Train staff members
+	 Duet AI in Gmail:
+		 Organise informational materials
+	 Innovative Teaching with ChatGPT:
+		 Advise educators on curricula, instructional methods or policies
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Order instructional or library materials or equipment
+	 Building Classroom Community Using Flipgrid:
+		 Advise educators on curricula, instructional methods or policies
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Evaluate effectiveness of educational programs
+		 Modify teaching methods or materials to accommodate student needs
+	 Setting Up a Digital Library with EPIC:
+		 Advise educators on curricula, instructional methods or policies
+		 Collaborate with other agencies and institutions to coordinate educational matters
+		 Create technology-based learning materials
+	 Improving Classroom Management with Class Dojo:
+		 Create technology-based learning materials
+		 Develop instructional materials
+		 Enforce rules or policies governing student behaviour
+	 Encouraging Student Growth with Teach Your Monster to Read:
+		 Advise educators on curricula, instructional methods or policies
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional materials
+	 Engage and Assess Students with Quizizz:
+		 Advise educators on curricula, instructional methods or policies
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional materials
+	 Applying to College 101:
+		 Advise students on academic or career matters
+		 Maintain student records
+		 Promote educational institutions or programs
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Enforce rules or policies governing student behaviour
+Skills for Job Education Advisers and Reviewers
+Advise students on academic or career matters
+Evaluate performance of educational staff
+Enforce rules or policies governing student behaviour
+Develop instructional materials
+Advise educators on curricula, instructional methods or policies
+Train staff members
+Maintain student records
+Collaborate with other agencies and institutions to coordinate educational matters
+Serve on institutional or departmental committees
+Modify teaching methods or materials to accommodate student needs
+Evaluate effectiveness of educational programs
+Promote educational institutions or programs
+Research topics in area of expertise
+Order instructional or library materials or equipment
+Organise informational materials
+Direct activities of staff
+Inspect materials or equipment to determine need for repair or replacement
+Write grant proposals
+Create technology-based learning materials
+Assess educational needs of students

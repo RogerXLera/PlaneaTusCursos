@@ -1,0 +1,90 @@
+Read instances: 0.75 s
+Generate matrices: 11.25 s
+The optimal value is 0.32435483870967746
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Professional Selling: Step 2 - Prepare Like a High (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Generative AI for Leaders (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Graphic design: pop your Linkedin with 3D effect u (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Enjoyable Econometrics (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.14
+Job affinity: 67.742
+Skills per Unit
+	 Initial Activity:
+	 Generative AI for Leaders:
+		 Develop proposals for current or prospective customers
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Advise customers on the use of goods or services
+		 Answer customer questions about goods or services
+		 Develop marketing plans or strategies
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Account Management & Sales Force Design:
+		 Coordinate sales campaigns
+		 Develop marketing plans or strategies
+		 Negotiate prices or other sales terms
+		 Sell goods or services
+	 Professional Selling: Step 2 - Prepare Like a High-Performer:
+		 Answer customer questions about goods or services
+		 Deliver promotional presentations to current or prospective customers
+		 Develop marketing plans or strategies
+		 Gather customer or product information to determine customer needs
+		 Identify potential customers
+		 Maintain records of sales or other business transactions
+		 Monitor sales activities
+	 Graphic design: pop your Linkedin with 3D effect using Canva:
+		 Demonstrate products to consumers
+	 Enjoyable Econometrics:
+		 Explain financial information to customers
+	 Introduction to Generative AI Studio - Français:
+		 Discuss design or technical features of goods or services with technical staff
+	 Launch your first online meeting with ZOOM:
+		 Maintain records of customer accounts
+	 Lesson | Express Yourself: Pronunciation:
+		 Attend events to develop professional knowledge
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Deliver promotional presentations to current or prospective customers
+		 Develop content for sales presentations or other materials
+		 Explain technical product or service information to customers
+Skills for Job Technical Sales Representatives
+Answer customer questions about goods or services
+Sell goods or services
+Maintain records of customer accounts
+Explain technical product or service information to customers
+Estimate costs or terms of sales
+Demonstrate products to consumers
+Contact current or potential customers to promote goods or services
+Develop marketing plans or strategies
+Prepare sales or other contracts
+Negotiate prices or other sales terms
+Recommend goods or services to customers
+Gather customer or product information to determine customer needs
+Identify potential customers
+Develop proposals for current or prospective customers
+Attend events to develop professional knowledge
+Deliver promotional presentations to current or prospective customers
+Maintain records of sales or other business transactions
+Distribute promotional literature or samples to customers
+Study product information to acquire professional knowledge
+Process sales or other transactions
+Prepare financial documents, reports or budgets
+Monitor market conditions or trends
+Develop content for sales presentations or other materials
+Discuss design or technical features of goods or services with technical staff
+Monitor sales activities
+Advise customers on the use of goods or services
+Share sales-related or market information with colleagues
+Verify customer credit information
+Coordinate sales campaigns
+Stock products or parts
+Explain financial information to customers

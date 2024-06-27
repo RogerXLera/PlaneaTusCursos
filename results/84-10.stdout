@@ -1,0 +1,44 @@
+Read instances: 0.77 s
+Generate matrices: 2.62 s
+The optimal value is 0.6649999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Scheduling Selenium TestNG tests via Jenkins CI/CD (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: 3-Axis Machining with Autodesk Fusion 360 (12.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.09
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Scheduling Selenium TestNG tests via Jenkins CI/CD tool:
+		 Conduct test runs of production equipment
+	 Introduction to Duet AI in Google Workspace:
+		 Exchange information with colleagues
+	 Ferrous Technology I:
+		 Operate metal forming equipment
+	 3-Axis Machining with Autodesk Fusion 360:
+		 Manoeuvre work pieces in equipment during production
+		 Operate cutting equipment
+		 Remove accessories, tools or other parts from equipment
+Skills for Job Metal Casting, Forging and Finishing Trades Workers
+Operate metal forming equipment
+Remove accessories, tools or other parts from equipment
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Manoeuvre work pieces in equipment during production
+Study blueprints or other instructions to determine equipment setup requirements
+Trim excess material from work pieces
+Place materials into or onto moulds
+Exchange information with colleagues
+Operate cutting equipment
+Mount attachments or tools onto production equipment
+Conduct test runs of production equipment
+Operate grinding equipment
+Sharpen cutting or grinding tools
+Select production equipment according to product specifications
+Set equipment guides, stops, spacers or other fixtures
+Maintain production or processing equipment
+Repair production equipment or tools
+Replace worn equipment components

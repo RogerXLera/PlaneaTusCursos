@@ -1,0 +1,80 @@
+Read instances: 0.74 s
+Generate matrices: 76.47 s
+The optimal value is 0.3562903225806452
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture - Português Brasileir (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.30
+Job affinity: 64.516
+Skills per Unit
+	 Initial Activity:
+	 How to create a Jira SCRUM project:
+		 Coordinate software or hardware installation
+		 Develop detailed project plans
+		 Identify information technology project resource requirements
+		 Manage information technology projects or system activities
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Apply information technology to solve business or other applied problems
+		 Provide recommendations to others about computer hardware or software
+	 Planning a Generative AI Project:
+		 Analyse project data to determine specifications or requirements
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Develop testing routines or procedures
+		 Evaluate utility of software or hardware technologies
+		 Provide technical support for software maintenance or use
+	 Linux on LinuxONE:
+		 Design computer modelling or simulation programs
+		 Design integrated computer systems
+		 Modify software programs to improve performance
+		 Monitor computer system performance to ensure proper operation
+	 Encoder-Decoder Architecture:
+		 Read documents to gather technical information
+	 Getting started with Azure IOT Hub:
+		 Configure computer networks
+		 Create databases to store electronic data
+		 Develop procedures for data management
+		 Document design or development procedures
+	 Encoder-Decoder Architecture - Português Brasileiro:
+		 Analyse data to identify or resolve operational problems
+		 Design computer modelling or simulation programs
+Skills for Job ICT Business and Systems Analysts
+Apply information technology to solve business or other applied problems
+Modify software programs to improve performance
+Collaborate with others to determine design specifications or details
+Write computer programming code
+Provide technical support for software maintenance or use
+Troubleshoot issues with computer applications or systems
+Create databases to store electronic data
+Coordinate software or hardware installation
+Monitor computer system performance to ensure proper operation
+Test software performance
+Design computer modelling or simulation programs
+Analyse data to identify or resolve operational problems
+Analyse business or financial data
+Configure computer networks
+Read documents to gather technical information
+Evaluate utility of software or hardware technologies
+Coordinate project activities with other staff or departments
+Train others in computer interface or software use
+Develop diagrams or flow charts of system operation
+Develop procedures for data management
+Develop detailed project plans
+Collect data about customer needs
+Identify information technology project resource requirements
+Manage information technology projects or system activities
+Supervise information technology staff
+Document design or development procedures
+Develop testing routines or procedures
+Design integrated computer systems
+Analyse project data to determine specifications or requirements
+Estimate time or monetary resources needed to complete projects
+Provide recommendations to others about computer hardware or software

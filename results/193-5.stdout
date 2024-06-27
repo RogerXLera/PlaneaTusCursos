@@ -1,0 +1,47 @@
+Read instances: 0.71 s
+Generate matrices: 4.18 s
+The optimal value is 0.7474999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a responsive seat selector UI in HTML, CSS, (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.09
+Job affinity: 25.000
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Create a responsive seat selector UI in HTML, CSS, and JS:
+		 Adjust office equipment
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Compile data or documentation
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Operate vehicles or material-moving equipment
+Skills for Job Storepersons
+Store items
+Distribute materials to employees or customers
+Receive shipments
+Inspect items for damage or defects
+Attach identification information to products, items or containers
+Follow safety procedures for loading and unloading vehicles
+Adjust office equipment
+Stock supplies, merchandise, food or drink
+Unload materials, cargo or equipment
+Verify accuracy of financial or transactional data
+Sell goods or services
+Maintain inventory records
+Store records or related materials
+Maintain operational records
+Discuss goods or services information with customers or patrons
+Compile data or documentation
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Operate vehicles or material-moving equipment
+Prepare documentation for contracts, transactions or regulatory compliance
+Order materials, supplies, or equipment

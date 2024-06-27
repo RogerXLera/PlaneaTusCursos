@@ -1,0 +1,26 @@
+Read instances: 0.71 s
+Generate matrices: 4.65 s
+The optimal value is 0.401
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Attention Mechanism (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Giving Helpful Feedback (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 60.000
+Skills per Unit
+	 Initial Activity:
+	 Giving Helpful Feedback:
+		 Coach others
+	 Attention Mechanism:
+		 Promote products, activities, or organisations
+	 Lesson | Express Yourself: Pronunciation:
+		 Practice athletic or artistic skills
+Skills for Job Sportspersons
+Practice athletic or artistic skills
+Participate in athletic events
+Evaluate skills of athletes or performers
+Coach others
+Promote products, activities, or organisations

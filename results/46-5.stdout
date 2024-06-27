@@ -1,0 +1,85 @@
+Read instances: 0.77 s
+Generate matrices: 28.07 s
+The optimal value is 0.5260526315789474
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.70
+Job affinity: 47.368
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Generative AI Studio - Français:
+		 Analyse data to inform operational decisions or activities
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Growing Great Writers with Writable:
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop strategies or programs for students with accessibility needs
+		 Display student work
+		 Document lesson plans
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Encourage students
+		 Order instructional or library materials or equipment
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Display student work
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Lesson | Telephone Language:
+		 Attend training sessions or events to develop or maintain professional knowledge
+Skills for Job Primary School Teachers
+Set up classroom materials or equipment
+Plan educational activities
+Establish rules or policies governing student behaviour
+Develop instructional objectives
+Apply multiple teaching methods
+Enforce rules or policies governing student behaviour
+Modify teaching methods or materials to accommodate student needs
+Encourage students
+Advise students on academic or career matters
+Create technology-based learning materials
+Evaluate student work
+Read to students
+Monitor student performance
+Collaborate with other teaching professionals to develop educational programs
+Maintain student records
+Discuss problems or issues with supervisors
+Develop strategies or programs for students with accessibility needs
+Supervise school or student activities
+Monitor student behaviour, social development or health
+Teach others to use technology or equipment
+Assist students with special educational needs
+Display student work
+Assign class work to students
+Discuss student progress with parents or guardians
+Administer tests to assess educational needs or progress
+Analyse data to inform operational decisions or activities
+Prepare reports detailing student activities or performance
+Document lesson plans
+Evaluate performance of educational staff
+Supervise student research or internship work
+Prepare tests
+Plan experiential learning activities
+Attend training sessions or events to develop or maintain professional knowledge
+Serve on institutional or departmental committees
+Coordinate student extracurricular activities
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment

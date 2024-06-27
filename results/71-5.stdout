@@ -1,0 +1,64 @@
+Read instances: 0.71 s
+Generate matrices: 69.59 s
+The optimal value is 0.28
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Responsible AI in the Generative AI Era (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a High-Fidelity Prototype with Figma (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: ChatGPT for Beginners: Save time with Microsoft Ex (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Security and Privacy for Big Data - Part 1 (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture - Português Brasileir (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.44
+Job affinity: 72.222
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: Save time with Microsoft Excel:
+		 Develop software applications
+		 Monitor the security of digital information
+	 Responsible AI in the Generative AI Era:
+		 Collaborate with others to resolve information technology issues
+		 Develop computer or information security policies or procedures
+	 Create a High-Fidelity Prototype with Figma:
+		 Develop software applications
+		 Implement security measures for computer or information systems
+		 Manage information technology projects or system activities
+	 Planning a Generative AI Project:
+		 Apply machine learning techniques to data
+		 Evaluate data quality
+	 Security and Privacy for Big Data - Part 1:
+		 Analyse security of systems, network or data
+		 Develop procedures for data management
+		 Implement security measures for computer or information systems
+	 Encoder-Decoder Architecture:
+		 Apply machine learning techniques to data
+		 Read documents to gather technical information
+	 Encoder-Decoder Architecture - Português Brasileiro:
+		 Analyse data to identify or resolve operational problems
+		 Analyse security of systems, network or data
+		 Apply machine learning techniques to data
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document design or development procedures
+Skills for Job Database and Systems Administrators, and ICT Security Specialists
+Monitor the security of digital information
+Implement security measures for computer or information systems
+Analyse security of systems, network or data
+Collaborate with others to resolve information technology issues
+Manage information technology projects or system activities
+Develop computer or information security policies or procedures
+Communicate project information to others
+Document design or development procedures
+Recommend changes to improve computer or information systems
+Write computer programming code
+Read documents to gather technical information
+Analyse data to identify or resolve operational problems
+Evaluate data quality
+Develop software applications
+Update knowledge about emerging industry or technology trends
+Conduct research to gain information about products or processes
+Develop procedures for data management
+Apply machine learning techniques to data

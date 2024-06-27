@@ -1,0 +1,48 @@
+Read instances: 0.75 s
+Generate matrices: 2.91 s
+The optimal value is 0.6649999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Object-Oriented Programming in C++ (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Automize Business Communication using Power Automa (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Spanish Vocabulary: Sports, Travel, and the Home (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Analytical Mechanics for Spacecraft Dynamics (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.19
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Hiring and Onboarding Employees with ClickUp:
+		 Plan work procedures
+	 Introduction to Object-Oriented Programming in C++:
+		 Read work orders or descriptions of problems to determine repairs or modifications needed
+	 Automize Business Communication using Power Automate:
+		 Inspect completed work to ensure proper functioning
+	 Analytical Mechanics for Spacecraft Dynamics:
+		 Adjust vehicle components according to specifications
+	 Spanish Vocabulary: Sports, Travel, and the Home:
+		 Prepare compounds or solutions to be used for repairs
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Confer with customers or users to assess problems
+Skills for Job Vehicle Body Builders and Trimmers
+Remove dents from equipment, materials tools or structures
+Smooth surfaces of objects or equipment
+Prepare compounds or solutions to be used for repairs
+Cut materials according to specifications or needs
+Inspect completed work to ensure proper functioning
+Paint surfaces or equipment
+Remove parts or components from vehicles
+Read work orders or descriptions of problems to determine repairs or modifications needed
+Clean work areas
+Install vehicle parts or accessories
+Adjust vehicle components according to specifications
+Disassemble equipment for maintenance or repair
+Install machine or equipment replacement parts
+Plan work procedures
+Confer with customers or users to assess problems
+Operate welding equipment
+Replace vehicle glass
+Measure distances or dimensions

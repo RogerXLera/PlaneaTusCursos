@@ -1,0 +1,46 @@
+Read instances: 0.79 s
+Generate matrices: 5.38 s
+The optimal value is 0.005
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Investment Strategies and Portfolio Analysis (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Spanish Vocabulary: Careers and Social Events (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: How to Create an Online Course (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.41
+Job affinity: 100.000
+Skills per Unit
+	 Initial Activity:
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Answer customer questions about goods or services
+	 Getting started with Microsoft Office 365:
+		 Develop content for sales presentations or other materials
+		 Maintain records of customer accounts
+	 Investment Strategies and Portfolio Analysis:
+		 Monitor market conditions or trends
+	 How to Create an Online Course:
+		 Identify potential customers
+	 Spanish Vocabulary: Careers and Social Events:
+		 Schedule appointments with prospective customers
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Deliver promotional presentations to current or prospective customers
+		 Develop content for sales presentations or other materials
+		 Explain technical product or service information to customers
+Skills for Job Telemarketers
+Maintain records of customer accounts
+Contact current or potential customers to promote goods or services
+Deliver promotional presentations to current or prospective customers
+Develop content for sales presentations or other materials
+Answer customer questions about goods or services
+Explain technical product or service information to customers
+Identify potential customers
+Monitor market conditions or trends
+Schedule appointments with prospective customers

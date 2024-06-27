@@ -1,0 +1,103 @@
+Read instances: 1.00 s
+Generate matrices: 10.32 s
+The optimal value is 0.39
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Model-driven Power App for Rental Company (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Use Microsoft PowerPoint to Create a Visual Schedu (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.90
+Job affinity: 61.111
+Skills per Unit
+	 Initial Activity:
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Create Model-driven Power App for Rental Company:
+		 Prepare tests
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Evaluate student work
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Encourage students
+		 Order instructional or library materials or equipment
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Display student work
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Improving Classroom Management with Class Dojo:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Encourage students
+		 Enforce rules or policies governing student behaviour
+	 Use Microsoft PowerPoint to Create a Visual Schedule:
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Evaluate performance of educational staff
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Lesson | Telephone Language:
+		 Attend training sessions or events to develop or maintain professional knowledge
+Skills for Job Middle School Teachers / Intermediate School Teachers
+Develop instructional objectives
+Establish rules or policies governing student behaviour
+Apply multiple teaching methods
+Encourage students
+Plan educational activities
+Enforce rules or policies governing student behaviour
+Modify teaching methods or materials to accommodate student needs
+Evaluate student work
+Set up classroom materials or equipment
+Create technology-based learning materials
+Maintain student records
+Monitor student performance
+Advise students on academic or career matters
+Tutor students who need extra assistance
+Supervise school or student activities
+Assign class work to students
+Discuss problems or issues with supervisors
+Assist students with special educational needs
+Collaborate with other teaching professionals to develop educational programs
+Discuss student progress with parents or guardians
+Monitor student behaviour, social development or health
+Administer tests to assess educational needs or progress
+Document lesson plans
+Display student work
+Prepare tests
+Teach others to use technology or equipment
+Coordinate student extracurricular activities
+Evaluate performance of educational staff
+Supervise student research or internship work
+Plan experiential learning activities
+Prepare reports detailing student activities or performance
+Serve on institutional or departmental committees
+Attend training sessions or events to develop or maintain professional knowledge
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment

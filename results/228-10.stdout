@@ -1,0 +1,51 @@
+Read instances: 0.70 s
+Generate matrices: 2.92 s
+The optimal value is 0.7367391304347826
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Large Language Models (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.10
+Job affinity: 26.087
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Microsoft Office 365:
+		 Document operational activities
+	 Introduction to Large Language Models:
+		 Adjust equipment for optimal performance
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Get started with Upwork:
+		 Collect payments for goods or services
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Confer with co-workers to resolve equipment problems
+Skills for Job Vending Machine Attendants
+Stock supplies, merchandise, food or drink
+Document operational activities
+Collect payments for goods or services
+Maintain work equipment or machinery
+Move equipment, supplies or food to required locations
+Adjust equipment for optimal performance
+Inspect mechanical equipment to locate damage, defects or wear
+Maintain repair or maintenance records
+Travel to work sites
+Test mechanical equipment to ensure proper functioning
+Procure stocks of merchandise or supplies
+Lubricate equipment to allow proper functioning
+Clean or repair equipment, parts or tools
+Replace worn, damaged or defective mechanical parts
+Repair worn, damaged, or defective mechanical parts
+Order materials, supplies, or equipment
+Read technical information needed to perform maintenance or repairs
+Assemble mechanical components or machine parts
+Dismantle heavy equipment or machinery
+Estimate costs for labour or materials
+Drive vehicles to, or at, work sites
+Confer with co-workers to resolve equipment problems
+Install home appliances

@@ -1,0 +1,43 @@
+Read instances: 0.74 s
+Generate matrices: 3.53 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Transgender Medicine for General Medical Providers (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build AI Apps with ChatGPT, Dall-E, and GPT-4 (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Antibiotic Stewardship (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.19
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Build AI Apps with ChatGPT, Dall-E, and GPT-4:
+		 Make patient-assistive devices or device models
+	 Antibiotic Stewardship:
+		 Clean medical equipment
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+	 Transgender Medicine for General Medical Providers:
+		 Assist practitioners to perform medical procedures
+		 Interview patients to gather medical information
+	 Attention Mechanism - Français:
+		 Explain technical medical information to patients
+Skills for Job Dental Assistants
+Make patient-assistive devices or device models
+Maintain medical records
+Assist practitioners to perform medical procedures
+Administer health care or medical treatments
+Operate medical equipment
+Explain technical medical information to patients
+Clean medical equipment
+Teach medical procedures or medical equipment use to patients
+Interview patients to gather medical information
+Record vital statistics or other health information
+Prepare medical instruments or equipment for use
+Inventory medical supplies or equipment
+Fit patients for assistive devices
+Process medical billing information
+Schedule patient procedures or appointments

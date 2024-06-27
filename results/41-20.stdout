@@ -1,0 +1,90 @@
+Read instances: 0.72 s
+Generate matrices: 10.86 s
+The optimal value is 0.3476923076923077
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Building Systems with the ChatGPT API (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Data Science Challenge (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a no-code customer support Telegram chatbot  (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Getting Started with Power BI Desktop (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: JavaScript Interview Challenges (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Copywriting with ChatGPT: Produce Compelling Copy  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a free website with WordPress (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: ChatGPT with Python: Build a Chatbot With the Open (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk: Build & Deploy a Node.js RE (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Outsmarting intermittency (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.25
+Job affinity: 65.385
+Skills per Unit
+	 Initial Activity:
+	 Getting Started with Power BI Desktop:
+		 Prepare operational reports
+	 JavaScript Interview Challenges:
+		 Investigate system, equipment or product failures
+	 Copywriting with ChatGPT: Produce Compelling Copy That Sells:
+		 Operate computer systems
+	 Building Production-Ready Apps with Large Language Models:
+		 Design structures or facilities
+	 Building Systems with the ChatGPT API:
+		 Confer with technical staff to prepare designs or operational plans
+	 Data Science Challenge:
+		 Devise research or testing protocols
+	 Build a free website with WordPress:
+		 Operate computer systems
+	 ChatGPT with Python: Build a Chatbot With the OpenAI API:
+		 Develop technical specifications for systems or equipment
+	 Getting Started with Ubuntu Linux:
+		 Investigate system, equipment or product failures
+	 AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API:
+		 Direct installation activities
+		 Inspect operational processes
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Estimate operational costs
+	 Build a no-code customer support Telegram chatbot with Azure:
+		 Test products for functionality or quality
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Design alternative energy systems
+		 Design electrical equipment or systems
+		 Design energy efficient equipment or systems
+		 Design energy production or management equipment or systems
+	 Ferrous Technology I:
+		 Direct industrial production activities
+	 Outsmarting intermittency:
+		 Create electrical schematics
+		 Design alternative energy systems
+		 Design electrical equipment or systems
+		 Design energy production or management equipment or systems
+Skills for Job Electrical Engineers
+Operate computer systems
+Create electrical schematics
+Estimate technical or resource requirements for development or production projects
+Design energy efficient equipment or systems
+Confer with technical staff to prepare designs or operational plans
+Discuss designs or plans with clients
+Prepare operational reports
+Design electrical equipment or systems
+Direct industrial production activities
+Survey land or bodies of water
+Devise research or testing protocols
+Maintain electronic equipment
+Design structures or facilities
+Develop technical specifications for systems or equipment
+Investigate system, equipment or product failures
+Design energy production or management equipment or systems
+Direct equipment maintenance or repair activities
+Direct construction activities
+Direct installation activities
+Design alternative energy systems
+Inspect operational processes
+Supervise engineering or other technical staff
+Train staff on proper operational procedures
+Estimate operational costs
+Prepare project budgets
+Test products for functionality or quality

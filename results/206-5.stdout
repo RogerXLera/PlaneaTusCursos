@@ -1,0 +1,34 @@
+Read instances: 0.73 s
+Generate matrices: 2.37 s
+The optimal value is 0.8687499999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.02
+Job affinity: 12.500
+Skills per Unit
+	 Initial Activity:
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+	 Ferrous Technology I:
+		 Clean materials to prepare them for production
+Skills for Job Meat Boners and Slicers, and Slaughterers
+Cut meat products
+Slaughter animals
+Process animal carcasses
+Package meat, poultry or seafood
+Prepare meat products for sale or consumption
+Inspect food products
+Record operational or production data
+Direct operational or production activities
+Clean materials to prepare them for production
+Weigh products or materials
+Ensure safe meat, dairy or produce storage
+Confer with customers or designers to determine order specifications
+Estimate material requirements for production
+Mark products, work pieces or equipment with identifying information
+Order materials, supplies, or equipment
+Load items into ovens or furnaces

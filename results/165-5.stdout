@@ -1,0 +1,64 @@
+Read instances: 0.69 s
+Generate matrices: 17.20 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Where, Why, and How of Lambda Functions in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.48
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Calculate financial data
+		 Maintain financial or account records
+	 Create Employee Management System with When I Work:
+		 Manage clerical or administrative activities
+		 Prepare staff schedules
+	 Flush Out a Feature on Coursera in Miro:
+		 Develop software applications
+		 Maintain inventory records
+	 Where, Why, and How of Lambda Functions in Python:
+		 Prepare research or technical reports
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Send information, materials or documentation
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+		 Enter information into databases or software programs
+Skills for Job Library Assistants
+Maintain inventory records
+Distribute materials to employees or customers
+Sort materials or products
+Track goods or materials
+Refer customers to appropriate staff
+Manage clerical or administrative activities
+Enter information into databases or software programs
+Maintain office equipment in proper operating condition
+Inspect items for damage or defects
+Calculate financial data
+Maintain security
+Deliver items
+Answer telephones to direct calls or provide information
+Type documents
+Sort mail
+Maintain financial or account records
+Issue documentation or identification to customers or employees
+Store records or related materials
+Plan educational activities
+Plan special events
+Supervise clerical or administrative staff
+Prepare staff schedules
+Collect deposits, payments or fees
+Send information, materials or documentation
+Attach identification information to products, items or containers
+Package objects for shipping
+Prepare research or technical reports
+Develop software applications
+Prepare documentation for contracts, transactions or regulatory compliance
+Order materials, supplies, or equipment

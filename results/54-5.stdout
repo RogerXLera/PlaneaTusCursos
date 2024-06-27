@@ -1,0 +1,38 @@
+Read instances: 0.73 s
+Generate matrices: 4.32 s
+The optimal value is 0.5707142857142857
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Health After Cancer: Cancer Survivorship for Prima (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamental Human Physiology in Sports Medicine (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.14
+Job affinity: 42.857
+Skills per Unit
+	 Initial Activity:
+	 Fundamental Human Physiology in Sports Medicine:
+		 Apply bandages, dressings or splints
+		 Diagnose medical conditions
+	 Health After Cancer: Cancer Survivorship for Primary Care:
+		 Advise patients of health conditions or treatments
+		 Collaborate with health care professionals to plan or provide treatment
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Collect medical information from patients, family members or other medical professionals
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Chiropractors and Osteopaths
+Examine patients to assess general physical condition
+Record patient medical histories
+Treat patients using physical techniques
+Advise patients of health conditions or treatments
+Provide health and wellness advice to patients, program participants or caregivers
+Analyse test results to inform diagnosis or treatment
+Collect medical information from patients, family members or other medical professionals
+Gather medical information from patient histories
+Diagnose medical conditions
+Schedule patient procedures or appointments
+Collaborate with health care professionals to plan or provide treatment
+Refer patients to other health care practitioners or health resources
+Apply bandages, dressings or splints
+Recommend types of assistive devices

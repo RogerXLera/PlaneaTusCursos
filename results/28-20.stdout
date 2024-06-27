@@ -1,0 +1,47 @@
+Read instances: 0.72 s
+Generate matrices: 5.36 s
+The optimal value is 0.3585714285714286
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Investment Strategies and Portfolio Analysis (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Overview of Data Visualization (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.58
+Job affinity: 64.286
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Develop professional relationships or networks
+		 Maintain records of sales or other business transactions
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Account Management & Sales Force Design:
+		 Negotiate prices or other sales terms
+		 Sell goods or services
+	 Investment Strategies and Portfolio Analysis:
+		 Identify investment opportunities or strategies
+		 Monitor market conditions or trends
+	 Overview of Data Visualization:
+		 Analyse market conditions or trends
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor sales activities
+Skills for Job Financial Dealers
+Supervise sales or support staff
+Monitor sales activities
+Prepare sales or other contracts
+Review accuracy of sales or other transactions
+Analyse market conditions or trends
+Sell goods or services
+Negotiate prices or other sales terms
+Maintain records of sales or other business transactions
+Reconcile records of sales or other financial transactions
+Share sales-related or market information with colleagues
+Develop professional relationships or networks
+Prepare financial documents, reports or budgets
+Monitor market conditions or trends
+Identify investment opportunities or strategies

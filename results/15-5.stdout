@@ -1,0 +1,71 @@
+Read instances: 0.72 s
+Generate matrices: 36.97 s
+The optimal value is 0.561875
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Image Captioning Models (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Model-driven Power App for Rental Company (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.63
+Job affinity: 43.750
+Skills per Unit
+	 Initial Activity:
+	 Get started with Jira:
+		 Confer with peers to accomplish work
+		 Manage operations, research or logistics projects
+		 Manage outreach activities
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Direct administrative or support services
+		 Evaluate employee performance
+		 Hire staff
+		 Recruit staff
+	 Create Image Captioning Models:
+		 Analyse data to inform operational decisions or activities
+	 Get Started with Microsoft Forms:
+		 Administer tests to assess educational needs or progress
+		 Prepare forms or applications
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop educational goals, standards, policies or procedures
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Create Model-driven Power App for Rental Company:
+		 Prepare tests
+Skills for Job Other Education Managers
+Direct administrative or support services
+Represent the organisation in external relations
+Evaluate employee performance
+Recruit staff
+Direct facility maintenance or repair activities
+Advise others on career or personal development
+Supervise employees
+Conduct financial or regulatory audits
+Confer with peers to accomplish work
+Develop operating strategies, plans or procedures
+Teach classes in area of specialisation
+Manage outreach activities
+Schedule activities or facility use
+Prepare financial documents, reports or budgets
+Prepare operational budgets
+Coordinate special events or programs
+Communicate with government agencies
+Analyse data to inform operational decisions or activities
+Prepare forms or applications
+Develop organisational policies or programs
+Manage operations, research or logistics projects
+Prepare operational reports or records
+Prepare reports detailing student activities or performance
+Manage human resources activities
+Prepare tests
+Administer tests to assess educational needs or progress
+Prepare proposals or grant applications to obtain project funding
+Prepare staff schedules or work assignments
+Conduct employee training programs
+Hire staff
+Recommend organisational process or policy changes
+Develop educational goals, standards, policies or procedures

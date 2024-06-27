@@ -1,0 +1,50 @@
+Read instances: 0.70 s
+Generate matrices: 2.19 s
+The optimal value is 0.725
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a no-code responsive website with Webflow (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The New Nordic Diet - from Gastronomy to Health (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 27.273
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Process customer bills or payments
+	 Create a no-code responsive website with Webflow:
+		 Present specials information or menus to customers
+	 The New Nordic Diet - from Gastronomy to Health:
+		 Cook foods
+		 Cut foods
+	 Family Spirit Nurture:
+		 Assist with food or drink preparation
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Assess equipment functioning
+Skills for Job Kitchenhands
+Store supplies or goods in kitchens or storage areas
+Cook foods
+Arrange food for serving
+Cut foods
+Dispose of rubbish or waste materials
+Stock serving stations or dining areas with food or supplies
+Clean tableware
+Prepare foods for processing, cooking and serving
+Package food or supplies
+Assess equipment functioning
+Serve food or drinks
+Move equipment, supplies or food to required locations
+Clean food preparation areas, facilities or equipment
+Assist with food or drink preparation
+Record operational or production data
+Present specials information or menus to customers
+Weigh or measure ingredients
+Operate cash registers
+Process customer bills or payments
+Mix ingredients
+Prepare hot or cold drinks
+Clean food service areas

@@ -1,0 +1,59 @@
+Read instances: 0.70 s
+Generate matrices: 5.16 s
+The optimal value is 0.401
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Curanderismo: Traditional Healing of the Body (14.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding Memory: Explaining the Psychology of (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Formation COVID-19 pour personnels de santé (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.62
+Job affinity: 60.000
+Skills per Unit
+	 Initial Activity:
+	 Understanding Memory: Explaining the Psychology of Memory through Movies:
+		 Examine patients to assess general physical condition
+	 Everyday Chinese Medicine 2:
+		 Diagnose medical conditions
+		 Implement advanced life support techniques
+	 Fundamentals for Implementing a Hypertension Program:
+		 Diagnose medical conditions
+		 Prescribe medications
+	 Formation COVID-19 pour personnels de santé:
+		 Monitor patient conditions during treatments, procedures or activities
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 Curanderismo: Traditional Healing of the Body:
+		 Administer anaesthetics or sedatives to control pain
+		 Position patients for treatment or examination
+		 Prescribe treatments or therapies
+	 Lesson | Organize Your Pitch:
+		 Prepare patients for medical procedures
+Skills for Job Anaesthetists
+Collaborate with health care professionals to plan or provide treatment
+Record patient medical histories
+Monitor patient conditions during treatments, procedures or activities
+Administer anaesthetics or sedatives to control pain
+Position patients for treatment or examination
+Monitor patient progress or responses to treatments
+Examine patients to assess general physical condition
+Train medical providers
+Supervise patient care staff
+Order medical diagnostic or clinical tests
+Schedule medical facility use
+Implement advanced life support techniques
+Prepare patients for medical procedures
+Diagnose medical conditions
+Direct health care delivery programs
+Prescribe medications
+Prescribe treatments or therapies
+Refer patients to other health care practitioners or health resources
+Provide health and wellness advice to patients, program participants or caregivers
+Conduct research to increase knowledge about medical issues

@@ -1,0 +1,88 @@
+Read instances: 0.71 s
+Generate matrices: 95.12 s
+The optimal value is 0.18833333333333335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Enjoyable Econometrics (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Tesla Stock Price Prediction using Facebook Prophe (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Responsible AI in the Generative AI Era (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get Started With Tableau (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Jira (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 2.74
+Job affinity: 81.481
+Skills per Unit
+	 Initial Activity:
+	 Get Started With Tableau:
+		 Analyse business or financial data
+		 Analyse data to identify trends or relationships among variables
+		 Analyse data to inform operational decisions or activities
+	 Get started with Jira:
+		 Manage budgets for appropriate resource allocation
+		 Manage information technology projects or system activities
+	 How to create a Jira SCRUM project:
+		 Develop detailed project plans
+		 Develop operating strategies, plans or procedures
+		 Identify information technology project resource requirements
+		 Manage information technology projects or system activities
+	 Responsible AI in the Generative AI Era:
+		 Collaborate with others to resolve information technology issues
+	 Tesla Stock Price Prediction using Facebook Prophet:
+		 Analyse business or financial data
+		 Develop data analysis or data management procedures
+		 Prepare analytical reports
+	 Enjoyable Econometrics:
+		 Analyse data to identify trends or relationships among variables
+		 Collect data about customer needs
+		 Develop data analysis or data management procedures
+	 Planning a Generative AI Project:
+		 Analyse data to determine project feasibility
+		 Analyse project data to determine specifications or requirements
+	 Linux on LinuxONE:
+		 Develop guidelines for system implementation
+		 Implement security measures for computer or information systems
+	 Google Cloud VMware Engine:
+		 Analyse security of systems, network or data
+		 Identify information technology project resource requirements
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Coordinate resource procurement activities
+		 Maintain data in information systems or databases
+	 Assimilating into Your New Job:
+		 Communicate organisational policies and procedures
+		 Develop information communication procedures
+		 Participate in staffing decisions
+Skills for Job ICT Managers
+Manage information technology projects or system activities
+Develop detailed project plans
+Provide leadership to align operational activities with the organisation’s vision and goals
+Collaborate with others to resolve information technology issues
+Communicate organisational policies and procedures
+Supervise information technology staff
+Assign duties or work schedules to employees
+Coordinate project activities with other staff or departments
+Develop operating strategies, plans or procedures
+Implement security measures for computer or information systems
+Develop information communication procedures
+Train others on work processes
+Analyse project data to determine specifications or requirements
+Coordinate resource procurement activities
+Analyse data to determine project feasibility
+Analyse data to inform operational decisions or activities
+Identify information technology project resource requirements
+Participate in staffing decisions
+Analyse security of systems, network or data
+Maintain data in information systems or databases
+Analyse data to identify trends or relationships among variables
+Prepare analytical reports
+Analyse business or financial data
+Collect data about customer needs
+Develop data analysis or data management procedures
+Manage budgets for appropriate resource allocation
+Develop guidelines for system implementation

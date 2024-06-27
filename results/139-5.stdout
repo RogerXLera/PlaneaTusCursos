@@ -1,0 +1,52 @@
+Read instances: 0.71 s
+Generate matrices: 10.42 s
+The optimal value is 0.6302631578947367
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Large Language Models - Español (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.23
+Job affinity: 36.842
+Skills per Unit
+	 Initial Activity:
+	 Transformer Models and BERT Model:
+		 Promote goods, services, or programs
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Distribute resources to patrons or employees
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor availability of equipment or supplies
+	 Introduction to Large Language Models - Español:
+		 Gather information in order to provide services to clients
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive vehicles to transport patrons
+	 Lesson | Express Yourself: Pronunciation:
+		 Teach daily living skills or behaviours
+	 Lesson | Organize Your Pitch:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Gallery, Museum and Tour Guides
+Guide patrons on tours
+Drive vehicles to transport patrons
+Provide attraction or event information to patrons
+Monitor patron activities to identify problems or potential problems
+Provide patrons with directions to locales or attractions
+Explain regulations, policies or procedures
+Perform administrative or clerical tasks
+Organise recreational activities or events
+Respond to customer inquiries
+Teach daily living skills or behaviours
+Monitor availability of equipment or supplies
+Administer first aid
+Demonstrate activity techniques or equipment use
+Gather information in order to provide services to clients
+Greet customers, patrons or visitors
+Distribute resources to patrons or employees
+Promote goods, services, or programs
+Sell goods or services
+Train service staff

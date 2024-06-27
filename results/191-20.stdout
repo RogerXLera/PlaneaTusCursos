@@ -1,0 +1,54 @@
+Read instances: 0.73 s
+Generate matrices: 2.49 s
+The optimal value is 0.61
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analytical Mechanics for Spacecraft Dynamics (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Making the Case for Robotic Process Automation (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to HTML5 (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a computer vision app with Azure Cognitive S (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.33
+Job affinity: 38.889
+Skills per Unit
+	 Initial Activity:
+	 Introduction to HTML5:
+		 Verify information or specifications
+	 Understanding and Managing the Stresses of Police Work:
+		 Apply fatigue management strategies
+	 Build a computer vision app with Azure Cognitive Services:
+		 Inspect motor vehicles
+	 Duet AI in Gmail:
+		 Receive information or instructions for performing work assignments
+	 Making the Case for Robotic Process Automation:
+		 Follow safety procedures for vehicle operation
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Operate vehicles or material-moving equipment
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Inspect motor vehicles
+	 Analytical Mechanics for Spacecraft Dynamics:
+		 Manoeuvre vehicles into position for loading and unloading
+Skills for Job Delivery Drivers
+Follow safety procedures for vehicle operation
+Load shipments, belongings or materials
+Manoeuvre vehicles into position for loading and unloading
+Follow safety procedures for loading and unloading vehicles
+Record details of deliveries or shipments
+Transport goods, materials or liquids
+Operate vehicles or material-moving equipment
+Verify information or specifications
+Apply fatigue management strategies
+Collect fares or payment from customers
+Receive information or instructions for performing work assignments
+Read maps to determine routes
+Report vehicle or equipment malfunctions
+Notify others of emergencies, problems or hazards
+Sell goods or services
+Record sales or transactions data
+Maintain vehicles in good working condition
+Inspect motor vehicles

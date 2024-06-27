@@ -1,0 +1,57 @@
+Read instances: 0.74 s
+Generate matrices: 10.31 s
+The optimal value is 0.6781999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to CRM with HubSpot (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Learn and design an attractive PowerPoint presenta (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.28
+Job affinity: 32.000
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Gather financial records
+		 Interpret financial information for others
+	 Learn and design an attractive PowerPoint presentation:
+		 Maintain data in information systems or databases
+	 Hiring and Onboarding Employees with ClickUp:
+		 Establish organisational guidelines or policies
+	 Introduction to CRM with HubSpot:
+		 Correspond with customers to answer questions or resolve complaints
+		 Execute sales or other financial transactions
+	 Introduction to Duet AI in Google Workspace:
+		 Confer with staff to coordinate business operations
+	 Lesson | Get Ready for the Interview:
+		 Conduct eligibility or selection interviews
+Skills for Job Credit and Loans Officers
+Supervise employees
+Gather financial records
+Compute debt repayment schedules
+Interpret financial information for others
+Assess financial status of clients
+Interview clients to gather financial information
+Market goods, services or events
+Verify accuracy of financial information
+Authorise financial actions
+Negotiate agreements to resolve disputes
+Submit financial applications
+Develop financial plans for clients
+Update professional knowledge
+Maintain data in information systems or databases
+Examine financial records
+Correspond with customers to answer questions or resolve complaints
+Analyse market conditions or trends
+Confer with staff to coordinate business operations
+Establish organisational guidelines or policies
+Prepare financial documents, reports or budgets
+Recommend investments to clients
+Train staff to improve their skills
+Conduct eligibility or selection interviews
+Communicate with government agencies
+Execute sales or other financial transactions

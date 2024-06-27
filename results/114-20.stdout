@@ -1,0 +1,50 @@
+Read instances: 0.75 s
+Generate matrices: 3.06 s
+The optimal value is 0.555
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Customer Service with Python: Build a Chatbot usin (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Create your own Sudoku Solver using AI and Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: ChatGPT for Beginners: Save time with Microsoft Ex (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Additive Manufacturing (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.23
+Job affinity: 44.444
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: Save time with Microsoft Excel:
+		 Program equipment to perform production tasks
+	 Additive Manufacturing:
+		 Cut industrial materials in preparation for fabrication or processing
+		 Estimate costs of goods, services or materials
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 Create your own Sudoku Solver using AI and Python:
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Customer Service with Python: Build a Chatbot using ChatGPT:
+		 Confer with customers or designers to determine order specifications
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Compare physical characteristics of materials or products to specifications or standards
+		 Read work orders or other instructions to determine product specifications or materials requirements
+Skills for Job Cabinetmakers
+Assemble wood products
+Trim excess material from work pieces
+Measure materials to mark reference points, cutting lines or other indicators
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Operate woodworking equipment
+Attach decorative or functional accessories to products
+Drill holes in parts, equipment or materials
+Compare physical characteristics of materials or products to specifications or standards
+Shape surfaces or edges of wood work pieces
+Program equipment to perform production tasks
+Read work orders or other instructions to determine product specifications or materials requirements
+Review blueprints or other instructions to determine operational methods or sequences
+Apply protective or decorative finishes
+Repair furniture or upholstery
+Cut industrial materials in preparation for fabrication or processing
+Estimate costs of goods, services or materials
+Estimate material requirements for production
+Confer with customers or designers to determine order specifications

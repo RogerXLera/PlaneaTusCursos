@@ -1,0 +1,62 @@
+Read instances: 0.73 s
+Generate matrices: 3.06 s
+The optimal value is 0.5197999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Black Agricultural Solutions to Food Apartheid: A  (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: CI/CD Pipelines and Deployment Strategies (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Exam Prep: AWS Certified Cloud Practitioner Founda (9.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.25
+Job affinity: 48.000
+Skills per Unit
+	 Initial Activity:
+	 AWS: CI/CD Pipelines and Deployment Strategies:
+		 Remove debris from work sites
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Control plant pests or diseases
+		 Evaluate quality or condition of plants or crops
+		 Identify plant species and features
+	 Black Agricultural Solutions to Food Apartheid: A Teach-Out:
+		 Cultivate and maintain lawns, plants and gardens
+		 Perform manual agricultural, aquacultural or horticultural tasks
+	 Exam Prep: AWS Certified Cloud Practitioner Foundations:
+		 Estimate maintenance service requirements or costs
+	 Mastering Digital Twins:
+		 Maintain equipment or systems to ensure proper functioning
+	 Golf Course Management: Best Practices:
+		 Clean facilities or sites
+		 Cultivate and maintain lawns, plants and gardens
+		 Design and plan outdoor layouts
+		 Inspect landscaping to determine treatment needs
+Skills for Job Gardeners (General)
+Cultivate and maintain lawns, plants and gardens
+Trim trees or other vegetation
+Dispose of rubbish or waste materials
+Plant crops, trees or other plants
+Operate grounds maintenance equipment
+Design and plan outdoor layouts
+Decorate indoor or outdoor spaces
+Perform manual agricultural, aquacultural or horticultural tasks
+Remove debris from work sites
+Control plant pests or diseases
+Apply chemical solutions to plants for protection or to enhance growth
+Plant greenery to improve landscape appearance
+Irrigate lawns, trees or plants
+Identify plant species and features
+Evaluate quality or condition of plants or crops
+Evaluate reports or designs to determine work needs
+Inspect landscaping to determine treatment needs
+Install equipment to protect or support trees
+Maintain equipment or systems to ensure proper functioning
+Estimate maintenance service requirements or costs
+Safely handle chemicals for work applications
+Provide information about landscaping services or costs
+Drive vehicles to, or at, work sites
+Clean facilities or sites
+Treat greenery or surfaces with protective substances

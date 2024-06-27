@@ -1,0 +1,40 @@
+Read instances: 0.72 s
+Generate matrices: 3.26 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.13
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+Skills for Job Service Station Attendants
+Operate cash registers
+Answer customer questions about goods or services
+Sell goods or services
+Greet customers, patrons or visitors
+Set up merchandise displays
+Refuel vehicle
+Clean vehicles or vehicle components
+Operate and maintain car wash facilities
+Clean work areas
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Replace worn, damaged or defective mechanical parts
+Stock products or parts
+Repair worn, damaged, or defective mechanical parts
+Repair, replace, test, or rotate tires
+Replace or repair non-engine automotive or vehicle components

@@ -1,0 +1,67 @@
+Read instances: 0.76 s
+Generate matrices: 11.13 s
+The optimal value is 0.3923913043478261
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: COVID-19 Training for Healthcare Workers (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Design and Interpretation of Clinical Trials (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Visualizing the Living Body: Diagnostic Imaging (9.0) 	 Start Period: 1 	 End Period: 2
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.44
+Job affinity: 60.870
+Skills per Unit
+	 Initial Activity:
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 Design and Interpretation of Clinical Trials:
+		 Analyse test results to inform diagnosis or treatment
+		 Conduct research to increase knowledge about medical issues
+		 Determine protocols for medical procedures
+	 Visualizing the Living Body: Diagnostic Imaging:
+		 Analyse medical data
+		 Maintain medical facility records
+		 Operate diagnostic imaging equipment
+	 COVID-19 Training for Healthcare Workers:
+		 Immunise patients
+		 Manage health care operations
+	 Everyday Chinese Medicine 2:
+		 Develop medical treatment plans
+		 Treat acute illnesses, infections or injuries
+	 Fundamentals for Implementing a Hypertension Program:
+		 Communicate health and wellness information to the public
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Communicate health and wellness information to the public
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Veterinarians
+Examine patients to assess general physical condition
+Treat animal injuries or illnesses
+Immunise patients
+Collect biological specimens from patients
+Provide health and wellness advice to patients, program participants or caregivers
+Care for animals
+Communicate health and wellness information to the public
+Conduct research to increase knowledge about medical issues
+Manage health care operations
+Operate on patients
+Treat acute illnesses, infections or injuries
+Prescribe medications
+Develop medical treatment plans
+Analyse test results to inform diagnosis or treatment
+Operate diagnostic imaging equipment
+Supervise medical support staff
+Train medical providers
+Determine protocols for medical procedures
+Maintain medical facility records
+Schedule patient procedures or appointments
+Perform clerical work in medical settings
+Analyse medical data
+Maintain medical or professional knowledge

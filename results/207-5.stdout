@@ -1,0 +1,31 @@
+Read instances: 0.76 s
+Generate matrices: 2.39 s
+The optimal value is 0.863
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.01
+Job affinity: 13.333
+Skills per Unit
+	 Initial Activity:
+	 Stanford Introduction to Food and Health:
+		 Inspect food products
+		 Operate food processing equipment
+Skills for Job Meat, Poultry and Seafood Process Workers
+Process animal carcasses
+Cut meat products
+Package meat, poultry or seafood
+Remove skin or other body parts from animals
+Prepare meat products for sale or consumption
+Ensure safe meat, dairy or produce storage
+Inspect food products
+Operate food processing equipment
+Dispose of rubbish or waste materials
+Sterilise cooking or processing equipment
+Clean food preparation areas, facilities or equipment
+Clean work areas
+Move equipment, supplies or food to required locations
+Comply with industry animal welfare requirements
+Weigh products or materials

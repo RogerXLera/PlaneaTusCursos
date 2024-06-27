@@ -1,0 +1,43 @@
+Read instances: 0.69 s
+Generate matrices: 2.13 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Sourcing Analytics (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Nutrition Hot Topics and Controversies (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.06
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Process customer bills or payments
+	 Sourcing Analytics:
+		 Order materials, supplies, or equipment
+	 Stanford Introduction to Food and Health:
+		 Cook foods
+		 Coordinate food preparation
+	 Infection Prevention in Nursing Homes:
+		 Clean food preparation areas, facilities or equipment
+	 Nutrition Hot Topics and Controversies:
+		 Check quality of foods or supplies
+		 Prepare foods for processing, cooking and serving
+Skills for Job Fast Food Cooks
+Cook foods
+Clean food preparation areas, facilities or equipment
+Serve food or drinks
+Check quality of foods or supplies
+Weigh or measure ingredients
+Stock serving stations or dining areas with food or supplies
+Prepare foods for processing, cooking and serving
+Take customer orders
+Process customer bills or payments
+Prepare breads or doughs
+Mix ingredients
+Coordinate food preparation
+Prepare hot or cold drinks
+Order materials, supplies, or equipment

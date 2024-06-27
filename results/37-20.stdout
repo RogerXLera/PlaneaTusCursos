@@ -1,0 +1,46 @@
+Read instances: 0.80 s
+Generate matrices: 3.18 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI with Vertex AI: Build a customer cha (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Communicating During Global Emergencies (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Technology-Assisted Decision-Makin (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Privacy Law and HIPAA (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.27
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Privacy Law and HIPAA:
+		 Monitor equipment gauges or displays
+	 Introduction to Technology-Assisted Decision-Making:
+		 Choose optimal transportation routes or speeds
+	 Generative AI with Vertex AI: Build a customer chatbot:
+		 Communicate with others to coordinate vehicle movement
+	 Communicating During Global Emergencies:
+		 Notify others of emergencies, problems or hazards
+	 Duet AI in Gmail:
+		 Communicate work orders or plans to co-workers
+	 Introduction to Generative AI Studio - Français:
+		 Operate communications equipment or systems
+Skills for Job Air Transport Professionals
+Communicate with others to coordinate vehicle movement
+Coordinate flight control or management activities
+Monitor equipment gauges or displays
+Choose optimal transportation routes or speeds
+Provide transportation information to passengers or customers
+Record operational details of travel
+Monitor work environment to ensure safety or adherence to specifications
+Operate communications equipment or systems
+Communicate work orders or plans to co-workers
+Test performance of aircraft equipment
+Resolve issues affecting transportation operations
+Direct material handling or moving activities
+Plan flight operations
+Respond to transportation emergencies
+Report vehicle or equipment malfunctions
+Notify others of emergencies, problems or hazards

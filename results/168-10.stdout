@@ -1,0 +1,56 @@
+Read instances: 0.71 s
+Generate matrices: 4.03 s
+The optimal value is 0.6076086956521739
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Generative AI for Leaders (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals of Technology Sales (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.34
+Job affinity: 39.130
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Maintain records of sales or other business transactions
+	 Generative AI for Leaders:
+		 Develop proposals for current or prospective customers
+	 Fundamentals of Technology Sales:
+		 Coordinate sales campaigns
+		 Demonstrate products to consumers
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Advise customers on the use of goods or services
+		 Answer customer questions about goods or services
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Explain technical product or service information to customers
+Skills for Job Sales Representatives
+Recommend goods or services to customers
+Answer customer questions about goods or services
+Negotiate prices or other sales terms
+Explain technical product or service information to customers
+Advise customers on the use of goods or services
+Estimate costs or terms of sales
+Distribute promotional literature or samples to customers
+Identify potential customers
+Prepare sales or other contracts
+Procure stocks of merchandise or supplies
+Contact current or potential customers to promote goods or services
+Demonstrate products to consumers
+Prepare financial documents, reports or budgets
+Maintain records of sales or other business transactions
+Monitor market conditions or trends
+Study product information to acquire professional knowledge
+Monitor inventories
+Prepare drawings or diagrams of goods or services
+Develop proposals for current or prospective customers
+Verify customer credit information
+Stock products or parts
+Set up merchandise displays
+Coordinate sales campaigns

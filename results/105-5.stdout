@@ -1,0 +1,37 @@
+Read instances: 0.73 s
+Generate matrices: 5.72 s
+The optimal value is 0.33499999999999996
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: SketchUp: how to start modelling simple 3D objects (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Engaging and Assessing Students with Plickers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.22
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 SketchUp: how to start modelling simple 3D objects:
+		 Construct distinctive physical objects for artistic, functional or commercial purposes
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Maintain records, documents or other files
+	 Engaging and Assessing Students with Plickers:
+		 Provide educational information to the public
+	 Lesson | Telephone Language:
+		 Confer with clients to determine needs
+Skills for Job Florists
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Select materials or props
+Maintain records, documents or other files
+Construct distinctive physical objects for artistic, functional or commercial purposes
+Confer with clients to determine needs
+Provide educational information to the public
+Maintain inventories of materials, equipment or products
+Arrange artwork, products or props
+Train others on work processes

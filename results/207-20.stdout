@@ -1,0 +1,44 @@
+Read instances: 0.87 s
+Generate matrices: 3.12 s
+The optimal value is 0.40099999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Meat We Eat (13.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.28
+Job affinity: 60.000
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Move equipment, supplies or food to required locations
+	 Stanford Introduction to Food and Health:
+		 Inspect food products
+		 Operate food processing equipment
+	 Infection Prevention in Nursing Homes:
+		 Clean food preparation areas, facilities or equipment
+	 The Meat We Eat:
+		 Comply with industry animal welfare requirements
+		 Cut meat products
+		 Ensure safe meat, dairy or produce storage
+		 Prepare meat products for sale or consumption
+		 Process animal carcasses
+Skills for Job Meat, Poultry and Seafood Process Workers
+Process animal carcasses
+Cut meat products
+Package meat, poultry or seafood
+Remove skin or other body parts from animals
+Prepare meat products for sale or consumption
+Ensure safe meat, dairy or produce storage
+Inspect food products
+Operate food processing equipment
+Dispose of rubbish or waste materials
+Sterilise cooking or processing equipment
+Clean food preparation areas, facilities or equipment
+Clean work areas
+Move equipment, supplies or food to required locations
+Comply with industry animal welfare requirements
+Weigh products or materials

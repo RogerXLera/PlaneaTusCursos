@@ -1,0 +1,35 @@
+Read instances: 0.69 s
+Generate matrices: 3.09 s
+The optimal value is 0.12875
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Sleep Deprivation: Habits, Solutions, and Strategi (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leading Change in Health Informatics (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: COVID-19 Training for Healthcare Workers (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Questions, Present Progressive and Future Tenses (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.27
+Job affinity: 87.500
+Skills per Unit
+	 Initial Activity:
+	 COVID-19 Training for Healthcare Workers:
+		 Administer therapy treatments to patients
+		 Assess physical conditions of patients to aid in diagnosis or treatment
+		 Confer with other professionals to plan patient care
+		 Develop patient therapy programs
+	 Leading Change in Health Informatics:
+		 Maintain medical records
+	 Sleep Deprivation: Habits, Solutions, and Strategies Teach-Out:
+		 Administer relaxation or remedial massage
+	 Questions, Present Progressive and Future Tenses:
+		 Interview patients to gather medical information
+Skills for Job Massage Therapists
+Administer therapy treatments to patients
+Administer relaxation or remedial massage
+Maintain medical records
+Interview patients to gather medical information
+Assess physical conditions of patients to aid in diagnosis or treatment
+Teach medical procedures or medical equipment use to patients
+Develop patient therapy programs
+Confer with other professionals to plan patient care

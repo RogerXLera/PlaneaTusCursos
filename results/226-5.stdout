@@ -1,0 +1,32 @@
+Read instances: 0.72 s
+Generate matrices: 2.82 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Landing.AI for Beginners: Build Data Visualization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Edit your photos for Social Media with Easil (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering bitumen for better roads and innovative  (7.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.06
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Landing.AI for Beginners: Build Data Visualization AI Models:
+		 Enter commands, instructions, or specifications into equipment
+	 Mastering bitumen for better roads and innovative applications:
+		 Evaluate quality of materials or products
+		 Lubricate production equipment
+	 Edit your photos for Social Media with Easil:
+		 Operate equipment to print images or bind printed images together
+Skills for Job Printing Assistants and Table Workers
+Operate equipment to print images or bind printed images together
+Mount materials or work pieces onto production equipment
+Enter commands, instructions, or specifications into equipment
+Evaluate quality of materials or products
+Lubricate production equipment
+Clean equipment or facilities
+Record operational or production data
+Maintain production or processing equipment
+Read work orders or other instructions to determine product specifications or materials requirements
+Notify others of equipment repair or maintenance needs

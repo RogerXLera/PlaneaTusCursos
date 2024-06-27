@@ -1,0 +1,27 @@
+Read instances: 0.72 s
+Generate matrices: 2.14 s
+The optimal value is 0.7725
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.02
+Job affinity: 22.222
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Azure IOT Hub:
+		 Operate industrial equipment
+	 Duet AI in Gmail:
+		 Confer with others to resolve production problems or equipment malfunctions
+Skills for Job Timber and Wood Process Workers
+Move timber or wood products and materials between work areas
+Operate industrial equipment
+Package materials or products
+Sort materials or products for processing, storing, shipping or grading
+Record operational or production data
+Clean work areas
+Notify others of equipment repair or maintenance needs
+Confer with others to resolve production problems or equipment malfunctions
+Clean production equipment

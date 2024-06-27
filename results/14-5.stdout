@@ -1,0 +1,75 @@
+Read instances: 0.77 s
+Generate matrices: 61.17 s
+The optimal value is 0.545
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Application of Data Analysis in Business with R Pr (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.91
+Job affinity: 45.455
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Develop safety standards, policies or procedures
+		 Hire staff
+		 Maintain staff records
+		 Recruit staff
+	 Building Production-Ready Apps with Large Language Models:
+		 Establish interpersonal business relationships to facilitate work activities
+	 Application of Data Analysis in Business with R Programming:
+		 Analyse data to inform operational decisions or activities
+		 Coordinate operational activities with external stakeholders
+	 Get Started with Microsoft Forms:
+		 Conduct opinion surveys or needs assessments
+		 Prepare forms or applications
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop educational goals, standards, policies or procedures
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+		 Promote goods, services, or programs
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Develop promotional materials
+Skills for Job School Principals
+Supervise employees
+Advise others on career or personal development
+Develop educational goals, standards, policies or procedures
+Direct facility maintenance or repair activities
+Evaluate program effectiveness
+Determine operational compliance with regulations or standards
+Teach in area of specialisation
+Manage outreach activities
+Serve on institutional or departmental committees
+Develop operating strategies, plans or procedures
+Advise others on business or operational matters
+Conduct employee training programs
+Prepare operational progress or status reports
+Maintain staff records
+Approve expenditures
+Prepare operational budgets
+Coordinate special events or programs
+Develop organisational policies or programs
+Establish interpersonal business relationships to facilitate work activities
+Analyse data to inform operational decisions or activities
+Evaluate student work
+Develop safety standards, policies or procedures
+Develop promotional materials
+Recommend organisational process or policy changes
+Prepare forms or applications
+Conduct opinion surveys or needs assessments
+Promote goods, services, or programs
+Prepare financial documents, reports or budgets
+Prepare proposals or grant applications to obtain project funding
+Hire staff
+Recruit staff
+Coordinate operational activities with external stakeholders
+Maintain knowledge of current developments in area of expertise

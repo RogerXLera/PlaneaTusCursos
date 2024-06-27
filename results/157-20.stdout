@@ -1,0 +1,60 @@
+Read instances: 0.69 s
+Generate matrices: 3.77 s
+The optimal value is 0.33499999999999996
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Check Point Jump Start: Cloud Security (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Graphic Design: Make Interior's Project Mood Board (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create User Directory and Files with Linux Command (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Monetary Policy in the Asia Pacific (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Sourcing Analytics (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Security Awareness Training (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.52
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Execute sales or other financial transactions
+	 Create your e-commerce store with Shopify:
+		 Collect deposits, payments or fees
+	 Graphic Design: Make Interior's Project Mood Boards in Gimp:
+		 Type documents
+	 Check Point Jump Start: Cloud Security:
+		 Monitor alarm systems
+	 Sourcing Analytics:
+		 Order materials, supplies, or equipment
+	 Security Awareness Training:
+		 Maintain security
+	 Create User Directory and Files with Linux Commands:
+		 File documents or records
+		 Operate communications equipment or systems
+	 Monetary Policy in the Asia Pacific:
+		 Prepare cash for deposit or disbursement
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+		 Maintain call records
+		 Proofread documents, records or other files to ensure accuracy
+Skills for Job Switchboard Operators
+Operate communications equipment or systems
+Answer telephones to direct calls or provide information
+Maintain call records
+Relay information between staff
+File documents or records
+Monitor alarm systems
+Prepare documentation for contracts, transactions or regulatory compliance
+Refer customers to appropriate staff
+Greet customers, patrons or visitors
+Sort mail
+Maintain security
+Type documents
+Proofread documents, records or other files to ensure accuracy
+Execute sales or other financial transactions
+Schedule appointments
+Collect deposits, payments or fees
+Prepare cash for deposit or disbursement
+Order materials, supplies, or equipment

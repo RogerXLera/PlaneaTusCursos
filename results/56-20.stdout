@@ -1,0 +1,60 @@
+Read instances: 0.72 s
+Generate matrices: 4.50 s
+The optimal value is 0.33499999999999996
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: TECH MeD: Transdisciplinary Education for Critical (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with ImageJ (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: HPV-Associated Oral and Throat Cancer: What You Ne (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Edit your photos for Social Media with Easil (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Kids with Cancer Still Need School: The Providers  (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Gender Foundations in Health Data: A Data for Heal (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: U.S. Health Law Fundamentals (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: A Public Health Approach to Hearing Loss and Aging (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.89
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Getting started with ImageJ:
+		 Operate diagnostic or therapeutic medical instruments or equipment
+	 Fundamentals for Implementing a Hypertension Program:
+		 Prescribe medications
+	 HPV-Associated Oral and Throat Cancer: What You Need to Know:
+		 Diagnose dental conditions
+		 Examine mouth, teeth, gums or related facial structures
+	 Gender Foundations in Health Data: A Data for Health Course:
+		 Direct health care delivery programs
+	 TECH MeD: Transdisciplinary Education for Critical Hacks of Medical Devices:
+		 Design medical devices or appliances
+		 Fabricate medical devices
+	 Kids with Cancer Still Need School: The Providers Role:
+		 Develop medical treatment plans
+	 U.S. Health Law Fundamentals:
+		 Design public or employee health programs
+		 Operate on patients
+	 A Public Health Approach to Hearing Loss and Aging:
+		 Prepare health care training materials
+	 Edit your photos for Social Media with Easil:
+		 Operate diagnostic imaging equipment
+Skills for Job Dental Practitioners
+Treat dental problems or diseases
+Operate diagnostic or therapeutic medical instruments or equipment
+Protect patients or staff members using safety equipment
+Administer anaesthetics or sedatives to control pain
+Develop medical treatment plans
+Analyse patient data to determine patient needs or treatment goals
+Supervise patient care staff
+Diagnose dental conditions
+Prescribe medications
+Operate diagnostic imaging equipment
+Examine mouth, teeth, gums or related facial structures
+Operate on patients
+Design public or employee health programs
+Direct health care delivery programs
+Prepare health care training materials
+Adjust prostheses or other assistive devices
+Design medical devices or appliances
+Fabricate medical devices

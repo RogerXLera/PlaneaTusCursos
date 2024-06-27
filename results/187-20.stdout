@@ -1,0 +1,35 @@
+Read instances: 0.74 s
+Generate matrices: 2.47 s
+The optimal value is 0.33499999999999996
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Microservices and Deployment by using ASP.NET (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mechanics of Materials IV: Deflections, Buckling,  (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering bitumen for better roads and innovative  (7.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+		 Operate vehicles or material-moving equipment
+	 Microservices and Deployment by using ASP.NET:
+		 Move and store materials, equipment or products
+		 Secure cargo
+	 Mastering bitumen for better roads and innovative applications:
+		 Operate packing or other material-processing equipment
+	 Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories:
+		 Calculate weight of loads
+Skills for Job Forklift Drivers
+Operate cranes, hoists or other moving or lifting equipment
+Operate vehicles or material-moving equipment
+Load shipments, belongings or materials
+Operate packing or other material-processing equipment
+Communicate with others to coordinate material handling or movement
+Move and store materials, equipment or products
+Position material handling equipment
+Secure cargo
+Calculate weight of loads

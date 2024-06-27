@@ -1,0 +1,29 @@
+Read instances: 0.74 s
+Generate matrices: 3.08 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Perform manual service or maintenance tasks
+	 Ferrous Technology I:
+		 Evaluate quality of materials or products
+	 Launch your first online meeting with ZOOM:
+		 Communicate with others to coordinate activities
+Skills for Job Shearers and Wool Classers
+Assess characteristics of wool, fleece, hair or hide
+Employ appropriate wool or fleece handling techniques
+Evaluate quality of materials or products
+Trim, shear or remove wool, fleece or hair from animals
+Operate farming or agricultural equipment
+Communicate with others to coordinate activities
+Clean equipment or facilities
+Perform manual service or maintenance tasks

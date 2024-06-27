@@ -1,0 +1,57 @@
+Read instances: 0.82 s
+Generate matrices: 16.90 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.34
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Communicate organisational information to customers or other stakeholders
+		 Develop procedures to evaluate organisational activities
+		 Model operational processes
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Recruit staff
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure materials, equipment or other resources
+	 Google Cloud VMware Engine:
+		 Prepare operational budgets for green energy or other green operations
+	 Get started with Upwork:
+		 Prepare forms or applications
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate organisational policies and procedures
+Skills for Job Construction Managers
+Manage construction activities
+Negotiate project specifications
+Supervise employees
+Determine operational compliance with regulations or standards
+Develop operating strategies, plans or procedures
+Procure materials, equipment or other resources
+Evaluate green operations or programs for compliance with standards or regulations
+Manage project risk
+Estimate labour requirements
+Direct facility maintenance or repair activities
+Implement organisational process or policy changes
+Communicate organisational information to customers or other stakeholders
+Communicate organisational policies and procedures
+Model operational processes
+Investigate industrial or transportation accidents
+Prepare financial documents, reports or budgets
+Develop procedures to evaluate organisational activities
+Develop environmental remediation or protection plans
+Train employees on environmental awareness, conservation or safety topics
+Prepare forms or applications
+Recruit staff
+Estimate green project costs
+Develop sustainable organisational policies or practices
+Prepare operational budgets for green energy or other green operations

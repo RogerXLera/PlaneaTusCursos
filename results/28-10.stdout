@@ -1,0 +1,43 @@
+Read instances: 0.67 s
+Generate matrices: 5.24 s
+The optimal value is 0.5
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Tesla Stock Price Prediction using Facebook Prophe (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Fiverr for Freelancers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Account Management & Sales Force Design (12.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.28
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Fiverr for Freelancers:
+		 Develop professional relationships or networks
+		 Maintain records of sales or other business transactions
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Account Management & Sales Force Design:
+		 Negotiate prices or other sales terms
+		 Sell goods or services
+	 Tesla Stock Price Prediction using Facebook Prophet:
+		 Analyse market conditions or trends
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor sales activities
+Skills for Job Financial Dealers
+Supervise sales or support staff
+Monitor sales activities
+Prepare sales or other contracts
+Review accuracy of sales or other transactions
+Analyse market conditions or trends
+Sell goods or services
+Negotiate prices or other sales terms
+Maintain records of sales or other business transactions
+Reconcile records of sales or other financial transactions
+Share sales-related or market information with colleagues
+Develop professional relationships or networks
+Prepare financial documents, reports or budgets
+Monitor market conditions or trends
+Identify investment opportunities or strategies

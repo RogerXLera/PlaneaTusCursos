@@ -1,0 +1,82 @@
+Read instances: 0.70 s
+Generate matrices: 9.67 s
+The optimal value is 0.485
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Building Classroom Community Using Flipgrid (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encouraging Student Growth with Teach Your Monster (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.33
+Job affinity: 51.515
+Skills per Unit
+	 Initial Activity:
+	 Building Classroom Community Using Flipgrid:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Encourage students
+		 Evaluate effectiveness of educational programs
+		 Modify teaching methods or materials to accommodate student needs
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Encourage students
+		 Order instructional or library materials or equipment
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Develop strategies or programs for students with accessibility needs
+		 Discuss student progress with parents or guardians
+		 Encourage students
+		 Select educational materials or equipment
+	 Encouraging Student Growth with Teach Your Monster to Read:
+		 Administer tests to assess educational needs or progress
+		 Assess educational needs of students
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Encourage students
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Evaluate performance of educational staff
+		 Plan educational activities
+		 Plan experiential learning activities
+Skills for Job Private Tutors and Teachers
+Monitor student performance
+Develop instructional objectives
+Plan educational activities
+Apply multiple teaching methods
+Enforce rules or policies governing student behaviour
+Assess educational needs of students
+Maintain student records
+Modify teaching methods or materials to accommodate student needs
+Teach life skills
+Encourage students
+Evaluate student work
+Develop strategies or programs for students with accessibility needs
+Set up classroom materials or equipment
+Evaluate effectiveness of educational programs
+Create technology-based learning materials
+Assign class work to students
+Teach others to use technology or equipment
+Plan experiential learning activities
+Schedule instructional activities
+Document lesson plans
+Discuss student progress with parents or guardians
+Prepare tests
+Administer tests to assess educational needs or progress
+Collaborate with other teaching professionals to develop educational programs
+Evaluate performance of educational staff
+Discuss problems or issues with supervisors
+Promote educational institutions or programs
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Select educational materials or equipment
+Write articles, books or other materials
+Serve on institutional or departmental committees
+Attend training sessions or events to develop or maintain professional knowledge

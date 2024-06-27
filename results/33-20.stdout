@@ -1,0 +1,79 @@
+Read instances: 0.77 s
+Generate matrices: 43.57 s
+The optimal value is 0.1464285714285714
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Monetary Policy in the Asia Pacific (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: JavaScript Interview Challenges (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to make invitations using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Brand Management: Strategies for a Strong Brand (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: How to design Facebook and IG stories using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Technology-Assisted Decision-Makin (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Copywriting with ChatGPT: Produce Compelling Copy  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 2.82
+Job affinity: 85.714
+Skills per Unit
+	 Initial Activity:
+	 Challenges of Agribusiness Management:
+		 Negotiate contracts for transportation, distribution or logistics services
+	 Success with Integrity: Business Ethics Foundation:
+		 Advise others on business or operational matters
+		 Develop sustainable organisational policies or practices
+	 Brand Management: Strategies for a Strong Brand:
+		 Analyse market research data
+		 Develop marketing plans or strategies
+		 Develop marketing plans or strategies for environmental initiatives
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 How to design Facebook and IG stories using Canva:
+		 Deliver, publish, broadcast or distribute final audio or visual media product
+		 Design websites or applications
+		 Develop marketing plans or strategies
+		 Develop social media materials
+	 JavaScript Interview Challenges:
+		 Compile operational data
+		 Design websites or applications
+	 How to make invitations using Canva:
+		 Coordinate special events or programs
+	 Introduction to Technology-Assisted Decision-Making:
+		 Analyse data to inform operational decisions or activities
+		 Estimate cost or material requirements
+	 Copywriting with ChatGPT: Produce Compelling Copy That Sells:
+		 Develop marketing plans or strategies
+		 Direct sales, marketing or customer service activities
+	 Get Started with Microsoft Forms:
+		 Conduct opinion surveys or needs assessments
+		 Design websites or applications
+	 Monetary Policy in the Asia Pacific:
+		 Determine pricing or monetary policies
+	 Enhancing Communication with Remind:
+		 Confer with peers to accomplish work
+Skills for Job Advertising and Marketing Professionals
+Develop marketing plans or strategies
+Confer with peers to accomplish work
+Direct sales, marketing or customer service activities
+Supervise employees
+Evaluate program effectiveness
+Compile operational data
+Determine pricing or monetary policies
+Analyse market research data
+Deliver, publish, broadcast or distribute final audio or visual media product
+Analyse data to inform operational decisions or activities
+Estimate cost or material requirements
+Advise others on business or operational matters
+Develop social media materials
+Monitor external affairs or events affecting business operations
+Develop marketing plans or strategies for environmental initiatives
+Conduct opinion surveys or needs assessments
+Coordinate special events or programs
+Design websites or applications
+Negotiate contracts for transportation, distribution or logistics services
+Develop sustainable organisational policies or practices
+Recommend organisational process or policy changes

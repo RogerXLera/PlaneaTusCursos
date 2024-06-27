@@ -1,0 +1,51 @@
+Read instances: 0.70 s
+Generate matrices: 12.83 s
+The optimal value is 0.5495
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Stock Valuation with Comparable Companies Analysis (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS CodePipeline Beginner's Guide (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.37
+Job affinity: 45.000
+Skills per Unit
+	 Initial Activity:
+	 Stock Valuation with Comparable Companies Analysis:
+		 Analyse financial information
+		 Calculate financial data
+		 Prepare research or technical reports
+	 Create Employee Management System with When I Work:
+		 Administer staff recruitment or hiring activities
+		 Prepare staff schedules
+	 Building a Generative AI-Ready Organization:
+		 Develop organisational policies or programs
+	 AWS CodePipeline Beginner's Guide:
+		 Compile data or documentation
+		 Coordinate operational activities
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+Skills for Job Office Managers
+Supervise clerical or administrative staff
+Train staff
+Prepare staff schedules
+Develop organisational policies or programs
+Coordinate operational activities
+Explain regulations, policies or procedures
+Calculate financial data
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Examine documents to verify adherence to requirements
+Respond to customer problems or complaints
+Monitor inventories
+Maintain inventory records
+Record staff information
+Provide information to co-workers
+Compile data or documentation
+Prepare research or technical reports
+Analyse financial information
+Report maintenance or equipment problems to appropriate personnel
+Maintain current knowledge related to work activities
+Administer staff recruitment or hiring activities

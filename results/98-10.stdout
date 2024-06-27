@@ -1,0 +1,79 @@
+Read instances: 0.71 s
+Generate matrices: 6.87 s
+The optimal value is 0.6164705882352941
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Full Stack Twitter clone with Next.js (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Aruba Mobility Basics (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Landing.AI for Beginners: Build Data Visualization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Large Language Models (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.53
+Job affinity: 38.235
+Skills per Unit
+	 Initial Activity:
+	 Getting started with Microsoft Office 365:
+		 Document operational activities
+	 Build a Full Stack Twitter clone with Next.js:
+		 Assemble electrical components, subsystems or systems
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Test communications equipment to ensure proper functioning
+		 Test electrical circuits or components for proper functioning
+	 Landing.AI for Beginners: Build Data Visualization AI Models:
+		 Analyse test or performance data to assess equipment operation
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Enter codes or other information into computers
+	 Introduction to Large Language Models:
+		 Adjust equipment for optimal performance
+	 Linux on LinuxONE:
+		 Install programs onto computer or computer-controlled equipment
+	 Attention Mechanism:
+		 Interpret blueprints, specifications or diagrams
+	 Aruba Mobility Basics:
+		 Configure computer networks
+		 Inspect telecommunications equipment to identify problems
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Confer with co-workers to resolve equipment problems
+		 Install audio or communications equipment
+Skills for Job Telecommunications Trades Workers
+Install audio or communications equipment
+Lay cables to connect equipment
+Confer with co-workers to resolve equipment problems
+Test communications equipment to ensure proper functioning
+Drive vehicles to, or at, work sites
+Measure equipment outputs
+Explain use of goods or services
+Run wiring to connect equipment
+Use equipment to climb structures
+Test electrical circuits or components for proper functioning
+Clean work areas
+Inspect telecommunications equipment to identify problems
+Repair electronic equipment
+Connect electrical components or equipment
+Install insulation in equipment or structures
+Install electrical components, equipment or systems
+Rewire electrical or electronic systems
+Determine types of equipment, tools, or materials needed for jobs
+Analyse test or performance data to assess equipment operation
+Configure computer networks
+Clean or repair equipment, parts or tools
+Adjust equipment for optimal performance
+Assemble electrical components, subsystems or systems
+Document operational activities
+Install programs onto computer or computer-controlled equipment
+Repair electrical components
+Maintain work equipment or machinery
+Read technical information needed to perform maintenance or repairs
+Troubleshoot equipment or systems operation problems
+Interpret blueprints, specifications or diagrams
+Enter codes or other information into computers
+Dig holes or trenches
+Advise others on issues related to repairs, installation or equipment design
+Lubricate equipment to allow proper functioning

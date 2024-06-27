@@ -1,0 +1,73 @@
+Read instances: 0.69 s
+Generate matrices: 87.91 s
+The optimal value is 0.3716666666666667
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Tesla Stock Price Prediction using Facebook Prophe (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Security and Privacy for Big Data - Part 1 (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Clean and analyze social media usage data with Pyt (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.30
+Job affinity: 62.963
+Skills per Unit
+	 Initial Activity:
+	 How to create a Jira SCRUM project:
+		 Develop detailed project plans
+		 Develop operating strategies, plans or procedures
+		 Identify information technology project resource requirements
+		 Manage information technology projects or system activities
+	 Tesla Stock Price Prediction using Facebook Prophet:
+		 Analyse business or financial data
+		 Develop data analysis or data management procedures
+		 Prepare analytical reports
+	 Clean and analyze social media usage data with Python:
+		 Analyse data to determine project feasibility
+		 Analyse data to identify trends or relationships among variables
+		 Analyse data to inform operational decisions or activities
+		 Maintain data in information systems or databases
+	 Planning a Generative AI Project:
+		 Analyse data to determine project feasibility
+		 Analyse project data to determine specifications or requirements
+	 Security and Privacy for Big Data - Part 1:
+		 Analyse security of systems, network or data
+		 Develop data analysis or data management procedures
+		 Implement security measures for computer or information systems
+	 Linux on LinuxONE:
+		 Develop guidelines for system implementation
+		 Implement security measures for computer or information systems
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Communicate organisational policies and procedures
+		 Develop information communication procedures
+Skills for Job ICT Managers
+Manage information technology projects or system activities
+Develop detailed project plans
+Provide leadership to align operational activities with the organisation’s vision and goals
+Collaborate with others to resolve information technology issues
+Communicate organisational policies and procedures
+Supervise information technology staff
+Assign duties or work schedules to employees
+Coordinate project activities with other staff or departments
+Develop operating strategies, plans or procedures
+Implement security measures for computer or information systems
+Develop information communication procedures
+Train others on work processes
+Analyse project data to determine specifications or requirements
+Coordinate resource procurement activities
+Analyse data to determine project feasibility
+Analyse data to inform operational decisions or activities
+Identify information technology project resource requirements
+Participate in staffing decisions
+Analyse security of systems, network or data
+Maintain data in information systems or databases
+Analyse data to identify trends or relationships among variables
+Prepare analytical reports
+Analyse business or financial data
+Collect data about customer needs
+Develop data analysis or data management procedures
+Manage budgets for appropriate resource allocation
+Develop guidelines for system implementation

@@ -1,0 +1,59 @@
+Read instances: 0.71 s
+Generate matrices: 4.83 s
+The optimal value is 0.4218421052631579
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Sourcing Analytics (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.26
+Job affinity: 57.895
+Skills per Unit
+	 Initial Activity:
+	 Sourcing Analytics:
+		 Analyse operational or research data
+		 Order materials, supplies, or equipment
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Introduction to Generative AI Studio - Français:
+		 Operate computers or computerised equipment
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 File documents or records
+	 Getting Started with Microsoft OneDrive:
+		 File documents or records
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Distribute incoming mail
+		 Prepare business correspondence
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+		 Proofread documents, records or other files to ensure accuracy
+	 Lesson | Organize Your Pitch:
+		 Send information, materials or documentation
+Skills for Job Information Officers
+Schedule appointments
+Greet customers, patrons or visitors
+Send information, materials or documentation
+Collect deposits, payments or fees
+File documents or records
+Analyse operational or research data
+Record staff information
+Answer telephones to direct calls or provide information
+Discuss goods or services information with customers or patrons
+Respond to customer problems or complaints
+Calculate costs of goods or services
+Prepare business correspondence
+Provide notifications to customers or patrons
+Schedule operational activities
+Operate computers or computerised equipment
+Proofread documents, records or other files to ensure accuracy
+Distribute incoming mail
+Sort mail
+Order materials, supplies, or equipment

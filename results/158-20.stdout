@@ -1,0 +1,39 @@
+Read instances: 0.72 s
+Generate matrices: 2.53 s
+The optimal value is 0.5825
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Sourcing Analytics (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: Containerization (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your own Sudoku Solver using AI and Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Bookkeeping Basics (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 41.667
+Skills per Unit
+	 Initial Activity:
+	 Bookkeeping Basics:
+		 Prepare documentation for contracts, transactions or regulatory compliance
+	 Create your own Sudoku Solver using AI and Python:
+		 Analyse shipping information to make routing decisions
+	 AWS: Containerization:
+		 Coordinate shipping activities with external parties
+	 Sourcing Analytics:
+		 Order materials, supplies, or equipment
+	 Attention Mechanism:
+		 Collate or assemble product orders
+Skills for Job Transport and Despatch Clerks
+Inspect shipments to ensure correct order fulfilment
+Analyse shipping information to make routing decisions
+Record shipping information
+Package objects for shipping
+Prepare documentation for contracts, transactions or regulatory compliance
+Deliver items
+Respond to customer problems or complaints
+Collate or assemble product orders
+Calculate shipping costs
+Coordinate shipping activities with external parties
+Store items
+Order materials, supplies, or equipment

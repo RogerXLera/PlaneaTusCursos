@@ -1,0 +1,33 @@
+Read instances: 0.73 s
+Generate matrices: 2.13 s
+The optimal value is 0.7475
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Trademark Law (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Simulation Analysis for Mechanical Engineers with  (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Additive Manufacturing (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 25.000
+Skills per Unit
+	 Initial Activity:
+	 Additive Manufacturing:
+		 Cut industrial materials in preparation for fabrication or processing
+	 Simulation Analysis for Mechanical Engineers with Autodesk Fusion 360:
+		 Adjust temperature controls of ovens or other heating equipment
+	 Trademark Law:
+		 Mark products, work pieces or equipment with identifying information
+Skills for Job Paper and Wood Processing Machine Operators
+Load materials into production equipment
+Watch equipment in operation to detect malfunctions
+Mount attachments or tools onto production equipment
+Mark products, work pieces or equipment with identifying information
+Set equipment guides, stops, spacers or other fixtures
+Cut industrial materials in preparation for fabrication or processing
+Adjust temperature controls of ovens or other heating equipment
+Feed materials or products into or through equipment
+Disassemble equipment for maintenance or repair
+Stack finished items for further processing or shipment
+Remove products or work pieces from production equipment
+Set equipment controls to meet cutting specifications

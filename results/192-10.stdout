@@ -1,0 +1,65 @@
+Read instances: 0.74 s
+Generate matrices: 3.40 s
+The optimal value is 0.7911764705882353
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your first custom VPC and its components in (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Making the Case for Robotic Process Automation (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Aurora Service Introduction (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.20
+Job affinity: 20.588
+Skills per Unit
+	 Initial Activity:
+	 Making the Case for Robotic Process Automation:
+		 Follow safety procedures for vehicle operation
+	 Create your first custom VPC and its components in AWS:
+		 Adjust routes or speeds as necessary
+	 Amazon Aurora Service Introduction:
+		 Monitor cargo area conditions
+	 Introduction to Generative AI Studio - Français:
+		 Operate communications equipment or systems
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Drive trucks or truck-mounted equipment
+		 Operate vehicles or material-moving equipment
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Inspect motor vehicles
+Skills for Job Truck Drivers
+Drive trucks or truck-mounted equipment
+Operate vehicles or material-moving equipment
+Transport goods, materials or liquids
+Review work orders or schedules to determine operations or procedures
+Secure cargo
+Manoeuvre vehicles into position for loading and unloading
+Inspect cargo to ensure it is properly loaded or secured
+Record details of deliveries or shipments
+Follow safety procedures for loading and unloading vehicles
+Record operational details of travel
+Inspect motor vehicles
+Follow safety procedures for vehicle operation
+Communicate with others to coordinate vehicle movement
+Load shipments, belongings or materials
+Maintain vehicles in good working condition
+Read maps to determine routes
+Direct material handling or moving activities
+Adjust routes or speeds as necessary
+Notify others of emergencies, problems or hazards
+Report vehicle or equipment malfunctions
+Monitor cargo area conditions
+Operate communications equipment or systems
+Review documents or materials for compliance with policies or regulations
+Collect fares or payment from customers
+Inspect cargo areas for cleanliness or condition
+Procure supplies or equipment
+Remove debris or damaged materials
+Connect cables or electrical lines
+Record operational or production data
+Record service or repair activities
+Verify information or specifications
+Choose optimal transportation routes or speeds
+Package materials or products
+Install parts, assemblies or attachments in transportation or material-handling equipment

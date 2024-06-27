@@ -1,0 +1,46 @@
+Read instances: 0.73 s
+Generate matrices: 13.25 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Developing AI Policy (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.62
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Generative AI Studio:
+		 Evaluate capabilities or training needs
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain supply or equipment inventories
+	 Developing AI Policy:
+		 Enforce rules or regulations
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Maintain client information or service records
+	 Attention Mechanism:
+		 Promote goods, services, or programs
+	 Lesson | Organize Your Pitch:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Fitness Instructors
+Teach exercise or fitness techniques
+Develop educational or training programs
+Evaluate capabilities or training needs
+Demonstrate activity techniques or equipment use
+Organise recreational activities or events
+Teach health or hygiene practices
+Perform basic equipment maintenance
+Enforce rules or regulations
+Explain regulations, policies or procedures
+Distribute resources to patrons or employees
+Maintain supply or equipment inventories
+Administer first aid
+Provide cosmetic advice for clients
+Maintain client information or service records
+Promote goods, services, or programs
+Sell goods or services

@@ -1,0 +1,53 @@
+Read instances: 0.74 s
+Generate matrices: 6.35 s
+The optimal value is 0.5449999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building and analyzing linear regression model in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.12
+Job affinity: 45.455
+Skills per Unit
+	 Initial Activity:
+	 Building and analyzing linear regression model in R:
+		 Analyse test results to inform diagnosis or treatment
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Inform medical professionals regarding patient conditions and care
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Explain medical procedures or test results to patients or family members
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Care for women during pregnancy and childbirth
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+		 Develop medical treatment plans
+		 Explain medical procedures or test results to patients or family members
+Skills for Job Midwives
+Record patient medical histories
+Care for women during pregnancy and childbirth
+Provide health and wellness advice to patients, program participants or caregivers
+Examine patients to assess general physical condition
+Explain medical procedures or test results to patients or family members
+Develop medical treatment plans
+Prescribe medications
+Administer health care or medical treatments
+Inform medical professionals regarding patient conditions and care
+Prepare reports summarising patient diagnostic or care activities
+Measure the physical or physiological attributes of patients
+Analyse test results to inform diagnosis or treatment
+Order medical diagnostic or clinical tests
+Test patient nervous system functioning
+Maintain medical or professional knowledge
+Treat medical emergencies
+Collaborate with health care professionals to plan or provide treatment
+Refer patients to other health care practitioners or health resources
+Conduct research to increase knowledge about medical issues
+Establish nursing policies or standards
+Train medical providers
+Conduct health or safety training programs

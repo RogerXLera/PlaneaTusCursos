@@ -1,0 +1,46 @@
+Read instances: 0.75 s
+Generate matrices: 18.45 s
+The optimal value is 0.185
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Understanding China, 1700-2000: A Data Analytic Ap (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Breast Cancer Prediction Using Machine Learning (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Big data and Language 1 (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.99
+Job affinity: 81.818
+Skills per Unit
+	 Initial Activity:
+	 Hiring and Onboarding Employees with ClickUp:
+		 Administer staff recruitment or hiring activities
+	 Breast Cancer Prediction Using Machine Learning:
+		 Inform individuals or organisations of status or findings
+	 Building a Generative AI-Ready Organization:
+		 Advise others on legal or regulatory compliance matters
+		 Apply and maintain information security controls as required by policies or risk assessments
+	 Understanding China, 1700-2000: A Data Analytic Approach, Part 1:
+		 Analyse data to identify trends or relationships among variables
+		 Examine financial records
+	 Get started with Upwork:
+		 Collect payments for goods or services
+	 Lesson | Get Ready for the Interview:
+		 Conduct eligibility or selection interviews
+	 Big data and Language 1:
+		 Prepare research reports
+Skills for Job Inspectors and Regulatory Officers
+Administer staff recruitment or hiring activities
+Review license or permit applications
+Inform individuals or organisations of status or findings
+Advise others on legal or regulatory compliance matters
+Prepare research reports
+Collect payments for goods or services
+Conduct eligibility or selection interviews
+Examine financial records
+Analyse data to identify trends or relationships among variables
+Communicate with government agencies
+Apply and maintain information security controls as required by policies or risk assessments

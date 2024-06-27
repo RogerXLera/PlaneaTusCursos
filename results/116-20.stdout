@@ -1,0 +1,73 @@
+Read instances: 0.72 s
+Generate matrices: 3.09 s
+The optimal value is 0.6838571428571428
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Thermodynamics: Transferring Energ (15.0) 	 Start Period: 1 	 End Period: 1
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: HTML and CSS: Building a Single-Page Website (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: How to create Social Media graphics in Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a free website with WordPress (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Additive Manufacturing (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Using Video in Social Media Posts with Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.41
+Job affinity: 31.429
+Skills per Unit
+	 Initial Activity:
+	 Additive Manufacturing:
+		 Build production moulds
+		 Cut industrial materials in preparation for fabrication or processing
+		 Estimate costs of goods, services or materials
+	 Using Video in Social Media Posts with Canva:
+		 Design jewellery or decorative objects
+	 HTML and CSS: Building a Single-Page Website:
+		 Apply protective or decorative finishes
+	 How to create Social Media graphics in Canva:
+		 Design jewellery or decorative objects
+	 Build a free website with WordPress:
+		 Engrave or etch designs, text or other markings onto materials, work pieces or products
+	 Introduction to Thermodynamics: Transferring Energy from Here to There:
+		 Examine physical characteristics of gemstones or precious metals
+		 Measure ingredients or substances to be used
+	 Ferrous Technology I:
+		 Evaluate quality of materials or products
+		 Heat material or work pieces to prepare for or complete production
+		 Operate metal forming equipment
+Skills for Job Jewellers
+Design jewellery or decorative objects
+Polish materials, work pieces or finished products
+Align parts or work pieces for assembly
+Smooth metal surfaces or edges
+Repair precision devices or work pieces
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Estimate costs of goods, services or materials
+Solder parts or work pieces
+Remove work pieces from moulds
+Clean work pieces or finished products
+Assemble metal parts or products
+Operate metal forming equipment
+Build production moulds
+Shape metal work pieces with hammers or other small hand tools
+Draw guide lines or markings on materials or work pieces using patterns or other references
+Examine physical characteristics of gemstones or precious metals
+Record operational or production data
+Drill holes in parts, equipment or materials
+Apply protective or decorative finishes
+Cut industrial materials in preparation for fabrication or processing
+Melt metal, plastic or other materials to prepare for production
+Engrave or etch designs, text or other markings onto materials, work pieces or products
+Place materials into or onto moulds
+Select production input materials
+Order materials, supplies, or equipment
+Heat material or work pieces to prepare for or complete production
+Evaluate quality of materials or products
+Adjust position of moulds during processing
+Assemble machine tools, parts or fixtures
+Repair production equipment or tools
+Mount materials or work pieces onto production equipment
+Measure ingredients or substances to be used
+Mix ingredients to create specific finishes
+Confer with customers or designers to determine order specifications
+Shape, mould or cast clay

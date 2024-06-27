@@ -1,0 +1,42 @@
+Read instances: 0.94 s
+Generate matrices: 3.44 s
+The optimal value is 0.4619230769230769
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Electric Power Systems (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 2
+Activity: Improving Deep Neural Networks: Hyperparameter Tun (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.26
+Job affinity: 53.846
+Skills per Unit
+	 Initial Activity:
+	 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization:
+		 Adjust equipment for optimal performance
+		 Calibrate equipment
+	 Attention Mechanism:
+		 Interpret blueprints, specifications or diagrams
+	 Electric Power Systems:
+		 Maintain work equipment or machinery
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Precision Metal Trades Workers
+Adjust equipment for optimal performance
+Fabricate parts or components
+Replace worn, damaged or defective mechanical parts
+Maintain work equipment or machinery
+Estimate costs for labour or materials
+Disassemble equipment for maintenance or repair
+Lubricate equipment to allow proper functioning
+Repair worn, damaged, or defective mechanical parts
+Clean or repair equipment, parts or tools
+Inspect mechanical equipment to locate damage, defects or wear
+Calibrate equipment
+Measure distances or dimensions
+Interpret blueprints, specifications or diagrams

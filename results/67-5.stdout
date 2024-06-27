@@ -1,0 +1,65 @@
+Read instances: 0.72 s
+Generate matrices: 19.85 s
+The optimal value is 0.5183333333333333
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.37
+Job affinity: 48.148
+Skills per Unit
+	 Initial Activity:
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop organisational policies or programs
+		 Implement organisational process or policy changes
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Evaluate employee performance
+		 Hire staff
+		 Recruit staff
+	 Introduction to Responsible AI:
+		 Advise others on legal or regulatory compliance matters
+		 Analyse risks to minimise losses or damages
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor facilities or operational systems
+		 Monitor resources
+	 Assimilating into Your New Job:
+		 Conduct employee training programs
+		 Develop organisational goals or objectives
+		 Hire staff
+Skills for Job Nurse Managers
+Prepare staff schedules or work assignments
+Evaluate employee performance
+Supervise employees
+Maintain operational records
+Maintain data in information systems or databases
+Implement organisational process or policy changes
+Monitor resources
+Monitor performance of organisational members or partners
+Manage operations, research or logistics projects
+Coordinate operational activities with external stakeholders
+Conduct employee training programs
+Liaise between departments or other groups to improve function or communication
+Manage human resources activities
+Maintain knowledge of current developments in area of expertise
+Prepare operational progress or status reports
+Develop procedures to evaluate organisational activities
+Develop organisational goals or objectives
+Inspect condition, or functioning, of facilities or equipment
+Advise others on legal or regulatory compliance matters
+Monitor facilities or operational systems
+Analyse risks to minimise losses or damages
+Prepare operational budgets
+Direct financial operations
+Develop operating strategies, plans or procedures
+Develop organisational policies or programs
+Hire staff
+Recruit staff

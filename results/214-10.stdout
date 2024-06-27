@@ -1,0 +1,46 @@
+Read instances: 0.70 s
+Generate matrices: 2.61 s
+The optimal value is 0.6302631578947367
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: EDIVET: Do you have what it takes to be a veterina (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 36.842
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 EDIVET: Do you have what it takes to be a veterinarian?:
+		 Care for animals
+		 Comply with industry animal welfare requirements
+		 Examine animals to detect illness, injury or other problems
+		 Perform animal breeding procedures
+	 Infection Prevention in Nursing Homes:
+		 Clean equipment or facilities
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Maintain forestry, hunting or agricultural equipment
+Skills for Job Livestock Farm Workers
+Care for animals
+Operate farming or agricultural equipment
+Maintain operational records
+Examine animals to detect illness, injury or other problems
+Perform animal breeding procedures
+Maintain forestry, hunting or agricultural equipment
+Transport animals, crops, or equipment
+Safely load and unload animals for transport
+Prepare materials or solutions for animal or plant use
+Assess characteristics of wool, fleece, hair or hide
+Clean equipment or facilities
+Mark agricultural or forestry products for identification
+Grade or classify agricultural produce
+Comply with industry animal welfare requirements
+Employ appropriate wool or fleece handling techniques
+Maintain inventories of materials, equipment or products
+Treat animal injuries or illnesses
+Package agricultural products for shipment or further processing
+Remove skin or other body parts from animals

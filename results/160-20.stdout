@@ -1,0 +1,62 @@
+Read instances: 0.71 s
+Generate matrices: 4.44 s
+The optimal value is 0.37625
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Privacy & Standardisation Capstone (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Qualitative Data Collection Methods (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build your first Search Engine using AWS Kendra (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS S3 Basics (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.77
+Job affinity: 62.500
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Create Employee Management System with When I Work:
+		 Prepare staff schedules
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Build your first Search Engine using AWS Kendra:
+		 Search files, databases or reference materials to obtain information
+	 Qualitative Data Collection Methods:
+		 Interview employees, customers or others to collect information
+		 Record information from meetings or other formal proceedings
+	 AWS S3 Basics:
+		 Maintain security
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect deposits, payments or fees
+	 Privacy & Standardisation Capstone:
+		 Prepare legal documents
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Lesson | Telephone Language:
+		 Answer telephones to direct calls or provide information
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+Skills for Job Court and Legal Clerks
+Explain regulations, policies or procedures
+Prepare legal documents
+Record information about legal matters
+Record information from meetings or other formal proceedings
+Examine documents to verify adherence to requirements
+Collect deposits, payments or fees
+Answer telephones to direct calls or provide information
+Maintain office equipment in proper operating condition
+Supervise clerical or administrative staff
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Maintain security
+Interview employees, customers or others to collect information
+Search files, databases or reference materials to obtain information
+Attach identification information to products, items or containers
+Stock supplies, merchandise, food or drink
+Prepare staff schedules

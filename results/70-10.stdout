@@ -1,0 +1,69 @@
+Read instances: 0.71 s
+Generate matrices: 34.20 s
+The optimal value is 0.10400000000000001
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Figma (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Business Implications of AI: Full course (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: Processing Data with Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.29
+Job affinity: 90.000
+Skills per Unit
+	 Initial Activity:
+	 Business Implications of AI: Full course:
+		 Coordinate project activities with other staff or departments
+		 Manage information technology projects or system activities
+	 Getting Started with Microsoft Word:
+		 Collaborate with others to resolve information technology issues
+		 Document design or development procedures
+	 Get Started with Figma:
+		 Collaborate with others to determine design specifications or details
+		 Develop software applications
+	 Processing Data with Python:
+		 Prepare analytical reports
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Develop software applications
+		 Develop testing routines or procedures
+		 Resolve computer software problems
+		 Test computer system operations to ensure proper functioning
+	 Linux on LinuxONE:
+		 Implement security measures for computer or information systems
+		 Install computer software
+		 Monitor computer system performance to ensure proper operation
+	 Getting Started with Ubuntu Linux:
+		 Evaluate utility of software or hardware technologies
+		 Implement security measures for computer or information systems
+		 Install computer software
+		 Provide recommendations to others about computer hardware or software
+		 Recommend changes to improve computer or information systems
+	 Google Cloud VMware Engine:
+		 Analyse security of systems, network or data
+		 Identify information technology project resource requirements
+Skills for Job Software and Applications Programmers
+Develop software applications
+Develop testing routines or procedures
+Monitor computer system performance to ensure proper operation
+Test computer system operations to ensure proper functioning
+Implement security measures for computer or information systems
+Troubleshoot issues with computer applications or systems
+Analyse security of systems, network or data
+Prepare analytical reports
+Collaborate with others to determine design specifications or details
+Write computer programming code
+Evaluate utility of software or hardware technologies
+Collaborate with others to resolve information technology issues
+Coordinate project activities with other staff or departments
+Resolve computer software problems
+Manage information technology projects or system activities
+Document design or development procedures
+Recommend changes to improve computer or information systems
+Provide recommendations to others about computer hardware or software
+Identify information technology project resource requirements
+Install computer software

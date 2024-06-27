@@ -1,0 +1,34 @@
+Read instances: 0.72 s
+Generate matrices: 3.08 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploy Machine Learning Model into AWS Cloud Serve (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Deploy Machine Learning Model into AWS Cloud Servers:
+		 Develop plans for programs or services
+	 Getting Started with Microsoft OneDrive:
+		 Collaborate with other professionals to assess client needs or plan treatments
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Advise others on social or educational issues
+	 Lesson | Get Ready for the Interview:
+		 Interview clients to gather information about their backgrounds, needs or progress
+Skills for Job Welfare Support Workers
+Help clients get needed services or resources
+Refer clients to community or social service programs
+Advise others on social or educational issues
+Interview clients to gather information about their backgrounds, needs or progress
+Collaborate with other professionals to assess client needs or plan treatments
+Maintain client records
+Monitor health or behaviour of people
+Counsel clients or patients regarding personal issues
+Collect information about clients
+Develop plans for programs or services

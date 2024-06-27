@@ -1,0 +1,46 @@
+Read instances: 0.74 s
+Generate matrices: 3.64 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: AWS: Data Protection and Security Governance (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Scrum Master Certification: Scrum Methodologies (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Antibiotic Stewardship (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.38
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Scrum Master Certification: Scrum Methodologies:
+		 Review work orders or schedules to determine operations or procedures
+	 AWS: Data Protection and Security Governance:
+		 Notify others of equipment repair or maintenance needs
+	 Antibiotic Stewardship:
+		 Clean equipment or facilities
+	 Mastering Digital Twins:
+		 Maintain equipment or systems to ensure proper functioning
+		 Monitor equipment operation to ensure proper functioning
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Operate vehicles or material-moving equipment
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Direct vehicle traffic
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+Skills for Job Other Mobile Plant Operators
+Review work orders or schedules to determine operations or procedures
+Maintain equipment or systems to ensure proper functioning
+Monitor equipment operation to ensure proper functioning
+Drive mobile plants on roads or work sites
+Install equipment attachments or components
+Operate vehicles or material-moving equipment
+Clean equipment or facilities
+Direct vehicle traffic
+Record operational or production data
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Monitor work areas or procedures to ensure compliance with safety procedures
+Notify others of equipment repair or maintenance needs

@@ -1,0 +1,78 @@
+Read instances: 0.69 s
+Generate matrices: 19.51 s
+The optimal value is 0.4083333333333334
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Resources Analytics (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create an online presence with a free website from (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.66
+Job affinity: 59.259
+Skills per Unit
+	 Initial Activity:
+	 Create an online presence with a free website from WordPress:
+		 Provide basic information to guests, visitors, or clients
+	 Human Resources Analytics:
+		 Analyse data to inform operational decisions or activities
+		 Evaluate employee performance
+		 Manage human resources activities
+		 Monitor organisational procedures to ensure proper functioning
+	 Getting Started with Microsoft Word:
+		 Maintain regulatory or compliance documentation
+	 Create Employee Management System with When I Work:
+		 Determine resource needs
+		 Evaluate employee performance
+		 Recruit staff
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Perform manual service or maintenance tasks
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Manage guest services
+		 Procure materials, equipment or other resources
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop organisational policies or programs
+	 Introduction to Responsible AI:
+		 Monitor activities of individuals to ensure safety or compliance with rules
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+		 Manage organisational or project budgets
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Determine resource needs
+		 Direct facility maintenance or repair activities
+		 Manage guest services
+Skills for Job Cafe and Restaurant Managers
+Provide basic information to guests, visitors, or clients
+Manage guest services
+Monitor organisational procedures to ensure proper functioning
+Perform manual service or maintenance tasks
+Monitor activities of individuals to ensure safety or compliance with rules
+Evaluate quality of materials or products
+Develop organisational policies or programs
+Maintain operational records
+Collect payments for goods or services
+Analyse data to inform operational decisions or activities
+Maintain regulatory or compliance documentation
+Monitor organisational compliance with regulations
+Resolve customer complaints or problems
+Manage organisational or project budgets
+Prepare staff schedules or work assignments
+Direct facility maintenance or repair activities
+Manage inventories of products or organisational resources
+Estimate cost or material requirements
+Procure materials, equipment or other resources
+Schedule product or material transportation
+Recommend organisational process or policy changes
+Determine resource needs
+Recruit staff
+Schedule activities or facility use
+Negotiate sales or lease agreements for goods or services
+Evaluate employee performance
+Manage human resources activities

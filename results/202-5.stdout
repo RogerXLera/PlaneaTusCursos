@@ -1,0 +1,36 @@
+Read instances: 0.70 s
+Generate matrices: 2.69 s
+The optimal value is 0.7944999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Networking (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Azure: Create a Virtual Machine and Deploy a Web S (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.06
+Job affinity: 20.000
+Skills per Unit
+	 Initial Activity:
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Communicate with clients about products, procedures and policies
+	 Introduction to Networking:
+		 Determine appropriate locations for operations or installations
+	 Azure: Create a Virtual Machine and Deploy a Web Server:
+		 Install fencing or other barriers
+Skills for Job Fencers
+Install fencing or other barriers
+Install wooden structural components
+Position structural components
+Install metal structural components
+Dig holes or trenches
+Communicate with clients about products, procedures and policies
+Determine appropriate locations for operations or installations
+Cut wood components
+Verify alignment of structures or equipment
+Mix substances or compounds needed for work activities
+Pour materials into, or on, designated areas
+Mark reference points on construction materials
+Measure work site dimensions
+Weld metal components
+Operate detonation equipment

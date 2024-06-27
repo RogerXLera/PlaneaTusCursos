@@ -1,0 +1,29 @@
+Read instances: 0.71 s
+Generate matrices: 2.67 s
+The optimal value is 0.635
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Key Constitutional Concepts and Su (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.03
+Job affinity: 36.364
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Key Constitutional Concepts and Supreme Court Cases:
+		 Arbitrate disputes between parties to resolve legal conflicts
+		 Conduct hearings to investigate legal issues
+		 Identify implications for cases from legal precedents or other legal information
+		 Make decisions in legal cases
+Skills for Job Judicial and Other Legal Professionals
+Direct courtroom activities or procedures
+Arbitrate disputes between parties to resolve legal conflicts
+Make decisions in legal cases
+Research relevant legal materials to aid decision making
+Identify implications for cases from legal precedents or other legal information
+Supervise activities of other legal staff
+Conduct hearings to investigate legal issues
+Prepare written decisions for legal proceedings
+Rule on admissibility of legal proceedings
+Authorise payments to settle legal disputes
+Administer oaths to court participants

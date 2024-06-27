@@ -1,0 +1,106 @@
+Read instances: 0.81 s
+Generate matrices: 84.31 s
+The optimal value is 0.13274193548387098
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Figma (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploy Machine Learning Model into AWS Cloud Serve (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Duet AI in Google Workspace (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Business Implications of AI: Full course (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Project Management: Control using the Earned Value (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Business Analysis Using Spreadshee (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Networking (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 8.71
+Job affinity: 87.097
+Skills per Unit
+	 Initial Activity:
+	 Business Implications of AI: Full course:
+		 Apply information technology to solve business or other applied problems
+		 Coordinate project activities with other staff or departments
+		 Develop detailed project plans
+		 Manage information technology projects or system activities
+	 How to create a Jira SCRUM project:
+		 Coordinate software or hardware installation
+		 Develop detailed project plans
+		 Identify information technology project resource requirements
+		 Manage information technology projects or system activities
+	 Project Management: Control using the Earned Value and Risk:
+		 Analyse project data to determine specifications or requirements
+		 Develop detailed project plans
+		 Estimate time or monetary resources needed to complete projects
+	 Get Started with Figma:
+		 Collaborate with others to determine design specifications or details
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Design computer modelling or simulation programs
+		 Develop testing routines or procedures
+		 Train others in computer interface or software use
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Apply information technology to solve business or other applied problems
+		 Provide recommendations to others about computer hardware or software
+	 Introduction to Business Analysis Using Spreadsheets: Basics:
+		 Analyse business or financial data
+		 Develop diagrams or flow charts of system operation
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Develop testing routines or procedures
+		 Evaluate utility of software or hardware technologies
+		 Provide technical support for software maintenance or use
+	 Introduction to Networking:
+		 Configure computer networks
+		 Design integrated computer systems
+	 Google Cloud VMware Engine:
+		 Identify information technology project resource requirements
+	 Deploy Machine Learning Model into AWS Cloud Servers:
+		 Collect data about customer needs
+		 Modify software programs to improve performance
+		 Monitor computer system performance to ensure proper operation
+	 Getting started with Azure IOT Hub:
+		 Configure computer networks
+		 Create databases to store electronic data
+		 Develop procedures for data management
+		 Document design or development procedures
+	 Introduction to Duet AI in Google Workspace:
+		 Read documents to gather technical information
+	 Attention Mechanism - Français:
+		 Analyse data to identify or resolve operational problems
+		 Apply information technology to solve business or other applied problems
+Skills for Job ICT Business and Systems Analysts
+Apply information technology to solve business or other applied problems
+Modify software programs to improve performance
+Collaborate with others to determine design specifications or details
+Write computer programming code
+Provide technical support for software maintenance or use
+Troubleshoot issues with computer applications or systems
+Create databases to store electronic data
+Coordinate software or hardware installation
+Monitor computer system performance to ensure proper operation
+Test software performance
+Design computer modelling or simulation programs
+Analyse data to identify or resolve operational problems
+Analyse business or financial data
+Configure computer networks
+Read documents to gather technical information
+Evaluate utility of software or hardware technologies
+Coordinate project activities with other staff or departments
+Train others in computer interface or software use
+Develop diagrams or flow charts of system operation
+Develop procedures for data management
+Develop detailed project plans
+Collect data about customer needs
+Identify information technology project resource requirements
+Manage information technology projects or system activities
+Supervise information technology staff
+Document design or development procedures
+Develop testing routines or procedures
+Design integrated computer systems
+Analyse project data to determine specifications or requirements
+Estimate time or monetary resources needed to complete projects
+Provide recommendations to others about computer hardware or software

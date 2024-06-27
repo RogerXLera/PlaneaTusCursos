@@ -1,0 +1,53 @@
+Read instances: 0.69 s
+Generate matrices: 6.62 s
+The optimal value is 0.269
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Build a Twitter Clone Front-End with ReactJS (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Art of Storytelling (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Graphic Design: Make Interior's Project Mood Board (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Storytelling With Data (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.21
+Job affinity: 73.333
+Skills per Unit
+	 Initial Activity:
+	 The Art of Storytelling:
+		 Analyse information obtained from news sources
+		 Determine presentation subjects or content
+	 Graphic Design: Make Interior's Project Mood Boards in Gimp:
+		 Edit audio, photographs or video recordings
+		 Edit written materials
+	 Build a Twitter Clone Front-End with ReactJS:
+		 Monitor current trends
+	 Storytelling With Data:
+		 Gather information for news stories
+		 Manage content of broadcasts or presentations
+	 Duet AI in Gmail:
+		 Coordinate reporting or editing activities
+		 Edit written materials
+	 Introduction to Generative AI Studio - Français:
+		 Inform viewers, listeners or audiences
+		 Operate communications, transmissions or broadcasting equipment
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+Skills for Job Journalists and Other Writers
+Gather information for news stories
+Analyse information obtained from news sources
+Edit written materials
+Report news to the public
+Write informational material
+Coordinate reporting or editing activities
+Operate still or video cameras or related equipment
+Inform viewers, listeners or audiences
+Coordinate logistics for productions or events
+Manage content of broadcasts or presentations
+Determine presentation subjects or content
+Operate communications, transmissions or broadcasting equipment
+Edit audio, photographs or video recordings
+Interview others for news or entertainment purposes
+Monitor current trends

@@ -1,0 +1,34 @@
+Read instances: 0.76 s
+Generate matrices: 2.36 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: Monitoring, Logging and Governance (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.09
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 AWS: Monitoring, Logging and Governance:
+		 Maintain operational records
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Harvest agricultural products
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Maintain forestry, hunting or agricultural equipment
+Skills for Job Crop Farm Workers
+Confer with managers to make operational decisions
+Harvest agricultural products
+Operate farming or agricultural equipment
+Direct activities of agricultural, forestry or fishery employees
+Operate irrigation systems
+Sort forestry or agricultural materials
+Maintain operational records
+Load agricultural or forestry products for shipment
+Apply chemical solutions to plants for protection or to enhance growth
+Maintain forestry, hunting or agricultural equipment
+Trim trees or other vegetation
+Plant crops, trees or other plants

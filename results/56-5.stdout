@@ -1,0 +1,43 @@
+Read instances: 0.72 s
+Generate matrices: 4.43 s
+The optimal value is 0.72
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Health After Cancer: Cancer Survivorship for Prima (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: HPV-Associated Oral and Throat Cancer: What You Ne (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 27.778
+Skills per Unit
+	 Initial Activity:
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Analyse patient data to determine patient needs or treatment goals
+	 Understanding and Managing the Stresses of Police Work:
+		 Prepare health care training materials
+	 Health After Cancer: Cancer Survivorship for Primary Care:
+		 Develop medical treatment plans
+	 HPV-Associated Oral and Throat Cancer: What You Need to Know:
+		 Diagnose dental conditions
+		 Examine mouth, teeth, gums or related facial structures
+Skills for Job Dental Practitioners
+Treat dental problems or diseases
+Operate diagnostic or therapeutic medical instruments or equipment
+Protect patients or staff members using safety equipment
+Administer anaesthetics or sedatives to control pain
+Develop medical treatment plans
+Analyse patient data to determine patient needs or treatment goals
+Supervise patient care staff
+Diagnose dental conditions
+Prescribe medications
+Operate diagnostic imaging equipment
+Examine mouth, teeth, gums or related facial structures
+Operate on patients
+Design public or employee health programs
+Direct health care delivery programs
+Prepare health care training materials
+Adjust prostheses or other assistive devices
+Design medical devices or appliances
+Fabricate medical devices

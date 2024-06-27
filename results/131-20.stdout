@@ -1,0 +1,50 @@
+Read instances: 0.78 s
+Generate matrices: 2.97 s
+The optimal value is 0.6302631578947367
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Future of Payment Technologies (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.24
+Job affinity: 36.842
+Skills per Unit
+	 Initial Activity:
+	 The Future of Payment Technologies:
+		 Operate cash registers
+	 Create your e-commerce store with Shopify:
+		 Communicate with customers to resolve complaints or ensure satisfaction
+		 Process customer bills or payments
+	 How to Get Into Robotics:
+		 Move equipment, supplies or food to required locations
+	 Stanford Introduction to Food and Health:
+		 Cook foods
+	 Infection Prevention in Nursing Homes:
+		 Clean food preparation areas, facilities or equipment
+	 Family Spirit Nurture:
+		 Assist with food or drink preparation
+Skills for Job Cafe Workers
+Serve food or drinks
+Communicate order details to kitchen staff
+Cook foods
+Process customer bills or payments
+Move equipment, supplies or food to required locations
+Arrange food for serving
+Communicate with customers to resolve complaints or ensure satisfaction
+Collect dirty dishes or other tableware
+Package food or supplies
+Clean tableware
+Arrange tables or dining areas
+Order materials, supplies, or equipment
+Prepare hot or cold drinks
+Train food preparation or food service staff
+Clean food preparation areas, facilities or equipment
+Clean food service areas
+Assist with food or drink preparation
+Take customer orders
+Operate cash registers

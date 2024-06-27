@@ -1,0 +1,49 @@
+Read instances: 0.77 s
+Generate matrices: 4.90 s
+The optimal value is 0.23346153846153844
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Qlik Sense for Beginners: Analyze and Visualize Da (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Active Listening: Enhancing Communication Skills (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Primate Conservation (11.0) 	 Start Period: 1 	 End Period: 1
+Activity: Sustainable Neighborhoods (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Public Health Perspectives on Sustainable Diets (7.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.43
+Job affinity: 76.923
+Skills per Unit
+	 Initial Activity:
+	 Active Listening: Enhancing Communication Skills:
+		 Mediate disputes
+	 Introduction to Python:
+		 Collaborate with technical specialists to resolve design or development problems
+	 Qlik Sense for Beginners: Analyze and Visualize Data:
+		 Prepare scientific or technical reports or presentations
+	 Public Health Perspectives on Sustainable Diets:
+		 Communicate with the public on environmental issues
+		 Promote environmental sustainability or conservation initiatives
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Sustainable Neighborhoods:
+		 Develop environmental sustainability plans or projects
+		 Review environmental permits, plans or reports
+	 Primate Conservation:
+		 Research impacts of environmental conservation initiatives
+		 Review plans or proposals for environmental conservation
+Skills for Job Urban and Regional Planners
+Supervise scientific or technical staff
+Review plans or proposals for environmental conservation
+Review professional literature to maintain professional knowledge
+Communicate with the public on environmental issues
+Communicate with government agencies
+Advise others on business or operational matters
+Research impacts of environmental conservation initiatives
+Prepare scientific or technical reports or presentations
+Develop environmental sustainability plans or projects
+Mediate disputes
+Promote environmental sustainability or conservation initiatives
+Collaborate with technical specialists to resolve design or development problems
+Review environmental permits, plans or reports

@@ -1,0 +1,67 @@
+Read instances: 0.75 s
+Generate matrices: 21.85 s
+The optimal value is 0.6546875
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of the Customer (VoC): Enhancing Experiences (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Interpretable machine learning applications: Part  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Microsoft Azure Relational Databases (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.66
+Job affinity: 34.375
+Skills per Unit
+	 Initial Activity:
+	 Voice of the Customer (VoC): Enhancing Experiences:
+		 Advise customers on the use of goods or services
+		 Answer customer questions about goods or services
+	 Interpretable machine learning applications: Part 3:
+		 Explain financial information to customers
+	 Microsoft Azure Relational Databases:
+		 Apply and maintain information security controls as required by policies or risk assessments
+		 Maintain data in information systems or databases
+	 Introduction to Generative AI Studio - Français:
+		 Discuss design or technical features of goods or services with technical staff
+	 Lesson | Express Yourself: Pronunciation:
+		 Attend events to develop professional knowledge
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Deliver promotional presentations to current or prospective customers
+		 Develop content for sales presentations or other materials
+		 Explain technical product or service information to customers
+Skills for Job ICT Sales Professionals
+Estimate costs or terms of sales
+Explain technical product or service information to customers
+Maintain records of customer accounts
+Advise customers on the use of goods or services
+Contact current or potential customers to promote goods or services
+Answer customer questions about goods or services
+Negotiate prices or other sales terms
+Sell goods or services
+Discuss design or technical features of goods or services with technical staff
+Coordinate project activities with other staff or departments
+Identify potential customers
+Recommend goods or services to customers
+Demonstrate products to consumers
+Gather customer or product information to determine customer needs
+Develop content for sales presentations or other materials
+Share sales-related or market information with colleagues
+Maintain data in information systems or databases
+Prepare sales or other contracts
+Process sales or other transactions
+Monitor sales activities
+Apply and maintain information security controls as required by policies or risk assessments
+Verify customer credit information
+Study product information to acquire professional knowledge
+Prepare financial documents, reports or budgets
+Maintain records of sales or other business transactions
+Coordinate sales campaigns
+Stock products or parts
+Distribute promotional literature or samples to customers
+Monitor market conditions or trends
+Attend events to develop professional knowledge
+Deliver promotional presentations to current or prospective customers
+Explain financial information to customers

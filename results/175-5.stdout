@@ -1,0 +1,33 @@
+Read instances: 0.72 s
+Generate matrices: 5.27 s
+The optimal value is 0.33249999999999996
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.18
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Launch your first online meeting with ZOOM:
+		 Maintain records of customer accounts
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+	 Lesson | Organize Your Pitch:
+		 Contact current or potential customers to promote goods or services
+		 Deliver promotional presentations to current or prospective customers
+		 Develop content for sales presentations or other materials
+		 Explain technical product or service information to customers
+Skills for Job Telemarketers
+Maintain records of customer accounts
+Contact current or potential customers to promote goods or services
+Deliver promotional presentations to current or prospective customers
+Develop content for sales presentations or other materials
+Answer customer questions about goods or services
+Explain technical product or service information to customers
+Identify potential customers
+Monitor market conditions or trends
+Schedule appointments with prospective customers

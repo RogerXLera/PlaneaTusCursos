@@ -1,0 +1,49 @@
+Read instances: 0.73 s
+Generate matrices: 3.61 s
+The optimal value is 0.8046153846153846
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a free website with WordPress (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 19.231
+Skills per Unit
+	 Initial Activity:
+	 Infection Prevention in Nursing Homes:
+		 Clean patient rooms or patient treatment rooms
+		 Give medications or immunisations
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Conduct diagnostic tests to determine patient health
+	 Build a free website with WordPress:
+		 Assist patients with daily activities
+Skills for Job Veterinary Nurses
+Assist patients with daily activities
+Assist practitioners to perform medical procedures
+Hold patients to ensure proper positioning or safety
+Clean patient rooms or patient treatment rooms
+Control prescription refills or authorisations
+Assess physical conditions of patients to aid in diagnosis or treatment
+Teach medical procedures or medical equipment use to patients
+Give medications or immunisations
+Collect biological specimens from patients
+Record vital statistics or other health information
+Feed patients
+Conduct diagnostic tests to determine patient health
+Perform clerical work in medical settings
+Monitor patients to detect health problems
+Administer health care or medical treatments
+Stock medical or patient care supplies
+Prepare patient treatment areas
+Schedule patient procedures or appointments
+Clean medical equipment
+Maintain medical equipment or instruments
+Process medical billing information
+Inventory medical supplies or equipment
+Prepare medical reports or documents
+Monitor patient progress or responses to treatments
+Prepare medical instruments or equipment for use
+Dispose of biomedical waste in accordance with standards

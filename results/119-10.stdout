@@ -1,0 +1,63 @@
+Read instances: 0.74 s
+Generate matrices: 6.51 s
+The optimal value is 0.47847826086956524
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mind Control: Managing Your Mental Health During C (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with ImageJ (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Responsible Medication Prescribing for Older Adult (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Community Awareness Course: Sexuality and Disabili (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.49
+Job affinity: 52.174
+Skills per Unit
+	 Initial Activity:
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 Getting started with ImageJ:
+		 Operate diagnostic or therapeutic medical instruments or equipment
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Analyse patient data to determine patient needs or treatment goals
+	 Mind Control: Managing Your Mental Health During COVID-19:
+		 Interact with patients to build rapport or provide emotional support
+	 Responsible Medication Prescribing for Older Adults:
+		 Administer intravenous medications
+		 Administer non-intravenous medications
+		 Collaborate with health care professionals to plan or provide treatment
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Inform medical professionals regarding patient conditions and care
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Collect medical information from patients, family members or other medical professionals
+	 Community Awareness Course: Sexuality and Disability:
+		 Evaluate patient functioning, capabilities or health
+		 Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+Skills for Job Ambulance Officers and Paramedics
+Treat medical emergencies
+Collaborate with health care professionals to plan or provide treatment
+Administer health care or medical treatments
+Respond to emergencies to provide assistance
+Inform medical professionals regarding patient conditions and care
+Evaluate patient functioning, capabilities or health
+Transport patients to and from medical facilities
+Interact with patients to build rapport or provide emotional support
+Analyse patient data to determine patient needs or treatment goals
+Sterilise medical equipment or instruments
+Collect medical information from patients, family members or other medical professionals
+Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+Implement advanced life support techniques
+Prevent and control infections according to policies and procedures
+Maintain inventory of medical supplies or equipment
+Administer non-intravenous medications
+Position patients for treatment or examination
+Record patient medical histories
+Monitor patient progress or responses to treatments
+Maintain medical or professional knowledge
+Operate diagnostic or therapeutic medical instruments or equipment
+Maintain medical equipment or instruments
+Administer intravenous medications

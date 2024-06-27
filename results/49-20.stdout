@@ -1,0 +1,125 @@
+Read instances: 0.72 s
+Generate matrices: 12.17 s
+The optimal value is 0.2394736842105263
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Student Debt Crisis Teach-Out (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Employee Performance (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Write a Resume (Project-Centered Course) (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: Create Model-driven Power App for Rental Company (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Engaging Presentations with Easelly (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Student Profile in Google Docs (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Exploring Beethoven's Piano Sonatas Part 4 (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.94
+Job affinity: 76.316
+Skills per Unit
+	 Initial Activity:
+	 Managing Employee Performance:
+		 Direct activities of staff
+		 Evaluate performance of educational staff
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Create Model-driven Power App for Rental Company:
+		 Prepare tests
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Create Engaging Presentations with Easelly:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Order instructional or library materials or equipment
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Evaluate student work
+	 Growing Great Writers with Writable:
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop strategies or programs for students with accessibility needs
+		 Display student work
+		 Document lesson plans
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Display student work
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Develop strategies or programs for students with accessibility needs
+		 Discuss student progress with parents or guardians
+	 Creating a Student Profile in Google Docs:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Design psychological or educational treatment procedures or programs
+		 Develop educational programs
+		 Develop instructional objectives
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Evaluate performance of educational staff
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Student Debt Crisis Teach-Out:
+		 Advise students on academic or career matters
+		 Maintain student records
+	 Exploring Beethoven's Piano Sonatas Part 4:
+		 Attend training sessions or events to develop or maintain professional knowledge
+		 Teach life skills
+	 How to Write a Resume (Project-Centered Course):
+		 Prepare reports detailing student activities or performance
+Skills for Job Special Education Teachers
+Teach life skills
+Develop strategies or programs for students with accessibility needs
+Establish rules or policies governing student behaviour
+Plan educational activities
+Develop instructional objectives
+Modify teaching methods or materials to accommodate student needs
+Create technology-based learning materials
+Assist students with special educational needs
+Apply multiple teaching methods
+Direct activities of staff
+Set up classroom materials or equipment
+Collaborate with other teaching professionals to develop educational programs
+Advise students on academic or career matters
+Monitor student performance
+Evaluate student work
+Maintain student records
+Prepare reports detailing student activities or performance
+Discuss student progress with parents or guardians
+Supervise school or student activities
+Monitor student behaviour, social development or health
+Teach vocational courses
+Evaluate performance of educational staff
+Supervise student research or internship work
+Administer tests to assess educational needs or progress
+Discuss problems or issues with supervisors
+Teach others to use technology or equipment
+Document lesson plans
+Prepare tests
+Display student work
+Plan experiential learning activities
+Serve on institutional or departmental committees
+Develop educational programs
+Design psychological or educational treatment procedures or programs
+Attend training sessions or events to develop or maintain professional knowledge
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Tutor students who need extra assistance

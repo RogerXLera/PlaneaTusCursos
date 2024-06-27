@@ -1,0 +1,54 @@
+Read instances: 0.70 s
+Generate matrices: 20.14 s
+The optimal value is 0.14642857142857144
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Qlik Sense for Beginners: Analyze and Visualize Da (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Foundations of Software Testing and Validation (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Data Storytelling (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Understanding China, 1700-2000: A Data Analytic Ap (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Writing a Personal Essay (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.57
+Job affinity: 85.714
+Skills per Unit
+	 Initial Activity:
+	 Qlik Sense for Beginners: Analyze and Visualize Data:
+		 Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+		 Prepare scientific or technical reports or presentations
+	 Data Storytelling:
+		 Present information to the public
+		 Record research or operational data
+	 Building a Generative AI-Ready Organization:
+		 Advise others on matters of public policy
+	 Understanding China, 1700-2000: A Data Analytic Approach, Part 1:
+		 Analyse data to identify trends or relationships among variables
+		 Forecast economic, political, social or financial trends
+		 Instruct tertiary students in social sciences or humanities disciplines
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Conduct research on social issues
+	 Foundations of Software Testing and Validation:
+		 Establish standards for products, processes or procedures
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Writing a Personal Essay:
+		 Review professional literature to maintain professional knowledge
+Skills for Job Economists
+Review professional literature to maintain professional knowledge
+Instruct tertiary students in social sciences or humanities disciplines
+Prepare scientific or technical reports or presentations
+Forecast economic, political, social or financial trends
+Supervise trainees
+Analyse data to identify trends or relationships among variables
+Conduct research on social issues
+Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+Advise others on matters of public policy
+Record research or operational data
+Present information to the public
+Establish standards for products, processes or procedures
+Advise others on business or operational matters
+Testify at legal or legislative proceedings

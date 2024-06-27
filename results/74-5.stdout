@@ -1,0 +1,29 @@
+Read instances: 0.72 s
+Generate matrices: 2.82 s
+The optimal value is 0.7475
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Privacy & Standardisation Capstone (10.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.04
+Job affinity: 25.000
+Skills per Unit
+	 Initial Activity:
+	 Privacy & Standardisation Capstone:
+		 Evaluate information related to legal matters in public or personal records
+		 Identify implications for cases from legal precedents or other legal information
+		 Prepare legal documents
+Skills for Job Barristers
+Represent the interests of clients in legal proceedings or court
+Identify implications for cases from legal precedents or other legal information
+Provide legal advice to clients
+Supervise activities of other legal staff
+Prepare legal documents
+Interview claimants to gather information related to legal proceedings
+Research relevant legal materials to aid decision making
+Evaluate information related to legal matters in public or personal records
+Arbitrate disputes between parties to resolve legal conflicts
+Prepare documentation of legal proceedings
+Draft legislation or regulations
+Meet with individuals involved in legal processes to provide information and clarify issues

@@ -1,0 +1,63 @@
+Read instances: 0.73 s
+Generate matrices: 12.01 s
+The optimal value is 0.5197999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Storytelling With Data (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Using Video in Social Media Posts with Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a user login system for a Django website (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.42
+Job affinity: 48.000
+Skills per Unit
+	 Initial Activity:
+	 Using Video in Social Media Posts with Canva:
+		 Collaborate with others to prepare or perform artistic productions
+		 Coordinate artistic activities
+		 Create computer-generated graphics or animation
+	 Build a user login system for a Django website:
+		 Compile technical information or documentation
+		 Discuss production content and progress with others
+	 Storytelling With Data:
+		 Manage content of broadcasts or presentations
+		 Prepare production storyboards
+	 Encoder-Decoder Architecture:
+		 Promote products, activities, or organisations
+	 Lesson | Get Ready for the Interview:
+		 Audition or interview potential performers or staff members
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+	 Lesson | Organize Your Pitch:
+		 Determine presentation subjects or content
+		 Inform viewers, listeners or audiences
+Skills for Job Film, Television, Radio and Stage Directors
+Determine technical requirements of productions or projects
+Direct productions or performances
+Collaborate with others to determine technical details of productions
+Coordinate logistics for productions or events
+Study scripts to determine project requirements
+Coordinate activities of production staff
+Collaborate with others to prepare or perform artistic productions
+Review details of technical drawings or specifications
+Coordinate artistic activities
+Compile technical information or documentation
+Discuss production content and progress with others
+Select materials or props
+Determine presentation subjects or content
+Set up and operate lighting equipment
+Manage content of broadcasts or presentations
+Select staff, team members or performers
+Create computer-generated graphics or animation
+Operate still or video cameras or related equipment
+Edit audio, photographs or video recordings
+Promote products, activities, or organisations
+Inform viewers, listeners or audiences
+Direct fundraising or financing activities
+Negotiate for services
+Audition or interview potential performers or staff members
+Prepare production storyboards

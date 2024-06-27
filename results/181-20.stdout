@@ -1,0 +1,56 @@
+Read instances: 0.72 s
+Generate matrices: 2.93 s
+The optimal value is 0.5260526315789474
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Inkscape (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals of waves and vibrations (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Photography Techniques: Light, Content, and Sharin (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: AWS S3 Basics (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Finite Element Analysis Convergence and Mesh Indep (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Plastic electronics (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Edit your photos for Social Media with Easil (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.21
+Job affinity: 47.368
+Skills per Unit
+	 Initial Activity:
+	 Get Started with Inkscape:
+		 Apply decorative colouring to photographs or printed materials
+	 AWS S3 Basics:
+		 Load digital images onto computers or websites
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Read work orders or other instructions to determine product specifications or materials requirements
+	 Fundamentals of waves and vibrations:
+		 Mix substances to create chemical solutions
+	 Finite Element Analysis Convergence and Mesh Independence:
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Plastic electronics:
+		 Immerse objects or work pieces in cleaning or coating solutions
+	 Photography Techniques: Light, Content, and Sharing:
+		 Inspected printed materials or other images to verify quality
+		 Operate photographic developing or print production equipment
+	 Edit your photos for Social Media with Easil:
+		 Operate digital imaging equipment
+Skills for Job Photographic Developers and Printers
+Position raw materials on processing or production equipment
+Watch equipment in operation to detect malfunctions
+Record operational or production data
+Read work orders or other instructions to determine product specifications or materials requirements
+Load materials into production equipment
+Inspected printed materials or other images to verify quality
+Measure ingredients or substances to be used
+Review blueprints or other instructions to determine operational methods or sequences
+Load digital images onto computers or websites
+Apply decorative colouring to photographs or printed materials
+Safely handle chemicals for work applications
+Cut industrial materials in preparation for fabrication or processing
+Mount materials or work pieces onto production equipment
+Operate photographic developing or print production equipment
+Operate digital imaging equipment
+Mix substances to create chemical solutions
+Immerse objects or work pieces in cleaning or coating solutions
+Clean production equipment
+Maintain production or processing equipment

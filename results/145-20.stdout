@@ -1,0 +1,64 @@
+Read instances: 0.73 s
+Generate matrices: 13.25 s
+The optimal value is 0.302
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Implement Polyglot Persistence Using SQL and NoSQL (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Human Capital in Retail (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Stock Valuation with Comparable Companies Analysis (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS CodePipeline Beginner's Guide (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Epistemic Quest for Truth: Introduction to epi (6.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.57
+Job affinity: 70.000
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 Stock Valuation with Comparable Companies Analysis:
+		 Analyse financial information
+		 Calculate financial data
+		 Prepare research or technical reports
+	 Managing Human Capital in Retail:
+		 Administer staff recruitment or hiring activities
+		 Supervise clerical or administrative staff
+		 Train staff
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Implement Polyglot Persistence Using SQL and NoSQL Databases:
+		 Examine documents to verify adherence to requirements
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Building a Generative AI-Ready Organization:
+		 Develop organisational policies or programs
+	 AWS CodePipeline Beginner's Guide:
+		 Compile data or documentation
+		 Coordinate operational activities
+	 The Epistemic Quest for Truth: Introduction to epistemology:
+		 Maintain current knowledge related to work activities
+Skills for Job Office Managers
+Supervise clerical or administrative staff
+Train staff
+Prepare staff schedules
+Develop organisational policies or programs
+Coordinate operational activities
+Explain regulations, policies or procedures
+Calculate financial data
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Examine documents to verify adherence to requirements
+Respond to customer problems or complaints
+Monitor inventories
+Maintain inventory records
+Record staff information
+Provide information to co-workers
+Compile data or documentation
+Prepare research or technical reports
+Analyse financial information
+Report maintenance or equipment problems to appropriate personnel
+Maintain current knowledge related to work activities
+Administer staff recruitment or hiring activities

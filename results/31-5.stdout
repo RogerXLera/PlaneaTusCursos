@@ -1,0 +1,44 @@
+Read instances: 0.68 s
+Generate matrices: 6.36 s
+The optimal value is 0.7620588235294117
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Designing a Low Fidelity Prototype in Figma (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Overview of Data Visualization (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.19
+Job affinity: 23.529
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Introduction to Python:
+		 Collaborate with technical specialists to resolve design or development problems
+	 Designing a Low Fidelity Prototype in Figma:
+		 Collaborate with technical specialists to resolve design or development problems
+	 Overview of Data Visualization:
+		 Analyse market conditions or trends
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+Skills for Job Land Economists and Valuers
+Appraise property values
+Supervise scientific or technical staff
+Analyse market conditions or trends
+Review plans or proposals for environmental conservation
+Examine condition of property or products
+Review professional literature to maintain professional knowledge
+Communicate with the public on environmental issues
+Communicate with government agencies
+Advise others on business or operational matters
+Research impacts of environmental conservation initiatives
+Prepare financial documents, reports or budgets
+Develop environmental sustainability plans or projects
+Mediate disputes
+Promote environmental sustainability or conservation initiatives
+Collaborate with technical specialists to resolve design or development problems
+Review environmental permits, plans or reports
+Verify accuracy of data

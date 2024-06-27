@@ -1,0 +1,47 @@
+Read instances: 0.72 s
+Generate matrices: 5.26 s
+The optimal value is 0.21714285714285714
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Digital Health Entrepreneurship (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to create a Jira SCRUM project (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Stanford Introduction to Food and Health (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.35
+Job affinity: 78.571
+Skills per Unit
+	 Initial Activity:
+	 How to create a Jira SCRUM project:
+		 Plan menu options
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Analyse patient data to determine patient needs or treatment goals
+	 Stanford Introduction to Food and Health:
+		 Coordinate food preparation
+		 Manage preparation of special meals or diets
+		 Monitor nutrition-related activities of individuals or groups
+		 Perform nutritional or health assessments
+	 Introduction to Digital Health Entrepreneurship:
+		 Collaborate with health care professionals to plan or provide treatment
+		 Direct health care delivery programs
+		 Enter patient or treatment data into computers
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Advise communities or institutions regarding health or safety issues
+		 Provide health and wellness advice to patients, program participants or caregivers
+Skills for Job Nutrition Professionals
+Provide health and wellness advice to patients, program participants or caregivers
+Perform nutritional or health assessments
+Analyse patient data to determine patient needs or treatment goals
+Manage health care operations
+Monitor nutrition-related activities of individuals or groups
+Collaborate with health care professionals to plan or provide treatment
+Coordinate food preparation
+Plan menu options
+Enter patient or treatment data into computers
+Manage preparation of special meals or diets
+Direct health care delivery programs
+Advise communities or institutions regarding health or safety issues
+Conduct health or safety training programs
+Design public or employee health programs

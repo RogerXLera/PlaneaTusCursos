@@ -1,0 +1,50 @@
+Read instances: 0.70 s
+Generate matrices: 6.27 s
+The optimal value is 0.185
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Microsoft Forms (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Engagement to your Instagram Business Pro (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Excel for Beginners: Sorting, Filtering, Data-Vali (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.36
+Job affinity: 81.818
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Develop procedures to evaluate organisational activities
+	 Increase Engagement to your Instagram Business Profile:
+		 Coordinate special events or programs
+	 Excel for Beginners: Sorting, Filtering, Data-Validation:
+		 Confer with peers to accomplish work
+	 Create Employee Management System with When I Work:
+		 Evaluate employee performance
+	 Hiring and Onboarding Employees with ClickUp:
+		 Manage human resources activities
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 How to Get Into Web Development:
+		 Determine operational compliance with regulations or standards
+	 Get Started with Microsoft Forms:
+		 Conduct opinion surveys or needs assessments
+	 Assimilating into Your New Job:
+		 Conduct employee training programs
+Skills for Job Training and Development Professionals
+Conduct opinion surveys or needs assessments
+Conduct employee training programs
+Evaluate training programs, instructors or materials
+Evaluate program effectiveness
+Evaluate employee performance
+Coordinate special events or programs
+Manage human resources activities
+Determine operational compliance with regulations or standards
+Confer with peers to accomplish work
+Develop procedures to evaluate organisational activities
+Prepare operational budgets

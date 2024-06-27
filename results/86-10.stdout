@@ -1,0 +1,36 @@
+Read instances: 0.72 s
+Generate matrices: 3.33 s
+The optimal value is 0.6142307692307692
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Predict Employee Turnover with scikit-learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Advanced Vibrations (13.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.13
+Job affinity: 38.462
+Skills per Unit
+	 Initial Activity:
+	 Predict Employee Turnover with scikit-learn:
+		 Adjust equipment for optimal performance
+		 Interpret blueprints, specifications or diagrams
+	 Introduction to Advanced Vibrations:
+		 Repair worn, damaged, or defective mechanical parts
+		 Replace worn, damaged or defective mechanical parts
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+Skills for Job Precision Metal Trades Workers
+Adjust equipment for optimal performance
+Fabricate parts or components
+Replace worn, damaged or defective mechanical parts
+Maintain work equipment or machinery
+Estimate costs for labour or materials
+Disassemble equipment for maintenance or repair
+Lubricate equipment to allow proper functioning
+Repair worn, damaged, or defective mechanical parts
+Clean or repair equipment, parts or tools
+Inspect mechanical equipment to locate damage, defects or wear
+Calibrate equipment
+Measure distances or dimensions
+Interpret blueprints, specifications or diagrams

@@ -1,0 +1,34 @@
+Read instances: 0.70 s
+Generate matrices: 2.06 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Antibiotic Stewardship (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Landscapes in Unity Part 1 - Terrain (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Migrating to the AWS Cloud (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.04
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Create Landscapes in Unity Part 1 - Terrain:
+		 Apply material to fill gaps in surfaces
+	 Antibiotic Stewardship:
+		 Clean equipment or facilities
+	 Migrating to the AWS Cloud:
+		 Move construction or mining materials
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Pour materials into, or on, designated areas
+Skills for Job Handypersons
+Assist skilled construction or mining staff
+Clean equipment or facilities
+Smooth surfaces with abrasive materials or tools
+Protect structures or surfaces near work areas to avoid damage
+Clean surfaces before commencing work
+Apply material to fill gaps in surfaces
+Assemble temporary equipment or structures
+Move construction or mining materials
+Mix substances or compounds needed for work activities
+Pour materials into, or on, designated areas

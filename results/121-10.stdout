@@ -1,0 +1,42 @@
+Read instances: 0.69 s
+Generate matrices: 3.89 s
+The optimal value is 0.49999999999999994
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Data Science Challenge (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Family Spirit Nurture (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Measuring and Maximizing Impact of COVID-19 Contac (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Health After Cancer: Cancer Survivorship for Prima (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals of Speechwriting (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.39
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 Data Science Challenge:
+		 Explain medical procedures or test results to patients or family members
+	 Health After Cancer: Cancer Survivorship for Primary Care:
+		 Confer with clients to discuss treatment plans or progress
+	 Measuring and Maximizing Impact of COVID-19 Contact Tracing:
+		 Provide basic health care services
+	 Family Spirit Nurture:
+		 Feed patients
+	 Fundamentals of Speechwriting:
+		 Assess individual or community needs for educational or social services
+Skills for Job Enrolled and Mothercraft Nurses
+Record patient medical histories
+Feed patients
+Explain medical procedures or test results to patients or family members
+Examine patients to assess general physical condition
+Perform administrative or clerical tasks
+Administer health care or medical treatments
+Provide basic health care services
+Assist practitioners to perform medical procedures
+Assess individual or community needs for educational or social services
+Confer with clients to discuss treatment plans or progress
+Monitor health or behaviour of people
+Maintain medical or professional knowledge

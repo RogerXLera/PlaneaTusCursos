@@ -1,0 +1,40 @@
+Read instances: 0.69 s
+Generate matrices: 2.36 s
+The optimal value is 0.49999999999999994
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Upwork (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Financial Accounting (12.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.07
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Financial Accounting:
+		 Maintain financial or account records
+		 Monitor financial information
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect deposits, payments or fees
+	 Get started with Upwork:
+		 Negotiate financial arrangements
+	 Getting Started with Microsoft OneDrive:
+		 File documents or records
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Debt Collectors
+Negotiate financial arrangements
+Discuss account status or activity with customers or patrons
+Maintain financial or account records
+Monitor financial information
+Respond to customer problems or complaints
+Provide notifications to customers or patrons
+Collect deposits, payments or fees
+Interview employees, customers or others to collect information
+Obtain personal or financial information about customers or applicants
+Provide information to co-workers
+Sort mail
+File documents or records

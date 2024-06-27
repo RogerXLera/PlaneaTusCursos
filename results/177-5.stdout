@@ -1,0 +1,45 @@
+Read instances: 0.67 s
+Generate matrices: 10.68 s
+The optimal value is 0.46699999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Build a user login system for a Django website (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Twitter Clone Front-End with ReactJS (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Jira (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.34
+Job affinity: 53.333
+Skills per Unit
+	 Initial Activity:
+	 Get started with Jira:
+		 Collaborate with others in marketing activities
+	 Build a Twitter Clone Front-End with ReactJS:
+		 Build models, patterns or templates
+		 Monitor current trends
+	 Build a user login system for a Django website:
+		 Discuss production content and progress with others
+		 Maintain records, documents or other files
+	 Flush Out a Feature on Coursera in Miro:
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+		 Maintain inventories of materials, equipment or products
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+Skills for Job Visual Merchandisers
+Arrange artwork, products or props
+Discuss production content and progress with others
+Develop promotional strategies or plans
+Collaborate with others in marketing activities
+Train others on work processes
+Maintain inventories of materials, equipment or products
+Draw detailed or technical illustrations
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Select materials or props
+Operate still or video cameras or related equipment
+Maintain records, documents or other files
+Construct distinctive physical objects for artistic, functional or commercial purposes
+Build models, patterns or templates
+Apply finishes to artwork, crafts, or displays
+Monitor current trends

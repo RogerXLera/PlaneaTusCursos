@@ -1,0 +1,61 @@
+Read instances: 0.71 s
+Generate matrices: 13.77 s
+The optimal value is 0.438125
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS Elastic Beanstalk: Build & Deploy a Node.js RE (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Developing AI Policy (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Engaging Presentations with Mentimeter (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.82
+Job affinity: 56.250
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain supply or equipment inventories
+	 Introduction to Generative AI Studio:
+		 Evaluate capabilities or training needs
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Promote goods, services, or programs
+	 Developing AI Policy:
+		 Enforce rules or regulations
+	 Introduction to Generative AI:
+		 Evaluate capabilities or training needs
+	 AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API:
+		 Maintain client information or service records
+	 Attention Mechanism:
+		 Promote goods, services, or programs
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Distribute resources to patrons or employees
+	 Creating Engaging Presentations with Mentimeter:
+		 Develop educational or training programs
+	 Lesson | Get Ready for the Interview:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Fitness Instructors
+Teach exercise or fitness techniques
+Develop educational or training programs
+Evaluate capabilities or training needs
+Demonstrate activity techniques or equipment use
+Organise recreational activities or events
+Teach health or hygiene practices
+Perform basic equipment maintenance
+Enforce rules or regulations
+Explain regulations, policies or procedures
+Distribute resources to patrons or employees
+Maintain supply or equipment inventories
+Administer first aid
+Provide cosmetic advice for clients
+Maintain client information or service records
+Promote goods, services, or programs
+Sell goods or services

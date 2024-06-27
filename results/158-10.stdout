@@ -1,0 +1,33 @@
+Read instances: 0.70 s
+Generate matrices: 2.46 s
+The optimal value is 0.7475
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: RNA Biology with Eterna (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with AWS Elastic Container Registr (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Create your first custom VPC and its components in (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.08
+Job affinity: 25.000
+Skills per Unit
+	 Initial Activity:
+	 RNA Biology with Eterna:
+		 Collate or assemble product orders
+	 Create your first custom VPC and its components in AWS:
+		 Analyse shipping information to make routing decisions
+	 Getting started with AWS Elastic Container Registry (ECR):
+		 Coordinate shipping activities with external parties
+Skills for Job Transport and Despatch Clerks
+Inspect shipments to ensure correct order fulfilment
+Analyse shipping information to make routing decisions
+Record shipping information
+Package objects for shipping
+Prepare documentation for contracts, transactions or regulatory compliance
+Deliver items
+Respond to customer problems or complaints
+Collate or assemble product orders
+Calculate shipping costs
+Coordinate shipping activities with external parties
+Store items
+Order materials, supplies, or equipment

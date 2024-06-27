@@ -1,0 +1,76 @@
+Read instances: 0.84 s
+Generate matrices: 41.66 s
+The optimal value is 0.22021739130434784
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Business Implications of AI: Full course (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Technology-Assisted Decision-Makin (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Impact Measurement & Management for the SDGs (9.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Jira (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 3.67
+Job affinity: 78.261
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Develop procedures to evaluate organisational activities
+	 Impact Measurement & Management for the SDGs:
+		 Analyse data to assess operational or project effectiveness
+		 Develop operating strategies, plans or procedures
+		 Evaluate environmental impact of operational or development activities
+		 Evaluate quality of materials or products
+	 Business Implications of AI: Full course:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational methods or procedures
+		 Evaluate potential of products, technologies or resources
+		 Implement organisational process or policy changes
+	 Challenges of Agribusiness Management:
+		 Identify opportunities for green initiatives
+		 Negotiate contracts for transportation, distribution or logistics services
+	 Success with Integrity: Business Ethics Foundation:
+		 Develop sustainable organisational policies or practices
+	 Get started with Jira:
+		 Confer with peers to accomplish work
+		 Develop organisational methods or procedures
+		 Manage operations, research or logistics projects
+	 Introduction to Technology-Assisted Decision-Making:
+		 Analyse data to inform operational decisions or activities
+		 Estimate cost or material requirements
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational goals or objectives
+	 Mastering Digital Twins:
+		 Coordinate with external parties to exchange information
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document organisational or operational procedures
+Skills for Job Supply, Distribution and Procurement Managers
+Manage inventories of products or organisational resources
+Manage operations, research or logistics projects
+Document organisational or operational procedures
+Estimate cost or material requirements
+Implement transportation changes to reduce environmental impact
+Develop operating strategies, plans or procedures
+Implement organisational process or policy changes
+Estimate labour requirements
+Confer with peers to accomplish work
+Analyse data to inform operational decisions or activities
+Negotiate contracts for transportation, distribution or logistics services
+Monitor external affairs or events affecting business operations
+Develop sustainable organisational policies or practices
+Monitor performance of organisational members or partners
+Analyse data to assess operational or project effectiveness
+Coordinate with external parties to exchange information
+Develop procedures to evaluate organisational activities
+Identify opportunities for green initiatives
+Develop organisational goals or objectives
+Develop organisational methods or procedures
+Evaluate quality of materials or products
+Evaluate environmental impact of operational or development activities
+Evaluate potential of products, technologies or resources

@@ -1,0 +1,49 @@
+Read instances: 0.78 s
+Generate matrices: 2.72 s
+The optimal value is 0.858448275862069
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get Started with Inkscape (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.02
+Job affinity: 13.793
+Skills per Unit
+	 Initial Activity:
+	 Get Started with Inkscape:
+		 Apply paint
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Estimate materials requirements for projects
+		 Pour materials into, or on, designated areas
+		 Select construction materials
+Skills for Job Roof Tilers
+Install roofing materials
+Apply sealants or other protective coatings
+Inspect work sites to determine condition or necessary repairs
+Install masonry materials
+Align masonry materials
+Cut tile, stone or other masonry materials
+Smooth surfaces with abrasive materials or tools
+Cut carpet, vinyl or other flexible materials
+Determine construction project layouts
+Review blueprints or specifications to determine work requirements
+Pour materials into, or on, designated areas
+Apply rope-based safety techniques using knots, anchors and friction systems
+Remove debris or vegetation from work sites
+Install insulation in equipment or structures
+Measure materials or objects for installation or assembly
+Measure work site dimensions
+Estimate construction project labour requirements
+Estimate materials requirements for projects
+Apply adhesives to construction materials
+Assemble temporary equipment or structures
+Spread sand, dirt or other loose materials onto surfaces
+Drill holes in construction materials
+Install green structural components, equipment or systems
+Select construction materials
+Order construction or mining materials or equipment
+Remove worn, damaged or outdated materials from work areas
+Install solar energy systems
+Apply paint
+Install doors or windows

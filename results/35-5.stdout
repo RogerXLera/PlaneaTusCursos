@@ -1,0 +1,48 @@
+Read instances: 0.74 s
+Generate matrices: 13.61 s
+The optimal value is 0.28785714285714287
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Develop a free website with WordPress (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Google Ads for Beginners (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.46
+Job affinity: 71.429
+Skills per Unit
+	 Initial Activity:
+	 Google Ads for Beginners:
+		 Conduct market research
+		 Develop promotional strategies or plans
+	 Develop a free website with WordPress:
+		 Deliver, publish, broadcast or distribute final audio or visual media product
+		 Manage content of broadcasts or presentations
+		 Write advertising or promotional material
+	 Transformer Models and BERT Model:
+		 Promote products, activities, or organisations
+	 Duet AI in Gmail:
+		 Edit written materials
+	 Build a Professional Resume using Canva:
+		 Inform viewers, listeners or audiences
+		 Write informational material
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+Skills for Job Public Relations Professionals
+Write advertising or promotional material
+Develop promotional strategies or plans
+Provide educational information to the public
+Manage content of broadcasts or presentations
+Collaborate with others in marketing activities
+Write informational material
+Coach others
+Edit written materials
+Deliver, publish, broadcast or distribute final audio or visual media product
+Coordinate logistics for productions or events
+Operate still or video cameras or related equipment
+Promote products, activities, or organisations
+Inform viewers, listeners or audiences
+Conduct market research

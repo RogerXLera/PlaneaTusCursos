@@ -1,0 +1,56 @@
+Read instances: 0.72 s
+Generate matrices: 3.85 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Build a mobile app with Google Sheets on Glide and (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Algorithms for DNA Sequencing (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Power Electronics (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.52
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+	 Build a mobile app with Google Sheets on Glide and no coding:
+		 Test electrical circuits or components for proper functioning
+	 Algorithms for DNA Sequencing:
+		 Assemble electrical components, subsystems or systems
+		 Assemble mechanical components or machine parts
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+	 Introduction to Power Electronics:
+		 Control power supply connections
+		 Inspect electrical or electronic systems for defects
+	 Getting Started with Microsoft OneDrive:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+Skills for Job Electrical Distribution Trades Workers
+Monitor work areas or procedures to ensure compliance with safety procedures
+Drive vehicles to, or at, work sites
+Use equipment to climb structures
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Travel to work sites
+Install insulation in equipment or structures
+Connect electrical components or equipment
+Adjust flow of electricity to tools or production equipment
+Create construction or installation diagrams
+Inspect electrical or electronic systems for defects
+Cut materials according to specifications or needs
+Test electrical circuits or components for proper functioning
+Assemble mechanical components or machine parts
+Control power supply connections
+Run wiring to connect equipment
+Assemble electrical components, subsystems or systems
+Repair electrical circuits or wiring
+Solder parts or connections between parts
+Lay cables to connect equipment
+Dig holes or trenches
+Install metering equipment
+Operate cranes, hoists or other moving or lifting equipment
+Test electrical equipment or systems to ensure proper functioning
+Align equipment or machinery

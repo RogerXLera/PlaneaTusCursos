@@ -1,0 +1,30 @@
+Read instances: 0.72 s
+Generate matrices: 2.14 s
+The optimal value is 0.6649999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: Data Protection and Security Governance (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.03
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 AWS: Data Protection and Security Governance:
+		 Notify others of equipment repair or maintenance needs
+	 Getting started with Azure IOT Hub:
+		 Operate industrial equipment
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Confer with others to resolve production problems or equipment malfunctions
+Skills for Job Timber and Wood Process Workers
+Move timber or wood products and materials between work areas
+Operate industrial equipment
+Package materials or products
+Sort materials or products for processing, storing, shipping or grading
+Record operational or production data
+Clean work areas
+Notify others of equipment repair or maintenance needs
+Confer with others to resolve production problems or equipment malfunctions
+Clean production equipment

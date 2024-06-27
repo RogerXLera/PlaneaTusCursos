@@ -1,0 +1,62 @@
+Read instances: 0.72 s
+Generate matrices: 2.76 s
+The optimal value is 0.8907894736842105
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your own Sudoku Solver using AI and Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS Elastic Beanstalk:Deploy a Python(Flask) Web A (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.07
+Job affinity: 10.526
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Create your own Sudoku Solver using AI and Python:
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Mastering Digital Twins:
+		 Monitor instruments to ensure proper production conditions
+	 AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application:
+		 Monitor equipment operation to ensure no flaws
+Skills for Job Plastics and Rubber Production Machine Operators
+Operate plastic or rubber forming equipment
+Monitor equipment operation to ensure no flaws
+Build production moulds
+Inspect plastic or composite products
+Weigh products or materials
+Prepare moulds or casts for production
+Monitor instruments to ensure proper production conditions
+Mount attachments or tools onto production equipment
+Maintain inventories of materials, equipment or products
+Adjust temperature controls of ovens or other heating equipment
+Safely handle chemicals for work applications
+Mount materials or work pieces onto production equipment
+Place materials into or onto moulds
+Skim impurities from molten metal
+Clean equipment or facilities
+Apply parting agents or other solutions to moulds
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Load materials into production equipment
+Remove accessories, tools or other parts from equipment
+Set equipment guides, stops, spacers or other fixtures
+Connect supply lines to production equipment or tools
+Trim excess material from work pieces
+Review blueprints or other instructions to determine operational methods or sequences
+Mark products, work pieces or equipment with identifying information
+Remove work pieces from moulds
+Move products, materials or equipment between work areas
+Clean production equipment
+Select production input materials
+Record operational or production data
+Mix substances to create chemical solutions
+Package products for storage or shipment
+Remove products or work pieces from production equipment
+Select production equipment according to product specifications
+Load items into ovens or furnaces
+Smooth metal surfaces or edges
+Replace worn equipment components
+Maintain production or processing equipment
+Lubricate production equipment

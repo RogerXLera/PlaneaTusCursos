@@ -1,0 +1,51 @@
+Read instances: 0.69 s
+Generate matrices: 9.98 s
+The optimal value is 0.5781578947368421
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Deploying Java-Maven Application With Jenkins CI/C (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.29
+Job affinity: 42.105
+Skills per Unit
+	 Initial Activity:
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop marketing plans or strategies
+		 Implement organisational process or policy changes
+	 Create Employee Management System with When I Work:
+		 Hire staff
+		 Maintain staff records
+	 Introduction to Generative AI Studio:
+		 Evaluate program effectiveness
+	 Deploying Java-Maven Application With Jenkins CI/CD Tool:
+		 Perform manual service or maintenance tasks
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Manage guest services
+	 Introduction to Responsible AI:
+		 Analyse data to inform staffing decisions
+Skills for Job Amusement, Fitness and Sports Centre Managers
+Supervise employees
+Evaluate program effectiveness
+Conduct opinion surveys or needs assessments
+Manage guest services
+Teach classes in area of specialisation
+Perform manual service or maintenance tasks
+Develop marketing plans or strategies
+Manage outreach activities
+Maintain staff records
+Schedule activities or facility use
+Prepare operational budgets
+Coordinate special events or programs
+Present information to the public
+Implement organisational process or policy changes
+Conduct employee training programs
+Recommend organisational process or policy changes
+Hire staff
+Train employees on environmental awareness, conservation or safety topics
+Analyse data to inform staffing decisions

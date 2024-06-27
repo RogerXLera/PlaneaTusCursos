@@ -1,0 +1,63 @@
+Read instances: 0.81 s
+Generate matrices: 25.31 s
+The optimal value is 0.6142307692307692
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Systems Engineering (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.50
+Job affinity: 38.462
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Analyse business or financial data
+		 Prepare financial documents, reports or budgets
+	 Create Employee Management System with When I Work:
+		 Determine resource needs
+		 Develop operating strategies, plans or procedures
+		 Evaluate employee performance
+	 Building Production-Ready Apps with Large Language Models:
+		 Establish interpersonal business relationships to facilitate work activities
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+	 Systems Engineering:
+		 Manage control system activities in organisations
+Skills for Job Finance Managers
+Supervise employees
+Direct financial operations
+Advise others on business or operational matters
+Maintain knowledge of current developments in area of expertise
+Approve expenditures
+Collect payments for goods or services
+Evaluate employee performance
+Analyse business or financial data
+Monitor flow of cash or other resources
+Monitor organisational compliance with regulations
+Analyse financial records to improve efficiency
+Establish interpersonal business relationships to facilitate work activities
+Recommend organisational process or policy changes
+Determine resource needs
+Prepare financial documents, reports or budgets
+Prepare reports related to compliance matters
+Develop operating strategies, plans or procedures
+Develop organisational policies or programs
+Conduct employee training programs
+Analyse financial records to improve budgeting or planning
+Determine pricing or monetary policies
+Manage control system activities in organisations
+Conduct financial or regulatory audits
+Administer compensation or benefits programs
+Prepare operational budgets
+Compile operational data

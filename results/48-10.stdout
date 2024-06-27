@@ -1,0 +1,99 @@
+Read instances: 0.73 s
+Generate matrices: 9.59 s
+The optimal value is 0.365
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Setting Up a Digital Library with EPIC (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Reading Comprehension with Actively Learn (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Enhancing Communication with Remind (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Increase Student Buy in with Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Growing Great Writers with Writable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Virtual Classroom using Google Slides (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.89
+Job affinity: 63.636
+Skills per Unit
+	 Initial Activity:
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Increase Reading Comprehension with Actively Learn:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Document lesson plans
+		 Modify teaching methods or materials to accommodate student needs
+		 Monitor student behaviour, social development or health
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Administer tests to assess educational needs or progress
+		 Create technology-based learning materials
+		 Evaluate student work
+	 Growing Great Writers with Writable:
+		 Assist students with special educational needs
+		 Create technology-based learning materials
+		 Develop strategies or programs for students with accessibility needs
+		 Document lesson plans
+	 Create a Virtual Classroom using Google Slides:
+		 Apply multiple teaching methods
+		 Create technology-based learning materials
+		 Encourage students
+		 Order instructional or library materials or equipment
+	 Setting Up a Digital Library with EPIC:
+		 Collaborate with other teaching professionals to develop educational programs
+		 Create technology-based learning materials
+		 Establish rules or policies governing student behaviour
+		 Plan educational activities
+		 Set up classroom materials or equipment
+	 Enhancing Communication with Remind:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Develop strategies or programs for students with accessibility needs
+		 Discuss student progress with parents or guardians
+		 Encourage students
+	 Increase Student Buy in with Google Slides:
+		 Create technology-based learning materials
+		 Develop instructional objectives
+		 Plan educational activities
+		 Plan experiential learning activities
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Enforce rules or policies governing student behaviour
+	 Lesson | Telephone Language:
+		 Attend training sessions or events to develop or maintain professional knowledge
+Skills for Job Secondary School Teachers
+Develop instructional objectives
+Establish rules or policies governing student behaviour
+Plan educational activities
+Apply multiple teaching methods
+Enforce rules or policies governing student behaviour
+Evaluate student work
+Set up classroom materials or equipment
+Modify teaching methods or materials to accommodate student needs
+Create technology-based learning materials
+Maintain student records
+Monitor student performance
+Encourage students
+Collaborate with other teaching professionals to develop educational programs
+Assist students with special educational needs
+Supervise school or student activities
+Advise students on academic or career matters
+Discuss problems or issues with supervisors
+Assign class work to students
+Teach others to use technology or equipment
+Monitor student behaviour, social development or health
+Develop strategies or programs for students with accessibility needs
+Administer tests to assess educational needs or progress
+Discuss student progress with parents or guardians
+Coordinate student extracurricular activities
+Document lesson plans
+Plan experiential learning activities
+Prepare reports detailing student activities or performance
+Serve on institutional or departmental committees
+Prepare tests
+Maintain inventories of materials, equipment or products
+Distribute instructional or library materials
+Order instructional or library materials or equipment
+Attend training sessions or events to develop or maintain professional knowledge

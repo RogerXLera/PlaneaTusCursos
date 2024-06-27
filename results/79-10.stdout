@@ -1,0 +1,50 @@
+Read instances: 0.72 s
+Generate matrices: 9.51 s
+The optimal value is 0.17
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Arctic Economy (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: The AI Awakening: Implications for the Economy and (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: AI, Empathy & Ethics (4.0) 	 Start Period: 1 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: From Excel to Power BI (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Student Profile in Google Docs (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals of Speechwriting (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.73
+Job affinity: 83.333
+Skills per Unit
+	 Initial Activity:
+	 Building a Generative AI-Ready Organization:
+		 Advise others on matters of public policy
+	 From Excel to Power BI:
+		 Interpret research or operational data
+	 The AI Awakening: Implications for the Economy and Society:
+		 Coordinate cross-disciplinary research programs
+		 Instruct tertiary students in social sciences or humanities disciplines
+	 Arctic Economy:
+		 Develop methods of social or economic research
+		 Plan social sciences research
+	 Creating a Student Profile in Google Docs:
+		 Design psychological or educational treatment procedures or programs
+	 AI, Empathy & Ethics:
+		 Advise others on matters of public policy
+		 Conduct research on social issues
+		 Develop methods of social or economic research
+	 Fundamentals of Speechwriting:
+		 Collect information from people through observation, interviews or surveys
+		 Prepare scientific or technical reports or presentations
+Skills for Job Social Professionals
+Conduct research on social issues
+Collect information from people through observation, interviews or surveys
+Prepare scientific or technical reports or presentations
+Instruct tertiary students in social sciences or humanities disciplines
+Supervise scientific or technical staff
+Plan social sciences research
+Interpret research or operational data
+Advise others on matters of public policy
+Coordinate cross-disciplinary research programs
+Develop methods of social or economic research
+Design psychological or educational treatment procedures or programs
+Present research results

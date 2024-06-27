@@ -1,0 +1,88 @@
+Read instances: 0.72 s
+Generate matrices: 11.79 s
+The optimal value is 0.32321428571428573
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: iOS App Store & In-App Purchases (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Translate: Translate documents with batch t (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: Introducing Your (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Azure IOT Hub (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Classification of COVID19 using Chest X-ray Images (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Foundations of Healthcare Systems Engineering (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Giving Helpful Feedback (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Content Mastery with Quizlet (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Implementing Parent Feedback with Google Forms (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.15
+Job affinity: 67.857
+Skills per Unit
+	 Initial Activity:
+	 Giving Helpful Feedback:
+		 Direct activities of staff
+	 iOS App Store & In-App Purchases:
+		 Develop policies or procedures for archives, museums or libraries
+		 Negotiate purchases or contracts
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventories of materials, equipment or products
+	 Classification of COVID19 using Chest X-ray Images in Keras:
+		 Process library materials
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Train staff members
+	 Foundations of Healthcare Systems Engineering:
+		 Classify materials according to standard systems
+	 Amazon Translate: Translate documents with batch translation:
+		 Teach others to use technology or equipment
+	 Getting started with Azure IOT Hub:
+		 Develop library or archival databases
+		 Organise informational materials
+	 Improving Classroom Management with Class Dojo:
+		 Develop instructional materials
+		 Plan community programs or activities for the general public
+	 Improving Content Mastery with Quizlet:
+		 Advise educators on curricula, instructional methods or policies
+		 Develop instructional materials
+		 Select educational materials or equipment
+	 Implementing Parent Feedback with Google Forms:
+		 Advise educators on curricula, instructional methods or policies
+		 Develop instructional materials
+		 Order instructional or library materials or equipment
+	 Build a Professional Resume using Canva:
+		 Help patrons use library or archival resources
+		 Write articles, books or other materials
+	 Lesson | Business English Skills: Introducing Yourself in Business Settings:
+		 Attend training sessions or events to develop or maintain professional knowledge
+		 Confer with others to conduct or arrange operational activities
+Skills for Job Librarians
+Help patrons use library or archival resources
+Process library materials
+Search information sources to find data
+Teach others to use technology or equipment
+Develop library or archival databases
+Direct department activities
+Maintain operational records
+Select educational materials or equipment
+Classify materials according to standard systems
+Organise informational materials
+Maintain inventories of materials, equipment or products
+Order instructional or library materials or equipment
+Plan community programs or activities for the general public
+Confer with others to conduct or arrange operational activities
+Compile specialised bibliographies or lists of materials
+Construct exhibits or parts of exhibits
+Develop policies or procedures for archives, museums or libraries
+Inspect materials or equipment to determine need for repair or replacement
+Direct activities of staff
+Train staff members
+Negotiate purchases or contracts
+Attend training sessions or events to develop or maintain professional knowledge
+Serve on institutional or departmental committees
+Promote educational institutions or programs
+Develop instructional materials
+Write articles, books or other materials
+Advise educators on curricula, instructional methods or policies
+Write grant proposals

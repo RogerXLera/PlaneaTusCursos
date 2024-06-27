@@ -1,0 +1,55 @@
+Read instances: 0.82 s
+Generate matrices: 12.73 s
+The optimal value is 0.59
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The AI Awakening: Implications for the Economy and (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: From Excel to Power BI (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Dynamic Earth: A Course for Educators (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: Building Machine Learning Pipelines in PySpark MLl (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Integrated development environments in Linux (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals of Speechwriting (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.78
+Job affinity: 40.909
+Skills per Unit
+	 Initial Activity:
+	 Building Machine Learning Pipelines in PySpark MLlib:
+		 Analyse test or validation data
+	 From Excel to Power BI:
+		 Interpret research or operational data
+	 Integrated development environments in Linux:
+		 Develop software or applications for scientific or technical use
+	 The Dynamic Earth: A Course for Educators:
+		 Analyse geological or geographical data
+		 Analyse geological samples
+		 Communicate results of environmental research
+		 Instruct tertiary students in physical or life sciences
+	 The AI Awakening: Implications for the Economy and Society:
+		 Coordinate cross-disciplinary research programs
+	 Fundamentals of Speechwriting:
+		 Prepare scientific or technical reports or presentations
+Skills for Job Geologists, Geophysicists and Hydrogeologists
+Interpret research or operational data
+Analyse geological or geographical data
+Prepare maps
+Locate natural resources using geospatial or other environmental data
+Research geological features or processes
+Review professional literature to maintain professional knowledge
+Develop software or applications for scientific or technical use
+Measure environmental characteristics
+Develop plans to manage natural or renewable resources
+Review plans or proposals for environmental conservation
+Determine methods to minimise environmental impact of activities
+Coordinate cross-disciplinary research programs
+Research impacts of environmental conservation initiatives
+Research hydrologic features or processes
+Advise others on management of emergencies or hazardous situations or materials
+Analyse test or validation data
+Advise others about environmental management or conservation
+Develop sustainable industrial or development methods
+Communicate results of environmental research
+Instruct tertiary students in physical or life sciences
+Prepare scientific or technical reports or presentations
+Analyse geological samples

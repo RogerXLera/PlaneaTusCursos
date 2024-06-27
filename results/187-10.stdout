@@ -1,0 +1,31 @@
+Read instances: 0.78 s
+Generate matrices: 2.46 s
+The optimal value is 0.555
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mechanics of Materials IV: Deflections, Buckling,  (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Amazon Aurora Service Introduction (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.07
+Job affinity: 44.444
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+		 Operate vehicles or material-moving equipment
+	 Amazon Aurora Service Introduction:
+		 Move and store materials, equipment or products
+	 Mechanics of Materials IV: Deflections, Buckling, Combined Loading & Failure Theories:
+		 Calculate weight of loads
+Skills for Job Forklift Drivers
+Operate cranes, hoists or other moving or lifting equipment
+Operate vehicles or material-moving equipment
+Load shipments, belongings or materials
+Operate packing or other material-processing equipment
+Communicate with others to coordinate material handling or movement
+Move and store materials, equipment or products
+Position material handling equipment
+Secure cargo
+Calculate weight of loads

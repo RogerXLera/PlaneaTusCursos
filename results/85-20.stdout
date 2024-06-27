@@ -1,0 +1,58 @@
+Read instances: 0.75 s
+Generate matrices: 2.83 s
+The optimal value is 0.665
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Global Public Procurement (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Aurora: Best Practices (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Ferrous Technology I (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: How to Make Money with Your Music Copyrights (6.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.27
+Job affinity: 33.333
+Skills per Unit
+	 Initial Activity:
+	 Global Public Procurement:
+		 Evaluate construction projects to determine compliance with external standards or regulations
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Inspect completed work to ensure proper installation
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+	 Amazon Aurora: Best Practices:
+		 Install green structural components, equipment or systems
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Select construction materials
+	 Ferrous Technology I:
+		 Operate metal forming equipment
+	 How to Make Money with Your Music Copyrights:
+		 Assemble products or production equipment
+		 Fabricate parts or components
+Skills for Job Sheetmetal Trades Workers
+Fabricate parts or components
+Review blueprints or specifications to determine work requirements
+Inspect completed work to ensure proper installation
+Smooth surfaces with abrasive materials or tools
+Plan layout of construction, installation or repairs
+Create construction or installation diagrams
+Assemble metal parts or products
+Operate metal forming equipment
+Evaluate construction projects to determine compliance with external standards or regulations
+Weld metal components
+Select construction materials
+Assemble products or production equipment
+Install roofing materials
+Inspect industrial or commercial equipment to ensure proper operation
+Mark reference points on construction materials
+Measure materials or objects for installation or assembly
+Move construction or mining materials
+Install building fixtures
+Install plumbing or piping
+Maintain construction tools or equipment
+Position structural components
+Direct construction or mining staff
+Train construction or mining staff
+Install green structural components, equipment or systems

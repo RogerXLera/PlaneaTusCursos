@@ -1,0 +1,36 @@
+Read instances: 0.71 s
+Generate matrices: 3.13 s
+The optimal value is 0.7944999999999999
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 0.05
+Job affinity: 20.000
+Skills per Unit
+	 Initial Activity:
+	 Get started with Jira:
+		 Confer with co-workers or internal stakeholders to coordinate operational activities
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 Lesson | Telephone Language:
+		 Answer customer questions about goods or services
+Skills for Job Service Station Attendants
+Operate cash registers
+Answer customer questions about goods or services
+Sell goods or services
+Greet customers, patrons or visitors
+Set up merchandise displays
+Refuel vehicle
+Clean vehicles or vehicle components
+Operate and maintain car wash facilities
+Clean work areas
+Confer with co-workers or internal stakeholders to coordinate operational activities
+Replace worn, damaged or defective mechanical parts
+Stock products or parts
+Repair worn, damaged, or defective mechanical parts
+Repair, replace, test, or rotate tires
+Replace or repair non-engine automotive or vehicle components

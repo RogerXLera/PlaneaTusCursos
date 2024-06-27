@@ -1,0 +1,43 @@
+Read instances: 0.72 s
+Generate matrices: 2.49 s
+The optimal value is 0.72
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Classification of COVID19 using Chest X-ray Images (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analysis of Variance with ANOVA in Google Sheets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: EV Evolution: Comprehensive Introduction to EVs (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.03
+Job affinity: 27.778
+Skills per Unit
+	 Initial Activity:
+	 Classification of COVID19 using Chest X-ray Images in Keras:
+		 Clean machinery or equipment
+	 Analysis of Variance with ANOVA in Google Sheets:
+		 Collect samples for analysis or testing
+	 EV Evolution: Comprehensive Introduction to EVs:
+		 Clean vehicles or vehicle components
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive passenger vehicles
+		 Inspect motor vehicles
+Skills for Job Car Detailers
+Clean vehicles or vehicle components
+Control pumps or pumping equipment
+Inspect motor vehicles
+Clean machinery or equipment
+Drive passenger vehicles
+Install parts, assemblies or attachments in transportation or material-handling equipment
+Procure supplies or equipment
+Connect hoses to equipment or machinery
+Clean windows or glass surfaces
+Move and store materials, equipment or products
+Monitor engine operation or functioning
+Report vehicle or equipment malfunctions
+Maintain vehicles in good working condition
+Clean facilities or work areas
+Remove debris or damaged materials
+Shovel materials
+Collect samples for analysis or testing
+Test materials, solutions or samples

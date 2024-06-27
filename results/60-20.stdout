@@ -1,0 +1,53 @@
+Read instances: 0.71 s
+Generate matrices: 6.50 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: SQL for Data Science Capstone Project (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with ImageJ (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.70
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Avoiding AI Harm:
+		 Maintain medical or professional knowledge
+	 SQL for Data Science Capstone Project:
+		 Conduct research to increase knowledge about medical issues
+		 Develop health assessment methods or programs
+		 Present medical research reports
+	 Getting started with ImageJ:
+		 Operate diagnostic or therapeutic medical instruments or equipment
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Analyse patient data to determine patient needs or treatment goals
+	 Fundamentals for Implementing a Hypertension Program:
+		 Administer health care or medical treatments
+		 Develop health assessment methods or programs
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 Lesson | Express Yourself: Pronunciation:
+		 Test patient hearing
+Skills for Job Audiologists and Speech Pathologists / Therapists
+Monitor patient progress or responses to treatments
+Record patient medical histories
+Analyse patient data to determine patient needs or treatment goals
+Train patients, family members or caregivers in techniques for managing disabilities or illnesses
+Test patient hearing
+Collaborate with health care professionals to plan or provide treatment
+Advise others on health care issues
+Supervise patient care staff
+Develop health assessment methods or programs
+Administer health care or medical treatments
+Refer patients to other health care practitioners or health resources
+Operate diagnostic or therapeutic medical instruments or equipment
+Present medical research reports
+Conduct research to increase knowledge about medical issues
+Maintain medical or professional knowledge

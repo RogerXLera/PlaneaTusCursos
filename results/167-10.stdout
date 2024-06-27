@@ -1,0 +1,52 @@
+Read instances: 0.70 s
+Generate matrices: 7.79 s
+The optimal value is 0.438125
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Professional Selling: Step 2 - Prepare Like a High (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Enjoyable Econometrics (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Interpretable machine learning applications: Part  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: AWS Cloudfront: Serve content from multiple S3 buc (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Small Talk & Conversational Vocabulary (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.48
+Job affinity: 56.250
+Skills per Unit
+	 Initial Activity:
+	 Professional Selling: Step 2 - Prepare Like a High-Performer:
+		 Develop marketing plans or strategies
+		 Gather customer or product information to determine customer needs
+		 Identify potential customers
+		 Maintain records of sales or other business transactions
+	 Enjoyable Econometrics:
+		 Explain financial information to customers
+	 Interpretable machine learning applications: Part 3:
+		 Explain financial information to customers
+	 AWS Cloudfront: Serve content from multiple S3 buckets:
+		 Customise financial goods or services to meet customer needs
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+	 Lesson | Small Talk & Conversational Vocabulary:
+		 Develop professional relationships or networks
+	 Lesson | Express Yourself: Pronunciation:
+		 Attend events to develop professional knowledge
+Skills for Job Insurance Agents
+Customise financial goods or services to meet customer needs
+Explain financial information to customers
+Sell goods or services
+Gather customer or product information to determine customer needs
+Prepare sales or other contracts
+Develop marketing plans or strategies
+Take product orders
+Maintain records of sales or other business transactions
+Calculate costs of goods or services
+Process sales or other transactions
+Examine condition of property or products
+Identify potential customers
+Develop professional relationships or networks
+Review accuracy of sales or other transactions
+Attend events to develop professional knowledge
+Study product information to acquire professional knowledge

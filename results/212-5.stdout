@@ -1,0 +1,38 @@
+Read instances: 0.71 s
+Generate matrices: 2.39 s
+The optimal value is 0.896
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create User Directory and Files with Linux Command (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals of waves and vibrations (5.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.03
+Job affinity: 10.000
+Skills per Unit
+	 Initial Activity:
+	 Create User Directory and Files with Linux Commands:
+		 Program equipment to perform production tasks
+	 Fundamentals of waves and vibrations:
+		 Mix substances to create chemical solutions
+Skills for Job Other Factory Process Workers
+Load materials into production equipment
+Remove products or work pieces from production equipment
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Record operational or production data
+Package products for storage or shipment
+Program equipment to perform production tasks
+Count finished products or work pieces
+Move products, materials or equipment between work areas
+Mark products, work pieces or equipment with identifying information
+Sort materials or products for processing, storing, shipping or grading
+Signal others to coordinate work activities
+Clean production equipment
+Feed materials or products into or through equipment
+Mount attachments or tools onto production equipment
+Mix substances to create chemical solutions
+Clean work areas
+Notify others of equipment repair or maintenance needs
+Watch equipment in operation to detect malfunctions
+Lubricate production equipment
+Clean work pieces or finished products

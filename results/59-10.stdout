@@ -1,0 +1,43 @@
+Read instances: 0.74 s
+Generate matrices: 4.37 s
+The optimal value is 0.533
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Ethical Issues in Computing Applications (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Everyday Chinese Medicine 2 (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.25
+Job affinity: 46.667
+Skills per Unit
+	 Initial Activity:
+	 Ethical Issues in Computing Applications:
+		 Fabricate medical devices
+		 Prescribe assistive medical devices or related treatments
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Everyday Chinese Medicine 2:
+		 Diagnose medical conditions
+		 Treat chronic diseases or disorders
+	 Fundamentals for Implementing a Hypertension Program:
+		 Communicate health and wellness information to the public
+		 Diagnose medical conditions
+		 Prescribe medications
+Skills for Job Podiatrists
+Treat chronic diseases or disorders
+Operate on patients
+Diagnose medical conditions
+Analyse test results to inform diagnosis or treatment
+Prescribe assistive medical devices or related treatments
+Prescribe medications
+Prescribe treatments or therapies
+Communicate health and wellness information to the public
+Refer patients to other health care practitioners or health resources
+Treat patients using alternative medical procedures
+Adjust prostheses or other assistive devices
+Fabricate medical devices
+Manage health care operations
+Maintain medical facility records
+Order medical supplies or equipment

@@ -1,0 +1,54 @@
+Read instances: 0.80 s
+Generate matrices: 35.70 s
+The optimal value is 0.4505
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to CRM with HubSpot (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Vector Search and Embeddings (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a computer vision app with Azure Cognitive S (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.56
+Job affinity: 55.000
+Skills per Unit
+	 Initial Activity:
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop marketing plans or strategies
+		 Develop organisational policies or programs
+		 Implement organisational process or policy changes
+	 Introduction to CRM with HubSpot:
+		 Analyse data to inform operational decisions or activities
+		 Develop marketing plans or strategies
+		 Direct sales, marketing or customer service activities
+	 Vector Search and Embeddings:
+		 Analyse financial records to improve efficiency
+	 Build a computer vision app with Azure Cognitive Services:
+		 Determine resource needs
+		 Direct organisational operations, projects or services
+	 Assimilating into Your New Job:
+		 Conduct employee training programs
+		 Develop organisational goals or objectives
+		 Hire staff
+Skills for Job General Managers
+Direct organisational operations, projects or services
+Provide basic information to guests, visitors, or clients
+Direct sales, marketing or customer service activities
+Prepare staff schedules or work assignments
+Monitor performance of organisational members or partners
+Direct financial operations
+Analyse data to inform operational decisions or activities
+Analyse financial records to improve efficiency
+Implement organisational process or policy changes
+Determine pricing or monetary policies
+Develop marketing plans or strategies
+Plan facility layouts or designs
+Develop organisational goals or objectives
+Develop organisational policies or programs
+Manage environmental sustainability projects
+Conduct employee training programs
+Hire staff
+Recommend organisational process or policy changes
+Determine resource needs
+Manage construction activities

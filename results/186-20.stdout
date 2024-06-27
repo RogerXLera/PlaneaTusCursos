@@ -1,0 +1,52 @@
+Read instances: 0.72 s
+Generate matrices: 2.47 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Technology-Assisted Decision-Makin (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Ferrous Technology I (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Plastic electronics (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Robotics (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: Household Surveys for Program Evaluation in LMICs (10.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.21
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 How to Get Into Robotics:
+		 Operate cranes, hoists or other moving or lifting equipment
+	 Introduction to Technology-Assisted Decision-Making:
+		 Calculate specific material, equipment or labour requirements
+	 Household Surveys for Program Evaluation in LMICs:
+		 Collect samples of materials or products for testing
+	 Mastering Digital Twins:
+		 Direct operational or production activities
+		 Monitor instruments to ensure proper production conditions
+	 Ferrous Technology I:
+		 Clean materials to prepare them for production
+		 Operate metal forming equipment
+	 Plastic electronics:
+		 Place materials into or onto moulds
+Skills for Job Engineering Production Workers
+Skim impurities from molten metal
+Record operational or production data
+Place materials into or onto moulds
+Measure ingredients or substances to be used
+Operate cranes, hoists or other moving or lifting equipment
+Clean materials to prepare them for production
+Watch equipment in operation to detect malfunctions
+Adjust equipment controls to regulate gas flow
+Inspect production equipment
+Clean production equipment
+Collect samples of materials or products for testing
+Calculate specific material, equipment or labour requirements
+Operate metal forming equipment
+Adjust temperature controls of ovens or other heating equipment
+Monitor instruments to ensure proper production conditions
+Adjust equipment controls to regulate coolant flow
+Direct operational or production activities
+Signal others to coordinate work activities
+Ignite fuel to activate heating equipment
+Load materials into production equipment

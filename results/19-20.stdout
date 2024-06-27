@@ -1,0 +1,74 @@
+Read instances: 0.72 s
+Generate matrices: 17.76 s
+The optimal value is 0.10921052631578948
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a Free Marketing Calendar with CoSchedule (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Monetary Policy in the Asia Pacific (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: JavaScript Interview Challenges (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Information Systems Auditing, Controls and Assuran (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.68
+Job affinity: 89.474
+Skills per Unit
+	 Initial Activity:
+	 Create a Free Marketing Calendar with CoSchedule:
+		 Prepare staff schedules or work assignments
+	 Create Employee Management System with When I Work:
+		 Evaluate employee performance
+		 Hire staff
+		 Maintain staff records
+	 JavaScript Interview Challenges:
+		 Compile operational data
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Manage guest services
+		 Promote goods, services, or programs
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop organisational policies or programs
+	 Information Systems Auditing, Controls and Assurance:
+		 Conduct financial or regulatory audits
+	 Introduction to Responsible AI:
+		 Monitor activities of individuals to ensure safety or compliance with rules
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+		 Promote goods, services, or programs
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+		 Monitor resources
+	 Monetary Policy in the Asia Pacific:
+		 Determine pricing or monetary policies
+	 Assimilating into Your New Job:
+		 Communicate organisational policies and procedures
+		 Conduct employee training programs
+		 Hire staff
+	 Lesson | Get Ready for the Interview:
+		 Interview employees, customers or others to collect information
+Skills for Job Licensed Club Managers
+Monitor activities of individuals to ensure safety or compliance with rules
+Monitor resources
+Monitor flow of cash or other resources
+Communicate organisational policies and procedures
+Maintain knowledge of current developments in area of expertise
+Determine pricing or monetary policies
+Manage guest services
+Collect payments for goods or services
+Resolve customer complaints or problems
+Promote goods, services, or programs
+Compile operational data
+Develop organisational policies or programs
+Conduct financial or regulatory audits
+Maintain staff records
+Prepare staff schedules or work assignments
+Evaluate employee performance
+Conduct employee training programs
+Interview employees, customers or others to collect information
+Hire staff

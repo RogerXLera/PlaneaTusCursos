@@ -1,0 +1,68 @@
+Read instances: 0.74 s
+Generate matrices: 7.57 s
+The optimal value is 0.6747058823529412
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: COVID Vaccine Ambassador Training: How to Talk to  (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.14
+Job affinity: 32.353
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Statistics in Python:
+		 Analyse test results to inform diagnosis or treatment
+	 Fundamentals for Implementing a Hypertension Program:
+		 Communicate health and wellness information to the public
+		 Diagnose medical conditions
+		 Inform medical professionals regarding patient conditions and care
+		 Prescribe medications
+	 COVID Vaccine Ambassador Training: How to Talk to Parents:
+		 Advise communities or institutions regarding health or safety issues
+		 Assist health care practitioners during examinations or treatments
+		 Communicate health and wellness information to the public
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Advise others on health care issues
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 Lesson | Organize Your Pitch:
+		 Prepare patients for medical procedures
+Skills for Job Registered Nurses
+Record patient medical histories
+Maintain medical facility records
+Monitor patient conditions during treatments, procedures or activities
+Supervise patient care staff
+Inform medical professionals regarding patient conditions and care
+Collaborate with health care professionals to plan or provide treatment
+Evaluate patient outcomes to determine effectiveness of treatments
+Manage health care operations
+Assist health care practitioners during surgery
+Design public or employee health programs
+Administer non-intravenous medications
+Test biological specimens to gather information about patient conditions
+Treat acute illnesses, infections or injuries
+Immunise patients
+Administer anaesthetics or sedatives to control pain
+Assess patient work, living or social environments
+Assist health care practitioners during examinations or treatments
+Prepare patients for medical procedures
+Maintain inventory of medical supplies or equipment
+Prepare medical supplies or equipment for use
+Analyse test results to inform diagnosis or treatment
+Order medical diagnostic or clinical tests
+Communicate health and wellness information to the public
+Advise communities or institutions regarding health or safety issues
+Prescribe assistive medical devices or related treatments
+Prescribe medications
+Train caregivers or other non-medical staff
+Refer patients to other health care practitioners or health resources
+Treat medical emergencies
+Diagnose medical conditions
+Examine patients to assess general physical condition
+Advise others on health care issues
+Direct health care delivery programs
+Conduct research to increase knowledge about medical issues

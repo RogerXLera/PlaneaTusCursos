@@ -1,0 +1,38 @@
+Read instances: 0.69 s
+Generate matrices: 2.09 s
+The optimal value is 0.49999999999999994
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: AWS: CI/CD Pipelines and Deployment Strategies (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Sustainable Agricultural Land Management (19.0) 	 Start Period: 1 	 End Period: 2
+Activity: Antibiotic Stewardship (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.05
+Job affinity: 50.000
+Skills per Unit
+	 Initial Activity:
+	 AWS: CI/CD Pipelines and Deployment Strategies:
+		 Remove debris from work sites
+	 Antibiotic Stewardship:
+		 Clean equipment or facilities
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Control plant pests or diseases
+	 Sustainable Agricultural Land Management:
+		 Cultivate and maintain lawns, plants and gardens
+		 Irrigate lawns, trees or plants
+Skills for Job Garden Labourers
+Cultivate and maintain lawns, plants and gardens
+Plant crops, trees or other plants
+Irrigate lawns, trees or plants
+Trim trees or other vegetation
+Plant greenery to improve landscape appearance
+Operate grounds maintenance equipment
+Apply chemical solutions to plants for protection or to enhance growth
+Install equipment to protect or support trees
+Remove debris from work sites
+Clean equipment or facilities
+Control plant pests or diseases
+Safely handle chemicals for work applications

@@ -1,0 +1,47 @@
+Read instances: 0.72 s
+Generate matrices: 2.96 s
+The optimal value is 0.3857692307692308
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Smart Cities – Management of Smart Urban Infrastru (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Russian Invasion of Ukraine Teach-Out (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Art of Storytelling (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Inventory Management (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.26
+Job affinity: 61.538
+Skills per Unit
+	 Initial Activity:
+	 The Art of Storytelling:
+		 Assist others
+	 Inventory Management:
+		 Assist customers to ensure comfort or safety
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Receive information or instructions for performing work assignments
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor availability of equipment or supplies
+	 Introduction to Generative AI Studio - Français:
+		 Operate communications equipment or systems
+	 Smart Cities – Management of Smart Urban Infrastructures:
+		 Ensure passenger compliance with vehicle safety, regulations and standards
+		 Provide transportation information to passengers or customers
+	 Russian Invasion of Ukraine Teach-Out:
+		 Provide first aid or rescue assistance in emergencies
+Skills for Job Travel Attendants
+Provide transportation information to passengers or customers
+Assist passengers during vehicle boarding
+Assist customers to ensure comfort or safety
+Monitor availability of equipment or supplies
+Sell goods or services
+Collect fares or payment from customers
+Resolve issues affecting transportation operations
+Operate communications equipment or systems
+Receive information or instructions for performing work assignments
+Record operational details of travel
+Ensure passenger compliance with vehicle safety, regulations and standards
+Assist others
+Provide first aid or rescue assistance in emergencies

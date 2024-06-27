@@ -1,0 +1,48 @@
+Read instances: 0.70 s
+Generate matrices: 6.55 s
+The optimal value is 0.5873529411764706
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Russian Invasion of Ukraine Teach-Out (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Management of International Development: Towards A (7.0) 	 Start Period: 1 	 End Period: 2
+Activity: Introduction to Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Overview of Data Visualization (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.50
+Job affinity: 41.176
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Management of International Development: Towards Agenda 2030:
+		 Communicate with government agencies
+		 Communicate with the public on environmental issues
+	 Introduction to Python:
+		 Collaborate with technical specialists to resolve design or development problems
+	 Overview of Data Visualization:
+		 Analyse market conditions or trends
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Russian Invasion of Ukraine Teach-Out:
+		 Mediate disputes
+Skills for Job Land Economists and Valuers
+Appraise property values
+Supervise scientific or technical staff
+Analyse market conditions or trends
+Review plans or proposals for environmental conservation
+Examine condition of property or products
+Review professional literature to maintain professional knowledge
+Communicate with the public on environmental issues
+Communicate with government agencies
+Advise others on business or operational matters
+Research impacts of environmental conservation initiatives
+Prepare financial documents, reports or budgets
+Develop environmental sustainability plans or projects
+Mediate disputes
+Promote environmental sustainability or conservation initiatives
+Collaborate with technical specialists to resolve design or development problems
+Review environmental permits, plans or reports
+Verify accuracy of data

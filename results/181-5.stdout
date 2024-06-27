@@ -1,0 +1,43 @@
+Read instances: 0.69 s
+Generate matrices: 2.78 s
+The optimal value is 0.786578947368421
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Edit your photos for Social Media with Easil (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get Started with Inkscape (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with ImageJ (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Finite Element Analysis Convergence and Mesh Indep (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.06
+Job affinity: 21.053
+Skills per Unit
+	 Initial Activity:
+	 Get Started with Inkscape:
+		 Apply decorative colouring to photographs or printed materials
+	 Getting started with ImageJ:
+		 Load digital images onto computers or websites
+	 Finite Element Analysis Convergence and Mesh Independence:
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Edit your photos for Social Media with Easil:
+		 Operate digital imaging equipment
+Skills for Job Photographic Developers and Printers
+Position raw materials on processing or production equipment
+Watch equipment in operation to detect malfunctions
+Record operational or production data
+Read work orders or other instructions to determine product specifications or materials requirements
+Load materials into production equipment
+Inspected printed materials or other images to verify quality
+Measure ingredients or substances to be used
+Review blueprints or other instructions to determine operational methods or sequences
+Load digital images onto computers or websites
+Apply decorative colouring to photographs or printed materials
+Safely handle chemicals for work applications
+Cut industrial materials in preparation for fabrication or processing
+Mount materials or work pieces onto production equipment
+Operate photographic developing or print production equipment
+Operate digital imaging equipment
+Mix substances to create chemical solutions
+Immerse objects or work pieces in cleaning or coating solutions
+Clean production equipment
+Maintain production or processing equipment

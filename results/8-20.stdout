@@ -1,0 +1,78 @@
+Read instances: 0.81 s
+Generate matrices: 16.37 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Business Analysis & Process Management (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Water: an essential resource (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: Introducing Your (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Success with Integrity: Business Ethics Foundation (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Photovoltaic solar energy (6.0) 	 Start Period: 1 	 End Period: 2
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 4.19
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Business Analysis & Process Management:
+		 Communicate organisational information to customers or other stakeholders
+		 Develop procedures to evaluate organisational activities
+		 Model operational processes
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Success with Integrity: Business Ethics Foundation:
+		 Develop sustainable organisational policies or practices
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Implement organisational process or policy changes
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Recruit staff
+	 How to Get Into Web Development:
+		 Determine operational compliance with regulations or standards
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure materials, equipment or other resources
+	 Google Cloud VMware Engine:
+		 Prepare operational budgets for green energy or other green operations
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Direct facility maintenance or repair activities
+	 Water: an essential resource:
+		 Develop environmental remediation or protection plans
+	 Photovoltaic solar energy:
+		 Estimate green project costs
+	 Get started with Upwork:
+		 Prepare forms or applications
+	 Lesson | Business English Skills: Introducing Yourself in Business Settings:
+		 Communicate organisational policies and procedures
+Skills for Job Construction Managers
+Manage construction activities
+Negotiate project specifications
+Supervise employees
+Determine operational compliance with regulations or standards
+Develop operating strategies, plans or procedures
+Procure materials, equipment or other resources
+Evaluate green operations or programs for compliance with standards or regulations
+Manage project risk
+Estimate labour requirements
+Direct facility maintenance or repair activities
+Implement organisational process or policy changes
+Communicate organisational information to customers or other stakeholders
+Communicate organisational policies and procedures
+Model operational processes
+Investigate industrial or transportation accidents
+Prepare financial documents, reports or budgets
+Develop procedures to evaluate organisational activities
+Develop environmental remediation or protection plans
+Train employees on environmental awareness, conservation or safety topics
+Prepare forms or applications
+Recruit staff
+Estimate green project costs
+Develop sustainable organisational policies or practices
+Prepare operational budgets for green energy or other green operations

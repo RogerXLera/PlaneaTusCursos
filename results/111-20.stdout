@@ -1,0 +1,45 @@
+Read instances: 0.71 s
+Generate matrices: 3.00 s
+The optimal value is 0.46699999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative Deep Learning with TensorFlow (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Advanced Models for Decision Making (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create AWS EC2 Virtual Machine Using AWS console (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Print and Digital Elements of Design: Branding and (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.25
+Job affinity: 53.333
+Skills per Unit
+	 Initial Activity:
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Enter commands, instructions, or specifications into equipment
+		 Program equipment to perform production tasks
+	 Generative Deep Learning with TensorFlow:
+		 Mix ingredients to create specific finishes
+		 Operate digital imaging equipment
+	 Advanced Models for Decision Making:
+		 Maintain production or processing equipment
+	 Create AWS EC2 Virtual Machine Using AWS console:
+		 Monitor equipment operation to ensure no flaws
+	 Print and Digital Elements of Design: Branding and User Experience:
+		 Inspected printed materials or other images to verify quality
+		 Operate photographic developing or print production equipment
+Skills for Job Graphic Pre-press Trades Workers
+Operate photographic developing or print production equipment
+Inspected printed materials or other images to verify quality
+Enter commands, instructions, or specifications into equipment
+Drill holes in parts, equipment or materials
+Select production equipment according to product specifications
+Measure dimensions of completed products or work pieces to verify conformance to specifications
+Maintain production or processing equipment
+Program equipment to perform production tasks
+Operate digital imaging equipment
+Monitor equipment operation to ensure no flaws
+Mount materials or work pieces onto production equipment
+Mix ingredients to create specific finishes
+Mix substances to create chemical solutions
+Clean production equipment
+Repair production equipment or tools

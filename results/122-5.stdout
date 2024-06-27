@@ -1,0 +1,60 @@
+Read instances: 0.75 s
+Generate matrices: 9.43 s
+The optimal value is 0.62375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting Started with Microsoft OneDrive (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Responsible AI in the Generative AI Era (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Statistics in Python (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.35
+Job affinity: 37.500
+Skills per Unit
+	 Initial Activity:
+	 Responsible AI in the Generative AI Era:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Deliver culturally appropriate programs, policies or services
+		 Develop programs, policies or services that are culturally appropriate
+		 Investigate legal issues
+	 Introduction to Statistics in Python:
+		 Complete documentation required by programs or regulations
+	 Introduction to Generative AI:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+	 Getting Started with Microsoft OneDrive:
+		 Collaborate with other professionals to assess client needs or plan treatments
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+		 Develop programs, policies or services that are culturally appropriate
+		 Evaluate potential problems in home or work environments of clients
+	 Lesson | Get Ready for the Interview:
+		 Interview clients to gather information about their backgrounds, needs or progress
+Skills for Job Indigenous Health Workers
+Collaborate with other professionals to assess client needs or plan treatments
+Counsel clients or patients with substance abuse issues
+Act as an advocate or communicator regarding the cultural, diversity or accessibility needs of others
+Support individuals with diverse needs to understand, access and utilise information or services
+Develop treatment plans for patients or clients
+Intervene in crisis situations to assist clients
+Deliver culturally appropriate programs, policies or services
+Modify treatment plans to accommodate client needs
+Develop programs, policies or services that are culturally appropriate
+Counsel family members of clients or patients
+Complete documentation required by programs or regulations
+Refer clients to community or social service programs
+Refer individuals to educational or work programs
+Maintain a working understanding of the cultural, diversity and accessibility needs of others, and how this applies to the role
+Monitor clients to evaluate treatment progress
+Maintain client records
+Supervise workers providing client or patient services
+Plan programs to address community health issues
+Evaluate potential problems in home or work environments of clients
+Interview clients to gather information about their backgrounds, needs or progress
+Collect information about clients
+Investigate legal issues
+Research social issues
+Advise others on social or educational issues

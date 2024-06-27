@@ -1,0 +1,81 @@
+Read instances: 0.81 s
+Generate matrices: 35.97 s
+The optimal value is 0.21125000000000002
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: NGO Startup Analysis with Nonprofit Business Model (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assimilating into Your New Job (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Application of Data Analysis in Business with R Pr (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Project Tracker with Airtable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.82
+Job affinity: 79.167
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 NGO Startup Analysis with Nonprofit Business Model Canvas:
+		 Develop organisational methods or procedures
+		 Develop organisational policies or programs
+		 Implement organisational process or policy changes
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Evaluate employee performance
+		 Hire staff
+		 Recruit staff
+	 Hiring and Onboarding Employees with ClickUp:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational methods or procedures
+		 Hire staff
+		 Manage human resources activities
+	 Building Production-Ready Apps with Large Language Models:
+		 Establish interpersonal business relationships to facilitate work activities
+	 Application of Data Analysis in Business with R Programming:
+		 Analyse data to inform operational decisions or activities
+		 Communicate organisational information to customers or other stakeholders
+		 Coordinate operational activities with external stakeholders
+	 Building a Generative AI-Ready Organization:
+		 Advise others on legal or regulatory compliance matters
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+		 Direct organisational operations, projects or services
+	 Create a Project Tracker with Airtable:
+		 Manage operations, research or logistics projects
+	 Assimilating into Your New Job:
+		 Conduct employee training programs
+		 Develop organisational goals or objectives
+		 Hire staff
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Present information to the public
+Skills for Job Research and Development Managers
+Coordinate operational activities with external stakeholders
+Direct organisational operations, projects or services
+Develop operating strategies, plans or procedures
+Establish interpersonal business relationships to facilitate work activities
+Communicate organisational information to customers or other stakeholders
+Develop organisational goals or objectives
+Analyse data to inform operational decisions or activities
+Prepare operational progress or status reports
+Manage operations, research or logistics projects
+Develop organisational methods or procedures
+Manage human resources activities
+Recruit staff
+Evaluate employee performance
+Supervise employees
+Hire staff
+Develop organisational policies or programs
+Implement organisational process or policy changes
+Prepare financial documents, reports or budgets
+Approve expenditures
+Prepare operational budgets
+Prepare proposals or grant applications to obtain project funding
+Advise others on legal or regulatory compliance matters
+Conduct employee training programs
+Present information to the public

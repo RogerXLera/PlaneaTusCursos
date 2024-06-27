@@ -1,0 +1,41 @@
+Read instances: 0.72 s
+Generate matrices: 2.89 s
+The optimal value is 0.455
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Whole genome sequencing of bacterial genomes - too (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Antibiotic Stewardship (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: AI Foundations: Prompt Engineering with ChatGPT (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Attention Mechanism - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Formation COVID-19 pour personnels de santé (8.0) 	 Start Period: 1 	 End Period: 2
+Activity: Foundations of Telehealth (8.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.21
+Job affinity: 54.545
+Skills per Unit
+	 Initial Activity:
+	 Antibiotic Stewardship:
+		 Clean medical equipment
+	 Foundations of Telehealth:
+		 Process medical billing information
+	 Whole genome sequencing of bacterial genomes - tools and applications:
+		 Maintain medical equipment or instruments
+	 Formation COVID-19 pour personnels de santé:
+		 Operate medical equipment
+	 AI Foundations: Prompt Engineering with ChatGPT:
+		 Control prescription refills or authorisations
+	 Attention Mechanism - Français:
+		 Explain technical medical information to patients
+Skills for Job Pharmacy Sales Assistants
+Perform clerical work in medical settings
+Inventory medical supplies or equipment
+Process medical billing information
+Control prescription refills or authorisations
+Explain technical medical information to patients
+Stock medical or patient care supplies
+Operate medical equipment
+Maintain medical records
+Transport biological or other medical materials
+Clean medical equipment
+Maintain medical equipment or instruments

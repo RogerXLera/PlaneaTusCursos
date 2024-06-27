@@ -1,0 +1,50 @@
+Read instances: 0.76 s
+Generate matrices: 16.15 s
+The optimal value is 0.555
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Microsoft Azure Relational Databases (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: ChatGPT for Beginners: SciFi Writing with Dall-e (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Unity for Absolute Beginners - Getting Started (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.47
+Job affinity: 44.444
+Skills per Unit
+	 Initial Activity:
+	 ChatGPT for Beginners: SciFi Writing with Dall-e:
+		 Develop technical methods or processes
+		 Prepare procedural documents
+	 Unity for Absolute Beginners - Getting Started:
+		 Create physical models or prototypes
+		 Develop software applications
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure materials, equipment or other resources
+	 Linux on LinuxONE:
+		 Resolve operational performance problems
+	 Microsoft Azure Relational Databases:
+		 Maintain operational records or records systems
+	 Lesson | Understand and Be Understood on the Phone:
+		 Confer with other staff to resolve design or operational problems
+Skills for Job Electronic Engineering Draftspersons and Technicians
+Test performance of electrical, electronic, mechanical, or integrated systems or equipment
+Maintain electronic equipment
+Review technical documents to plan work
+Maintain operational records or records systems
+Advise customers on the use of goods or services
+Prepare procedural documents
+Calibrate scientific or technical equipment
+Confer with other staff to resolve design or operational problems
+Resolve operational performance problems
+Assemble equipment or components
+Create schematic drawings for electronics
+Procure materials, equipment or other resources
+Update technical knowledge
+Fabricate products or components using machine tools
+Develop technical methods or processes
+Create physical models or prototypes
+Develop software applications
+Survey land or bodies of water

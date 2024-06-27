@@ -1,0 +1,100 @@
+Read instances: 0.71 s
+Generate matrices: 35.96 s
+The optimal value is 0.2834375
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Engaging and Assessing Students with Plickers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Write a Resume (Project-Centered Course) (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Charts and Dashboards Using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get started with Jira (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Cypress API test automation for absolute beginners (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: How to make invitations using Canva (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Managing Human Capital in Retail (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 2.98
+Job affinity: 71.875
+Skills per Unit
+	 Initial Activity:
+	 Managing Human Capital in Retail:
+		 Conduct employee training programs
+		 Develop operating strategies, plans or procedures
+		 Hire staff
+		 Manage human resources activities
+		 Recruit staff
+		 Supervise employees
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Create Charts and Dashboards Using Microsoft Excel:
+		 Prepare operational reports or records
+	 Get started with Jira:
+		 Confer with peers to accomplish work
+		 Manage operations, research or logistics projects
+		 Manage outreach activities
+	 Create Employee Management System with When I Work:
+		 Develop operating strategies, plans or procedures
+		 Direct administrative or support services
+		 Evaluate employee performance
+		 Hire staff
+		 Recruit staff
+	 Cypress API test automation for absolute beginners:
+		 Direct administrative or support services
+		 Prepare tests
+	 How to Get Into Web Development:
+		 Advise others on career or personal development
+	 How to make invitations using Canva:
+		 Coordinate special events or programs
+	 Building a Generative AI-Ready Organization:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop educational goals, standards, policies or procedures
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Direct facility maintenance or repair activities
+	 Engaging and Assessing Students with Plickers:
+		 Administer tests to assess educational needs or progress
+		 Analyse data to inform operational decisions or activities
+	 How to Write a Resume (Project-Centered Course):
+		 Prepare forms or applications
+		 Prepare reports detailing student activities or performance
+Skills for Job Other Education Managers
+Direct administrative or support services
+Represent the organisation in external relations
+Evaluate employee performance
+Recruit staff
+Direct facility maintenance or repair activities
+Advise others on career or personal development
+Supervise employees
+Conduct financial or regulatory audits
+Confer with peers to accomplish work
+Develop operating strategies, plans or procedures
+Teach classes in area of specialisation
+Manage outreach activities
+Schedule activities or facility use
+Prepare financial documents, reports or budgets
+Prepare operational budgets
+Coordinate special events or programs
+Communicate with government agencies
+Analyse data to inform operational decisions or activities
+Prepare forms or applications
+Develop organisational policies or programs
+Manage operations, research or logistics projects
+Prepare operational reports or records
+Prepare reports detailing student activities or performance
+Manage human resources activities
+Prepare tests
+Administer tests to assess educational needs or progress
+Prepare proposals or grant applications to obtain project funding
+Prepare staff schedules or work assignments
+Conduct employee training programs
+Hire staff
+Recommend organisational process or policy changes
+Develop educational goals, standards, policies or procedures

@@ -1,0 +1,34 @@
+Read instances: 0.72 s
+Generate matrices: 5.83 s
+The optimal value is 0.005
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Searching for the Grand Paris (16.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leveraging AI for Enhanced Content Creation (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Sports Turf Management: Best Practices (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Academic Information Seeking (6.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.46
+Job affinity: 100.000
+Skills per Unit
+	 Initial Activity:
+	 Leveraging AI for Enhanced Content Creation:
+		 Confer with technical staff to prepare designs or operational plans
+		 Create graphical representations of structures, landscapes or aquatic systems
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Evaluate characteristics of equipment or systems
+	 Sports Turf Management: Best Practices:
+		 Design structures or facilities
+	 Searching for the Grand Paris:
+		 Direct construction activities
+	 Academic Information Seeking:
+		 Review technical documents to plan work
+Skills for Job Boat Builders and Shipwrights
+Design structures or facilities
+Create graphical representations of structures, landscapes or aquatic systems
+Direct construction activities
+Evaluate characteristics of equipment or systems
+Review technical documents to plan work
+Confer with technical staff to prepare designs or operational plans

@@ -1,0 +1,90 @@
+Read instances: 0.87 s
+Generate matrices: 26.25 s
+The optimal value is 0.23346153846153844
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting Started with Power BI Desktop (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Predicting Salaries with Decision Trees (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Applying Data Analytics in Accounting (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Managing Human Capital in Retail (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Encoder-Decoder Architecture (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Systems Engineering (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 2.28
+Job affinity: 76.923
+Skills per Unit
+	 Initial Activity:
+	 Getting Started with Power BI Desktop:
+		 Analyse business or financial data
+		 Prepare reports related to compliance matters
+	 Managing Human Capital in Retail:
+		 Administer compensation or benefits programs
+		 Conduct employee training programs
+		 Develop operating strategies, plans or procedures
+		 Supervise employees
+	 Create a Financial Statement using Microsoft Excel:
+		 Analyse business or financial data
+		 Prepare financial documents, reports or budgets
+	 Applying Data Analytics in Accounting:
+		 Analyse business or financial data
+		 Analyse financial records to improve budgeting or planning
+		 Analyse financial records to improve efficiency
+		 Conduct financial or regulatory audits
+		 Monitor organisational compliance with regulations
+	 Create Employee Management System with When I Work:
+		 Determine resource needs
+		 Develop operating strategies, plans or procedures
+		 Evaluate employee performance
+	 Predicting Salaries with Decision Trees:
+		 Compile operational data
+	 Building Production-Ready Apps with Large Language Models:
+		 Establish interpersonal business relationships to facilitate work activities
+	 Building a Generative AI-Ready Organization:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+	 Encoder-Decoder Architecture:
+		 Maintain knowledge of current developments in area of expertise
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Collect payments for goods or services
+	 Systems Engineering:
+		 Manage control system activities in organisations
+Skills for Job Finance Managers
+Supervise employees
+Direct financial operations
+Advise others on business or operational matters
+Maintain knowledge of current developments in area of expertise
+Approve expenditures
+Collect payments for goods or services
+Evaluate employee performance
+Analyse business or financial data
+Monitor flow of cash or other resources
+Monitor organisational compliance with regulations
+Analyse financial records to improve efficiency
+Establish interpersonal business relationships to facilitate work activities
+Recommend organisational process or policy changes
+Determine resource needs
+Prepare financial documents, reports or budgets
+Prepare reports related to compliance matters
+Develop operating strategies, plans or procedures
+Develop organisational policies or programs
+Conduct employee training programs
+Analyse financial records to improve budgeting or planning
+Determine pricing or monetary policies
+Manage control system activities in organisations
+Conduct financial or regulatory audits
+Administer compensation or benefits programs
+Prepare operational budgets
+Compile operational data

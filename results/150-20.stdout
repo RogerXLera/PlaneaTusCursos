@@ -1,0 +1,51 @@
+Read instances: 0.71 s
+Generate matrices: 8.85 s
+The optimal value is 0.335
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: AWS CodePipeline Beginner's Guide (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Epistemic Quest for Truth: Introduction to epi (6.0) 	 Start Period: 1 	 End Period: 1
+Activity: Basics of Statutory Compliance and Taxation (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Google Sheets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Stock Valuation with Comparable Companies Analysis (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Scrum Master Profession (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.75
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Stock Valuation with Comparable Companies Analysis:
+		 Calculate financial data
+		 Prepare research or technical reports
+	 Introduction to Scrum Master Profession:
+		 Train others in operational procedures
+	 Basics of Statutory Compliance and Taxation:
+		 Prepare documentation for contracts, transactions or regulatory compliance
+	 Create a Financial Statement using Google Sheets:
+		 Execute sales or other financial transactions
+	 AWS CodePipeline Beginner's Guide:
+		 Compile data or documentation
+		 Coordinate operational activities
+	 The Epistemic Quest for Truth: Introduction to epistemology:
+		 Maintain current knowledge related to work activities
+	 Lesson | Understand and Be Understood on the Phone:
+		 Check data for recording errors
+		 Enter information into databases or software programs
+Skills for Job Payroll Clerks
+Record staff information
+Verify employee information
+Compile data or documentation
+Provide information to co-workers
+Reconcile records of sales or other financial transactions
+Enter information into databases or software programs
+Distribute materials to employees or customers
+Maintain current knowledge related to work activities
+Calculate financial data
+Execute sales or other financial transactions
+Check data for recording errors
+Prepare documentation for contracts, transactions or regulatory compliance
+Train others in operational procedures
+Prepare research or technical reports
+Coordinate operational activities

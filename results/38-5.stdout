@@ -1,0 +1,50 @@
+Read instances: 0.72 s
+Generate matrices: 16.60 s
+The optimal value is 0.6823684210526315
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create your own Sudoku Solver using AI and Python (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Production-Ready Apps with Large Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Create a Website Using Wordpress : Free Hosting &  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Spatial Analysis in GeoDa (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Image Generation (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.35
+Job affinity: 31.579
+Skills per Unit
+	 Initial Activity:
+	 Create a Website Using Wordpress : Free Hosting & Sub-domain:
+		 Coordinate activities with suppliers, contractors, clients, or other departments
+	 Create your own Sudoku Solver using AI and Python:
+		 Determine operational criteria or specifications
+	 Getting Started with Spatial Analysis in GeoDa:
+		 Advise others on technical requirements for surveying, mapping and spatial information systems
+		 Analyse physical, survey, or geographic data
+	 Building Production-Ready Apps with Large Language Models:
+		 Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Create maps
+	 Introduction to Image Generation:
+		 Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+Skills for Job Surveyors and Spatial Scientists
+Calculate geographic positions from survey data
+Verify mathematical calculations
+Document technical design details
+Create maps
+Direct surveying activities
+Advise others on technical requirements for surveying, mapping and spatial information systems
+Gather physical survey data
+Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+Coordinate activities with suppliers, contractors, clients, or other departments
+Review documents or materials for compliance with policies or regulations
+Analyse physical, survey, or geographic data
+Communicate with government agencies
+Develop surveying and land information systems
+Apply knowledge, understanding and respect of culturally significant sites or objects
+Determine operational criteria or specifications
+Survey land or bodies of water
+Train staff on proper operational procedures
+Calibrate scientific or technical equipment
+Testify at legal or legislative proceedings

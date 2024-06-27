@@ -1,0 +1,49 @@
+Read instances: 0.74 s
+Generate matrices: 7.83 s
+The optimal value is 0.095
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Leading and Developing Top Talent (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Financial Management for Product Leaders (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Talend Data Integration Certification Preparation  (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Management of International Development: Towards A (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create a Financial Statement using Google Sheets (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.73
+Job affinity: 90.909
+Skills per Unit
+	 Initial Activity:
+	 Management of International Development: Towards Agenda 2030:
+		 Communicate with government agencies
+	 Create your e-commerce store with Shopify:
+		 Coordinate logistics or other business operations
+	 Financial Management for Product Leaders:
+		 Determine the value of goods or services
+		 Negotiate contracts with clients or service providers
+	 Create a Financial Statement using Google Sheets:
+		 Execute sales or other financial transactions
+	 Leading and Developing Top Talent:
+		 Supervise employees
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Procure goods or services
+	 Talend Data Integration Certification Preparation training:
+		 Calculate data to inform organisational operations
+		 Maintain data in information systems or databases
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+Skills for Job Auctioneers, and Stock and Station Agents
+Execute sales or other financial transactions
+Procure goods or services
+Calculate data to inform organisational operations
+Negotiate contracts with clients or service providers
+Coordinate logistics or other business operations
+Supervise employees
+Communicate with government agencies
+Maintain data in information systems or databases
+Determine the value of goods or services
+Advise others on business or operational matters
+Evaluate condition of properties

@@ -1,0 +1,46 @@
+Read instances: 0.75 s
+Generate matrices: 5.01 s
+The optimal value is 0.698
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Emergence of Oncofertility (Past, Present & Fu (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Fundamentals for Implementing a Hypertension Progr (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating a Healthy Culture: Addressing Workplace B (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 30.000
+Skills per Unit
+	 Initial Activity:
+	 Fundamentals for Implementing a Hypertension Program:
+		 Diagnose medical conditions
+		 Prescribe medications
+	 The Emergence of Oncofertility (Past, Present & Future):
+		 Collaborate with health care professionals to plan or provide treatment
+		 Conduct research to increase knowledge about medical issues
+	 Creating a Healthy Culture: Addressing Workplace Bullying:
+		 Provide health and wellness advice to patients, program participants or caregivers
+	 Lesson | Organize Your Pitch:
+		 Prepare patients for medical procedures
+Skills for Job Anaesthetists
+Collaborate with health care professionals to plan or provide treatment
+Record patient medical histories
+Monitor patient conditions during treatments, procedures or activities
+Administer anaesthetics or sedatives to control pain
+Position patients for treatment or examination
+Monitor patient progress or responses to treatments
+Examine patients to assess general physical condition
+Train medical providers
+Supervise patient care staff
+Order medical diagnostic or clinical tests
+Schedule medical facility use
+Implement advanced life support techniques
+Prepare patients for medical procedures
+Diagnose medical conditions
+Direct health care delivery programs
+Prescribe medications
+Prescribe treatments or therapies
+Refer patients to other health care practitioners or health resources
+Provide health and wellness advice to patients, program participants or caregivers
+Conduct research to increase knowledge about medical issues

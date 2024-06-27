@@ -1,0 +1,65 @@
+Read instances: 0.78 s
+Generate matrices: 66.80 s
+The optimal value is 0.5183333333333333
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Amazon Bedrock - Getting Started with Generative A (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Voice of Change: Communicate with Teams for GenAI  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Project Tracker with Airtable (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Prompt Engineering Generative AI for Marketing & A (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.40
+Job affinity: 48.148
+Skills per Unit
+	 Initial Activity:
+	 Prompt Engineering Generative AI for Marketing & Advertising:
+		 Analyse market research data
+	 Introduction to Generative AI Studio:
+		 Create models of engineering designs or methods
+		 Develop software applications
+	 Amazon Bedrock - Getting Started with Generative AI:
+		 Create models of engineering designs or methods
+		 Procure materials, equipment or other resources
+		 Promote goods, services, or programs
+	 Voice of Change: Communicate with Teams for GenAI Adoption:
+		 Communicate organisational information to customers or other stakeholders
+		 Develop operating strategies, plans or procedures
+		 Develop organisational goals or objectives
+		 Develop organisational policies or programs
+	 Create a Project Tracker with Airtable:
+		 Confer with peers to accomplish work
+		 Develop detailed project plans
+		 Manage operations, research or logistics projects
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Direct facility maintenance or repair activities
+Skills for Job Engineering Managers
+Manage construction activities
+Confer with peers to accomplish work
+Approve expenditures
+Negotiate project specifications
+Manage operations, research or logistics projects
+Develop detailed project plans
+Prepare financial documents, reports or budgets
+Communicate organisational information to customers or other stakeholders
+Coordinate project activities with other staff or departments
+Evaluate environmental impact of operational or development activities
+Direct facility maintenance or repair activities
+Procure materials, equipment or other resources
+Identify environmental concerns
+Develop organisational goals or objectives
+Create models of engineering designs or methods
+Implement organisational process or policy changes
+Develop software applications
+Develop operating strategies, plans or procedures
+Prepare operational budgets
+Manage human resources activities
+Develop organisational policies or programs
+Analyse market research data
+Estimate demand for goods or services
+Develop sustainable organisational policies or practices
+Communicate with government agencies
+Present information to the public
+Promote goods, services, or programs

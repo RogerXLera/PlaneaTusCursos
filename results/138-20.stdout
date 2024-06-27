@@ -1,0 +1,56 @@
+Read instances: 0.70 s
+Generate matrices: 9.58 s
+The optimal value is 0.3544117647058823
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Soul Beliefs: Causes and Consequences - Unit 2: Be (16.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to AI in the Data Center (5.0) 	 Start Period: 1 	 End Period: 2
+Activity: Sourcing Analytics (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Attention Mechanism (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Improving Classroom Management with Class Dojo (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.90
+Job affinity: 64.706
+Skills per Unit
+	 Initial Activity:
+	 Create Employee Management System with When I Work:
+		 Perform human resources activities
+	 Sourcing Analytics:
+		 Order materials, supplies, or equipment
+	 Introduction to AI in the Data Center:
+		 Arrange facility schedules
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Discuss service options or needs with clients
+		 Gather information in order to provide services to clients
+	 Attention Mechanism:
+		 Promote goods, services, or programs
+	 Improving Classroom Management with Class Dojo:
+		 Provide counsel, comfort or encouragement to individuals or families
+	 Soul Beliefs: Causes and Consequences - Unit 2: Belief Systems:
+		 Direct funeral or mortuary activities
+		 Embalm corpses
+		 Handle caskets and coffins
+	 Launch your first online meeting with ZOOM:
+		 Maintain financial or account records
+Skills for Job Funeral Workers
+Direct funeral or mortuary activities
+Discuss service options or needs with clients
+Provide counsel, comfort or encouragement to individuals or families
+Gather information in order to provide services to clients
+Clean work areas or facilities
+Embalm corpses
+Arrange facility schedules
+Usher patrons to seats or exits
+Maintain financial or account records
+Order materials, supplies, or equipment
+Provide escort or transportation
+Arrange items for use or display
+Train service staff
+Perform human resources activities
+Supervise service workers
+Handle caskets and coffins
+Promote goods, services, or programs

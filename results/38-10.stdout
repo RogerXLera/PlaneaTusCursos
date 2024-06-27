@@ -1,0 +1,52 @@
+Read instances: 0.78 s
+Generate matrices: 16.37 s
+The optimal value is 0.5781578947368421
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Data and Urban Governance (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Covid-19 Death Medical Analysis & Visualization us (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Generative AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Image Generation (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Get started with Upwork (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.38
+Job affinity: 42.105
+Skills per Unit
+	 Initial Activity:
+	 Covid-19 Death Medical Analysis & Visualization using Plotly:
+		 Create maps
+	 Introduction to Generative AI:
+		 Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+	 Introduction to Image Generation:
+		 Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+	 Data and Urban Governance:
+		 Advise others on technical requirements for surveying, mapping and spatial information systems
+		 Analyse physical, survey, or geographic data
+		 Communicate with government agencies
+		 Develop surveying and land information systems
+	 Get started with Upwork:
+		 Coordinate activities with suppliers, contractors, clients, or other departments
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Apply knowledge, understanding and respect of culturally significant sites or objects
+Skills for Job Surveyors and Spatial Scientists
+Calculate geographic positions from survey data
+Verify mathematical calculations
+Document technical design details
+Create maps
+Direct surveying activities
+Advise others on technical requirements for surveying, mapping and spatial information systems
+Gather physical survey data
+Apply mathematical principles or statistical approaches to solve problems in scientific or applied fields
+Coordinate activities with suppliers, contractors, clients, or other departments
+Review documents or materials for compliance with policies or regulations
+Analyse physical, survey, or geographic data
+Communicate with government agencies
+Develop surveying and land information systems
+Apply knowledge, understanding and respect of culturally significant sites or objects
+Determine operational criteria or specifications
+Survey land or bodies of water
+Train staff on proper operational procedures
+Calibrate scientific or technical equipment
+Testify at legal or legislative proceedings

@@ -1,0 +1,47 @@
+Read instances: 0.73 s
+Generate matrices: 2.39 s
+The optimal value is 0.46699999999999997
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: CI/CD Pipelines and Deployment Strategies (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Cooking for Busy Healthy People (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Sports Turf Management: Best Practices (7.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 53.333
+Skills per Unit
+	 Initial Activity:
+	 Challenges of Agribusiness Management:
+		 Harvest agricultural products
+		 Package agricultural products for shipment or further processing
+	 AWS: CI/CD Pipelines and Deployment Strategies:
+		 Remove debris from work sites
+	 Cooking for Busy Healthy People:
+		 Harvest agricultural products
+		 Plant crops, trees or other plants
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Evaluate quality or condition of plants or crops
+		 Harvest agricultural products
+	 Sports Turf Management: Best Practices:
+		 Clean equipment or facilities
+		 Cultivate and maintain lawns, plants and gardens
+Skills for Job Horticultural Nursery Assistants
+Plant crops, trees or other plants
+Cultivate and maintain lawns, plants and gardens
+Irrigate lawns, trees or plants
+Prepare land for agricultural use
+Transport animals, crops, or equipment
+Remove debris from work sites
+Clean equipment or facilities
+Apply chemical solutions to plants for protection or to enhance growth
+Sell agricultural products
+Install equipment to protect or support trees
+Operate grounds maintenance equipment
+Package agricultural products for shipment or further processing
+Harvest agricultural products
+Evaluate quality or condition of plants or crops
+Maintain operational records

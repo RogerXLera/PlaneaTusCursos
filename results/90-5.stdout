@@ -1,0 +1,32 @@
+Read instances: 0.69 s
+Generate matrices: 2.36 s
+The optimal value is 0.8535714285714285
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Materials Science: 10 Things Every Engineer Should (8.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.02
+Job affinity: 14.286
+Skills per Unit
+	 Initial Activity:
+	 Mastering Digital Twins:
+		 Create construction or installation diagrams
+	 Materials Science: 10 Things Every Engineer Should Know:
+		 Estimate materials requirements for projects
+Skills for Job Floor Finishers
+Install carpet or flooring
+Cut carpet, vinyl or other flexible materials
+Clean work sites
+Measure materials or objects for installation or assembly
+Plan layout of construction, installation or repairs
+Smooth surfaces with abrasive materials or tools
+Prepare surfaces for finishing
+Inspect work sites to determine condition or necessary repairs
+Mark reference points on construction materials
+Remove worn, damaged or outdated materials from work areas
+Create construction or installation diagrams
+Estimate materials requirements for projects
+Measure work site dimensions
+Review blueprints or specifications to determine work requirements

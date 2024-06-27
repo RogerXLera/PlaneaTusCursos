@@ -1,0 +1,43 @@
+Read instances: 0.69 s
+Generate matrices: 2.26 s
+The optimal value is 0.599
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Understanding Plants - Part II: Fundamentals of Pl (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Challenges of Agribusiness Management (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Black Agricultural Solutions to Food Apartheid: A  (5.0) 	 Start Period: 2 	 End Period: 2
+Activity: Infection Prevention in Nursing Homes (5.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.07
+Job affinity: 40.000
+Skills per Unit
+	 Initial Activity:
+	 Challenges of Agribusiness Management:
+		 Harvest agricultural products
+		 Package agricultural products for shipment or further processing
+	 Infection Prevention in Nursing Homes:
+		 Clean equipment or facilities
+	 Understanding Plants - Part II: Fundamentals of Plant Biology:
+		 Apply chemical solutions to plants for protection or to enhance growth
+		 Evaluate quality or condition of plants or crops
+		 Harvest agricultural products
+	 Black Agricultural Solutions to Food Apartheid: A Teach-Out:
+		 Cultivate and maintain lawns, plants and gardens
+		 Harvest agricultural products
+Skills for Job Horticultural Nursery Assistants
+Plant crops, trees or other plants
+Cultivate and maintain lawns, plants and gardens
+Irrigate lawns, trees or plants
+Prepare land for agricultural use
+Transport animals, crops, or equipment
+Remove debris from work sites
+Clean equipment or facilities
+Apply chemical solutions to plants for protection or to enhance growth
+Sell agricultural products
+Install equipment to protect or support trees
+Operate grounds maintenance equipment
+Package agricultural products for shipment or further processing
+Harvest agricultural products
+Evaluate quality or condition of plants or crops
+Maintain operational records

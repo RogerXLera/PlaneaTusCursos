@@ -1,0 +1,38 @@
+Read instances: 0.75 s
+Generate matrices: 5.13 s
+The optimal value is 0.6142307692307692
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Create a Mockup in Figma (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI - Português Brasilei (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.14
+Job affinity: 38.462
+Skills per Unit
+	 Initial Activity:
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Create a Mockup in Figma:
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+		 Draw detailed or technical illustrations
+	 Introduction to Generative AI - Português Brasileiro:
+		 Conduct research to inform art, designs or other work
+	 Lesson | Telephone Language:
+		 Confer with clients to determine needs
+Skills for Job Interior Designers
+Draw detailed or technical illustrations
+Coordinate construction or installation activities
+Confer with clients to determine needs
+Plan facility layouts or designs
+Conduct research to inform art, designs or other work
+Incorporate green features into the design of structures or facilities
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Inspect facilities or sites to determine if they meet specifications or standards
+Review details of technical drawings or specifications
+Present work to clients for approval
+Estimate costs for projects or productions
+Select materials or props
+Maintain inventories of materials, equipment or products

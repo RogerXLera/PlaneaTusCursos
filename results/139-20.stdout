@@ -1,0 +1,63 @@
+Read instances: 0.73 s
+Generate matrices: 10.94 s
+The optimal value is 0.4218421052631579
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Sustainable high-end tourism (9.0) 	 Start Period: 1 	 End Period: 1
+Activity: Inspiring Peak Performance on Technical Teams (12.0) 	 Start Period: 1 	 End Period: 2
+Activity: Pioneers of Medicine and Medical Breakthroughs in  (9.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hosting a Static Website (HTML/CSS/Javascript) in  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Large Language Models - Español (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Express Yourself: Pronunciation (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Organize Your Pitch (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.14
+Job affinity: 57.895
+Skills per Unit
+	 Initial Activity:
+	 Inspiring Peak Performance on Technical Teams:
+		 Explain regulations, policies or procedures
+		 Perform administrative or clerical tasks
+	 Pioneers of Medicine and Medical Breakthroughs in Taiwan:
+		 Administer first aid
+		 Promote goods, services, or programs
+	 Hosting a Static Website (HTML/CSS/Javascript) in AWS S3:
+		 Distribute resources to patrons or employees
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Monitor availability of equipment or supplies
+	 Introduction to Large Language Models - Español:
+		 Gather information in order to provide services to clients
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive vehicles to transport patrons
+	 Sustainable high-end tourism:
+		 Provide attraction or event information to patrons
+	 Lesson | Express Yourself: Pronunciation:
+		 Teach daily living skills or behaviours
+	 Lesson | Get Ready for the Interview:
+		 Demonstrate activity techniques or equipment use
+	 Lesson | Organize Your Pitch:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Gallery, Museum and Tour Guides
+Guide patrons on tours
+Drive vehicles to transport patrons
+Provide attraction or event information to patrons
+Monitor patron activities to identify problems or potential problems
+Provide patrons with directions to locales or attractions
+Explain regulations, policies or procedures
+Perform administrative or clerical tasks
+Organise recreational activities or events
+Respond to customer inquiries
+Teach daily living skills or behaviours
+Monitor availability of equipment or supplies
+Administer first aid
+Demonstrate activity techniques or equipment use
+Gather information in order to provide services to clients
+Greet customers, patrons or visitors
+Distribute resources to patrons or employees
+Promote goods, services, or programs
+Sell goods or services
+Train service staff

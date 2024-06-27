@@ -1,0 +1,83 @@
+Read instances: 0.76 s
+Generate matrices: 29.98 s
+The optimal value is 0.23346153846153844
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to Get Into Web Development (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building a Generative AI-Ready Organization (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Write Eff (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Microsoft Excel (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Leading and Developing Top Talent (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create a Financial Statement using Google Sheets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Metaliteracy: Empowering Yourself in a Connected W (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Management of International Development: Towards A (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create Employee Management System with When I Work (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 2.38
+Job affinity: 76.923
+Skills per Unit
+	 Initial Activity:
+	 Create a Financial Statement using Microsoft Excel:
+		 Prepare financial documents, reports or budgets
+	 Management of International Development: Towards Agenda 2030:
+		 Communicate with government agencies
+		 Develop educational goals, standards, policies or procedures
+		 Develop operating strategies, plans or procedures
+		 Evaluate program effectiveness
+	 Create a Financial Statement using Google Sheets:
+		 Manage organisational or project budgets
+	 Getting Started with Microsoft Word:
+		 Maintain regulatory or compliance documentation
+	 Create Employee Management System with When I Work:
+		 Determine resource needs
+		 Develop operating strategies, plans or procedures
+		 Develop safety standards, policies or procedures
+		 Evaluate employee performance
+		 Recruit staff
+	 Leading and Developing Top Talent:
+		 Conduct employee training programs
+		 Develop operating strategies, plans or procedures
+		 Supervise employees
+	 How to Get Into Web Development:
+		 Advise others on career or personal development
+		 Determine operational compliance with regulations or standards
+	 Building a Generative AI-Ready Organization:
+		 Develop operating strategies, plans or procedures
+		 Develop organisational policies or programs
+		 Direct organisational operations, projects or services
+	 Duet AI in Gmail:
+		 Advise others on business or operational matters
+	 Metaliteracy: Empowering Yourself in a Connected World:
+		 Present information to the public
+	 Lesson | Business English Skills: How to Write Effective Openings and Closings to Emails:
+		 Develop promotional materials
+Skills for Job Child Care Centre Managers
+Teach classes in area of specialisation
+Advise others on career or personal development
+Supervise employees
+Direct organisational operations, projects or services
+Monitor performance of organisational members or partners
+Develop promotional materials
+Develop organisational policies or programs
+Develop educational goals, standards, policies or procedures
+Maintain regulatory or compliance documentation
+Maintain operational records
+Estimate labour requirements
+Determine resource needs
+Approve expenditures
+Manage organisational or project budgets
+Develop operating strategies, plans or procedures
+Develop safety standards, policies or procedures
+Evaluate employee performance
+Conduct employee training programs
+Recruit staff
+Advise others on business or operational matters
+Evaluate program effectiveness
+Determine operational compliance with regulations or standards
+Prepare financial documents, reports or budgets
+Prepare proposals or grant applications to obtain project funding
+Communicate with government agencies
+Present information to the public

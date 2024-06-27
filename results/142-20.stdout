@@ -1,0 +1,83 @@
+Read instances: 0.73 s
+Generate matrices: 9.35 s
+The optimal value is 0.38051724137931037
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Rust for DevOps (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Communicating During Global Emergencies (8.0) 	 Start Period: 1 	 End Period: 1
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Generative AI Essentials: Overview and Impact (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Use Generative AI as Your Thought Partner (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Public Health Perspectives on Sustainable Diets (7.0) 	 Start Period: 2 	 End Period: 2
+Activity: Community Awareness Course: Sexuality and Disabili (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Responsible AI (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The Road to Autonomy: Exploring EV Technologies (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Launch your first online meeting with ZOOM (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Get Ready for the Interview (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.49
+Job affinity: 62.069
+Skills per Unit
+	 Initial Activity:
+	 Rust for DevOps:
+		 Monitor environmental conditions to detect hazards
+		 Perform administrative or clerical tasks
+	 Generative AI Essentials: Overview and Impact:
+		 Explain regulations, policies or procedures
+	 Use Generative AI as Your Thought Partner:
+		 Maintain practical knowledge of natural areas
+		 Participate in or lead outdoor adventure activities
+	 Public Health Perspectives on Sustainable Diets:
+		 Determine methods to minimise environmental impact
+		 Prepare food
+	 Communicating During Global Emergencies:
+		 Communicate safety or hazard information to others
+		 Notify others of emergencies, problems or hazards
+	 Community Awareness Course: Sexuality and Disability:
+		 Assist individuals with accessibility needs
+	 Introduction to Responsible AI:
+		 Monitor activities of individuals to ensure safety or compliance with rules
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Arrange services or reservations for patrons
+		 Gather information in order to provide services to clients
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Manage budgets for personal services operations
+		 Monitor availability of equipment or supplies
+	 The Road to Autonomy: Exploring EV Technologies:
+		 Drive vehicles to transport patrons
+	 Launch your first online meeting with ZOOM:
+		 Maintain financial or account records
+	 Lesson | Get Ready for the Interview:
+		 Demonstrate activity techniques or equipment use
+Skills for Job Outdoor Adventure Guides
+Participate in or lead outdoor adventure activities
+Organise recreational activities or events
+Provide attraction or event information to patrons
+Monitor environment to ensure safety
+Communicate safety or hazard information to others
+Monitor activities of individuals to ensure safety or compliance with rules
+Greet customers, patrons or visitors
+Notify others of emergencies, problems or hazards
+Advise and answer questions on historically, culturally or environmentally relevant local interest points
+Monitor environmental conditions to detect hazards
+Apply knowledge, understanding and respect of culturally significant sites or objects
+Gather information in order to provide services to clients
+Perform administrative or clerical tasks
+Maintain practical knowledge of natural areas
+Monitor availability of equipment or supplies
+Determine methods to minimise environmental impact
+Inspect equipment to ensure safety or proper functioning
+Demonstrate activity techniques or equipment use
+Guide patrons on tours
+Administer first aid
+Sell goods or services
+Arrange services or reservations for patrons
+Resolve customer complaints or problems
+Assist individuals with accessibility needs
+Prepare food
+Drive vehicles to transport patrons
+Manage budgets for personal services operations
+Maintain financial or account records
+Explain regulations, policies or procedures

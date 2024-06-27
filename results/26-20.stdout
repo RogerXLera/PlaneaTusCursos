@@ -1,0 +1,62 @@
+Read instances: 0.70 s
+Generate matrices: 6.66 s
+The optimal value is 0.005
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI for Leaders (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Twitter Clone Front-End with ReactJS (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: How to make invitations using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Duet AI in Gmail (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Build a Professional Resume using Canva (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Art of Storytelling (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Journalism Skills for Engaged Citizens (22.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.55
+Job affinity: 100.000
+Skills per Unit
+	 Initial Activity:
+	 Generative AI for Leaders:
+		 Coordinate logistics for productions or events
+	 The Art of Storytelling:
+		 Analyse information obtained from news sources
+		 Determine presentation subjects or content
+	 Build a Twitter Clone Front-End with ReactJS:
+		 Monitor current trends
+	 How to make invitations using Canva:
+		 Edit audio, photographs or video recordings
+		 Manage content of broadcasts or presentations
+	 Duet AI in Gmail:
+		 Coordinate reporting or editing activities
+		 Edit written materials
+	 Introduction to Generative AI Studio - Français:
+		 Inform viewers, listeners or audiences
+		 Operate communications, transmissions or broadcasting equipment
+	 Journalism Skills for Engaged Citizens:
+		 Analyse information obtained from news sources
+		 Gather information for news stories
+		 Interview others for news or entertainment purposes
+		 Report news to the public
+	 Build a Professional Resume using Canva:
+		 Inform viewers, listeners or audiences
+		 Write informational material
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Operate still or video cameras or related equipment
+Skills for Job Journalists and Other Writers
+Gather information for news stories
+Analyse information obtained from news sources
+Edit written materials
+Report news to the public
+Write informational material
+Coordinate reporting or editing activities
+Operate still or video cameras or related equipment
+Inform viewers, listeners or audiences
+Coordinate logistics for productions or events
+Manage content of broadcasts or presentations
+Determine presentation subjects or content
+Operate communications, transmissions or broadcasting equipment
+Edit audio, photographs or video recordings
+Interview others for news or entertainment purposes
+Monitor current trends

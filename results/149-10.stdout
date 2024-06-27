@@ -1,0 +1,61 @@
+Read instances: 0.73 s
+Generate matrices: 5.75 s
+The optimal value is 0.33499999999999996
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Coding with Generative AI (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Analyzing Company Performance using Ratios (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Generative AI Studio - Français (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build your first Search Engine using AWS Kendra (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Understand and Be Understood on the Phone (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to CRM with HubSpot (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.35
+Job affinity: 66.667
+Skills per Unit
+	 Initial Activity:
+	 Analyzing Company Performance using Ratios:
+		 Calculate financial data
+		 Maintain financial or account records
+	 Introduction to CRM with HubSpot:
+		 Execute sales or other financial transactions
+	 Coding with Generative AI:
+		 Code data or other information
+		 Compile data or documentation
+		 Search files, databases or reference materials to obtain information
+	 Flush Out a Feature on Coursera in Miro:
+		 Maintain inventory records
+	 Build your first Search Engine using AWS Kendra:
+		 Search files, databases or reference materials to obtain information
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 Introduction to Generative AI Studio - Français:
+		 Operate computers or computerised equipment
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 File documents or records
+	 Lesson | Understand and Be Understood on the Phone:
+		 Answer telephones to direct calls or provide information
+Skills for Job Bookkeepers
+Verify accuracy of financial or transactional data
+Calculate financial data
+Maintain financial or account records
+Operate office equipment
+Operate computers or computerised equipment
+Code data or other information
+Reconcile records of sales or other financial transactions
+Search files, databases or reference materials to obtain information
+Answer telephones to direct calls or provide information
+File documents or records
+Collect deposits, payments or fees
+Monitor financial information
+Compile data or documentation
+Calculate costs of goods or services
+Prepare documentation for contracts, transactions or regulatory compliance
+Execute sales or other financial transactions
+Prepare cash for deposit or disbursement
+Maintain inventory records

@@ -1,0 +1,37 @@
+Read instances: 0.73 s
+Generate matrices: 2.44 s
+The optimal value is 0.5825
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Python Object Basics: Functions, Recursion, and Ob (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Set up AWS Billing Alerts using AWS Budgets (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Customer Service with Python: Build a Chatbot usin (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: FPGA Softcore Processors and IP Acquisition (12.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.11
+Job affinity: 41.667
+Skills per Unit
+	 Initial Activity:
+	 Python Object Basics: Functions, Recursion, and Objects:
+		 Package objects for shipping
+	 Customer Service with Python: Build a Chatbot using ChatGPT:
+		 Discuss goods or services information with customers or patrons
+	 Set up AWS Billing Alerts using AWS Budgets:
+		 Calculate costs of goods or services
+		 Collect deposits, payments or fees
+	 FPGA Softcore Processors and IP Acquisition:
+		 Attach identification information to products, items or containers
+Skills for Job Shelf Fillers
+Discuss goods or services information with customers or patrons
+Stock supplies, merchandise, food or drink
+Package objects for shipping
+Deliver items
+Order materials, supplies, or equipment
+Collect deposits, payments or fees
+Calculate costs of goods or services
+Monitor inventories
+Inspect shipments to ensure correct order fulfilment
+Attach identification information to products, items or containers
+Distribute materials to employees or customers
+Receive shipments

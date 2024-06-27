@@ -1,0 +1,58 @@
+Read instances: 0.72 s
+Generate matrices: 16.71 s
+The optimal value is 0.137
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Data Science Challenge (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Cybersecurity Policy Foundations (12.0) 	 Start Period: 1 	 End Period: 1
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: ChatGPT for Beginners: Save time with Microsoft Ex (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Stock Valuation with Comparable Companies Analysis (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Threat Response (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.68
+Job affinity: 86.667
+Skills per Unit
+	 Initial Activity:
+	 Stock Valuation with Comparable Companies Analysis:
+		 Conduct research to gain information about products or processes
+	 ChatGPT for Beginners: Save time with Microsoft Excel:
+		 Install computer software
+		 Provide technical support for software maintenance or use
+	 Getting Started with Microsoft Word:
+		 Collaborate with others to resolve information technology issues
+		 Document design or development procedures
+	 Cybersecurity Policy Foundations:
+		 Review computer information systems, procedures and networks
+	 Data Science Challenge:
+		 Analyse data to identify or resolve operational problems
+		 Develop testing routines or procedures
+		 Test computer system operations to ensure proper functioning
+	 Linux on LinuxONE:
+		 Install computer software
+		 Monitor computer system performance to ensure proper operation
+	 Getting Started with Ubuntu Linux:
+		 Evaluate utility of software or hardware technologies
+		 Install computer software
+		 Recommend changes to improve computer or information systems
+	 Threat Response:
+		 Document operational activities
+Skills for Job ICT Support and Test Engineers
+Monitor computer system performance to ensure proper operation
+Review computer information systems, procedures and networks
+Troubleshoot issues with computer applications or systems
+Analyse data to identify or resolve operational problems
+Test software performance
+Test computer system operations to ensure proper functioning
+Install computer software
+Evaluate utility of software or hardware technologies
+Document operational activities
+Develop testing routines or procedures
+Provide technical support for software maintenance or use
+Collaborate with others to resolve information technology issues
+Recommend changes to improve computer or information systems
+Document design or development procedures
+Conduct research to gain information about products or processes

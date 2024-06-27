@@ -1,0 +1,39 @@
+Read instances: 0.70 s
+Generate matrices: 2.85 s
+The optimal value is 0.7620588235294117
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Human Predicament Complex Modeling (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Video Conferencing: Face to Face but Onli (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Protecting the World: Introducing Corrosion Scienc (11.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.12
+Job affinity: 23.529
+Skills per Unit
+	 Initial Activity:
+	 Protecting the World: Introducing Corrosion Science and Engineering:
+		 Install insulation in equipment or structures
+	 Human Predicament Complex Modeling:
+		 Fabricate parts or components
+	 Lesson | Video Conferencing: Face to Face but Online:
+		 Confer with customers or users to assess problems
+		 Install audio or communications equipment
+Skills for Job Automotive Electricians
+Install audio or communications equipment
+Drill holes in parts, equipment or materials
+Estimate costs for labour or materials
+Lay cables to connect equipment
+Repair electronic equipment
+Confer with customers or users to assess problems
+Document test results
+Connect electrical components or equipment
+Solder parts or connections between parts
+Test electrical equipment or systems to ensure proper functioning
+Inspect electrical or electronic systems for defects
+Fabricate parts or components
+Clean or repair equipment, parts or tools
+Repair electrical components
+Install vehicle parts or accessories
+Install insulation in equipment or structures
+Remove parts or components from vehicles

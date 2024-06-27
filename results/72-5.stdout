@@ -1,0 +1,53 @@
+Read instances: 0.73 s
+Generate matrices: 17.61 s
+The optimal value is 0.269
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: How Technology is Shaping Democracy and the 2020 E (3.0) 	 Start Period: 1 	 End Period: 2
+Activity: Data Science Challenge (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Amazon CodeWhisperer - Getting Started with Genera (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.44
+Job affinity: 73.333
+Skills per Unit
+	 Initial Activity:
+	 Data Science Challenge:
+		 Analyse data to identify or resolve operational problems
+		 Develop testing routines or procedures
+		 Test computer system operations to ensure proper functioning
+	 Amazon CodeWhisperer - Getting Started with Generative AI:
+		 Develop testing routines or procedures
+		 Evaluate utility of software or hardware technologies
+		 Provide technical support for software maintenance or use
+	 Linux on LinuxONE:
+		 Install computer software
+		 Monitor computer system performance to ensure proper operation
+	 Getting Started with Ubuntu Linux:
+		 Evaluate utility of software or hardware technologies
+		 Install computer software
+		 Recommend changes to improve computer or information systems
+	 How Technology is Shaping Democracy and the 2020 Election:
+		 Collaborate with others to resolve information technology issues
+		 Conduct research to gain information about products or processes
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document design or development procedures
+Skills for Job ICT Support and Test Engineers
+Monitor computer system performance to ensure proper operation
+Review computer information systems, procedures and networks
+Troubleshoot issues with computer applications or systems
+Analyse data to identify or resolve operational problems
+Test software performance
+Test computer system operations to ensure proper functioning
+Install computer software
+Evaluate utility of software or hardware technologies
+Document operational activities
+Develop testing routines or procedures
+Provide technical support for software maintenance or use
+Collaborate with others to resolve information technology issues
+Recommend changes to improve computer or information systems
+Document design or development procedures
+Conduct research to gain information about products or processes

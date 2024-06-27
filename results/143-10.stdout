@@ -1,0 +1,48 @@
+Read instances: 0.71 s
+Generate matrices: 6.51 s
+The optimal value is 0.42928571428571427
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Generative AI for Leaders (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Avoiding AI Harm (3.0) 	 Start Period: 1 	 End Period: 1
+Activity: Engaging and Assessing Students with Plickers (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Azure: create a REST API using NodeJS Serverless F (2.0) 	 Start Period: 1 	 End Period: 2
+Activity: Transformer Models and BERT Model (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Creating Interactive Learning Videos with Edpuzzle (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Create your e-commerce store with Shopify (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.75
+Job affinity: 57.143
+Skills per Unit
+	 Initial Activity:
+	 Generative AI for Leaders:
+		 Coordinate logistics for productions or events
+		 Manage operations of artistic or entertainment departments or organisations
+	 Create your e-commerce store with Shopify:
+		 Maintain inventories of materials, equipment or products
+	 Avoiding AI Harm:
+		 Maintain knowledge of laws or regulations
+	 Transformer Models and BERT Model:
+		 Promote products, activities, or organisations
+	 Azure: create a REST API using NodeJS Serverless Functions:
+		 Negotiate for services
+	 Creating Interactive Learning Videos with Edpuzzle:
+		 Maintain records, documents or other files
+	 Engaging and Assessing Students with Plickers:
+		 Provide educational information to the public
+Skills for Job Sports Coaches, Instructors and Officials
+Train others on performance techniques
+Coordinate athletic or sporting events or activities
+Coach others
+Evaluate skills of athletes or performers
+Select staff, team members or performers
+Maintain knowledge of laws or regulations
+Provide educational information to the public
+Manage operations of artistic or entertainment departments or organisations
+Maintain records, documents or other files
+Select materials or props
+Maintain inventories of materials, equipment or products
+Promote products, activities, or organisations
+Coordinate logistics for productions or events
+Negotiate for services

@@ -1,0 +1,33 @@
+Read instances: 0.70 s
+Generate matrices: 2.49 s
+The optimal value is 0.37625
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Responsible Medication Prescribing for Older Adult (4.0) 	 Start Period: 1 	 End Period: 1
+Activity: Introduction to Cataract Surgery (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Fundamental Sports related Musculoskeletal Anatomy (4.0) 	 Start Period: 2 	 End Period: 2
+Activity: Build a free website with WordPress (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.10
+Job affinity: 62.500
+Skills per Unit
+	 Initial Activity:
+	 Fundamental Sports related Musculoskeletal Anatomy:
+		 Assess physical conditions of patients to aid in diagnosis or treatment
+	 Introduction to Cataract Surgery:
+		 Adjust patient positions
+		 Hold patients to ensure proper positioning or safety
+	 Responsible Medication Prescribing for Older Adults:
+		 Move patients to or from treatment areas
+	 Build a free website with WordPress:
+		 Assist patients with daily activities
+Skills for Job Nursing Support and Personal Care Workers
+Assist patients with daily activities
+Feed patients
+Adjust patient positions
+Hold patients to ensure proper positioning or safety
+Move patients to or from treatment areas
+Assess physical conditions of patients to aid in diagnosis or treatment
+Clean patient rooms or patient treatment rooms
+Maintain medical records

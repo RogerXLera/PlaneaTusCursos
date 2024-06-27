@@ -1,0 +1,64 @@
+Read instances: 0.74 s
+Generate matrices: 12.80 s
+The optimal value is 0.365
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: The Dynamic Earth: A Course for Educators (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: The Sustainable Development Goals – A global, tran (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Building Materials and Human Health (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Interpretable machine learning applications: Part  (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: From Excel to Power BI (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: The AI Awakening: Implications for the Economy and (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: Fundamentals of Speechwriting (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.25
+Job affinity: 63.636
+Skills per Unit
+	 Initial Activity:
+	 Interpretable machine learning applications: Part 3:
+		 Analyse test or validation data
+	 Building Materials and Human Health:
+		 Advise others on management of emergencies or hazardous situations or materials
+		 Determine methods to minimise environmental impact of activities
+	 From Excel to Power BI:
+		 Interpret research or operational data
+	 Google Cloud VMware Engine:
+		 Develop software or applications for scientific or technical use
+	 The Dynamic Earth: A Course for Educators:
+		 Analyse geological or geographical data
+		 Analyse geological samples
+		 Communicate results of environmental research
+		 Instruct tertiary students in physical or life sciences
+	 The AI Awakening: Implications for the Economy and Society:
+		 Coordinate cross-disciplinary research programs
+	 The Sustainable Development Goals – A global, transdisciplinary vision for the future:
+		 Advise others about environmental management or conservation
+		 Develop sustainable industrial or development methods
+		 Research impacts of environmental conservation initiatives
+	 Fundamentals of Speechwriting:
+		 Prepare scientific or technical reports or presentations
+Skills for Job Geologists, Geophysicists and Hydrogeologists
+Interpret research or operational data
+Analyse geological or geographical data
+Prepare maps
+Locate natural resources using geospatial or other environmental data
+Research geological features or processes
+Review professional literature to maintain professional knowledge
+Develop software or applications for scientific or technical use
+Measure environmental characteristics
+Develop plans to manage natural or renewable resources
+Review plans or proposals for environmental conservation
+Determine methods to minimise environmental impact of activities
+Coordinate cross-disciplinary research programs
+Research impacts of environmental conservation initiatives
+Research hydrologic features or processes
+Advise others on management of emergencies or hazardous situations or materials
+Analyse test or validation data
+Advise others about environmental management or conservation
+Develop sustainable industrial or development methods
+Communicate results of environmental research
+Instruct tertiary students in physical or life sciences
+Prepare scientific or technical reports or presentations
+Analyse geological samples

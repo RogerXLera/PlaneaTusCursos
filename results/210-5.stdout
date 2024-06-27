@@ -1,0 +1,48 @@
+Read instances: 0.80 s
+Generate matrices: 2.99 s
+The optimal value is 0.725
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Leveraging Virtual Assistants for Personal Product (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Finite Element Analysis Convergence and Mesh Indep (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Plastic electronics (6.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.06
+Job affinity: 27.273
+Skills per Unit
+	 Initial Activity:
+	 Leveraging Virtual Assistants for Personal Productivity:
+		 Assist machine operators
+	 Finite Element Analysis Convergence and Mesh Independence:
+		 Compare physical characteristics of materials or products to specifications or standards
+		 Review blueprints or other instructions to determine operational methods or sequences
+	 Plastic electronics:
+		 Inspect plastic or composite products
+		 Place materials into or onto moulds
+	 Lesson | Telephone Language:
+		 Confer with others to resolve production problems or equipment malfunctions
+Skills for Job Plastics and Rubber Factory Workers
+Operate plastic or rubber forming equipment
+Load materials into production equipment
+Package materials or products
+Move products, materials or equipment between work areas
+Adjust equipment controls to regulate flow of production
+Cut industrial materials in preparation for fabrication or processing
+Sort materials or products for processing, storing, shipping or grading
+Prepare moulds or casts for production
+Remove work pieces from moulds
+Clean work areas
+Clean production equipment
+Assist machine operators
+Watch equipment in operation to detect malfunctions
+Place materials into or onto moulds
+Record operational or production data
+Apply parting agents or other solutions to moulds
+Inspect plastic or composite products
+Review blueprints or other instructions to determine operational methods or sequences
+Weigh products or materials
+Compare physical characteristics of materials or products to specifications or standards
+Notify others of equipment repair or maintenance needs
+Confer with others to resolve production problems or equipment malfunctions

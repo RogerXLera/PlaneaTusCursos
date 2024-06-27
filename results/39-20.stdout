@@ -1,0 +1,48 @@
+Read instances: 0.75 s
+Generate matrices: 5.42 s
+The optimal value is 0.3857692307692308
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Flush Out a Feature on Coursera in Miro (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: DevOps on Alibaba Cloud (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Lesson | Telephone Language (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Multi-Cluster, Multi-Cloud with Anthos (10.0) 	 Start Period: 2 	 End Period: 2
+Activity: Visual Communication through zines using Scribus & (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.49
+Job affinity: 61.538
+Skills per Unit
+	 Initial Activity:
+	 Visual Communication through zines using Scribus & Issuu.com:
+		 Draw detailed or technical illustrations
+	 Flush Out a Feature on Coursera in Miro:
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+		 Maintain inventories of materials, equipment or products
+	 DevOps on Alibaba Cloud:
+		 Coordinate construction or installation activities
+	 Multi-Cluster, Multi-Cloud with Anthos:
+		 Plan facility layouts or designs
+	 Planning a Generative AI Project:
+		 Conduct research to inform art, designs or other work
+		 Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+	 Golf Course Management: Best Practices:
+		 Incorporate green features into the design of structures or facilities
+	 Lesson | Telephone Language:
+		 Confer with clients to determine needs
+Skills for Job Interior Designers
+Draw detailed or technical illustrations
+Coordinate construction or installation activities
+Confer with clients to determine needs
+Plan facility layouts or designs
+Conduct research to inform art, designs or other work
+Incorporate green features into the design of structures or facilities
+Develop artistic or design concepts for decoration, exhibition, performance or commercial purposes
+Inspect facilities or sites to determine if they meet specifications or standards
+Review details of technical drawings or specifications
+Present work to clients for approval
+Estimate costs for projects or productions
+Select materials or props
+Maintain inventories of materials, equipment or products

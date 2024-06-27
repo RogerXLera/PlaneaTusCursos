@@ -1,0 +1,53 @@
+Read instances: 0.74 s
+Generate matrices: 2.81 s
+The optimal value is 0.6302631578947367
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Classification of COVID19 using Chest X-ray Images (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: AWS: CI/CD Pipelines and Deployment Strategies (10.0) 	 Start Period: 1 	 End Period: 1
+Activity: Golf Course Management: Best Practices (7.0) 	 Start Period: 1 	 End Period: 1
+Activity: Assets in Accounting (12.0) 	 Start Period: 2 	 End Period: 2
+Activity: Introduction to Business Analysis Using Spreadshee (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Mastering Digital Twins (1.0) 	 Start Period: 2 	 End Period: 2
+Activity: Hiring and Onboarding Employees with ClickUp (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.34
+Job affinity: 36.842
+Skills per Unit
+	 Initial Activity:
+	 Assets in Accounting:
+		 Inventory materials or equipment
+	 Hiring and Onboarding Employees with ClickUp:
+		 Instruct staff in work policies or procedures
+		 Plan employee work schedules
+	 AWS: CI/CD Pipelines and Deployment Strategies:
+		 Remove debris from work sites
+	 Classification of COVID19 using Chest X-ray Images in Keras:
+		 Assess cleaning requirements
+	 Introduction to Business Analysis Using Spreadsheets: Basics:
+		 Assess cleaning requirements
+	 Mastering Digital Twins:
+		 Maintain equipment or systems to ensure proper functioning
+	 Golf Course Management: Best Practices:
+		 Clean facilities or sites
+Skills for Job Domestic Cleaners
+Clean furniture or fixtures
+Inventory materials or equipment
+Clean walls or flooring
+Clean equipment or supplies
+Clean facilities or sites
+Clean toilet and bathroom areas
+Dispose of rubbish or waste materials
+Sort, wash, dry or iron fabric, linen and clothes
+Strip and make beds and change bed linen
+Operate cleaning or polishing equipment for floors and other surfaces
+Assess cleaning requirements
+Monitor building premises to ensure occupant or visitor safety
+Move furniture
+Remove debris from work sites
+Decorate indoor or outdoor spaces
+Maintain equipment or systems to ensure proper functioning
+Plan employee work schedules
+Instruct staff in work policies or procedures
+Select equipment, materials or supplies for cleaning or maintenance activities

@@ -1,0 +1,33 @@
+Read instances: 0.72 s
+Generate matrices: 4.47 s
+The optimal value is 0.635
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Christian Virtues for Spiritual Growth (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Create Your First Python Program From UST (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Understanding and Managing the Stresses of Police  (2.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 0.13
+Job affinity: 36.364
+Skills per Unit
+	 Initial Activity:
+	 Create Your First Python Program From UST:
+		 Develop educational programs
+	 Understanding and Managing the Stresses of Police Work:
+		 Intervene in crisis situations to assist clients
+	 Christian Virtues for Spiritual Growth:
+		 Develop promotional strategies for religious organisations
+		 Interpret cultural or religious information
+Skills for Job Ministers of Religion
+Lead classes or community events
+Counsel clients or patients regarding personal issues
+Interpret cultural or religious information
+Manage organisational or program finances
+Develop educational programs
+Develop promotional strategies for religious organisations
+Train staff members in social services skills
+Visit individuals in their homes to provide support or information
+Intervene in crisis situations to assist clients
+Refer clients to community or social service programs
+Plan conferences, programs or special events

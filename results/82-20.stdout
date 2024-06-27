@@ -1,0 +1,87 @@
+Read instances: 0.69 s
+Generate matrices: 19.25 s
+The optimal value is 0.22499999999999998
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Business Implications of AI: Full course (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get Started with Figma (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Planning a Generative AI Project (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Stock Valuation with Comparable Companies Analysis (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Linux on LinuxONE (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Launch an auto-scaling AWS EC2 virtual machine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting started with Microsoft Office 365 (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Connecting to Devices and Networks (10.0) 	 Start Period: 1 	 End Period: 2
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 2 	 End Period: 2
+Activity: Aruba Mobility Basics (3.0) 	 Start Period: 2 	 End Period: 2
+Activity: When Disaster Meets Conflict (8.0) 	 Start Period: 2 	 End Period: 2
+Activity: Lesson | Business English Skills: How to Navigate  (1.0) 	 Start Period: 2 	 End Period: 2
+Solve time: 1.56
+Job affinity: 77.778
+Skills per Unit
+	 Initial Activity:
+	 Stock Valuation with Comparable Companies Analysis:
+		 Conduct research to gain information about products or processes
+	 Business Implications of AI: Full course:
+		 Coordinate project activities with other staff or departments
+	 Getting started with Microsoft Office 365:
+		 Document network-related activities or tasks
+		 Document operational activities
+	 Get Started with Figma:
+		 Collaborate with others to determine design specifications or details
+	 Planning a Generative AI Project:
+		 Analyse project data to determine specifications or requirements
+		 Evaluate project designs to determine adequacy or feasibility
+	 Linux on LinuxONE:
+		 Implement security measures for computer or information systems
+		 Install computer software
+	 Google Cloud VMware Engine:
+		 Analyse security of systems, network or data
+		 Identify information technology project resource requirements
+	 Aruba Mobility Basics:
+		 Develop models of information or communications systems
+		 Provide technical support for computer network issues
+	 Launch an auto-scaling AWS EC2 virtual machine:
+		 Analyse security of systems, network or data
+		 Test computer hardware performance
+	 Connecting to Devices and Networks:
+		 Analyse security of systems, network or data
+		 Coordinate software or hardware installation
+		 Create electronic data backup to prevent loss of information
+		 Implement security measures for computer or information systems
+		 Install computer hardware
+		 Maintain computer hardware
+		 Monitor the performance of computer networks
+	 When Disaster Meets Conflict:
+		 Maintain contingency plans for disaster recovery
+	 Lesson | Business English Skills: How to Navigate Tone, Formality, and Directness in Emails:
+		 Document operational procedures
+Skills for Job Telecommunications Technical Specialists
+Implement security measures for computer or information systems
+Conduct research to gain information about products or processes
+Maintain computer hardware
+Collaborate with others to determine design specifications or details
+Document operational activities
+Maintain the inventory of equipment
+Coordinate project activities with other staff or departments
+Update knowledge about emerging industry or technology trends
+Analyse project data to determine specifications or requirements
+Monitor the performance of computer networks
+Analyse security of systems, network or data
+Install computer hardware
+Estimate time or monetary resources needed to complete projects
+Teach others to use computer equipment or hardware
+Document network-related activities or tasks
+Develop models of information or communications systems
+Document operational procedures
+Provide technical support for computer network issues
+Troubleshoot issues with computer applications or systems
+Coordinate software or hardware installation
+Install computer software
+Create electronic data backup to prevent loss of information
+Identify information technology project resource requirements
+Evaluate project designs to determine adequacy or feasibility
+Test computer hardware performance
+Document technical specifications or requirements
+Maintain contingency plans for disaster recovery

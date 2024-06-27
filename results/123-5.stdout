@@ -1,0 +1,29 @@
+Read instances: 0.72 s
+Generate matrices: 3.19 s
+The optimal value is 0.37625
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Mind Control: Managing Your Mental Health During C (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: COVID-19 Training for Healthcare Workers (8.0) 	 Start Period: 1 	 End Period: 2
+Solve time: 0.06
+Job affinity: 62.500
+Skills per Unit
+	 Initial Activity:
+	 COVID-19 Training for Healthcare Workers:
+		 Administer therapy treatments to patients
+		 Assess physical conditions of patients to aid in diagnosis or treatment
+		 Confer with other professionals to plan patient care
+		 Develop patient therapy programs
+	 Mind Control: Managing Your Mental Health During COVID-19:
+		 Administer relaxation or remedial massage
+Skills for Job Massage Therapists
+Administer therapy treatments to patients
+Administer relaxation or remedial massage
+Maintain medical records
+Interview patients to gather medical information
+Assess physical conditions of patients to aid in diagnosis or treatment
+Teach medical procedures or medical equipment use to patients
+Develop patient therapy programs
+Confer with other professionals to plan patient care

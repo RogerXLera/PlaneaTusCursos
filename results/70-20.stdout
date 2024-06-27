@@ -1,0 +1,72 @@
+Read instances: 0.76 s
+Generate matrices: 34.75 s
+The optimal value is 0.1015
+###############################################
+################## SCHEDULE ####################
+###############################################
+Activity: Initial Activity (1) 	 Start Period: 0 	 End Period: 0
+Activity: Introduction to Data Analysis using Microsoft Exce (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Get Started with Figma (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Command Line Interface (CLI) With Golang From Info (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Develop a free website with WordPress (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Security and Privacy for Big Data - Part 1 (1.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Ubuntu Linux (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Google Cloud VMware Engine (2.0) 	 Start Period: 1 	 End Period: 1
+Activity: Business Implications of AI: Full course (5.0) 	 Start Period: 1 	 End Period: 1
+Activity: Getting Started with Microsoft Word (2.0) 	 Start Period: 1 	 End Period: 1
+Solve time: 2.96
+Job affinity: 90.000
+Skills per Unit
+	 Initial Activity:
+	 Introduction to Data Analysis using Microsoft Excel:
+		 Prepare analytical reports
+	 Business Implications of AI: Full course:
+		 Coordinate project activities with other staff or departments
+		 Manage information technology projects or system activities
+	 Getting Started with Microsoft Word:
+		 Collaborate with others to resolve information technology issues
+		 Document design or development procedures
+	 Get Started with Figma:
+		 Collaborate with others to determine design specifications or details
+		 Develop software applications
+	 Command Line Interface (CLI) With Golang From Infosys:
+		 Develop software applications
+		 Develop testing routines or procedures
+		 Resolve computer software problems
+		 Test computer system operations to ensure proper functioning
+	 Develop a free website with WordPress:
+		 Develop software applications
+		 Monitor computer system performance to ensure proper operation
+	 Security and Privacy for Big Data - Part 1:
+		 Analyse security of systems, network or data
+		 Implement security measures for computer or information systems
+	 Getting Started with Ubuntu Linux:
+		 Evaluate utility of software or hardware technologies
+		 Implement security measures for computer or information systems
+		 Install computer software
+		 Provide recommendations to others about computer hardware or software
+		 Recommend changes to improve computer or information systems
+	 Google Cloud VMware Engine:
+		 Analyse security of systems, network or data
+		 Identify information technology project resource requirements
+Skills for Job Software and Applications Programmers
+Develop software applications
+Develop testing routines or procedures
+Monitor computer system performance to ensure proper operation
+Test computer system operations to ensure proper functioning
+Implement security measures for computer or information systems
+Troubleshoot issues with computer applications or systems
+Analyse security of systems, network or data
+Prepare analytical reports
+Collaborate with others to determine design specifications or details
+Write computer programming code
+Evaluate utility of software or hardware technologies
+Collaborate with others to resolve information technology issues
+Coordinate project activities with other staff or departments
+Resolve computer software problems
+Manage information technology projects or system activities
+Document design or development procedures
+Recommend changes to improve computer or information systems
+Provide recommendations to others about computer hardware or software
+Identify information technology project resource requirements
+Install computer software
