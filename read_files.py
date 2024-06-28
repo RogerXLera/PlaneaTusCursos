@@ -317,23 +317,30 @@ def read_skills(file_path,dicts,A):
                 skills_job.append(row[0:-1])
 
     
-    name = []
+    name_c = []
+    name_nc = []
     completed = []
-    act = []
+    not_completed = []
+    act_c = []
+    act_nc = []
     for skill in skills_job:
 
-        name += [s_trans[skill]]
         if skill in skills_courses.keys():
+            name_c += [s_trans[skill]]
             completed += ['Sí ✅']
             course = skills_courses[skill]
             course_id = a_dict[course]
-            act += [a_trans[str(course_id)]]
+            act_c += [a_trans[str(course_id)]]
         else:
-            completed += ['No ❌']
-            act += ['']
+            name_nc += [s_trans[skill]]
+            not_completed += ['No ❌']
+            act_nc += ['']
 
+    name = name_c + name_nc
+    trab = completed + not_completed
+    act = act_c + act_nc
 
-    return pd.DataFrame(data={'Skill':name,'¿Trabajada?':completed,"Curso":act}) 
+    return pd.DataFrame(data={'Skill':name,'¿Trabajada?':trab,"Curso":act}) 
 
 def read_all_skills():
     

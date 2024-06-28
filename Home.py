@@ -154,14 +154,15 @@ if 'dedication' in st.session_state.keys() and 'field' in st.session_state.keys(
     
     """
 
+    pie_chart(fa)
+
+    """
+    
+    """
+
     styler_s = df_s.style.hide_index()
     
     st.write(styler_s.to_html(escape=False, index=False), unsafe_allow_html=True)
 
-    """
-    
-    """
-
-    pie_chart(fa)
 
     #bar_chart(J,skills,n_jobs=5)
