@@ -186,6 +186,8 @@ def read_path(file_path,A,a_trans):
     with open(file_path,'r') as f:
 
         f_lines = f.readlines()
+        order = []
+        count = 1
         name = []
         st = []
         fi = []
@@ -202,17 +204,23 @@ def read_path(file_path,A,a_trans):
                 a = select_activity(nam,A)
                 #name += [a.name]
                 link = create_link(a_trans[str(a.id)],a.url)
+                order += [count]
                 name += [link]
                 st += [s]
                 fi += [fi_]
                 h += [h_]
                 url += [a.url]
+                count += 1
             elif row[:len(detect_fa)] == detect_fa:
                 fa = float(row.split(detect_fa)[1].split(' ')[1])
                 
-    
+    order += ['']
+    name += [f"Dedicación Total (h)"]
+    st += ["-"]
+    fi += ["-"]
+    h += [sum(h)]
     #return pd.DataFrame({'Course':name[1:],'Start Week':st[1:],"End Week":fi[1:],"Study Time (h)":h[1:],"URL":url[1:]}),fa
-    return pd.DataFrame({'Curso':name,'Semana de Inicio':st,"Semana de Fín":fi,"Tiempo de Estudio (h)":h}),fa
+    return pd.DataFrame({' ':order,'Curso':name,'Semana de Inicio':st,"Semana de Fín":fi,"Tiempo de Estudio (h)":h}),fa
     
     #return {'Course':name[1:],'Start Week':st[1:],"End Week":fi[1:],"Study Time (h)":h[1:]},fa
 
