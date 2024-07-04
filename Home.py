@@ -115,15 +115,16 @@ st.selectbox(
     "Escoge tu trabajo deseado.",
     J.keys(),
     format_func=lambda x : j_trans[x],
-    #index=None,
+    index=47,
     #placeholder = "Unknown Field",
     key = "field"
 )
 
+
 st.selectbox(
     "Escoge el tiempo de estudio deseado.",
     ded_dict.keys(),
-    index=2,
+    index=1,
     #placeholder = "Unknown Dedication",
     key = 'dedication',
 )
